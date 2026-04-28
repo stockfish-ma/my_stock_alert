@@ -123,5 +123,12 @@
     "name": "NVDA",
     "ma_unit": "day",
     "ma_period": 60
+  },
+  {
+    "market": "us",
+    "code": "NVDA",
+    "name": "NVDA",
+    "ma_unit": "day",
+    "ma_period": 120
   }
 ]
