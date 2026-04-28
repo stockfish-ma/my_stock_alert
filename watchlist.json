@@ -166,5 +166,12 @@
     "name": "KRW-BTC",
     "ma_unit": "day",
     "ma_period": 120
+  },
+  {
+    "market": "us",
+    "code": "GOOGL",
+    "name": "GOOGL",
+    "ma_unit": "day",
+    "ma_period": 20
   }
 ]
