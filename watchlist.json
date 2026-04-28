@@ -247,5 +247,12 @@
     "name": "KRW-BTC",
     "ma_unit": "day",
     "ma_period": 5
+  },
+  {
+    "market": "us",
+    "code": "QQQ",
+    "name": "QQQ",
+    "ma_unit": "day",
+    "ma_period": 20
   }
 ]
