@@ -109,5 +109,12 @@
     "name": "005930",
     "ma_unit": "day",
     "ma_period": 120
+  },
+  {
+    "market": "us",
+    "code": "NVDA",
+    "name": "NVDA",
+    "ma_unit": "day",
+    "ma_period": 20
   }
 ]
