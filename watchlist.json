@@ -240,5 +240,12 @@
     "name": "TSM",
     "ma_unit": "day",
     "ma_period": 120
+  },
+  {
+    "market": "crypto",
+    "code": "KRW-BTC",
+    "name": "KRW-BTC",
+    "ma_unit": "day",
+    "ma_period": 5
   }
 ]
