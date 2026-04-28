@@ -102,5 +102,12 @@
     "name": "005930",
     "ma_unit": "day",
     "ma_period": 60
+  },
+  {
+    "market": "kr",
+    "code": "005930",
+    "name": "005930",
+    "ma_unit": "day",
+    "ma_period": 120
   }
 ]
