@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>워치리스트 관리</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0d1117;
+    color: #c9d1d9;
+    padding: 16px;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 20px;
+    margin-bottom: 4px;
+    color: #58a6ff;
+  }
+  .subtitle {
+    font-size: 12px;
+    color: #8b949e;
+    margin-bottom: 16px;
+  }
+  .card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+  }
+  .card h2 {
+    font-size: 14px;
+    margin-bottom: 12px;
+    color: #c9d1d9;
+  }
+  label {
+    display: block;
+    font-size: 12px;
+    color: #8b949e;
+    margin-top: 10px;
+    margin-bottom: 4px;
+  }
+  input, select {
+    width: 100%;
+    padding: 8px 10px;
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    color: #c9d1d9;
+    font-size: 14px;
+    font-family: inherit;
+  }
+  input:focus, select:focus {
+    outline: none;
+    border-color: #58a6ff;
+  }
+  button {
+    background: #238636;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 12px;
+    margin-right: 6px;
+  }
+  button:hover { background: #2ea043; }
+  button:disabled { background: #444; cursor: not-allowed; }
+  button.danger { background: #da3633; }
+  button.danger:hover { background: #f85149; }
+  button.secondary { background: #30363d; }
+  button.secondary:hover { background: #484f58; }
+  .row { display: flex; gap: 8px; }
+  .row > * { flex: 1; }
+  .badge {
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 11px;
+    background: #30363d;
+    color: #c9d1d9;
+    margin-right: 4px;
+  }
+  .badge.kr { background: #1f3a5c; color: #79c0ff; }
+  .badge.us { background: #3c1f5c; color: #d2a8ff; }
+  .badge.crypto { background: #5c4a1f; color: #ffd47e; }
+  .item {
+    display: flex;
+    align-items: center;
+    padding: 8px 10px;
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    margin-bottom: 6px;
+    font-size: 13px;
+  }
+  .item .info { flex: 1; }
+  .item .name { font-weight: 600; color: #c9d1d9; }
+  .item .signal { color: #8b949e; font-size: 12px; margin-top: 2px; }
+  .item button {
+    margin: 0;
+    padding: 4px 10px;
+    font-size: 12px;
+  }
+  .status {
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin-top: 8px;
+    font-size: 13px;
+  }
+  .status.ok { background: #0f3a26; color: #56d364; }
+  .status.err { background: #4a1f1f; color: #ff7b72; }
+  .status.info { background: #1f3a5c; color: #79c0ff; }
+  .help {
+    font-size: 11px;
+    color: #8b949e;
+    margin-top: 4px;
+  }
+  .help code {
+    background: #0d1117;
+    padding: 1px 4px;
+    border-radius: 3px;
+    color: #79c0ff;
+  }
+  .empty {
+    text-align: center;
+    padding: 24px 0;
+    color: #8b949e;
+    font-size: 13px;
+  }
+  details summary {
+    cursor: pointer;
+    color: #8b949e;
+    font-size: 12px;
+    padding: 6px 0;
+  }
+  details[open] summary {
+    color: #58a6ff;
+    margin-bottom: 8px;
+  }
+  .config-form input {
+    margin-bottom: 8px;
+  }
+</style>
+</head>
+<body>
+
+<h1>📋 워치리스트 관리</h1>
+<p class="subtitle">GitHub Actions 일봉 검사용 watchlist.json 편집</p>
+
+<!-- GitHub 설정 -->
+<div class="card">
+  <details id="config-section">
+    <summary>⚙️ GitHub 설정 (처음 한 번만)</summary>
+    <div class="config-form">
+      <label>GitHub 사용자명</label>
+      <input id="github-owner" placeholder="예: stockfish-ma">
+
+      <label>저장소 이름</label>
+      <input id="github-repo" placeholder="예: my_stock_alert">
+
+      <label>Personal Access Token (PAT)</label>
+      <input id="github-pat" type="password" placeholder="ghp_...">
+      <div class="help">
+        <a href="https://github.com/settings/tokens?type=beta" target="_blank" style="color:#58a6ff">새 토큰 발급 →</a>
+        Repository access: 이 저장소만 / Permissions: Contents Read+Write
+      </div>
+
+      <button onclick="saveConfig()">저장</button>
+      <button class="secondary" onclick="testConnection()">연결 테스트</button>
+    </div>
+  </details>
+  <div id="config-status"></div>
+</div>
+
+<!-- 종목 추가 -->
+<div class="card">
+  <h2>➕ 종목 추가</h2>
+
+  <label>마켓</label>
+  <select id="market">
+    <option value="kr">🇰🇷 한국주식</option>
+    <option value="us">🇺🇸 미국주식</option>
+    <option value="crypto">₿ 암호화폐</option>
+  </select>
+
+  <div class="row">
+    <div>
+      <label>종목 코드</label>
+      <input id="code" placeholder="예: 005930 / AAPL / KRW-BTC">
+    </div>
+    <div>
+      <label>종목명 (선택)</label>
+      <input id="name" placeholder="비워두면 코드 그대로">
+    </div>
+  </div>
+
+  <label>봉단위</label>
+  <select id="unit">
+    <option value="day">일봉</option>
+    <option value="week">주봉</option>
+    <option value="month">월봉</option>
+  </select>
+
+  <label>신호 종류</label>
+  <select id="strategy" onchange="updateStrategyForm()">
+    <option value="ma">단순 이평선</option>
+    <option value="cross">골든/데드크로스</option>
+    <option value="macd">MACD</option>
+    <option value="bb">볼린저밴드</option>
+    <option value="price_above">가격 상향 도달</option>
+    <option value="price_below">가격 하향 도달</option>
+    <option value="default">기본 신호 묶음 (5×20 + MACD)</option>
+  </select>
+
+  <!-- 단순 이평선 -->
+  <div id="form-ma">
+    <label>이평선 기간</label>
+    <input id="ma-period" type="number" value="20" placeholder="예: 20">
+  </div>
+
+  <!-- 크로스 -->
+  <div id="form-cross" style="display:none">
+    <div class="row">
+      <div>
+        <label>단기 이평선</label>
+        <input id="cross-short" type="number" value="5">
+      </div>
+      <div>
+        <label>장기 이평선</label>
+        <input id="cross-long" type="number" value="20">
+      </div>
+    </div>
+  </div>
+
+  <!-- MACD -->
+  <div id="form-macd" style="display:none">
+    <div class="help">표준 (12, 26, 9) 사용. 변경하지 않아도 됨.</div>
+    <div class="row">
+      <div>
+        <label>Fast</label>
+        <input id="macd-fast" type="number" value="12">
+      </div>
+      <div>
+        <label>Slow</label>
+        <input id="macd-slow" type="number" value="26">
+      </div>
+      <div>
+        <label>Signal</label>
+        <input id="macd-signal" type="number" value="9">
+      </div>
+    </div>
+  </div>
+
+  <!-- BB -->
+  <div id="form-bb" style="display:none">
+    <div class="help">표준 (20, 2.0) 사용.</div>
+    <div class="row">
+      <div>
+        <label>기간</label>
+        <input id="bb-period" type="number" value="20">
+      </div>
+      <div>
+        <label>표준편차</label>
+        <input id="bb-std" type="number" step="0.1" value="2.0">
+      </div>
+    </div>
+  </div>
+
+  <!-- 가격 도달 -->
+  <div id="form-price" style="display:none">
+    <label>목표 가격</label>
+    <input id="price-target" type="number" placeholder="예: 85000">
+  </div>
+
+  <!-- 디폴트 묶음 -->
+  <div id="form-default" style="display:none">
+    <div class="help">일봉 5×20 크로스 + 일봉 MACD(12,26,9) 두 개 자동 추가.<br>봉단위 설정 무시됨 (항상 일봉).</div>
+  </div>
+
+  <button onclick="addEntry()">+ 추가</button>
+  <div id="add-status"></div>
+</div>
+
+<!-- 워치리스트 -->
+<div class="card">
+  <h2>📋 현재 워치리스트 <span id="list-count" style="color:#8b949e;font-weight:normal;font-size:12px"></span></h2>
+  <button class="secondary" onclick="loadWatchlist()">🔄 새로고침</button>
+  <div id="list-container"></div>
+  <div id="list-status"></div>
+</div>
+
+<script>
+// ==================== 설정 관리 ====================
+
+function loadConfig() {
+  document.getElementById("github-owner").value = localStorage.getItem("gh_owner") || "";
+  document.getElementById("github-repo").value = localStorage.getItem("gh_repo") || "";
+  document.getElementById("github-pat").value = localStorage.getItem("gh_pat") || "";
+}
+
+function saveConfig() {
+  const owner = document.getElementById("github-owner").value.trim();
+  const repo = document.getElementById("github-repo").value.trim();
+  const pat = document.getElementById("github-pat").value.trim();
+  if (!owner || !repo || !pat) {
+    showStatus("config-status", "모든 필드 입력 필요", "err");
+    return;
+  }
+  localStorage.setItem("gh_owner", owner);
+  localStorage.setItem("gh_repo", repo);
+  localStorage.setItem("gh_pat", pat);
+  showStatus("config-status", "✅ 설정 저장됨", "ok");
+}
+
+async function testConnection() {
+  const cfg = getConfig();
+  if (!cfg) return;
+  showStatus("config-status", "연결 테스트 중...", "info");
+  try {
+    const r = await fetch(`https://api.github.com/repos/${cfg.owner}/${cfg.repo}`, {
+      headers: { Authorization: `token ${cfg.pat}` }
+    });
+    if (r.ok) {
+      const data = await r.json();
+      showStatus("config-status", `✅ 연결 OK · ${data.full_name}`, "ok");
+      // 자동으로 워치리스트 로드
+      loadWatchlist();
+    } else if (r.status === 401) {
+      showStatus("config-status", "❌ PAT 토큰이 잘못됐습니다", "err");
+    } else if (r.status === 404) {
+      showStatus("config-status", "❌ 저장소를 찾을 수 없음 (사용자명/저장소명 확인)", "err");
+    } else {
+      showStatus("config-status", `❌ HTTP ${r.status}`, "err");
+    }
+  } catch (e) {
+    showStatus("config-status", `❌ ${e.message}`, "err");
+  }
+}
+
+function getConfig() {
+  const owner = localStorage.getItem("gh_owner");
+  const repo = localStorage.getItem("gh_repo");
+  const pat = localStorage.getItem("gh_pat");
+  if (!owner || !repo || !pat) {
+    showStatus("config-status", "⚠️ GitHub 설정 먼저 저장하세요", "err");
+    document.getElementById("config-section").open = true;
+    return null;
+  }
+  return { owner, repo, pat };
+}
+
+// ==================== UI 헬퍼 ====================
+
+function showStatus(elementId, msg, type) {
+  const el = document.getElementById(elementId);
+  el.innerHTML = `<div class="status ${type}">${msg}</div>`;
+  if (type === "ok") {
+    setTimeout(() => { el.innerHTML = ""; }, 3000);
+  }
+}
+
+function updateStrategyForm() {
+  const s = document.getElementById("strategy").value;
+  ["ma", "cross", "macd", "bb", "price", "default"].forEach(k => {
+    const el = document.getElementById("form-" + k);
+    if (el) el.style.display = "none";
+  });
+  if (s === "ma") document.getElementById("form-ma").style.display = "block";
+  else if (s === "cross") document.getElementById("form-cross").style.display = "block";
+  else if (s === "macd") document.getElementById("form-macd").style.display = "block";
+  else if (s === "bb") document.getElementById("form-bb").style.display = "block";
+  else if (s === "price_above" || s === "price_below") document.getElementById("form-price").style.display = "block";
+  else if (s === "default") document.getElementById("form-default").style.display = "block";
+}
+
+// ==================== 코드/마켓 정규화 ====================
+
+function normalizeCode(code, market) {
+  code = code.trim();
+  if (market === "crypto") return code.toUpperCase();
+  if (market === "us") return code.toUpperCase();
+  return code;
+}
+
+const MARKET_BADGES = { kr: "🇰🇷", us: "🇺🇸", crypto: "₿" };
+const UNIT_LABELS = { day: "일봉", week: "주봉", month: "월봉", price: "가격" };
+
+function formatEntry(e) {
+  const market = e.market || "kr";
+  const unit = e.ma_unit || "day";
+  const unitLabel = UNIT_LABELS[unit] || unit;
+
+  if (e.strategy === "macd") {
+    return `${unitLabel} MACD(${e.macd_fast || 12},${e.macd_slow || 26},${e.macd_signal || 9})`;
+  }
+  if (e.strategy === "bb") {
+    return `${unitLabel} BB(${e.bb_period || 20}, ${e.bb_std || 2.0})`;
+  }
+  if (unit === "price") {
+    const arrow = e.price_direction === "above" ? "↑" : "↓";
+    return `가격 ${arrow} ${e.price_target.toLocaleString()}`;
+  }
+  // 이평선/크로스
+  if (e.ma_long_period) {
+    return `${unitLabel} ${e.ma_period}×${e.ma_long_period} 크로스`;
+  }
+  return `${unitLabel} 이평선 ${e.ma_period}`;
+}
+
+// ==================== watchlist.json 읽기/쓰기 ====================
+
+let _fileSha = null;  // GitHub API 업데이트에 필요
+
+async function fetchWatchlistFile() {
+  const cfg = getConfig();
+  if (!cfg) return null;
+  const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/watchlist.json`;
+  const r = await fetch(url, {
+    headers: { Authorization: `token ${cfg.pat}` }
+  });
+  if (r.status === 404) {
+    // 파일이 없으면 새로 만들 거니까 빈 배열
+    _fileSha = null;
+    return [];
+  }
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  const data = await r.json();
+  _fileSha = data.sha;
+  // base64 디코드 (UTF-8 처리)
+  const content = decodeURIComponent(escape(atob(data.content)));
+  try {
+    return JSON.parse(content);
+  } catch (e) {
+    throw new Error("watchlist.json 형식 오류 (JSON 아님)");
+  }
+}
+
+async function saveWatchlistFile(watchlist, message) {
+  const cfg = getConfig();
+  if (!cfg) return false;
+  const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/watchlist.json`;
+  const content = JSON.stringify(watchlist, null, 2);
+  // base64 인코딩 (UTF-8 처리)
+  const encoded = btoa(unescape(encodeURIComponent(content)));
+  const body = {
+    message: message || "Update watchlist",
+    content: encoded,
+  };
+  if (_fileSha) body.sha = _fileSha;
+
+  const r = await fetch(url, {
+    method: "PUT",
+    headers: {
+      Authorization: `token ${cfg.pat}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(body),
+  });
+  if (!r.ok) {
+    const err = await r.json().catch(() => ({}));
+    throw new Error(err.message || `HTTP ${r.status}`);
+  }
+  const data = await r.json();
+  _fileSha = data.content.sha;
+  return true;
+}
+
+// ==================== 워치리스트 표시 ====================
+
+let _currentWatchlist = [];
+
+async function loadWatchlist() {
+  showStatus("list-status", "불러오는 중...", "info");
+  try {
+    _currentWatchlist = await fetchWatchlistFile();
+    renderWatchlist();
+    showStatus("list-status", `✅ ${_currentWatchlist.length}개 항목 로드됨`, "ok");
+  } catch (e) {
+    showStatus("list-status", `❌ ${e.message}`, "err");
+  }
+}
+
+function renderWatchlist() {
+  const container = document.getElementById("list-container");
+  document.getElementById("list-count").textContent =
+    _currentWatchlist.length > 0 ? `(${_currentWatchlist.length}개)` : "";
+
+  if (!_currentWatchlist.length) {
+    container.innerHTML = '<div class="empty">워치리스트가 비어있습니다.<br>위에서 종목 추가하세요.</div>';
+    return;
+  }
+
+  // 종목별로 그룹화
+  const groups = {};
+  _currentWatchlist.forEach((e, idx) => {
+    const key = `${e.market}:${e.code}`;
+    if (!groups[key]) groups[key] = { market: e.market, code: e.code, name: e.name, items: [] };
+    groups[key].items.push({ entry: e, idx });
+  });
+
+  let html = "";
+  Object.values(groups).forEach(g => {
+    const badge = MARKET_BADGES[g.market] || "";
+    html += `
+      <div style="margin-top:12px">
+        <div style="font-size:13px;font-weight:600;color:#c9d1d9;margin-bottom:6px">
+          <span class="badge ${g.market}">${badge}</span>
+          ${escapeHtml(g.name)} <span style="color:#8b949e;font-weight:normal">(${escapeHtml(g.code)})</span>
+        </div>
+    `;
+    g.items.forEach(({ entry, idx }) => {
+      html += `
+        <div class="item">
+          <div class="info">
+            <div class="signal">${escapeHtml(formatEntry(entry))}</div>
+          </div>
+          <button class="danger" onclick="deleteEntry(${idx})">삭제</button>
+        </div>
+      `;
+    });
+    html += `</div>`;
+  });
+
+  container.innerHTML = html;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]
+  );
+}
+
+// ==================== 종목 추가 ====================
+
+async function addEntry() {
+  const cfg = getConfig();
+  if (!cfg) return;
+
+  const market = document.getElementById("market").value;
+  let code = document.getElementById("code").value.trim();
+  if (!code) {
+    showStatus("add-status", "❌ 종목 코드 입력 필요", "err");
+    return;
+  }
+  code = normalizeCode(code, market);
+  const name = document.getElementById("name").value.trim() || code;
+  const unit = document.getElementById("unit").value;
+  const strategy = document.getElementById("strategy").value;
+
+  // 기존 워치리스트 가져오기 (충돌 방지)
+  showStatus("add-status", "GitHub에서 최신 watchlist 로드 중...", "info");
+  try {
+    _currentWatchlist = await fetchWatchlistFile();
+  } catch (e) {
+    showStatus("add-status", `❌ 로드 실패: ${e.message}`, "err");
+    return;
+  }
+
+  // 새 항목 빌드
+  const newEntries = [];
+  const baseEntry = { market, code, name };
+
+  if (strategy === "ma") {
+    const period = parseInt(document.getElementById("ma-period").value);
+    if (!period || period < 2) { showStatus("add-status", "❌ 이평선 기간은 2 이상", "err"); return; }
+    newEntries.push({ ...baseEntry, ma_unit: unit, ma_period: period });
+  } else if (strategy === "cross") {
+    const s = parseInt(document.getElementById("cross-short").value);
+    const l = parseInt(document.getElementById("cross-long").value);
+    if (!s || !l || s >= l) { showStatus("add-status", "❌ 단기 < 장기, 둘 다 2 이상", "err"); return; }
+    newEntries.push({ ...baseEntry, ma_unit: unit, ma_period: s, ma_long_period: l });
+  } else if (strategy === "macd") {
+    const f = parseInt(document.getElementById("macd-fast").value);
+    const sl = parseInt(document.getElementById("macd-slow").value);
+    const sg = parseInt(document.getElementById("macd-signal").value);
+    newEntries.push({ ...baseEntry, ma_unit: unit, strategy: "macd",
+                      macd_fast: f, macd_slow: sl, macd_signal: sg });
+  } else if (strategy === "bb") {
+    const p = parseInt(document.getElementById("bb-period").value);
+    const std = parseFloat(document.getElementById("bb-std").value);
+    newEntries.push({ ...baseEntry, ma_unit: unit, strategy: "bb",
+                      bb_period: p, bb_std: std });
+  } else if (strategy === "price_above" || strategy === "price_below") {
+    const target = parseFloat(document.getElementById("price-target").value);
+    if (!target) { showStatus("add-status", "❌ 목표 가격 필요", "err"); return; }
+    newEntries.push({ ...baseEntry, ma_unit: "price", price_target: target,
+                      price_direction: strategy === "price_above" ? "above" : "below" });
+  } else if (strategy === "default") {
+    newEntries.push({ ...baseEntry, ma_unit: "day", ma_period: 5, ma_long_period: 20 });
+    newEntries.push({ ...baseEntry, ma_unit: "day", strategy: "macd",
+                      macd_fast: 12, macd_slow: 26, macd_signal: 9 });
+  }
+
+  // 중복 검사 + 추가
+  const labels = [];
+  for (const e of newEntries) {
+    const dup = _currentWatchlist.find(x => isSameEntry(x, e));
+    if (dup) {
+      labels.push(`(중복) ${formatEntry(e)}`);
+      continue;
+    }
+    _currentWatchlist.push(e);
+    labels.push(formatEntry(e));
+  }
+
+  // 저장
+  showStatus("add-status", "GitHub에 저장 중...", "info");
+  try {
+    await saveWatchlistFile(_currentWatchlist, `Add: ${name} (${code})`);
+    showStatus("add-status", `✅ 추가 완료\n${labels.join(", ")}`, "ok");
+    document.getElementById("code").value = "";
+    document.getElementById("name").value = "";
+    renderWatchlist();
+  } catch (e) {
+    showStatus("add-status", `❌ 저장 실패: ${e.message}`, "err");
+  }
+}
+
+function isSameEntry(a, b) {
+  if (a.market !== b.market || a.code !== b.code || a.ma_unit !== b.ma_unit) return false;
+  if (a.strategy !== b.strategy) return false;
+  if (a.strategy === "macd")
+    return a.macd_fast === b.macd_fast && a.macd_slow === b.macd_slow && a.macd_signal === b.macd_signal;
+  if (a.strategy === "bb")
+    return a.bb_period === b.bb_period && a.bb_std === b.bb_std;
+  if (a.ma_unit === "price")
+    return a.price_target === b.price_target && a.price_direction === b.price_direction;
+  return a.ma_period === b.ma_period && a.ma_long_period === b.ma_long_period;
+}
+
+// ==================== 종목 삭제 ====================
+
+async function deleteEntry(idx) {
+  if (!confirm(`정말 삭제하시겠습니까?\n${formatEntry(_currentWatchlist[idx])}`)) return;
+  const removed = _currentWatchlist[idx];
+  _currentWatchlist.splice(idx, 1);
+  try {
+    await saveWatchlistFile(_currentWatchlist, `Remove: ${removed.name} ${formatEntry(removed)}`);
+    renderWatchlist();
+    showStatus("list-status", `✅ 삭제됨`, "ok");
+  } catch (e) {
+    // 실패하면 원복
+    _currentWatchlist.splice(idx, 0, removed);
+    showStatus("list-status", `❌ 삭제 실패: ${e.message}`, "err");
+  }
+}
+
+// ==================== 초기화 ====================
+
+window.addEventListener("DOMContentLoaded", () => {
+  loadConfig();
+  updateStrategyForm();
+  // 설정이 다 있으면 자동 로드
+  if (localStorage.getItem("gh_pat")) {
+    loadWatchlist();
+  } else {
+    document.getElementById("config-section").open = true;
+  }
+});
+</script>
+
+</body>
+</html>
