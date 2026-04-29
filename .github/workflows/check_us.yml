@@ -3,7 +3,7 @@ name: 미국주식 일봉 검사
 on:
   schedule:
     # 평일 KST 07:05 (UTC 22:05 전날) - 미국 장 마감 후 (서머타임 대비 안전선)
-    - cron: '5 22 * * 1-5'
+    - cron: '23 22 * * 1-5'
   workflow_dispatch:
 
 jobs:
