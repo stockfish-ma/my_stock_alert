@@ -275,5 +275,12 @@
     "name": "QQQ",
     "ma_unit": "day",
     "ma_period": 5
+  },
+  {
+    "market": "us",
+    "code": "NVDA",
+    "name": "NVDA",
+    "ma_unit": "day",
+    "ma_period": 2
   }
 ]
