@@ -3,7 +3,7 @@ name: 한국주식 일봉 검사
 on:
   schedule:
     # 평일 KST 16:05 (UTC 07:05) - 한국 장 마감 후
-    - cron: '5 7 * * 1-5'
+    - cron: '13 7 * * 1-5'
   workflow_dispatch:  # 수동 실행 버튼
 
 jobs:
