@@ -237,6 +237,65 @@ def upbit_fetch(market_code, period_unit="day"):
 
 # ==================== 신호 검출 ====================
 
+def calc_rsi(df, period=14):
+    """RSI 계산. 마지막 값만 반환."""
+    if df.empty or len(df) < period + 1:
+        return None
+    delta = df["close"].diff()
+    gain = delta.clip(lower=0)
+    loss = -delta.clip(upper=0)
+    avg_gain = gain.rolling(period).mean()
+    avg_loss = loss.rolling(period).mean()
+    if avg_loss.iloc[-1] == 0:
+        return 100.0
+    rs = avg_gain.iloc[-1] / avg_loss.iloc[-1]
+    rsi = 100 - (100 / (1 + rs))
+    return float(rsi) if not pd.isna(rsi) else None
+
+
+def calc_volume_ratio(df, period=20):
+    """거래량 배수: 최근 거래량 / 최근 N기간 평균. 마지막 봉 기준."""
+    if df.empty or len(df) < period + 1 or "volume" not in df.columns:
+        return None
+    cur = df["volume"].iloc[-1]
+    avg = df["volume"].iloc[-period - 1:-1].mean()
+    if avg <= 0 or pd.isna(avg):
+        return None
+    return float(cur / avg)
+
+
+def calc_52w_position(df):
+    """52주 위치 (0~100%). 일봉 기준 250일 사용."""
+    if df.empty or len(df) < 50:
+        return None
+    lookback = min(250, len(df))
+    recent = df.iloc[-lookback:]
+    high = recent["high"].max()
+    low = recent["low"].min()
+    cur = df["close"].iloc[-1]
+    band = high - low
+    if band <= 0:
+        return None
+    return float((cur - low) / band * 100)
+
+
+def build_extras_text(df):
+    """RSI/거래량배수/52주 위치 정보 텍스트 생성. 모두 없으면 빈 문자열."""
+    parts = []
+    rsi = calc_rsi(df, 14)
+    if rsi is not None:
+        parts.append(f"  • RSI(14): {rsi:.1f}")
+    volr = calc_volume_ratio(df, 20)
+    if volr is not None:
+        parts.append(f"  • 거래량 배수: {volr:.2f}x")
+    pos = calc_52w_position(df)
+    if pos is not None:
+        parts.append(f"  • 52주 위치: {pos:.1f}%")
+    if not parts:
+        return ""
+    return "\n\n📊 부가 정보:\n" + "\n".join(parts)
+
+
 def calc_macd(df, fast=12, slow=26, signal=9):
     """MACD 계산. (macd, signal, histogram) DataFrame 반환."""
     if df.empty or len(df) < slow + signal:
@@ -402,7 +461,8 @@ def check_entry(entry, df, market, code, name):
         return (f"{sig} {badge}\n\n"
                 f"종목: {name} ({code})\n"
                 f"현재가: {format_price(market, info['close'])}\n"
-                f"목표가: {format_price(market, info['target'])}")
+                f"목표가: {format_price(market, info['target'])}"
+                f"{build_extras_text(df)}")
 
     # MACD
     if strategy == "macd":
@@ -419,7 +479,8 @@ def check_entry(entry, df, market, code, name):
                 f"종가: {format_price(market, info['close'])}\n"
                 f"MACD: {info['macd']:.2f}\n"
                 f"시그널: {info['signal']:.2f}\n"
-                f"히스토그램: {info['hist']:.2f}")
+                f"히스토그램: {info['hist']:.2f}"
+                f"{build_extras_text(df)}")
 
     # BB
     if strategy == "bb":
@@ -434,7 +495,8 @@ def check_entry(entry, df, market, code, name):
                 f"BB({p}, {std})\n"
                 f"종가: {format_price(market, info['close'])}\n"
                 f"상단: {format_price(market, info['upper'])}\n"
-                f"하단: {format_price(market, info['lower'])}")
+                f"하단: {format_price(market, info['lower'])}"
+                f"{build_extras_text(df)}")
 
     # 이평선 / 크로스
     short_p = entry.get("ma_period")
@@ -451,7 +513,8 @@ def check_entry(entry, df, market, code, name):
                 f"봉단위: {unit_label}\n"
                 f"이평선 {short_p}\n"
                 f"종가: {format_price(market, info['close'])}\n"
-                f"이평선: {format_price(market, info['ma'])}")
+                f"이평선: {format_price(market, info['ma'])}"
+                f"{build_extras_text(df)}")
     # 크로스
     sig, info = check_cross(df, short_p, long_p)
     if not sig:
@@ -462,7 +525,8 @@ def check_entry(entry, df, market, code, name):
             f"{short_p}×{long_p} 크로스\n"
             f"종가: {format_price(market, info['close'])}\n"
             f"단기({short_p}): {format_price(market, info['short_ma'])}\n"
-            f"장기({long_p}): {format_price(market, info['long_ma'])}")
+            f"장기({long_p}): {format_price(market, info['long_ma'])}"
+            f"{build_extras_text(df)}")
 
 
 # ==================== 메인 ====================
