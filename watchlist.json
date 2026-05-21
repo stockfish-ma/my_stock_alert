@@ -124,12 +124,5 @@
     "name": "QQQ",
     "ma_unit": "day",
     "ma_period": 120
-  },
-  {
-    "market": "us",
-    "code": "QQQ",
-    "name": "QQQ",
-    "ma_unit": "day",
-    "ma_period": 5
   }
 ]
