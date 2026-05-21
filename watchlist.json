@@ -1,15 +1,5 @@
 [
   {
-    "market": "us",
-    "code": "NVDA",
-    "name": "NVIDIA",
-    "ma_unit": "day",
-    "strategy": "macd",
-    "macd_fast": 12,
-    "macd_slow": 26,
-    "macd_signal": 9
-  },
-  {
     "market": "crypto",
     "code": "KRW-BTC",
     "name": "비트코인",
