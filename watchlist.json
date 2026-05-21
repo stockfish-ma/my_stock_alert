@@ -88,14 +88,6 @@
     "code": "GOOGL",
     "name": "GOOGL",
     "ma_unit": "day",
-    "ma_period": 20,
-    "ma_long_period": 60
-  },
-  {
-    "market": "us",
-    "code": "GOOGL",
-    "name": "GOOGL",
-    "ma_unit": "day",
     "ma_period": 5,
     "ma_long_period": 20
   },
