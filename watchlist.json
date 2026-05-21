@@ -1,13 +1,5 @@
 [
   {
-    "market": "crypto",
-    "code": "KRW-BTC",
-    "name": "비트코인",
-    "ma_unit": "day",
-    "ma_period": 5,
-    "ma_long_period": 20
-  },
-  {
     "market": "kr",
     "code": "005930",
     "name": "005930",
