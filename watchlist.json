@@ -1,13 +1,6 @@
 [
   {
     "market": "kr",
-    "code": "005930",
-    "name": "005930",
-    "ma_unit": "day",
-    "ma_period": 20
-  },
-  {
-    "market": "kr",
     "code": "000660",
     "name": "000660",
     "ma_unit": "day",
