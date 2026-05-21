@@ -1,16 +1,6 @@
 [
   {
     "market": "kr",
-    "code": "005930",
-    "name": "삼성전자",
-    "ma_unit": "day",
-    "strategy": "macd",
-    "macd_fast": 12,
-    "macd_slow": 26,
-    "macd_signal": 9
-  },
-  {
-    "market": "kr",
     "code": "000660",
     "name": "SK하이닉스",
     "ma_unit": "day",
