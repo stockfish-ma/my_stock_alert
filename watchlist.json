@@ -46,14 +46,6 @@
     "code": "KRW-BTC",
     "name": "KRW-BTC",
     "ma_unit": "day",
-    "ma_period": 20,
-    "ma_long_period": 60
-  },
-  {
-    "market": "crypto",
-    "code": "KRW-BTC",
-    "name": "KRW-BTC",
-    "ma_unit": "day",
     "ma_period": 20
   },
   {
