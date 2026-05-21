@@ -4,14 +4,6 @@
     "code": "005930",
     "name": "삼성전자",
     "ma_unit": "day",
-    "ma_period": 5,
-    "ma_long_period": 20
-  },
-  {
-    "market": "kr",
-    "code": "005930",
-    "name": "삼성전자",
-    "ma_unit": "day",
     "strategy": "macd",
     "macd_fast": 12,
     "macd_slow": 26,
