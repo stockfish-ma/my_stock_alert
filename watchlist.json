@@ -1,13 +1,5 @@
 [
   {
-    "market": "kr",
-    "code": "000660",
-    "name": "SK하이닉스",
-    "ma_unit": "day",
-    "ma_period": 5,
-    "ma_long_period": 20
-  },
-  {
     "market": "us",
     "code": "NVDA",
     "name": "NVIDIA",
