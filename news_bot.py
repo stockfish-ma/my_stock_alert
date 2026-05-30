@@ -436,9 +436,9 @@ def run_news():
     cache = load_cache()
     cache = clean_old_cache(cache)
 
-    # 3. 시황 (08:40~09:00)
+    # 3. 시황 (매일 07:00~07:20)
     hour, minute = datetime.now().hour, datetime.now().minute
-    if hour == 8 and 40 <= minute <= 59:
+    if hour == 7 and minute <= 20:
         summary = fetch_market_summary()
         if summary:
             send_telegram(summary)
