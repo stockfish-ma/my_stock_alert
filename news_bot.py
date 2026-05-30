@@ -129,7 +129,8 @@ def handle_commands():
             continue
 
         parts = text.split()
-        cmd = parts[0].lower()
+        # @봇이름 제거 (/키워드@Farmmerr_bot → /키워드)
+        cmd = parts[0].lower().split("@")[0]
 
         # ── /키워드 ──────────────────────
         if cmd in ("/키워드", "/keywords"):
@@ -148,9 +149,9 @@ def handle_commands():
             if keyword not in keywords[group]:
                 keywords[group].append(keyword)
                 changed = True
-                send_telegram(f"✅ 추가됨: [{group}] {keyword}")
+                send_telegram(f"✅ 추가됨: [{group}] {keyword}", parse_mode="")
             else:
-                send_telegram(f"이미 존재: [{group}] {keyword}")
+                send_telegram(f"이미 존재: [{group}] {keyword}", parse_mode="")
 
         # ── /삭제 그룹명 키워드 ──────────
         elif cmd in ("/삭제", "/remove") and len(parts) >= 3:
@@ -161,9 +162,9 @@ def handle_commands():
                 if not keywords[group]:
                     del keywords[group]
                 changed = True
-                send_telegram(f"🗑️ 삭제됨: [{group}] {keyword}")
+                send_telegram(f"🗑️ 삭제됨: [{group}] {keyword}", parse_mode="")
             else:
-                send_telegram(f"없는 키워드: [{group}] {keyword}")
+                send_telegram(f"없는 키워드: [{group}] {keyword}", parse_mode="")
 
         # ── /그룹추가 그룹명 ─────────────
         elif cmd in ("/그룹추가",) and len(parts) >= 2:
@@ -171,9 +172,9 @@ def handle_commands():
             if group not in keywords:
                 keywords[group] = []
                 changed = True
-                send_telegram(f"✅ 그룹 추가됨: {group}")
+                send_telegram(f"✅ 그룹 추가됨: {group}", parse_mode="")
             else:
-                send_telegram(f"이미 있는 그룹: {group}")
+                send_telegram(f"이미 있는 그룹: {group}", parse_mode="")
 
         # ── /그룹삭제 그룹명 ─────────────
         elif cmd in ("/그룹삭제",) and len(parts) >= 2:
@@ -181,9 +182,9 @@ def handle_commands():
             if group in keywords:
                 del keywords[group]
                 changed = True
-                send_telegram(f"🗑️ 그룹 삭제됨: {group}")
+                send_telegram(f"🗑️ 그룹 삭제됨: {group}", parse_mode="")
             else:
-                send_telegram(f"없는 그룹: {group}")
+                send_telegram(f"없는 그룹: {group}", parse_mode="")
 
         # ── /도움말 ──────────────────────
         elif cmd in ("/도움말", "/help"):
@@ -449,7 +450,7 @@ def run_news():
     # 1. 명령어 처리 (키워드 추가/삭제/조회)
     handle_commands()
 
-    # 2. 캐시 로드 + 정리
+    # 2. 캐시 로드 + 정리 (handle_commands에서 이미 저장됨)
     cache = load_cache()
     cache = clean_old_cache(cache)
 
