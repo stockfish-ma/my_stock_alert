@@ -21,6 +21,7 @@ CACHE_FILE    = Path("news_cache.json")
 KEYWORDS_FILE = Path("keywords.json")
 
 DEDUP_WINDOW_HOURS = 2
+NEWS_MAX_AGE_HOURS = 6   # 최근 6시간 이내 기사만 처리
 
 STAR_THRESHOLDS = {
     1: 3,   # ★  : 3회 이상
@@ -254,6 +255,23 @@ def title_similarity_key(title: str) -> str:
     return clean[:15]
 
 
+def parse_pub_date(pub_str: str):
+    """RSS 발행 시간 파싱 → UTC datetime."""
+    if not pub_str:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(pub_str).astimezone(timezone.utc)
+    except Exception:
+        try:
+            from datetime import datetime
+            return datetime.strptime(
+                pub_str[:25], "%a, %d %b %Y %H:%M:%S"
+            ).replace(tzinfo=timezone.utc)
+        except Exception:
+            return None
+
+
 def fetch_google_news(keyword: str, max_results: int = 10) -> list:
     url = (
         f"https://news.google.com/rss/search"
@@ -263,18 +281,30 @@ def fetch_google_news(keyword: str, max_results: int = 10) -> list:
     try:
         feed = feedparser.parse(url)
         results = []
+        now_utc = datetime.now(timezone.utc)
+        cutoff  = now_utc - timedelta(hours=NEWS_MAX_AGE_HOURS)
+
         for entry in feed.entries[:max_results]:
             title  = entry.get("title", "").strip()
             link   = entry.get("link", "").strip()
-            source = ""
-            if hasattr(entry, "source"):
-                source = entry.source.get("title", "")
-            if title and link:
-                results.append({
-                    "title":  title,
-                    "url":    link,
-                    "source": source,
-                })
+            pub    = entry.get("published", "")
+            source = getattr(entry, "source", {})
+            source = source.get("title", "") if isinstance(source, dict) else ""
+
+            if not title or not link:
+                continue
+
+            # 발행 시간 필터
+            pub_dt = parse_pub_date(pub)
+            if pub_dt and pub_dt < cutoff:
+                continue  # 너무 오래된 기사 skip
+
+            results.append({
+                "title":  title,
+                "url":    link,
+                "source": source,
+                "pub_dt": pub_dt,
+            })
         return results
     except Exception as e:
         print(f"[RSS 오류] {keyword}: {e}")
@@ -377,11 +407,16 @@ def format_news_message(items: list) -> list:
         # 각 키워드 블록: 제목 최대 3개만
         titles = [n["title"] for n in news_list[:3]]
         urls   = [n["url"]   for n in news_list[:3]]
-        source = news_list[0]["source"]
 
         block = f"\n{stars} [{group}] {keyword}\n"
-        for i, (title, url) in enumerate(zip(titles, urls)):
-            block += f"· {title}\n  {url}\n"
+        for i, (title, url, item) in enumerate(
+            zip(titles, urls, news_list[:3])
+        ):
+            pub_str = ""
+            if item.get("pub_dt"):
+                kst = item["pub_dt"] + timedelta(hours=9)
+                pub_str = f" ({kst.strftime('%m-%d %H:%M')})"
+            block += f"· {title}{pub_str}\n  {url}\n"
         if len(news_list) > 3:
             block += f"  외 {len(news_list)-3}건 더\n"
 
