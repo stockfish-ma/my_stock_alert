@@ -26,32 +26,4 @@ jobs:
           NEWS_CHAT_ID: ${{ secrets.NEWS_CHAT_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python news_bot.pyname: news_bot
-
-on:
-  schedule:
-    - cron: '*/10 * * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  news:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - run: pip install requests feedparser yfinance
-
-      - name: run
-        env:
-          NEWS_BOT_TOKEN: ${{ secrets.NEWS_BOT_TOKEN }}
-          NEWS_CHAT_ID: ${{ secrets.NEWS_CHAT_ID }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
         run: python news_bot.py
