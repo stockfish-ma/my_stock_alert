@@ -1,0 +1,43 @@
+name: 뉴스봇 (10분마다)
+
+on:
+  schedule:
+    - cron: '*/10 0-9 * * 1-5'   # 평일 09:00~18:59 KST (UTC 0-9시)
+    - cron: '*/10 1-7 * * 6'     # 토요일 (미국장 대응)
+  workflow_dispatch:              # 수동 실행
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 캐시 복원
+        uses: actions/cache@v4
+        with:
+          path: news_cache.json
+          key: news-cache-${{ github.run_id }}
+          restore-keys: |
+            news-cache-
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install requests feedparser yfinance
+
+      - name: 뉴스봇 실행
+        env:
+          NEWS_BOT_TOKEN:  ${{ secrets.NEWS_BOT_TOKEN }}
+          NEWS_CHAT_ID:    ${{ secrets.NEWS_CHAT_ID }}
+        run: python news_bot.py
+
+      - name: 캐시 저장
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: news_cache.json
+          key: news-cache-${{ github.run_id }}
