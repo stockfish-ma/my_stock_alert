@@ -402,10 +402,8 @@ def format_news_message(items: list) -> list:
             url = item["url"]
 
             block = (
-                f"\n{label}\n"
-                f"제목: {title}\n"
-                f"발행처: {source}\n"
-                f'기사보기: <a href="{url}">링크</a>\n'
+                f"\n{label} {title} "
+                f'- {source} <a href="{url}">링크</a>\n'
             )
 
             if len(current) + len(block) > 4000:
