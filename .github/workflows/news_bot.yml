@@ -2,11 +2,38 @@ name: 뉴스봇 (10분마다)
 
 on:
   schedule:
-    # KST 07:00~22:00 = UTC 22:00~13:00
-    # UTC 22:00~23:50 (KST 07:00~08:50)
-    - cron: '*/10 22,23 * * *'
-    # UTC 00:00~12:50 (KST 09:00~21:50)
-    - cron: '*/10 0,1,2,3,4,5,6,7,8,9,10,11,12 * * *'
+    - cron: '*/10 * * * *'   # 24시간 매 10분 (시간 필터는 코드에서 처리)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install requests feedparser yfinance
+
+      - name: 뉴스봇 실행
+        env:
+          NEWS_BOT_TOKEN:    ${{ secrets.NEWS_BOT_TOKEN }}
+          NEWS_CHAT_ID:      ${{ secrets.NEWS_CHAT_ID }}
+          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python news_bot.pyname: 뉴스봇 (10분마다)
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # 24시간 매 10분 (시간 필터는 코드에서 처리)
   workflow_dispatch:
 
 permissions:
