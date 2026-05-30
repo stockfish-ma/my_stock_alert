@@ -1,8 +1,8 @@
-name: 뉴스봇 (10분마다)
+name: news_bot
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # 24시간 매 10분 (시간 필터는 코드에서 처리)
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -12,28 +12,25 @@ jobs:
   news:
     runs-on: ubuntu-latest
     steps:
-      - name: 체크아웃
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Python 설정
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: 패키지 설치
-        run: pip install requests feedparser yfinance
+      - run: pip install requests feedparser yfinance
 
-      - name: 뉴스봇 실행
+      - name: run
         env:
-          NEWS_BOT_TOKEN:    ${{ secrets.NEWS_BOT_TOKEN }}
-          NEWS_CHAT_ID:      ${{ secrets.NEWS_CHAT_ID }}
-          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          NEWS_BOT_TOKEN: ${{ secrets.NEWS_BOT_TOKEN }}
+          NEWS_CHAT_ID: ${{ secrets.NEWS_CHAT_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python news_bot.pyname: 뉴스봇 (10분마다)
+        run: python news_bot.pyname: news_bot
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # 24시간 매 10분 (시간 필터는 코드에서 처리)
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -43,21 +40,18 @@ jobs:
   news:
     runs-on: ubuntu-latest
     steps:
-      - name: 체크아웃
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Python 설정
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: 패키지 설치
-        run: pip install requests feedparser yfinance
+      - run: pip install requests feedparser yfinance
 
-      - name: 뉴스봇 실행
+      - name: run
         env:
-          NEWS_BOT_TOKEN:    ${{ secrets.NEWS_BOT_TOKEN }}
-          NEWS_CHAT_ID:      ${{ secrets.NEWS_CHAT_ID }}
-          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          NEWS_BOT_TOKEN: ${{ secrets.NEWS_BOT_TOKEN }}
+          NEWS_CHAT_ID: ${{ secrets.NEWS_CHAT_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python news_bot.py
