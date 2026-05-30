@@ -20,14 +20,12 @@ GITHUB_REPO      = os.environ.get("GITHUB_REPOSITORY", "")  # 자동 주입
 CACHE_FILE    = Path("news_cache.json")
 KEYWORDS_FILE = Path("keywords.json")
 
-DEDUP_WINDOW_HOURS = 2
+DEDUP_WINDOW_HOURS = 12  # 12시간 내 반복 횟수로 중요도 판단
 NEWS_MAX_AGE_HOURS = 6   # 최근 6시간 이내 기사만 처리
 
-STAR_THRESHOLDS = {
-    1: 3,   # ★  : 3회 이상
-    2: 6,   # ★★ : 6회 이상
-    3: 10,  # ★★★: 10회 이상
-}
+# 전송 기준 (12시간 내 등장 횟수)
+SEND_THRESHOLD  = 3   # 3회 이상이면 전송
+UPGRADE_COUNTS  = [3, 8, 15]  # 3회, 8회, 15회 달성 시 재전송 (업그레이드)
 
 # ──────────────── 키워드 로드/저장 ────────────────
 def load_keywords() -> dict:
@@ -326,61 +324,44 @@ def fetch_all_news(keywords: dict) -> list:
     return all_news
 
 # ──────────────── 별점 계산 ────────────────
-def calc_stars(count: int) -> str:
-    if count >= STAR_THRESHOLDS[3]:
-        return "★★★"
-    elif count >= STAR_THRESHOLDS[2]:
-        return "★★"
-    elif count >= STAR_THRESHOLDS[1]:
-        return "★"
-    return ""
+def should_send(count: int, prev_count: int) -> bool:
+    """이 횟수에서 전송해야 하는지 판단."""
+    for threshold in UPGRADE_COUNTS:
+        if prev_count < threshold <= count:
+            return True
+    return False
+
+
+def count_label(count: int) -> str:
+    """횟수 레이블 - 직관적으로"""
+    return f"[{count}회]"
 
 
 def process_news(news_list: list, cache: dict) -> list:
-    """뉴스 처리.
-
-    - sim_key(제목 유사도) 기준 카운팅 → 다른 매체 같은 주제 = 카운트 증가
-    - 별점 없음→★, ★→★★, ★★→★★★ 업그레이드 시 전송
-    - URL 기준으로 중복 전송 방지 (같은 URL 두 번 전송 안 함)
-    """
+    """뉴스 처리 - 12시간 내 횟수 기반."""
     now = datetime.now(timezone.utc).isoformat()
     new_items = []
-
-    # sim_key별 대표 기사 (처음 본 것)
-    sim_key_to_item = {}
 
     for item in news_list:
         sim_key = title_similarity_key(item["title"])
         url_key = hashlib.md5(item["url"].encode()).hexdigest()[:12]
 
-        # sim_key 카운트 증가
-        cache.setdefault("news_counts", {})[sim_key] = \
-            cache["news_counts"].get(sim_key, 0) + 1
+        prev_count = cache.get("news_counts", {}).get(sim_key, 0)
+
+        # 카운트 증가
+        cache.setdefault("news_counts", {})[sim_key] = prev_count + 1
         count = cache["news_counts"][sim_key]
-        stars = calc_stars(count)
 
-        # 이전 별점 조회
-        prev_stars = cache.get("sim_stars", {}).get(sim_key, "")
-
-        # 별점 업그레이드 됐을 때만 전송
-        if stars and stars != prev_stars and len(stars) > len(prev_stars):
-            # 이 sim_key의 대표 URL로 전송 (이미 전송한 URL 제외)
+        # 전송 여부 판단
+        if should_send(count, prev_count):
             url_sent = cache.get("news_seen", {}).get(url_key)
-            if not url_sent:
-                item["stars"] = stars
-                item["count"] = count
-                new_items.append(item)
-                cache.setdefault("news_seen", {})[url_key] = {
-                    "first_seen": now,
-                    "stars": stars,
-                }
-            # 별점 업데이트
-            cache.setdefault("sim_stars", {})[sim_key] = stars
+            item["count"] = count
+            item["label"] = count_label(count)
+            new_items.append(item)
 
-        # URL seen 기록 (전송 안 해도 기록)
+        # URL seen 기록
         cache.setdefault("news_seen", {}).setdefault(url_key, {
             "first_seen": now,
-            "stars": "",
         })
 
     return new_items
@@ -391,26 +372,25 @@ def format_news_message(items: list) -> list:
     if not items:
         return []
 
-    items.sort(key=lambda x: (-len(x["stars"]), x["group"]))
+    items.sort(key=lambda x: -x["count"])
 
     from collections import defaultdict
     grouped = defaultdict(list)
     for item in items:
-        key = (item["stars"], item["group"], item["keyword"])
+        key = (item["label"], item["group"], item["keyword"])
         grouped[key].append(item)
 
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     messages = []
     current = f"[뉴스 업데이트]\n업데이트: {now_str}\n"
 
-    for (stars, group, keyword), news_list in grouped.items():
+    for (label, group, keyword), news_list in grouped.items():
         for item in news_list[:3]:
             pub_str = ""
             if item.get("pub_dt"):
                 kst = item["pub_dt"] + timedelta(hours=9)
                 pub_str = kst.strftime("%Y-%m-%d %H:%M:%S")
 
-            # 제목에서 특수문자 이스케이프 (HTML)
             title  = (item["title"]
                       .replace("&", "&amp;")
                       .replace("<", "&lt;")
@@ -419,11 +399,10 @@ def format_news_message(items: list) -> list:
                       .replace("&", "&amp;")
                       .replace("<", "&lt;")
                       .replace(">", "&gt;"))
-            url    = item["url"]
+            url = item["url"]
 
             block = (
-                f"\n{stars} 그룹: {group}\n"
-                f"키워드: {keyword}\n"
+                f"\n{label}\n"
                 f"제목: {title}\n"
                 f"발행처: {source}\n"
             )
