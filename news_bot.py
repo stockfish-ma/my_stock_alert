@@ -405,10 +405,8 @@ def format_news_message(items: list) -> list:
                 f"\n{label}\n"
                 f"제목: {title}\n"
                 f"발행처: {source}\n"
+                f'기사보기: <a href="{url}">링크</a>\n'
             )
-            if pub_str:
-                block += f"업데이트: {pub_str}\n"
-            block += f'기사보기: <a href="{url}">링크</a>\n'
 
             if len(current) + len(block) > 4000:
                 messages.append(current)
