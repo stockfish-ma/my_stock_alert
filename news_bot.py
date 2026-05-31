@@ -25,7 +25,7 @@ NEWS_MAX_AGE_HOURS = 6   # 최근 6시간 이내 기사만 처리
 
 # 전송 기준 (12시간 내 등장 횟수)
 SEND_THRESHOLD  = 3   # 3회 이상이면 전송
-UPGRADE_COUNTS  = [3, 8, 15]  # 3회, 8회, 15회 달성 시 재전송 (업그레이드)
+UPGRADE_COUNTS  = [5, 12, 25]  # 5회, 12회, 25회 달성 시 전송
 
 # ──────────────── 키워드 로드/저장 ────────────────
 def load_keywords() -> dict:
@@ -133,12 +133,14 @@ def handle_commands():
         cmd = parts[0].lower().split("@")[0]
 
         # ── /키워드 ──────────────────────
+        # ── /키워드 ──────────────────────
         if cmd in ("/키워드", "/keywords"):
-            lines = ["📋 현재 키워드 목록\n"]
+            lines = ["📋 현재 키워드 목록"]
             for group, kws in keywords.items():
+                lines.append("")
                 lines.append(f"[{group}]")
                 lines.append("  " + ", ".join(kws))
-            send_telegram("\n".join(lines))
+            send_telegram("\n".join(lines), parse_mode="")
 
         # ── /추가 그룹명 키워드 ──────────
         elif cmd in ("/추가", "/add") and len(parts) >= 3:
@@ -247,9 +249,54 @@ def clean_old_cache(cache: dict) -> dict:
     return cache
 
 # ──────────────── 뉴스 수집 ────────────────
+def clean_title(title: str) -> str:
+    """제목에서 발행처 중복 제거.
+    예: '삼성전자 HBM4E - 연합뉴스 - 연합뉴스' → '삼성전자 HBM4E - 연합뉴스'
+    """
+    # ' - 발행처 - 발행처' 패턴 제거
+    parts = title.split(' - ')
+    if len(parts) >= 3 and parts[-1].strip() == parts[-2].strip():
+        parts = parts[:-1]
+    return ' - '.join(parts).strip()
+
+
+def clean_source(source: str) -> str:
+    """발행처 정리 - v.daum.net 등 대체."""
+    noise_sources = {
+        'v.daum.net': '다음',
+        'newsen.com': '뉴스엔',
+        'ekn.kr': '에너지경제',
+        '2news.co.kr': '투데이뉴스',
+        'koreasprint.com': '코리아스프린트',
+        'vietnam.vn': 'Vietnam.vn',
+        'investing.com 한국어': 'Investing.com',
+    }
+    s = source.lower()
+    for k, v in noise_sources.items():
+        if k in s:
+            return v
+    return source
+
+
+# 노이즈 키워드 필터 (이 단어가 제목에 있으면 skip)
+NOISE_TITLE_KEYWORDS = [
+    '광산구', '광산을', '광산의', '광산김씨',
+    '선거후보', '버스킹', '족보',
+    'TXT', '포토엔', '[포토]',
+]
+
+
 def title_similarity_key(title: str) -> str:
     clean = re.sub(r"[^\w]", "", title)
     return clean[:15]
+
+
+def is_noise(title: str) -> bool:
+    """노이즈 뉴스 필터."""
+    for kw in NOISE_TITLE_KEYWORDS:
+        if kw in title:
+            return True
+    return False
 
 
 def parse_pub_date(pub_str: str):
@@ -290,6 +337,14 @@ def fetch_google_news(keyword: str, max_results: int = 10) -> list:
 
             if not title or not link:
                 continue
+
+            # 노이즈 필터
+            if is_noise(title):
+                continue
+
+            # 제목/발행처 정리
+            title  = clean_title(title)
+            source = clean_source(source)
 
             # 발행 시간 필터
             pub_dt = parse_pub_date(pub)
@@ -377,7 +432,7 @@ def format_news_message(items: list) -> list:
         key = (item["label"], item["group"], item["keyword"])
         grouped[key].append(item)
 
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now_str = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M (KST)")
     messages = []
     current = f"[뉴스 업데이트]\n업데이트: {now_str}\n"
 
@@ -388,11 +443,11 @@ def format_news_message(items: list) -> list:
                 kst = item["pub_dt"] + timedelta(hours=9)
                 pub_str = kst.strftime("%Y-%m-%d %H:%M:%S")
 
-            title  = (item["title"]
+            title  = clean_title(item["title"]
                       .replace("&", "&amp;")
                       .replace("<", "&lt;")
                       .replace(">", "&gt;"))
-            source = (item["source"]
+            source = clean_source(item["source"]
                       .replace("&", "&amp;")
                       .replace("<", "&lt;")
                       .replace(">", "&gt;"))
@@ -424,7 +479,7 @@ def fetch_market_summary() -> str:
             "나스닥":   "^IXIC",
             "USD/KRW": "USDKRW=X",
         }
-        lines = [f"📊 시황 {datetime.now().strftime('%m-%d %H:%M')}\n"]
+        lines = [f"📊 시황 {(datetime.now(timezone.utc) + timedelta(hours=9)).strftime('%m-%d %H:%M')} KST\n"]
         for name, ticker in tickers.items():
             try:
                 info = yf.Ticker(ticker).fast_info
@@ -446,6 +501,12 @@ def fetch_market_summary() -> str:
 # ──────────────── 메인 ────────────────
 def run_news():
     print(f"[{datetime.now().strftime('%H:%M:%S')}] 뉴스봇 시작")
+
+    # KST 22:00~07:00 사이엔 실행 안 함
+    kst_hour = (datetime.now(timezone.utc) + timedelta(hours=9)).hour
+    if kst_hour >= 22 or kst_hour < 7:
+        print(f"[종료] KST {kst_hour}시 - 운영 시간 외 (07:00~22:00)")
+        return
 
     # 1. 명령어 처리 (키워드 추가/삭제/조회)
     handle_commands()
