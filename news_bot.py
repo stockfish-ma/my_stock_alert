@@ -15,7 +15,9 @@ import feedparser
 TELEGRAM_TOKEN   = os.environ.get("NEWS_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("NEWS_CHAT_ID", "")
 GITHUB_TOKEN     = os.environ.get("GITHUB_TOKEN", "")
-GITHUB_REPO      = os.environ.get("GITHUB_REPOSITORY", "")  # 자동 주입
+GITHUB_REPO      = os.environ.get("GITHUB_REPOSITORY", "")
+NAVER_CLIENT_ID     = os.environ.get("NAVER_CLIENT_ID", "")
+NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "")
 
 CACHE_FILE    = Path("news_cache.json")
 KEYWORDS_FILE = Path("keywords.json")
@@ -233,19 +235,16 @@ def clean_old_cache(cache: dict) -> dict:
     cutoff = (
         datetime.now(timezone.utc) - timedelta(hours=DEDUP_WINDOW_HOURS)
     ).isoformat()
+    # 오래된 URL seen 정리
     cache["news_seen"] = {
         k: v for k, v in cache.get("news_seen", {}).items()
         if v.get("first_seen", "") >= cutoff
     }
-    # sim_stars도 seen에 없는 건 제거
-    valid_keys = set()
-    for item in cache["news_seen"].values():
-        pass  # seen 기반으로 관리
-    cache["news_counts"] = {
-        k: v for k, v in cache.get("news_counts", {}).items()
-    }
-    # sim_stars는 DEDUP_WINDOW_HOURS 지나도 유지 (업그레이드 추적용)
-    # 다만 너무 오래된 것은 정리 (24시간 초과)
+    # 12시간마다 키워드 카운트 리셋 (새 사이클)
+    last_reset = cache.get("kw_counts_reset", "")
+    if not last_reset or last_reset < cutoff:
+        cache["kw_counts"] = {}
+        cache["kw_counts_reset"] = datetime.now(timezone.utc).isoformat()
     return cache
 
 # ──────────────── 뉴스 수집 ────────────────
@@ -292,15 +291,23 @@ def title_similarity_key(title: str) -> str:
     return clean[:15]
 
 
+# 제외할 발행처 도메인
+NOISE_SOURCES = {
+    'v.daum.net', 'newsen.com', 'naver.com',
+}
+
+
+def is_noise_source(source: str) -> bool:
+    s = source.lower()
+    return any(ns in s for ns in NOISE_SOURCES)
+
+
 def is_noise(title: str) -> bool:
     """노이즈 뉴스 필터."""
     for kw in NOISE_TITLE_KEYWORDS:
         if kw in title:
             return True
     return False
-
-
-def parse_pub_date(pub_str: str):
     """RSS 발행 시간 파싱 → UTC datetime."""
     if not pub_str:
         return None
@@ -317,10 +324,74 @@ def parse_pub_date(pub_str: str):
             return None
 
 
+def is_korean_keyword(keyword: str) -> bool:
+    """한글 포함 여부로 한국어 키워드 판단."""
+    return any('\uAC00' <= c <= '\uD7A3' for c in keyword)
+
+
+def fetch_naver_news(keyword: str, max_results: int = 10) -> list:
+    """네이버 뉴스 검색 API - 한국어 키워드 전용."""
+    if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
+        return []
+    url = "https://openapi.naver.com/v1/search/news.json"
+    headers = {
+        "X-Naver-Client-Id":     NAVER_CLIENT_ID,
+        "X-Naver-Client-Secret": NAVER_CLIENT_SECRET,
+    }
+    params = {
+        "query":  keyword,
+        "display": max_results,
+        "sort":   "date",  # 최신순
+    }
+    try:
+        r = requests.get(url, headers=headers, params=params, timeout=10)
+        if not r.ok:
+            print(f"[네이버 오류] {keyword}: {r.status_code}")
+            return []
+
+        items = r.json().get("items", [])
+        now_utc = datetime.now(timezone.utc)
+        cutoff  = now_utc - timedelta(hours=NEWS_MAX_AGE_HOURS)
+        results = []
+
+        for item in items:
+            # HTML 태그 제거
+            title  = re.sub(r"<[^>]+>", "", item.get("title", "")).strip()
+            title  = title.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"')
+            link   = item.get("originallink") or item.get("link", "")
+            source = item.get("source", "")
+            pub    = item.get("pubDate", "")
+
+            if not title or not link:
+                continue
+            if is_noise(title):
+                continue
+            if keyword.lower() not in title.lower():
+                continue
+
+            # 발행 시간 필터
+            pub_dt = parse_pub_date(pub)
+            if pub_dt and pub_dt < cutoff:
+                continue
+
+            results.append({
+                "title":  title,
+                "url":    link,
+                "source": source,
+                "pub_dt": pub_dt,
+            })
+        return results
+    except Exception as e:
+        print(f"[네이버 오류] {keyword}: {e}")
+        return []
+
+
 def fetch_google_news(keyword: str, max_results: int = 10) -> list:
+    # 따옴표로 감싸서 정확한 검색 (연관 검색 방지)
+    exact_kw = f'"{keyword}"' if len(keyword) <= 6 else keyword
     url = (
         f"https://news.google.com/rss/search"
-        f"?q={requests.utils.quote(keyword)}"
+        f"?q={requests.utils.quote(exact_kw)}"
         f"&hl=ko&gl=KR&ceid=KR:ko"
     )
     try:
@@ -341,6 +412,15 @@ def fetch_google_news(keyword: str, max_results: int = 10) -> list:
 
             # 노이즈 필터
             if is_noise(title):
+                continue
+
+            # 노이즈 소스 필터
+            if is_noise_source(source):
+                continue
+
+            # 제목에 키워드 포함 여부 검증 (구글 연관검색 방지)
+            # keyword가 2글자 이상이면 제목에 있어야 함
+            if len(keyword) >= 2 and keyword.lower() not in title.lower():
                 continue
 
             # 제목/발행처 정리
@@ -365,10 +445,17 @@ def fetch_google_news(keyword: str, max_results: int = 10) -> list:
 
 
 def fetch_all_news(keywords: dict) -> list:
+    """키워드별 뉴스 수집.
+    한국어 키워드 → 네이버 API (정확)
+    영문 키워드   → 구글 RSS (해외 뉴스)
+    """
     all_news = []
     for group, kw_list in keywords.items():
         for keyword in kw_list:
-            items = fetch_google_news(keyword)
+            if is_korean_keyword(keyword) and NAVER_CLIENT_ID:
+                items = fetch_naver_news(keyword)
+            else:
+                items = fetch_google_news(keyword)
             for item in items:
                 item["group"]   = group
                 item["keyword"] = keyword
@@ -376,9 +463,9 @@ def fetch_all_news(keywords: dict) -> list:
             time.sleep(0.3)
     return all_news
 
-# ──────────────── 별점 계산 ────────────────
+# ──────────────── 키워드 기준 카운팅 ────────────────
 def should_send(count: int, prev_count: int) -> bool:
-    """이 횟수에서 전송해야 하는지 판단."""
+    """전송 기준 도달 여부."""
     for threshold in UPGRADE_COUNTS:
         if prev_count < threshold <= count:
             return True
@@ -386,36 +473,57 @@ def should_send(count: int, prev_count: int) -> bool:
 
 
 def count_label(count: int) -> str:
-    """횟수 레이블 - 직관적으로"""
     return f"[{count}회]"
 
 
 def process_news(news_list: list, cache: dict) -> list:
-    """뉴스 처리 - 12시간 내 횟수 기반."""
+    """키워드 기준 카운팅.
+
+    제목 유사도 대신 키워드별로 새 기사 수를 카운팅.
+    같은 키워드로 검색된 새 기사가 많을수록 = 화제성 높음.
+
+    흐름:
+      1. URL 기준으로 이미 본 기사 제외 (중복 제거)
+      2. 키워드별 새 기사 수 누적
+      3. 임계값 달성 시 대표 기사 전송
+    """
     now = datetime.now(timezone.utc).isoformat()
     new_items = []
 
+    # 키워드별 새 기사 모음
+    from collections import defaultdict
+    keyword_new_articles = defaultdict(list)
+
     for item in news_list:
-        sim_key = title_similarity_key(item["title"])
         url_key = hashlib.md5(item["url"].encode()).hexdigest()[:12]
 
-        prev_count = cache.get("news_counts", {}).get(sim_key, 0)
+        # 이미 본 URL 제외
+        if url_key in cache.get("news_seen", {}):
+            continue
 
-        # 카운트 증가
-        cache.setdefault("news_counts", {})[sim_key] = prev_count + 1
-        count = cache["news_counts"][sim_key]
+        # 새 기사 → URL 기록
+        cache.setdefault("news_seen", {})[url_key] = {"first_seen": now}
 
-        # 전송 여부 판단
-        if should_send(count, prev_count):
-            url_sent = cache.get("news_seen", {}).get(url_key)
-            item["count"] = count
-            item["label"] = count_label(count)
-            new_items.append(item)
+        # 키워드별로 묶기
+        kw_key = f"{item['group']}:{item['keyword']}"
+        keyword_new_articles[kw_key].append(item)
 
-        # URL seen 기록
-        cache.setdefault("news_seen", {}).setdefault(url_key, {
-            "first_seen": now,
-        })
+    # 키워드별 카운트 누적 + 전송 여부 판단
+    for kw_key, articles in keyword_new_articles.items():
+        new_count = len(articles)
+        prev_count = cache.get("kw_counts", {}).get(kw_key, 0)
+        total_count = prev_count + new_count
+
+        # 카운트 저장
+        cache.setdefault("kw_counts", {})[kw_key] = total_count
+
+        # 전송 기준 달성 여부
+        if should_send(total_count, prev_count):
+            # 가장 최신 기사를 대표로 전송
+            rep = articles[0]
+            rep["count"] = total_count
+            rep["label"] = count_label(total_count)
+            new_items.append(rep)
 
     return new_items
 
