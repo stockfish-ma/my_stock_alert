@@ -476,108 +476,65 @@ def count_label(count: int) -> str:
     return f"[{count}회]"
 
 
-def process_news(news_list: list, cache: dict) -> list:
-    """키워드 기준 카운팅.
-
-    제목 유사도 대신 키워드별로 새 기사 수를 카운팅.
-    같은 키워드로 검색된 새 기사가 많을수록 = 화제성 높음.
-
-    흐름:
-      1. URL 기준으로 이미 본 기사 제외 (중복 제거)
-      2. 키워드별 새 기사 수 누적
-      3. 임계값 달성 시 대표 기사 전송
+def process_news(news_list: list, cache: dict) -> None:
+    """뉴스 수집 + 카운팅만. 전송은 하지 않음.
+    1시간마다 TOP 10 전송은 send_top10()에서 처리.
     """
     now = datetime.now(timezone.utc).isoformat()
-    new_items = []
-
-    # 키워드별 새 기사 모음
     from collections import defaultdict
     keyword_new_articles = defaultdict(list)
 
     for item in news_list:
         url_key = hashlib.md5(item["url"].encode()).hexdigest()[:12]
-
-        # 이미 본 URL 제외
         if url_key in cache.get("news_seen", {}):
             continue
-
-        # 새 기사 → URL 기록
         cache.setdefault("news_seen", {})[url_key] = {"first_seen": now}
-
-        # 키워드별로 묶기
         kw_key = f"{item['group']}:{item['keyword']}"
         keyword_new_articles[kw_key].append(item)
 
-    # 키워드별 카운트 누적 + 전송 여부 판단
+    # 키워드별 카운트 + 대표 기사 저장
     for kw_key, articles in keyword_new_articles.items():
         new_count = len(articles)
         prev_count = cache.get("kw_counts", {}).get(kw_key, 0)
         total_count = prev_count + new_count
-
-        # 카운트 저장
         cache.setdefault("kw_counts", {})[kw_key] = total_count
 
-        # 전송 기준 달성 여부
-        if should_send(total_count, prev_count):
-            # 가장 최신 기사를 대표로 전송
-            rep = articles[0]
-            rep["count"] = total_count
-            rep["label"] = count_label(total_count)
-            new_items.append(rep)
+        # 대표 기사: 1시간 누적 기사 중 가장 많이 나온 제목
+        # 기존 누적 기사 목록 + 새 기사 합치기
+        prev_articles = cache.get("kw_article_pool", {}).get(kw_key, [])
+        all_articles  = prev_articles + [
+            {"title": a["title"], "url": a["url"], "source": a.get("source", "")}
+            for a in articles
+        ]
+        # 최대 50개만 유지
+        cache.setdefault("kw_article_pool", {})[kw_key] = all_articles[-50:]
 
-    return new_items
+        # 가장 많이 나온 제목 찾기
+        from collections import Counter
+        title_counts = Counter(a["title"] for a in all_articles)
+        best_title = title_counts.most_common(1)[0][0]
+        best_article = next(a for a in all_articles if a["title"] == best_title)
 
-# ──────────────── 메시지 포맷 (간소화) ────────────────
-def format_news_message(items: list) -> list:
-    """하보노 스타일 포맷 + HTML 링크."""
-    if not items:
+        cache.setdefault("kw_articles", {})[kw_key] = {
+            "title":   best_article["title"],
+            "url":     best_article["url"],
+            "source":  best_article.get("source", ""),
+            "count":   total_count,
+            "group":   articles[0]["group"],
+            "keyword": articles[0]["keyword"],
+        }
+
+
+def get_top10(cache: dict) -> list:
+    """현재 카운트 기준 TOP 10 키워드 뉴스."""
+    articles = cache.get("kw_articles", {})
+    if not articles:
         return []
+    # 카운트 높은 순 정렬 → TOP 10
+    ranked = sorted(articles.values(), key=lambda x: -x["count"])
+    return ranked[:10]
 
-    items.sort(key=lambda x: -x["count"])
 
-    from collections import defaultdict
-    grouped = defaultdict(list)
-    for item in items:
-        key = (item["label"], item["group"], item["keyword"])
-        grouped[key].append(item)
-
-    now_str = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M (KST)")
-    messages = []
-    current = f"[뉴스 업데이트]\n업데이트: {now_str}\n"
-
-    for (label, group, keyword), news_list in grouped.items():
-        for item in news_list[:3]:
-            pub_str = ""
-            if item.get("pub_dt"):
-                kst = item["pub_dt"] + timedelta(hours=9)
-                pub_str = kst.strftime("%Y-%m-%d %H:%M:%S")
-
-            title  = clean_title(item["title"]
-                      .replace("&", "&amp;")
-                      .replace("<", "&lt;")
-                      .replace(">", "&gt;"))
-            source = clean_source(item["source"]
-                      .replace("&", "&amp;")
-                      .replace("<", "&lt;")
-                      .replace(">", "&gt;"))
-            url = item["url"]
-
-            block = (
-                f"\n{label} {title} "
-                f'- {source} <a href="{url}">링크</a>\n'
-            )
-
-            if len(current) + len(block) > 4000:
-                messages.append(current)
-                current = f"[뉴스 업데이트 (계속)]\n업데이트: {now_str}\n{block}"
-            else:
-                current += block
-
-    if current.strip():
-        messages.append(current)
-    return messages
-
-# ──────────────── 시황 ────────────────
 def fetch_market_summary() -> str:
     try:
         import yfinance as yf
@@ -588,7 +545,8 @@ def fetch_market_summary() -> str:
             "나스닥":   "^IXIC",
             "USD/KRW": "USDKRW=X",
         }
-        lines = [f"📊 시황 {(datetime.now(timezone.utc) + timedelta(hours=9)).strftime('%m-%d %H:%M')} KST\n"]
+        kst_str = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime('%m-%d %H:%M')
+        lines = [f"📊 시황 {kst_str} KST\n"]
         for name, ticker in tickers.items():
             try:
                 info = yf.Ticker(ticker).fast_info
@@ -607,32 +565,63 @@ def fetch_market_summary() -> str:
     except Exception as e:
         return f"📊 시황 오류: {e}"
 
+
+def format_top10_message(items: list) -> str:
+    """TOP 10 뉴스 메시지 포맷."""
+    now_str = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%m-%d %H:%M (KST)")
+    msg = f"📰 뉴스 TOP 10 ({now_str})\n"
+
+    for i, item in enumerate(items, 1):
+        title = clean_title(
+            item["title"]
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+        )
+        source = clean_source(item.get("source", ""))
+        url    = item["url"]
+        count  = item["count"]
+        msg += f'\n{i}. [{count}회] {title} - {source} <a href="{url}">링크</a>'
+
+    return msg
+
+
+def should_send_top10(cache: dict) -> bool:
+    """1시간마다 TOP 10 전송 여부."""
+    last = cache.get("last_top10_sent", "")
+    if not last:
+        return True
+    last_dt = datetime.fromisoformat(last)
+    now_dt  = datetime.now(timezone.utc)
+    return (now_dt - last_dt).total_seconds() >= 3600
+
+
 # ──────────────── 메인 ────────────────
 def run_news():
     print(f"[{datetime.now().strftime('%H:%M:%S')}] 뉴스봇 시작")
 
     # KST 22:00~07:00 사이엔 실행 안 함
-    kst_hour = (datetime.now(timezone.utc) + timedelta(hours=9)).hour
+    kst_now  = datetime.now(timezone.utc) + timedelta(hours=9)
+    kst_hour = kst_now.hour
     if kst_hour >= 22 or kst_hour < 7:
         print(f"[종료] KST {kst_hour}시 - 운영 시간 외 (07:00~22:00)")
         return
 
-    # 1. 명령어 처리 (키워드 추가/삭제/조회)
+    # 1. 명령어 처리
     handle_commands()
 
-    # 2. 캐시 로드 + 정리 (handle_commands에서 이미 저장됨)
+    # 2. 캐시 로드 + 정리
     cache = load_cache()
     cache = clean_old_cache(cache)
 
-    # 3. 시황 (매일 07:00~07:20)
-    hour, minute = datetime.now().hour, datetime.now().minute
-    if hour == 7 and minute <= 20:
+    # 3. 시황 (매일 07:00~07:20 KST)
+    if kst_hour == 7 and kst_now.minute <= 20:
         summary = fetch_market_summary()
         if summary:
             send_telegram(summary, parse_mode="")
             print("시황 전송 완료")
 
-    # 4. 뉴스 수집
+    # 4. 뉴스 수집 + 카운팅 (매 1분, 전송 안 함)
     keywords = load_keywords()
     if not keywords:
         print("키워드 없음 - 종료")
@@ -642,19 +631,22 @@ def run_news():
     all_news = fetch_all_news(keywords)
     print(f"수집: {len(all_news)}건")
 
-    # 5. 별점 계산
-    new_items = process_news(all_news, cache)
-    print(f"★ 이상: {len(new_items)}건")
+    process_news(all_news, cache)
+    print("카운팅 완료")
 
-    # 6. 전송
-    if new_items:
-        messages = format_news_message(new_items)
-        for msg in messages:
+    # 5. 1시간마다 TOP 10 전송
+    if should_send_top10(cache):
+        top10 = get_top10(cache)
+        if top10:
+            msg = format_top10_message(top10)
             send_telegram(msg)
-            time.sleep(1)
-        print(f"전송: {len(messages)}개 메시지")
-    else:
-        print("전송할 뉴스 없음")
+            print(f"TOP 10 전송 완료")
+        cache["last_top10_sent"] = datetime.now(timezone.utc).isoformat()
+        # TOP 10 전송 후 카운트 리셋 (다음 1시간 새로 시작)
+        cache["kw_counts"]      = {}
+        cache["kw_articles"]    = {}
+        cache["kw_article_pool"] = {}
+        print("카운트 리셋")
 
     save_cache(cache)
     print("완료")
