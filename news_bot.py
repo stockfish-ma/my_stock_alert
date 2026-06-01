@@ -283,6 +283,7 @@ NOISE_TITLE_KEYWORDS = [
     '선거후보', '버스킹', '족보',
     'TXT', '포토엔', '[포토]',
     '구리시', '구리 시장', '구리시장',
+    '[부고]', '부고', '부친상', '모친상', '별세',
 ]
 
 
@@ -588,16 +589,25 @@ def format_top10_message(items: list) -> str:
     msg = f"📰 뉴스 TOP 10 ({now_str})\n"
 
     for i, item in enumerate(items, 1):
-        title = clean_title(
-            item["title"]
-            .replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-        )
+        # 제목 정리 - 발행처 중복 제거
+        title = item["title"]
+        # "제목 - 발행처 - 발행처" → "제목 - 발행처"
+        parts = title.split(" - ")
+        if len(parts) >= 3 and parts[-1].strip() == parts[-2].strip():
+            parts = parts[:-1]
+        # 마지막이 발행처면 제거 (제목만 남기기)
+        if len(parts) >= 2:
+            title = " - ".join(parts[:-1]).strip()
+        else:
+            title = parts[0].strip()
+
+        title  = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
         source = clean_source(item.get("source", ""))
         url    = item["url"]
         count  = item["count"]
-        msg += f'\n{i}. [{count}회] {title} - {source} <a href="{url}">링크</a>'
+
+        source_str = f" - {source}" if source else ""
+        msg += f'\n{i}. [{count}회] {title}{source_str}\n    {url}\n'
 
     return msg
 
@@ -655,7 +665,7 @@ def run_news():
         top10 = get_top10(cache)
         if top10:
             msg = format_top10_message(top10)
-            send_telegram(msg)
+            send_telegram(msg, parse_mode="")
             print(f"TOP 10 전송 완료")
             # 전송 성공 시에만 리셋
             cache["kw_counts"]       = {}
