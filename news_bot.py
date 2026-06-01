@@ -324,6 +324,22 @@ def is_noise(title: str) -> bool:
             return None
 
 
+def parse_pub_date(pub_str: str):
+    """RSS/네이버 발행 시간 파싱 → UTC datetime."""
+    if not pub_str:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(pub_str).astimezone(timezone.utc)
+    except Exception:
+        try:
+            return datetime.strptime(
+                pub_str[:19], "%Y-%m-%d %H:%M:%S"
+            ).replace(tzinfo=timezone.utc)
+        except Exception:
+            return None
+
+
 def is_korean_keyword(keyword: str) -> bool:
     """한글 포함 여부로 한국어 키워드 판단."""
     return any('\uAC00' <= c <= '\uD7A3' for c in keyword)
@@ -641,12 +657,14 @@ def run_news():
             msg = format_top10_message(top10)
             send_telegram(msg)
             print(f"TOP 10 전송 완료")
+            # 전송 성공 시에만 리셋
+            cache["kw_counts"]       = {}
+            cache["kw_articles"]     = {}
+            cache["kw_article_pool"] = {}
+            print("카운트 리셋")
+        else:
+            print("TOP 10 없음 - 리셋 안 함")
         cache["last_top10_sent"] = datetime.now(timezone.utc).isoformat()
-        # TOP 10 전송 후 카운트 리셋 (다음 1시간 새로 시작)
-        cache["kw_counts"]      = {}
-        cache["kw_articles"]    = {}
-        cache["kw_article_pool"] = {}
-        print("카운트 리셋")
 
     save_cache(cache)
     print("완료")
