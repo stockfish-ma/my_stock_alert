@@ -520,11 +520,23 @@ def process_news(news_list: list, cache: dict) -> None:
         # 기존 누적 기사 목록 + 새 기사 합치기
         prev_articles = cache.get("kw_article_pool", {}).get(kw_key, [])
         all_articles  = prev_articles + [
-            {"title": a["title"], "url": a["url"], "source": a.get("source", "")}
+            {
+                "title":   a["title"],
+                "url":     a["url"],
+                "source":  a.get("source", ""),
+                "group":   a.get("group", ""),
+                "keyword": a.get("keyword", ""),
+            }
             for a in articles
         ]
-        # 최대 50개만 유지
-        cache.setdefault("kw_article_pool", {})[kw_key] = all_articles[-50:]
+        # 중복 URL 제거
+        seen_urls = set()
+        deduped = []
+        for art in all_articles:
+            if art["url"] not in seen_urls:
+                seen_urls.add(art["url"])
+                deduped.append(art)
+        cache.setdefault("kw_article_pool", {})[kw_key] = deduped[-50:]
 
         # 가장 많이 나온 제목 찾기
         from collections import Counter
@@ -542,14 +554,31 @@ def process_news(news_list: list, cache: dict) -> None:
         }
 
 
-def get_top10(cache: dict) -> list:
-    """현재 카운트 기준 TOP 10 키워드 뉴스."""
-    articles = cache.get("kw_articles", {})
-    if not articles:
+def get_all_news(cache: dict) -> list:
+    """수집된 모든 키워드별 기사 반환."""
+    article_pool = cache.get("kw_article_pool", {})
+    kw_counts    = cache.get("kw_counts", {})
+    if not article_pool:
         return []
-    # 카운트 높은 순 정렬 → TOP 10
-    ranked = sorted(articles.values(), key=lambda x: -x["count"])
-    return ranked[:10]
+
+    result = []
+    for kw_key, articles in article_pool.items():
+        if not articles:
+            continue
+        count = kw_counts.get(kw_key, len(articles))
+        # 첫 번째 기사에서 group/keyword 추출
+        group   = articles[0].get("group", "")
+        keyword = articles[0].get("keyword", "")
+        result.append({
+            "group":    group,
+            "keyword":  keyword,
+            "count":    count,
+            "articles": articles,  # 전체 기사 리스트
+        })
+
+    # 건수 높은 순 정렬
+    result.sort(key=lambda x: -x["count"])
+    return result
 
 
 def fetch_market_summary() -> str:
@@ -583,33 +612,48 @@ def fetch_market_summary() -> str:
         return f"📊 시황 오류: {e}"
 
 
-def format_top10_message(items: list) -> str:
-    """TOP 10 뉴스 메시지 포맷."""
+def format_news_message(groups: list) -> list:
+    """키워드별 전체 기사 목록 포맷. 4096자 초과 시 분할."""
+    if not groups:
+        return []
+
     now_str = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%m-%d %H:%M (KST)")
-    msg = f"📰 뉴스 TOP 10 ({now_str})\n"
+    messages = []
+    current  = f"📰 뉴스 ({now_str})\n"
 
-    for i, item in enumerate(items, 1):
-        # 제목 정리 - 발행처 중복 제거
-        title = item["title"]
-        # "제목 - 발행처 - 발행처" → "제목 - 발행처"
-        parts = title.split(" - ")
-        if len(parts) >= 3 and parts[-1].strip() == parts[-2].strip():
-            parts = parts[:-1]
-        # 마지막이 발행처면 제거 (제목만 남기기)
-        if len(parts) >= 2:
-            title = " - ".join(parts[:-1]).strip()
+    for grp in groups:
+        group   = grp["group"].replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
+        kw      = grp["keyword"].replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
+        count   = grp["count"]
+        articles = grp["articles"]
+
+        block = f"\n[{group}] {kw} {count}건\n"
+        for art in articles:
+            title = art.get("title", "")
+            # 발행처 중복 제거
+            parts = title.split(" - ")
+            if len(parts) >= 3 and parts[-1].strip() == parts[-2].strip():
+                parts = parts[:-1]
+            if len(parts) >= 2:
+                title = " - ".join(parts[:-1]).strip()
+            else:
+                title = parts[0].strip()
+
+            source = clean_source(art.get("source", ""))
+            url    = art.get("url", "")
+            title  = title.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
+            src_str = f" - {source}" if source else ""
+            block += f'  └ <a href="{url}">{title}{src_str}</a>\n'
+
+        if len(current) + len(block) > 4000:
+            messages.append(current)
+            current = f"📰 뉴스 ({now_str}) (계속)\n{block}"
         else:
-            title = parts[0].strip()
+            current += block
 
-        title  = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-        source = clean_source(item.get("source", ""))
-        url    = item["url"]
-        count  = item["count"]
-
-        source_str = f" - {source}" if source else ""
-        msg += f'\n{i}. [{count}회] {title}{source_str}\n    {url}\n'
-
-    return msg
+    if current.strip():
+        messages.append(current)
+    return messages
 
 
 def should_send_top10(cache: dict) -> bool:
@@ -660,20 +704,21 @@ def run_news():
     process_news(all_news, cache)
     print("카운팅 완료")
 
-    # 5. 1시간마다 TOP 10 전송
+    # 5. 1시간마다 수집된 뉴스 전송
     if should_send_top10(cache):
-        top10 = get_top10(cache)
-        if top10:
-            msg = format_top10_message(top10)
-            send_telegram(msg, parse_mode="")
-            print(f"TOP 10 전송 완료")
-            # 전송 성공 시에만 리셋
-            cache["kw_counts"]       = {}
-            cache["kw_articles"]     = {}
-            cache["kw_article_pool"] = {}
-            print("카운트 리셋")
+        groups = get_all_news(cache)
+        if groups:
+            messages = format_news_message(groups)
+            for msg in messages:
+                send_telegram(msg)
+                time.sleep(1)
+            print(f"뉴스 {len(groups)}개 그룹 전송 완료")
         else:
-            print("TOP 10 없음 - 리셋 안 함")
+            print("수집된 뉴스 없음 - 전송 안 함")
+        # 리셋
+        cache["kw_counts"]       = {}
+        cache["kw_articles"]     = {}
+        cache["kw_article_pool"] = {}
         cache["last_top10_sent"] = datetime.now(timezone.utc).isoformat()
 
     save_cache(cache)
