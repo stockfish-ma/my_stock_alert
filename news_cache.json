@@ -1292,6 +1292,114 @@
     },
     "90da43c707ab": {
       "first_seen": "2026-08-07T09:28:32.691242+00:00"
+    },
+    "be64f61db471": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "09749a6b857d": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "b628d682efeb": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "bc4053312335": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "ea10102e0738": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "4457bf9a713b": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "111d272b9cb5": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "567e1d4961f8": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "2b1c77dc420b": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "cb744fc76bdd": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "ff6f6935315d": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "fb9614d0a6da": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "0f3b39ad37a3": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "f0355832fc3d": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "6d8c5361709e": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "938954dac710": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "6abe152bfaf7": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "ce57ad2a2271": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "f7a8da5506ae": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "4e96e98a874f": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "5c05885bcd87": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "9403589f0c33": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "0a703c80ce5f": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "53093fb07fed": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "ba49e07200cd": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "d91d3841aafa": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "dcb88f7119ff": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "2723681441a7": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "c6565dc6a0ca": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "0907b4f7402b": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "2731ca1f7aca": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "ae6e2551b078": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "93e7d6a2417f": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "4fe64f0fb3db": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "11d96e8b46ff": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
+    },
+    "2bc72f6b4a42": {
+      "first_seen": "2026-08-07T10:26:08.569927+00:00"
     }
   },
   "news_counts": {
@@ -2352,9 +2460,462 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:SK하이닉스": 4,
+    "반도체:메모리": 2,
+    "반도체:엔비디아": 1,
+    "반도체:HBM": 1,
+    "반도체:GPU": 1,
+    "반도체:반도체": 1,
+    "반도체:HBM4E": 1,
+    "AI인프라:전력수요": 1,
+    "에너지:원전": 2,
+    "에너지:태양광": 5,
+    "트럼프:트럼프": 3,
+    "트럼프:행정명령": 1,
+    "금리/환율:연준": 2,
+    "증권:상향": 1,
+    "증권:코스피": 5,
+    "원자재:구리": 2,
+    "주식:자사주": 1,
+    "주식:유상증자": 2
+  },
   "kw_counts_reset": "2026-08-06T22:33:41.790124+00:00",
   "last_top10_sent": "2026-08-07T09:28:35.828790+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스, 용인·청주에 54조 투자…AI 메모리 생산기반 확충 속도",
+      "url": "https://www.socialvalue.kr/news/view/1065600102154417",
+      "source": "",
+      "count": 4,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:메모리": {
+      "title": "[FMS 2026] 삼성·SK, 차세대 AI 메모리 기술 승부수",
+      "url": "http://www.00news.co.kr/news/articleView.html?idxno=105720",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:엔비디아": {
+      "title": "네이버, AI 수익화 본 궤도…내년 엔비디아와 ‘AI 팩토리’ 띄운다 [컨...",
+      "url": "https://www.kukinews.com/article/view/kuk202608070154",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:HBM": {
+      "title": "HBM이 만든 범용 D램 빈자리 노린다…대만 난야·중국 CXMT, 대규모 증설 - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tbHBuajl4MjRoRkh1MEdnRGVoU2UtQ1BORzdmOGpBOVZWbHFHYmUzdXkyb19LMkJRcWxLZjBLakFKU3Q1MThmbURHdmFYQlZaSG9YTFpxeGFlb3lYTEpjZtIBeEFVX3lxTE1fZ2pjUnVUdDduSkxXc1ZxOF8zdU5KYXJ2enM3NE1NRmxIbXNIcEd6ZlNLaU51Tm9qbjBjcnVqOEhhVmdadnJNU0wxeWJIb0VScHBUS1pjVzJaU3Y1Skl6aW5JWkZBLTN5RGlBZ0JrYnBuY3ZOTzNGUg?oc=5",
+      "source": "newsis.com",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM"
+    },
+    "반도체:GPU": {
+      "title": "“GPU도 전력도 아니다”…AI 기업 주가 흔든 건 결국 ‘돈’ [반도체 오디세이] - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QWHdEMGVnME9KVk01anRrVlM1TmE4c3lORnNRbENUbmhlZ1VlRE5oUGdyUVY1d2JOSVcwSWxfMVIzdE1HZmxhRTZuTGdPbV9WTHc?oc=5",
+      "source": "매일경제 마켓",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "GPU"
+    },
+    "반도체:반도체": {
+      "title": "한국·대만 상반기 수출, 사상 첫 일본 추월…반도체 호황 덕",
+      "url": "https://www.hani.co.kr/arti/international/japan/1271955.html",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "반도체:HBM4E": {
+      "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파 - aitimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMb1RiMHVoZkZFbC0wNVBHNlNmbUtUZFZqN0tiS2o3YnN1OWtZV09oaGFSdlY3alR3M2FMVDdwMHNGR1Z6NldpVkRGSVlVVzEzQUJIS1RrSGFubzFtYkVlc0VOejdGa1RUYlE?oc=5",
+      "source": "aitimes.com",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM4E"
+    },
+    "AI인프라:전력수요": {
+      "title": "'찜통더위'에 전력수요 역대 최고치 경신…한낮 총수요 104.3GW 기록",
+      "url": "https://www.newspim.com/news/view/20260807001119",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력수요"
+    },
+    "에너지:원전": {
+      "title": "한빛원전, 가마미·구시포 해수욕장서 드론 비행 금지 캠페인 실시",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=278943",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "원전"
+    },
+    "에너지:태양광": {
+      "title": "[이슈 분석] 美, 폴리실리콘에 최저가격·15% 관세 폭탄…'태양광·반도...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274393",
+      "source": "",
+      "count": 5,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프, 폴리실리콘 관세 확정… 12월 4일 본격 시행",
+      "url": "https://www.g-enews.com/view.php?ud=2026080719072997182bd56fbc3c_1",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:행정명령": {
+      "title": "'선거 앞' 트럼프, '원정출산 차단' 행정명령 서명은 했는데…어떻게 막...",
+      "url": "https://www.pressian.com/pages/articles/2026080717411963748?utm_source=naver&utm_medium=search",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "행정명령"
+    },
+    "금리/환율:연준": {
+      "title": "IRS 금리 상승…매파 연준·한은 우려 확대",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429216",
+      "source": "",
+      "count": 2,
+      "group": "금리/환율",
+      "keyword": "연준"
+    },
+    "증권:상향": {
+      "title": "순창군, 응급환자 이송비 지원 확대…최대 20만원 상향",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3658872",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:코스피": {
+      "title": "코스피, 이틀 연속 하락...코스닥, 다시 800선 하회",
+      "url": "https://www.ytn.co.kr/_ln/0102_202608071854518488",
+      "source": "",
+      "count": 5,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "원자재:구리": {
+      "title": "구리농수산물공사 새 수장은?…사장·본부장·이사 공모",
+      "url": "https://www.nongmin.com/article/20260807500580",
+      "source": "",
+      "count": 2,
+      "group": "원자재",
+      "keyword": "구리"
+    },
+    "주식:자사주": {
+      "title": "SK하이닉스, 자사주 1.2억원 처분…“사외이사 주식 보상”",
+      "url": "https://www.sedaily.com/article/20077103?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "자사주"
+    },
+    "주식:유상증자": {
+      "title": "엠엑스로보틱스, 100억원 규모 유상증자 결정",
+      "url": "https://view.asiae.co.kr/article/2026080718484779590",
+      "source": "",
+      "count": 2,
+      "group": "주식",
+      "keyword": "유상증자"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스, 용인·청주에 54조 투자…AI 메모리 생산기반 확충 속도",
+        "url": "https://www.socialvalue.kr/news/view/1065600102154417",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "[산업 뉴스브리핑] SK하이닉스, 용인·청주에 54조원 베팅…중장기 생산...",
+        "url": "https://www.asiatime.co.kr/article/20260807500285",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "SK하이닉스, 용인 2기 팹·청주 M17에 총 54조 투자 확정",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790247.html",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "SK하이닉스 보통주 375원 현금배당…\"주주환원 방안 3분기 중 확정\"",
+        "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265488",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "[FMS 2026] 삼성·SK, 차세대 AI 메모리 기술 승부수",
+        "url": "http://www.00news.co.kr/news/articleView.html?idxno=105720",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      },
+      {
+        "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213662",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "네이버, AI 수익화 본 궤도…내년 엔비디아와 ‘AI 팩토리’ 띄운다 [컨...",
+        "url": "https://www.kukinews.com/article/view/kuk202608070154",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:HBM": [
+      {
+        "title": "HBM이 만든 범용 D램 빈자리 노린다…대만 난야·중국 CXMT, 대규모 증설 - newsis.com",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tbHBuajl4MjRoRkh1MEdnRGVoU2UtQ1BORzdmOGpBOVZWbHFHYmUzdXkyb19LMkJRcWxLZjBLakFKU3Q1MThmbURHdmFYQlZaSG9YTFpxeGFlb3lYTEpjZtIBeEFVX3lxTE1fZ2pjUnVUdDduSkxXc1ZxOF8zdU5KYXJ2enM3NE1NRmxIbXNIcEd6ZlNLaU51Tm9qbjBjcnVqOEhhVmdadnJNU0wxeWJIb0VScHBUS1pjVzJaU3Y1Skl6aW5JWkZBLTN5RGlBZ0JrYnBuY3ZOTzNGUg?oc=5",
+        "source": "newsis.com",
+        "group": "반도체",
+        "keyword": "HBM"
+      }
+    ],
+    "반도체:GPU": [
+      {
+        "title": "“GPU도 전력도 아니다”…AI 기업 주가 흔든 건 결국 ‘돈’ [반도체 오디세이] - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QWHdEMGVnME9KVk01anRrVlM1TmE4c3lORnNRbENUbmhlZ1VlRE5oUGdyUVY1d2JOSVcwSWxfMVIzdE1HZmxhRTZuTGdPbV9WTHc?oc=5",
+        "source": "매일경제 마켓",
+        "group": "반도체",
+        "keyword": "GPU"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "한국·대만 상반기 수출, 사상 첫 일본 추월…반도체 호황 덕",
+        "url": "https://www.hani.co.kr/arti/international/japan/1271955.html",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "반도체:HBM4E": [
+      {
+        "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파 - aitimes.com",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMb1RiMHVoZkZFbC0wNVBHNlNmbUtUZFZqN0tiS2o3YnN1OWtZV09oaGFSdlY3alR3M2FMVDdwMHNGR1Z6NldpVkRGSVlVVzEzQUJIS1RrSGFubzFtYkVlc0VOejdGa1RUYlE?oc=5",
+        "source": "aitimes.com",
+        "group": "반도체",
+        "keyword": "HBM4E"
+      }
+    ],
+    "AI인프라:전력수요": [
+      {
+        "title": "'찜통더위'에 전력수요 역대 최고치 경신…한낮 총수요 104.3GW 기록",
+        "url": "https://www.newspim.com/news/view/20260807001119",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력수요"
+      }
+    ],
+    "에너지:원전": [
+      {
+        "title": "한빛원전, 가마미·구시포 해수욕장서 드론 비행 금지 캠페인 실시",
+        "url": "http://www.paxetv.com/news/articleView.html?idxno=278943",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      },
+      {
+        "title": "가뭄에 원전까지 멈춘 유럽...폭염에 블랙아웃 걱정없는 한국",
+        "url": "https://www.newstree.kr/newsView/ntr202608070008",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "[이슈 분석] 美, 폴리실리콘에 최저가격·15% 관세 폭탄…'태양광·반도...",
+        "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274393",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      },
+      {
+        "title": "남동발전, 국내 최대 400MW 태양광 착공… 'RE100·지역상생' 두 토끼 잡...",
+        "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202084",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      },
+      {
+        "title": "美, 폴리실리콘에 최저수입가격 도입…韓 반도체·태양광 전방위 영향권",
+        "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307237",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      },
+      {
+        "title": "트럼프 행정부, '태양광·반도체 핵심 원료' 폴리실리콘에 15% 관세",
+        "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84196",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      },
+      {
+        "title": "전남광주, 해남에 국내 최대 400MW 태양광단지…6807억원 투입",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1400177",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프, 폴리실리콘 관세 확정… 12월 4일 본격 시행",
+        "url": "https://www.g-enews.com/view.php?ud=2026080719072997182bd56fbc3c_1",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "부자들 ‘아기 선물’ 美시민권 막힌다…트럼프, 원정출산 차단",
+        "url": "https://www.mk.co.kr/article/12121237",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 이해충돌 막으려다 세금만 줄여주나...美 클래리티법 윤리조항 ...",
+        "url": "https://www.decenter.kr/article/20077104?ref=naverdc",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:행정명령": [
+      {
+        "title": "'선거 앞' 트럼프, '원정출산 차단' 행정명령 서명은 했는데…어떻게 막...",
+        "url": "https://www.pressian.com/pages/articles/2026080717411963748?utm_source=naver&utm_medium=search",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "행정명령"
+      }
+    ],
+    "금리/환율:연준": [
+      {
+        "title": "IRS 금리 상승…매파 연준·한은 우려 확대",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429216",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      },
+      {
+        "title": "[채권-마감] 타코 기대일까…매파 연준·호르무즈 우려에도 금리 약보합",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429215",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "순창군, 응급환자 이송비 지원 확대…최대 20만원 상향",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3658872",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "코스피, 이틀 연속 하락...코스닥, 다시 800선 하회",
+        "url": "https://www.ytn.co.kr/_ln/0102_202608071854518488",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "코스피 2일 연속 하락, 공매도 거래대금은 하루새 5000억원 급증",
+        "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37387",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "코스피 폭락 경고 8배 급증…이번엔 샌디 공포 [플러스 관심종목]",
+        "url": "https://www.mk.co.kr/article/12121223",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "[증시 오늘] 코스닥·코스피 소폭 하락",
+        "url": "https://www.bigtanews.co.kr/article/view/big202608070018",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "[마감 시황] 코스피, 외국인 순매도에 6,250선으로 후퇴",
+        "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274390",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "원자재:구리": [
+      {
+        "title": "구리농수산물공사 새 수장은?…사장·본부장·이사 공모",
+        "url": "https://www.nongmin.com/article/20260807500580",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
+      },
+      {
+        "title": "현대 테라타워 구리갈매, 사통팔달 교통망 위 복합 비즈니스 캠퍼스",
+        "url": "https://www.koreadaily.com/article/20260807023229627",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
+      }
+    ],
+    "주식:자사주": [
+      {
+        "title": "SK하이닉스, 자사주 1.2억원 처분…“사외이사 주식 보상”",
+        "url": "https://www.sedaily.com/article/20077103?ref=naver",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      }
+    ],
+    "주식:유상증자": [
+      {
+        "title": "엠엑스로보틱스, 100억원 규모 유상증자 결정",
+        "url": "https://view.asiae.co.kr/article/2026080718484779590",
+        "source": "",
+        "group": "주식",
+        "keyword": "유상증자"
+      },
+      {
+        "title": "[속보] 엠엑스로보틱스, 100억원 규모 제3자배정 유상증자…최대주주 엠...",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=595894",
+        "source": "",
+        "group": "주식",
+        "keyword": "유상증자"
+      }
+    ]
+  }
 }
