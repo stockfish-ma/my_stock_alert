@@ -299,6 +299,96 @@
     },
     "87d29eb9a141": {
       "first_seen": "2026-08-07T22:28:50.954009+00:00"
+    },
+    "058c99eb1e88": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "57dd0a797a62": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "f5f3f37014f5": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "568b40e36cb5": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "d91f957d26bf": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "91e764a8ac2d": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "b51f4e51338c": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "4478ed1442bf": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "172be81c6f77": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "8f87169f9a33": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "64704dcc0c23": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "12cafacd1c8b": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "f2b8fd4b45d8": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "1d37a0100a1c": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "b2a9e736e448": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "481882716411": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "66c04dabf599": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "b680c7e462c9": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "3ae1e9968d60": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "c3509ee24e77": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "b3b88a48caa1": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "f238b8539ff6": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "81318cac2ca3": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "78e92cd8d434": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "519f36e24420": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "9118b0b3fb82": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "92032618601d": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "901ee499d00b": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "03ea5e716f75": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
+    },
+    "9b37d3b823d1": {
+      "first_seen": "2026-08-07T23:08:40.321596+00:00"
     }
   },
   "news_counts": {
@@ -1359,9 +1449,431 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "반도체:SK하이닉스": 3,
+    "반도체:메모리": 2,
+    "반도체:마이크론": 1,
+    "반도체:냉각": 1,
+    "반도체:패키징": 1,
+    "반도체:반도체": 1,
+    "AI인프라:전력": 1,
+    "에너지:배터리": 1,
+    "로봇:휴머노이드": 2,
+    "트럼프:트럼프": 3,
+    "트럼프:관세": 1,
+    "금리/환율:기준금리": 1,
+    "금리/환율:금리인상": 3,
+    "증권:상향": 2,
+    "증권:코스피": 2,
+    "국채금리:국채": 1,
+    "주식:수주": 1,
+    "주식:배당": 2
+  },
   "kw_counts_reset": "2026-08-07T11:14:30.679542+00:00",
   "last_top10_sent": "2026-08-07T22:28:54.033444+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "[20년 전 그때] 삼성전자, 독자개발 와이브로 미국시장 진출 본격화",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281985",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스 이어 도시바도 '잭팟'…키옥시아 덕에 순익 30배↑",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93471",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:메모리": {
+      "title": "[칩톡]\"살 빼야 출하된다\"…AI 공룡들, 메모리 기근에 강제 'HBM 다이어트...",
+      "url": "https://view.asiae.co.kr/article/2026080711563237851",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:마이크론": {
+      "title": "다시 개별 기술주?…서학개미, 아마존·마이크론 베팅",
+      "url": "https://www.yna.co.kr/view/AKR20260807116900008?input=1195m",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "마이크론"
+    },
+    "반도체:냉각": {
+      "title": "“에어컨 없이 10도 낮춘다”…폭염에 떠오른 ‘패시브 냉각’ 시장",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608070115",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "냉각"
+    },
+    "반도체:패키징": {
+      "title": "TSMC에 도전장 내민 인텔, '반값 패키징 기술' 승부수[대만칩통신]",
+      "url": "https://view.asiae.co.kr/article/2026080711480224145",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "패키징"
+    },
+    "반도체:반도체": {
+      "title": "반도체 호황에 6월 경상흑자 497억달러…‘역대 최대’",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608070050",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "입추 지나도 계속되는 폭염…식음료업계, ‘늦더위 잡기’ 전력 투구",
+      "url": "https://www.etoday.co.kr/news/view/2612132",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "에너지:배터리": {
+      "title": "[영상] 10년 기다린 '꿈의 배터리'…삼성·SK, 드디어 '공장' 돌린다",
+      "url": "https://www.theguru.co.kr/news/article.html?no=105476",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "로봇:휴머노이드": {
+      "title": "휴머노이드부터 AI공장까지…제조업 바꾸는 M.AX 성과",
+      "url": "https://www.newsis.com/view/NISX20260805_0003737132",
+      "source": "",
+      "count": 2,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프 \"유권자들, 공화당에 화났다, 나한테는 아냐\"…중간선거 앞두고...",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890008.html",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "미국 관세·EU 쿼터·일본 반덤핑…K철강, 수출 '삼중고'",
+      "url": "https://www.newsis.com/view/NISX20260807_0003740736",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "금리/환율:기준금리": {
+      "title": "미국 뉴욕증시, 기준금리 인상 우려 완화에 일제히 상승…다우존스·S&P...",
+      "url": "https://www.lecturernews.com/news/articleView.html?idxno=207993",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "기준금리"
+    },
+    "금리/환율:금리인상": {
+      "title": "금리인상·銀대출관리 약발 먹혔나…7월 지표 주목[한은 미리보기]",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02640406645545352",
+      "source": "",
+      "count": 3,
+      "group": "금리/환율",
+      "keyword": "금리인상"
+    },
+    "증권:상향": {
+      "title": "[AI 10년 전 오늘] 대한민국 국가신용등급 'AA' 상향…역대 최고치 달성",
+      "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243025",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:코스피": {
+      "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
+      "url": "https://www.joongang.co.kr/article/25451794",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "국채금리:국채": {
+      "title": "미국은 왜 '엔화 구출'에 나섰나…美 국채 대량 매도 막기",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=382481",
+      "source": "",
+      "count": 1,
+      "group": "국채금리",
+      "keyword": "국채"
+    },
+    "주식:수주": {
+      "title": "[도시정비 빅매치②] 목동, 권역별 수주전 시작",
+      "url": "https://theviewers.co.kr/View.aspx?No=4176413",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "수주"
+    },
+    "주식:배당": {
+      "title": "7월 상장사 현금배당 17% 증가…“주주환원 노력 지속”",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608070111",
+      "source": "",
+      "count": 2,
+      "group": "주식",
+      "keyword": "배당"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "[20년 전 그때] 삼성전자, 독자개발 와이브로 미국시장 진출 본격화",
+        "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281985",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스 이어 도시바도 '잭팟'…키옥시아 덕에 순익 30배↑",
+        "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93471",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "美고용 악화에 주가 상승, SK하이닉스 ADR 3.85%↓",
+        "url": "https://www.viewsnnews.com/article?q=237759",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "미국증시 고용 감소에 금리인상 우려 후퇴…나스닥 1.3%↑·SK하이닉스 ...",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16158058",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "[칩톡]\"살 빼야 출하된다\"…AI 공룡들, 메모리 기근에 강제 'HBM 다이어트...",
+        "url": "https://view.asiae.co.kr/article/2026080711563237851",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      },
+      {
+        "title": "'메모리 쇼티지' 조립PC 시장 직격…암흑기 장기화 전망",
+        "url": "https://www.theguru.co.kr/news/article.html?no=105545",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:마이크론": [
+      {
+        "title": "다시 개별 기술주?…서학개미, 아마존·마이크론 베팅",
+        "url": "https://www.yna.co.kr/view/AKR20260807116900008?input=1195m",
+        "source": "",
+        "group": "반도체",
+        "keyword": "마이크론"
+      }
+    ],
+    "반도체:냉각": [
+      {
+        "title": "“에어컨 없이 10도 낮춘다”…폭염에 떠오른 ‘패시브 냉각’ 시장",
+        "url": "https://www.sentv.co.kr/article/view/sentv202608070115",
+        "source": "",
+        "group": "반도체",
+        "keyword": "냉각"
+      }
+    ],
+    "반도체:패키징": [
+      {
+        "title": "TSMC에 도전장 내민 인텔, '반값 패키징 기술' 승부수[대만칩통신]",
+        "url": "https://view.asiae.co.kr/article/2026080711480224145",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "반도체 호황에 6월 경상흑자 497억달러…‘역대 최대’",
+        "url": "https://www.sentv.co.kr/article/view/sentv202608070050",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "입추 지나도 계속되는 폭염…식음료업계, ‘늦더위 잡기’ 전력 투구",
+        "url": "https://www.etoday.co.kr/news/view/2612132",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "[영상] 10년 기다린 '꿈의 배터리'…삼성·SK, 드디어 '공장' 돌린다",
+        "url": "https://www.theguru.co.kr/news/article.html?no=105476",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "휴머노이드부터 AI공장까지…제조업 바꾸는 M.AX 성과",
+        "url": "https://www.newsis.com/view/NISX20260805_0003737132",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      },
+      {
+        "title": "[로봇온사이트] '최초 휴머노이드 개발' 일본, '美·中 주도' 로봇 개발...",
+        "url": "https://www.theguru.co.kr/news/article.html?no=105547",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프 \"유권자들, 공화당에 화났다, 나한테는 아냐\"…중간선거 앞두고...",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890008.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "美법원, 인공연못 훼손 용의자 공소기각…트럼프는 \"재고해야\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260807162951071?input=1195m",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 4조2천억 규모 '광업 프로젝트' 발표…희토류 탈중국 속도",
+        "url": "https://www.imaeil.com/page/view/2026080807391623168",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "미국 관세·EU 쿼터·일본 반덤핑…K철강, 수출 '삼중고'",
+        "url": "https://www.newsis.com/view/NISX20260807_0003740736",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "금리/환율:기준금리": [
+      {
+        "title": "미국 뉴욕증시, 기준금리 인상 우려 완화에 일제히 상승…다우존스·S&P...",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=207993",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "기준금리"
+      }
+    ],
+    "금리/환율:금리인상": [
+      {
+        "title": "금리인상·銀대출관리 약발 먹혔나…7월 지표 주목[한은 미리보기]",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02640406645545352",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "금리인상"
+      },
+      {
+        "title": "리플XRP·비트코인·제로베이스 엇갈려…금리인상 기대 후퇴",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16158059",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "금리인상"
+      },
+      {
+        "title": "뉴욕증시, 금리인상 기대론 제동에 상승... S&P500 사상 최고",
+        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=280801",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "금리인상"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "[AI 10년 전 오늘] 대한민국 국가신용등급 'AA' 상향…역대 최고치 달성",
+        "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243025",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "제13호 태풍 돌핀 강도4 유지…10일 강도3 전망 상향·한반도 직접영향...",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16158049",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
+        "url": "https://www.joongang.co.kr/article/25451794",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "코스피, 최악 지났다는데…'진짜' 반등의 조건",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070432&t=NN",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "미국은 왜 '엔화 구출'에 나섰나…美 국채 대량 매도 막기",
+        "url": "https://www.sisajournal.com/news/articleView.html?idxno=382481",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "[도시정비 빅매치②] 목동, 권역별 수주전 시작",
+        "url": "https://theviewers.co.kr/View.aspx?No=4176413",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "7월 상장사 현금배당 17% 증가…“주주환원 노력 지속”",
+        "url": "https://www.sentv.co.kr/article/view/sentv202608070111",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      },
+      {
+        "title": "건보료 개편에 월배당 ETF 전략 변한다…운용사 \"분배금보다 총수익률\"",
+        "url": "https://www.newspim.com/news/view/20260807000479",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ]
+  }
 }
