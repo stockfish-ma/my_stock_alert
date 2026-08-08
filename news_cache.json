@@ -770,6 +770,87 @@
     },
     "75957701435a": {
       "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "1660cf2bc8da": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "0ea46350d352": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "bc57e3c200d6": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "bf691d7679e4": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "e7bd0bf70ddd": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "7377d85bae21": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "21592b380038": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "e40d4ed0c652": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "b7263b3c4477": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "cf131604d281": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "f63f1641d58f": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "939785573e78": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "f8ed38f92ac8": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "cdb03e58f0e5": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "437189baecb8": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "18f740da4fc6": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "954adf7166f9": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "b8dbf4a5d299": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "22d54d3735ab": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "ea4e96f0e93b": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "fa93040826f2": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "57354e77ade6": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "24abc7553482": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "8f5a631af8e4": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "fd17b6ff5cec": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "c36bf19c5893": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
+    },
+    "9ce3b7884e52": {
+      "first_seen": "2026-08-08T06:24:06.844992+00:00"
     }
   },
   "news_counts": {
@@ -1830,9 +1911,388 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "반도체:SK하이닉스": 3,
+    "반도체:메모리": 1,
+    "반도체:엔비디아": 1,
+    "반도체:마이크론": 1,
+    "AI인프라:데이터센터": 1,
+    "에너지:ESS": 1,
+    "에너지:태양광": 3,
+    "에너지:풍력": 1,
+    "로봇:로봇": 1,
+    "트럼프:트럼프": 7,
+    "금리/환율:금리인상": 1,
+    "증권:하향": 1,
+    "증권:JP모건": 1,
+    "증권:코스피": 1,
+    "증권:코스닥": 1,
+    "증권:s&p500": 1
+  },
   "kw_counts_reset": "2026-08-07T23:44:04.009216+00:00",
   "last_top10_sent": "2026-08-08T05:32:29.058038+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "삼성전자 FMS서 2관왕… 'LPDDR5X-PIM'으로 차세대 메모리상",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=747479",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "역대급 실적에 화답...SK하이닉스, 주주환원 시점 3분기로 조기 발표",
+      "url": "https://www.jibs.co.kr/news/articles/articlesDetail/64317?feed=na",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:메모리": {
+      "title": "메모리반도체 품귀에 '장기계약' 러시..샌디스크·난야도 LTA 확대",
+      "url": "https://www.mt.co.kr/industry/2026/08/08/2026080714455982199",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:엔비디아": {
+      "title": "\"엔비디아 통신 시장 진출, 무선 통신장비 업체 수혜\"[주末머니]",
+      "url": "https://view.asiae.co.kr/article/2026080617155259536",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:마이크론": {
+      "title": "개별 기술주 사들이는 서학개미…아마존·마이크론에 베팅",
+      "url": "https://www.sedaily.com/article/20077209?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "마이크론"
+    },
+    "AI인프라:데이터센터": {
+      "title": "온세미 2분기 매출 16억달러…AI 데이터센터 매출 2배 전망",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=747471",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "에너지:ESS": {
+      "title": "영광에 1700억 ESS 투자···민간자본 끌어들여 에너지산업 키운다 - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xQ3hfV0VuT0RYOWMzNTRaYjhVaXo3MTBtZElKWGljaTdna3JrR2J4eFJHTWo1QXhKWmtsSWdzcFVubnhqd1hqaE1INXpxMjlJdWE3M3BtT0hTRmZvbVp6dWZXNzE5TFg4dlE?oc=5",
+      "source": "서울파이낸스",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "ESS"
+    },
+    "에너지:태양광": {
+      "title": "[로컬 게시판/남동발전] 국내 최대 규모 400MW 태양광발전사업 착공식",
+      "url": "https://www.betanews.net/article/view/beta202608080006",
+      "source": "",
+      "count": 3,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "에너지:풍력": {
+      "title": "‘지자체 경계선’ 없는 바다… ‘해상풍력단지’ 분쟁 몰고온다",
+      "url": "https://www.kyeongin.com/article/1768654",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "풍력"
+    },
+    "로봇:로봇": {
+      "title": "충북도, 월드로봇올림피아드 한국대회…7개국·262팀 2000여 명 참가",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3658802",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "‘윤석열 탄핵 반대’ 손현보 목사, 백악관서 트럼프 접견…무슨 대화 ...",
+      "url": "https://www.mk.co.kr/article/12121725",
+      "source": "",
+      "count": 7,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "금리/환율:금리인상": {
+      "title": "미국 7월 고용, 예상밖 감소세 전환…연준 금리인상 기대 후퇴",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=670431",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "금리인상"
+    },
+    "증권:하향": {
+      "title": "\"1조 야르~\" 어닝서프라이즈에도 웃지 못한 이 종목…목표가 하향[주末...",
+      "url": "https://view.asiae.co.kr/article/2026080714042497982",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "하향"
+    },
+    "증권:JP모건": {
+      "title": "JP모건, 하이퍼리퀴드(HYPE) 경고...\"솔라나(SOL)·XRP 넘기 어려워\"",
+      "url": "http://coinreaders.com/251807",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "JP모건"
+    },
+    "증권:코스피": {
+      "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리...",
+      "url": "https://magazine.hankyung.com/business/article/202608056859b",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "경찰, '김부장' 제작사 회장 수사…코스닥 '미공개 정보 이용' 혐의",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211119",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "증권:s&p500": {
+      "title": "금리인상 기대론 후퇴에…S&P500 사상 최고치 기록 경신 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UOGNiSzQxVGYwS2hEXzRDZmxxV0ZzOUNwbnhHQ1dQb1FCMkhQMWpOQXNpZGlzbXkxeHJSeWRzR3QzTTBfa0Rib2JGcTJxRXpmeVE?oc=5",
+      "source": "매일경제 마켓",
+      "count": 1,
+      "group": "증권",
+      "keyword": "s&p500"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "삼성전자 FMS서 2관왕… 'LPDDR5X-PIM'으로 차세대 메모리상",
+        "url": "https://www.econovill.com/news/articleView.html?idxno=747479",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "역대급 실적에 화답...SK하이닉스, 주주환원 시점 3분기로 조기 발표",
+        "url": "https://www.jibs.co.kr/news/articles/articlesDetail/64317?feed=na",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "SK하이닉스, 주주환원 시계 빨라졌다",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855408",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "SK하이닉스, 용인·청주 신규 팹에 약 54조원 투자…AI 메모리 생산 확대",
+        "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206228",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "메모리반도체 품귀에 '장기계약' 러시..샌디스크·난야도 LTA 확대",
+        "url": "https://www.mt.co.kr/industry/2026/08/08/2026080714455982199",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "\"엔비디아 통신 시장 진출, 무선 통신장비 업체 수혜\"[주末머니]",
+        "url": "https://view.asiae.co.kr/article/2026080617155259536",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:마이크론": [
+      {
+        "title": "개별 기술주 사들이는 서학개미…아마존·마이크론에 베팅",
+        "url": "https://www.sedaily.com/article/20077209?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "마이크론"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "온세미 2분기 매출 16억달러…AI 데이터센터 매출 2배 전망",
+        "url": "https://www.econovill.com/news/articleView.html?idxno=747471",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "에너지:ESS": [
+      {
+        "title": "영광에 1700억 ESS 투자···민간자본 끌어들여 에너지산업 키운다 - 서울파이낸스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xQ3hfV0VuT0RYOWMzNTRaYjhVaXo3MTBtZElKWGljaTdna3JrR2J4eFJHTWo1QXhKWmtsSWdzcFVubnhqd1hqaE1INXpxMjlJdWE3M3BtT0hTRmZvbVp6dWZXNzE5TFg4dlE?oc=5",
+        "source": "서울파이낸스",
+        "group": "에너지",
+        "keyword": "ESS"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "[로컬 게시판/남동발전] 국내 최대 규모 400MW 태양광발전사업 착공식",
+        "url": "https://www.betanews.net/article/view/beta202608080006",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      },
+      {
+        "title": "화력발전 맞먹는 '국내 최대 단일부지 태양광' 시동",
+        "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=227325",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      },
+      {
+        "title": "한국남부발전, 자전거도로 유휴공간 활용 태양광 개발 추진",
+        "url": "https://www.joongdo.co.kr/web/view.php?key=20260807010002485",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "에너지:풍력": [
+      {
+        "title": "‘지자체 경계선’ 없는 바다… ‘해상풍력단지’ 분쟁 몰고온다",
+        "url": "https://www.kyeongin.com/article/1768654",
+        "source": "",
+        "group": "에너지",
+        "keyword": "풍력"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "충북도, 월드로봇올림피아드 한국대회…7개국·262팀 2000여 명 참가",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3658802",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "‘윤석열 탄핵 반대’ 손현보 목사, 백악관서 트럼프 접견…무슨 대화 ...",
+        "url": "https://www.mk.co.kr/article/12121725",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "`尹 탄핵반대` 손현보 목사, 백악관서 트럼프 접견…사진 공개",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02912646645545352",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "美법원, ‘트럼프 숙원사업’ 백악관 연회장 공사에 제동",
+        "url": "https://www.chosun.com/international/international_general/2026/08/08/NGQDAWP64JD4BOLQ6VZW7P5PXQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 30억달러 규모 핵심 광물 투자 발표…\"중국 의존 없도록\"",
+        "url": "https://www.mt.co.kr/world/2026/08/08/2026080814265498266",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "‘尹 탄핵 반대’ 손현보 목사, 백악관서 트럼프 접견",
+        "url": "https://www.segye.com/newsView/20260808508263?OutUrl=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"민심 악화, 내 탓 아냐\"…공화당에 책임 떠 넘겨",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5211115",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "'尹 탄핵 반대' 손현보 목사, 백악관서 트럼프 면담",
+        "url": "http://www.inews24.com/view/1993127",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "금리/환율:금리인상": [
+      {
+        "title": "미국 7월 고용, 예상밖 감소세 전환…연준 금리인상 기대 후퇴",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670431",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "금리인상"
+      }
+    ],
+    "증권:하향": [
+      {
+        "title": "\"1조 야르~\" 어닝서프라이즈에도 웃지 못한 이 종목…목표가 하향[주末...",
+        "url": "https://view.asiae.co.kr/article/2026080714042497982",
+        "source": "",
+        "group": "증권",
+        "keyword": "하향"
+      }
+    ],
+    "증권:JP모건": [
+      {
+        "title": "JP모건, 하이퍼리퀴드(HYPE) 경고...\"솔라나(SOL)·XRP 넘기 어려워\"",
+        "url": "http://coinreaders.com/251807",
+        "source": "",
+        "group": "증권",
+        "keyword": "JP모건"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리...",
+        "url": "https://magazine.hankyung.com/business/article/202608056859b",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "경찰, '김부장' 제작사 회장 수사…코스닥 '미공개 정보 이용' 혐의",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211119",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "증권:s&p500": [
+      {
+        "title": "금리인상 기대론 후퇴에…S&P500 사상 최고치 기록 경신 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UOGNiSzQxVGYwS2hEXzRDZmxxV0ZzOUNwbnhHQ1dQb1FCMkhQMWpOQXNpZGlzbXkxeHJSeWRzR3QzTTBfa0Rib2JGcTJxRXpmeVE?oc=5",
+        "source": "매일경제 마켓",
+        "group": "증권",
+        "keyword": "s&p500"
+      }
+    ]
+  }
 }
