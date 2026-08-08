@@ -917,6 +917,18 @@
     },
     "e92ff5fcf671": {
       "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "4c50d1f430b8": {
+      "first_seen": "2026-08-08T12:05:12.663815+00:00"
+    },
+    "0257cb4351a6": {
+      "first_seen": "2026-08-08T12:05:12.663815+00:00"
+    },
+    "ca13f90c0ea1": {
+      "first_seen": "2026-08-08T12:05:12.663815+00:00"
+    },
+    "83a341ab808a": {
+      "first_seen": "2026-08-08T12:05:12.663815+00:00"
     }
   },
   "news_counts": {
@@ -1978,15 +1990,17 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:SK하이닉스": 1,
+    "반도체:SK하이닉스": 2,
     "반도체:반도체": 1,
     "AI인프라:전력": 1,
     "에너지:태양광": 1,
-    "로봇:로봇": 3,
+    "로봇:로봇": 4,
     "트럼프:트럼프": 6,
     "금리/환율:연준": 1,
     "증권:상향": 1,
-    "원자재:구리": 1
+    "원자재:구리": 1,
+    "에너지:풍력": 1,
+    "증권:리포트": 1
   },
   "kw_counts_reset": "2026-08-08T11:45:46.723340+00:00",
   "last_top10_sent": "2026-08-08T11:13:44.431707+00:00",
@@ -1995,7 +2009,7 @@
       "title": "\"용인과 청주에 54조 투자\" SK하이닉스, 中 충칭 공장 지분 매각 검토",
       "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2293225",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "반도체",
       "keyword": "SK하이닉스"
     },
@@ -2027,7 +2041,7 @@
       "title": "스마트 안경에 진심인 중국‥로봇 학습 위한 데이터 확보가 목적?",
       "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843368_37004.html",
       "source": "",
-      "count": 3,
+      "count": 4,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -2062,6 +2076,22 @@
       "count": 1,
       "group": "원자재",
       "keyword": "구리"
+    },
+    "에너지:풍력": {
+      "title": "바닷바람이 만드는 미래...전남광주 해상풍력 '순항'",
+      "url": "https://www.ikbc.co.kr/article/view/kbc202608080027",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "풍력"
+    },
+    "증권:리포트": {
+      "title": "[리포트] 32개국의 태권도 열전⋯톡톡튀는 발명 아이디어도 한자리에",
+      "url": "https://tjmbc.co.kr/NewsArticle/855592",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "리포트"
     }
   },
   "kw_article_pool": {
@@ -2069,6 +2099,13 @@
       {
         "title": "\"용인과 청주에 54조 투자\" SK하이닉스, 中 충칭 공장 지분 매각 검토",
         "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2293225",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "SK하이닉스, 차세대 메모리 기술 공개...FMS서 AI 인프라 최적화 비전 제...",
+        "url": "https://www.job-post.co.kr/news/articleView.html?idxno=223392",
         "source": "",
         "group": "반도체",
         "keyword": "SK하이닉스"
@@ -2119,6 +2156,13 @@
       {
         "title": "[불후의 명곡] 61세 믿기지 않는 박남정, '로봇춤'으로 무대 압도한 40년...",
         "url": "https://kstar.kbs.co.kr/list_view.html?idx=407387",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "\"사람처럼 생각하는 로봇\"…정부도 두 팔 걷은 '합성 데이터'",
+        "url": "https://news.jtbc.co.kr/article/NB12312345?influxDiv=NAVER",
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
@@ -2193,6 +2237,24 @@
         "source": "",
         "group": "원자재",
         "keyword": "구리"
+      }
+    ],
+    "에너지:풍력": [
+      {
+        "title": "바닷바람이 만드는 미래...전남광주 해상풍력 '순항'",
+        "url": "https://www.ikbc.co.kr/article/view/kbc202608080027",
+        "source": "",
+        "group": "에너지",
+        "keyword": "풍력"
+      }
+    ],
+    "증권:리포트": [
+      {
+        "title": "[리포트] 32개국의 태권도 열전⋯톡톡튀는 발명 아이디어도 한자리에",
+        "url": "https://tjmbc.co.kr/NewsArticle/855592",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
       }
     ]
   }
