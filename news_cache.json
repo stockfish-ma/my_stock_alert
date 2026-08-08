@@ -944,6 +944,21 @@
     },
     "9e3ff318d7f5": {
       "first_seen": "2026-08-08T07:29:03.056615+00:00"
+    },
+    "c09b7e7e2f9f": {
+      "first_seen": "2026-08-08T08:07:18.379640+00:00"
+    },
+    "a5a9ce309a33": {
+      "first_seen": "2026-08-08T08:07:18.379640+00:00"
+    },
+    "a62ad9e14fb6": {
+      "first_seen": "2026-08-08T08:07:18.379640+00:00"
+    },
+    "8abdbe6b46ee": {
+      "first_seen": "2026-08-08T08:07:18.379640+00:00"
+    },
+    "aca7e26134c5": {
+      "first_seen": "2026-08-08T08:07:18.379640+00:00"
     }
   },
   "news_counts": {
@@ -2004,9 +2019,80 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "에너지:태양광": 1,
+    "트럼프:트럼프": 3
+  },
   "kw_counts_reset": "2026-08-07T23:44:04.009216+00:00",
   "last_top10_sent": "2026-08-08T07:29:04.712493+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "\"생체정보 수집 증거 없다\"… 삼성전자, 美집단소송 최종 승소",
+      "url": "https://www.kpinews.kr/newsView/1065599147938874",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "에너지:태양광": {
+      "title": "해남 재생복합단지 착공…국내 최대 태양광 프로젝트",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=755943",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "트럼프:트럼프": {
+      "title": "'윤석열 탄핵 반대' 손현보 목사, 백악관서 트럼프 접견",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211136",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "\"생체정보 수집 증거 없다\"… 삼성전자, 美집단소송 최종 승소",
+        "url": "https://www.kpinews.kr/newsView/1065599147938874",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "해남 재생복합단지 착공…국내 최대 태양광 프로젝트",
+        "url": "https://www.mhns.co.kr/news/articleView.html?idxno=755943",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "'윤석열 탄핵 반대' 손현보 목사, 백악관서 트럼프 접견",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211136",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "'탄핵 반대 집회 주도' 손현보 목사, 美 백악관서 트럼프 대통령 면담",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3659386",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "“트럼프 비방 글 올려”…3시간 만에 잘린 검사, 미 법무부 상대 소송",
+        "url": "https://www.hani.co.kr/arti/international/america/1271996.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ]
+  }
 }
