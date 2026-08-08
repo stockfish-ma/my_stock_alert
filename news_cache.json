@@ -1,95 +1,5 @@
 {
   "news_seen": {
-    "058c99eb1e88": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "57dd0a797a62": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "f5f3f37014f5": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "568b40e36cb5": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "d91f957d26bf": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "91e764a8ac2d": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "b51f4e51338c": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "4478ed1442bf": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "172be81c6f77": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "8f87169f9a33": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "64704dcc0c23": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "12cafacd1c8b": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "f2b8fd4b45d8": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "1d37a0100a1c": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "b2a9e736e448": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "481882716411": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "66c04dabf599": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "b680c7e462c9": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "3ae1e9968d60": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "c3509ee24e77": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "b3b88a48caa1": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "f238b8539ff6": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "81318cac2ca3": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "78e92cd8d434": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "519f36e24420": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "9118b0b3fb82": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "92032618601d": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "901ee499d00b": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "03ea5e716f75": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
-    "9b37d3b823d1": {
-      "first_seen": "2026-08-07T23:08:40.321596+00:00"
-    },
     "3b63793c5af1": {
       "first_seen": "2026-08-07T23:45:11.220676+00:00"
     },
@@ -1010,6 +920,24 @@
     },
     "c50a6d78ba9d": {
       "first_seen": "2026-08-08T10:47:46.458087+00:00"
+    },
+    "697a9395515a": {
+      "first_seen": "2026-08-08T11:13:42.755923+00:00"
+    },
+    "e561af086f05": {
+      "first_seen": "2026-08-08T11:13:42.755923+00:00"
+    },
+    "fb3329559742": {
+      "first_seen": "2026-08-08T11:13:42.755923+00:00"
+    },
+    "60706b080a07": {
+      "first_seen": "2026-08-08T11:13:42.755923+00:00"
+    },
+    "37d5986faa26": {
+      "first_seen": "2026-08-08T11:13:42.755923+00:00"
+    },
+    "61f324dafa5d": {
+      "first_seen": "2026-08-08T11:13:42.755923+00:00"
     }
   },
   "news_counts": {
@@ -2070,151 +1998,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:SK하이닉스": 7,
-    "반도체:반도체": 2,
-    "에너지:태양광": 1,
-    "로봇:로봇": 1,
-    "트럼프:트럼프": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-07T23:44:04.009216+00:00",
-  "last_top10_sent": "2026-08-08T10:06:39.815476+00:00",
-  "kw_articles": {
-    "반도체:SK하이닉스": {
-      "title": "SK하이닉스, 중국 충칭 반도체 공장 지분 매각 검토",
-      "url": "https://www.m-economynews.com/news/article.html?no=69556",
-      "source": "",
-      "count": 7,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:반도체": {
-      "title": "이상일 용인시장, 다낭서 반도체·AI 기반 혁신정책 소개",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457324",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "에너지:태양광": {
-      "title": "中 저가 태양광 막는 美 관세…K태양광 반사이익",
-      "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890106.html",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "태양광"
-    },
-    "로봇:로봇": {
-      "title": "커피값 오를 때 할인 늘린 라운지엑스24h…AI 로봇이 만든 가격 경쟁력",
-      "url": "https://www.venturesquare.net/1104704/",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "탄약 부족 보도에 트럼프 격노…“비축량 유출 관련 조사 지시”",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632021&ref=A",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:SK하이닉스": [
-      {
-        "title": "SK하이닉스, 중국 충칭 반도체 공장 지분 매각 검토",
-        "url": "https://www.m-economynews.com/news/article.html?no=69556",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "[속보]“SK하이닉스, 中패키징공장 매각 검토…중국서 인수 거론”",
-        "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260808.99099001975",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "블룸버그 “SK하이닉스, 中 충칭 공장 지분 매각 검토”",
-        "url": "https://biz.chosun.com/it-science/ict/2026/08/08/LFOXAKWDWZEMFOFEUO3ABLM3JQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "SK하이닉스, 中 충칭 후공정 공장 지분매각 검토",
-        "url": "https://www.newsis.com/view/NISX20260808_0003741460",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "블룸버그 \"SK하이닉스, 中 충칭 패키징 공장 지분 매각 검토\"",
-        "url": "https://www.hankyung.com/article/2026080820317",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "“용인·청주 54조 투자” SK하이닉스, 中 충칭 공장 매각 검토",
-        "url": "https://www.sedaily.com/article/20077232?ref=naver",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "블룸버그 “SK하이닉스, 中 충칭 공장 지분 매각 검토”… SK “확정된 ...",
-        "url": "https://www.chosun.com/economy/industry-company/2026/08/08/EG2JIDPPKRGZ5F2RNL3EZQM3CA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "이상일 용인시장, 다낭서 반도체·AI 기반 혁신정책 소개",
-        "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457324",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "경북대학교, '학부-대학원-연구소' 잇는 종합 반도체 인재 양성 생태계...",
-        "url": "https://www.lecturernews.com/news/articleView.html?idxno=208034",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "에너지:태양광": [
-      {
-        "title": "中 저가 태양광 막는 美 관세…K태양광 반사이익",
-        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890106.html",
-        "source": "",
-        "group": "에너지",
-        "keyword": "태양광"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "커피값 오를 때 할인 늘린 라운지엑스24h…AI 로봇이 만든 가격 경쟁력",
-        "url": "https://www.venturesquare.net/1104704/",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "탄약 부족 보도에 트럼프 격노…“비축량 유출 관련 조사 지시”",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632021&ref=A",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-08T11:13:44.431707+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
