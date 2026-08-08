@@ -1040,6 +1040,69 @@
     },
     "16344cc48e4e": {
       "first_seen": "2026-08-08T09:31:48.499018+00:00"
+    },
+    "d8875b235451": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "fd8a8d3655c5": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "d8ddb8a5617e": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "eb739a942f14": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "4343a580c0c8": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "e2915c505dd5": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "58bb3ecf6d81": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "0ce104c435ba": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "aeac84c1bee4": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "5fed36455249": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "d585d8573102": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "59809dc86cc2": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "f77b90c3edf0": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "f77693c9bfc8": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "32ddf3110de8": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "262e4ed4bee8": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "d7be5e8de08f": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "cf82b0f048ca": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "3420ea4af3a1": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "51afab38e094": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
+    },
+    "c9677bf38c7f": {
+      "first_seen": "2026-08-08T10:06:38.125426+00:00"
     }
   },
   "news_counts": {
@@ -2100,248 +2163,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:SK하이닉스": 6,
-    "반도체:TSMC": 1,
-    "반도체:패키징": 2,
-    "반도체:반도체": 2,
-    "AI인프라:전력": 1,
-    "AI인프라:전력망": 1,
-    "트럼프:트럼프": 2,
-    "금리/환율:금리인상": 1,
-    "증권:코스피": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-07T23:44:04.009216+00:00",
-  "last_top10_sent": "2026-08-08T08:55:49.604666+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "\"AI 시대 특허가 경쟁력\"…삼성전자, 올해 30만건 특허 시대 연다",
-      "url": "https://www.ajunews.com/view/20260807152333285",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:SK하이닉스": {
-      "title": "블룸버그 \"SK하이닉스, 中충칭 패키징공장 지분매각 검토\"",
-      "url": "https://biz.sbs.co.kr/article_hub/20000327472?division=NAVER",
-      "source": "",
-      "count": 6,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:TSMC": {
-      "title": "[NNA] TSMC 3나노 출하량, 연내 월 18만 장으로 확대 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXV3RLZ0E0eGtUYTVrSmxwM0JpOWNybWJRaVc1TUZ6azZ1dTRROGZscmhwUEhST0tIckdrSmZkUWdJTzN5SUhsakhtbWl4QkF0WHlwNVphSnhFUdIBWEFVX3lxTE1pZzNOX2JMU2FhV0ZoQkJSYmJxNk5Za2RhV0lVSGd6RTNuQW5LMVJuekNaSEpJVnRkY0JiV1E2YnVNbFlIZGRTZ1dIdFh6SFFLRmhpTDY5Y1I?oc=5",
-      "source": "아주경제",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "TSMC"
-    },
-    "반도체:패키징": {
-      "title": "블룸버그 “SK하닉, 중국 충칭 패키징공장 지분매각 검토”",
-      "url": "https://www.dt.co.kr/article/12077145?ref=naver",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "패키징"
-    },
-    "반도체:반도체": {
-      "title": "이상일 용인시장 \"용인, 세계 최대 단일도시 반도체 생태계 될 것\"",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62597",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:전력": {
-      "title": "\"첫인상 확실했다\" 이강인, AT마드리드 시메오네 감독 신뢰 속 핵심 전력...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16158470",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "AI인프라:전력망": {
-      "title": "전력망엔 돈, 화학엔 칼…에너지·화학 ‘지원과 규율’ 한주",
-      "url": "https://sateconomy.co.kr/news/view/1065582525781879",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력망"
-    },
-    "트럼프:트럼프": {
-      "title": "美 항소법원 \"백악관 연회장 공사 중단\"…트럼프, 대법원 항소(종합)",
-      "url": "https://www.newsis.com/view/NISX20260808_0003741435",
-      "source": "",
-      "count": 2,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "금리/환율:금리인상": {
-      "title": "美증시, 금리인상 기대 후퇴에 상승…S&P500 사상최고치 마감",
-      "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890082.html",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "금리인상"
-    },
-    "증권:코스피": {
-      "title": "‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르...",
-      "url": "https://www.munhwa.com/article/11608150?ref=naver",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스피"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "\"AI 시대 특허가 경쟁력\"…삼성전자, 올해 30만건 특허 시대 연다",
-        "url": "https://www.ajunews.com/view/20260807152333285",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "블룸버그 \"SK하이닉스, 中충칭 패키징공장 지분매각 검토\"",
-        "url": "https://biz.sbs.co.kr/article_hub/20000327472?division=NAVER",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "\"SK하이닉스, 中 충칭 후공정 공장 지분 매각 검토…몸값 4조원\"",
-        "url": "http://www.4th.kr/news/articleView.html?idxno=2116024",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "\"SK하이닉스, 중국 충칭 패키징공장 지분 매각 등 검토\"",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696214&plink=ORI&cooper=NAVER",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "SK하이닉스, 中공장 지분 매각 저울질…4조원대 거래 가능성",
-        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608080523&t=NN",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "\"SK하이닉스, 中 충칭 반도체 공장 지분 매각 검토\"",
-        "url": "https://www.ajunews.com/view/20260808181100209",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "\"SK하이닉스, 충칭 패키징공장 지분매각 방안 검토\"…중국계 펀드·현지...",
-        "url": "https://view.asiae.co.kr/article/2026080818094098722",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:TSMC": [
-      {
-        "title": "[NNA] TSMC 3나노 출하량, 연내 월 18만 장으로 확대 - 아주경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXV3RLZ0E0eGtUYTVrSmxwM0JpOWNybWJRaVc1TUZ6azZ1dTRROGZscmhwUEhST0tIckdrSmZkUWdJTzN5SUhsakhtbWl4QkF0WHlwNVphSnhFUdIBWEFVX3lxTE1pZzNOX2JMU2FhV0ZoQkJSYmJxNk5Za2RhV0lVSGd6RTNuQW5LMVJuekNaSEpJVnRkY0JiV1E2YnVNbFlIZGRTZ1dIdFh6SFFLRmhpTDY5Y1I?oc=5",
-        "source": "아주경제",
-        "group": "반도체",
-        "keyword": "TSMC"
-      }
-    ],
-    "반도체:패키징": [
-      {
-        "title": "블룸버그 “SK하닉, 중국 충칭 패키징공장 지분매각 검토”",
-        "url": "https://www.dt.co.kr/article/12077145?ref=naver",
-        "source": "",
-        "group": "반도체",
-        "keyword": "패키징"
-      },
-      {
-        "title": "\"SK하이닉스, 중국 충칭 패키징공장 지분매각 등 검토\"",
-        "url": "https://www.yna.co.kr/view/AKR20260808045500009?input=1195m",
-        "source": "",
-        "group": "반도체",
-        "keyword": "패키징"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "이상일 용인시장 \"용인, 세계 최대 단일도시 반도체 생태계 될 것\"",
-        "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62597",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "6월 경상수지 497.3억 달러 '역대 최대 흑자'…반도체 폭발·수출 첫 100...",
-        "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065604127822679",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "\"첫인상 확실했다\" 이강인, AT마드리드 시메오네 감독 신뢰 속 핵심 전력...",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16158470",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "AI인프라:전력망": [
-      {
-        "title": "전력망엔 돈, 화학엔 칼…에너지·화학 ‘지원과 규율’ 한주",
-        "url": "https://sateconomy.co.kr/news/view/1065582525781879",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력망"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "美 항소법원 \"백악관 연회장 공사 중단\"…트럼프, 대법원 항소(종합)",
-        "url": "https://www.newsis.com/view/NISX20260808_0003741435",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "'트럼프 충성파' 美법무 대행꼬리 떼…상원 인준 가까스로 가결",
-        "url": "https://www.yna.co.kr/view/AKR20260808046100009?input=1195m",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "금리/환율:금리인상": [
-      {
-        "title": "美증시, 금리인상 기대 후퇴에 상승…S&P500 사상최고치 마감",
-        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890082.html",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "금리인상"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르...",
-        "url": "https://www.munhwa.com/article/11608150?ref=naver",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-08T10:06:39.815476+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
