@@ -698,6 +698,78 @@
     },
     "712b4036bea7": {
       "first_seen": "2026-08-08T04:50:39.221414+00:00"
+    },
+    "7892bad7470d": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "7c0cdf78f06e": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "3796448c8a14": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "97f635dab47d": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "37480931368a": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "86b6abadfb09": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "b34cec3ea638": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "7d06bbda5bcf": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "29d48360f5ce": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "37ec4cee6b89": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "bfadbb4b69ad": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "3bab0895053c": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "441b3ebc6ce8": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "fe4c483c3f59": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "c74027cd020b": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "ea0ad571107f": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "94fa2a4d9140": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "6fee1e06d6fa": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "b94ff904534d": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "95a1bfac6ef6": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "3d358d235cb4": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "84d8a8a828a5": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "60e394255896": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
+    },
+    "75957701435a": {
+      "first_seen": "2026-08-08T05:32:27.449076+00:00"
     }
   },
   "news_counts": {
@@ -1758,327 +1830,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:마이크론": 1,
-    "반도체:반도체": 1,
-    "AI인프라:전력": 1,
-    "에너지:배터리": 1,
-    "에너지:원전": 1,
-    "에너지:태양광": 2,
-    "로봇:피지컬AI": 1,
-    "로봇:로봇": 3,
-    "트럼프:트럼프": 7,
-    "트럼프:백악관": 1,
-    "증권:하향": 1,
-    "증권:코스닥": 1,
-    "주식:수주": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-07T23:44:04.009216+00:00",
-  "last_top10_sent": "2026-08-08T03:55:33.254699+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "포스텍·삼성전자, 3D 낸드 한계 넘는 방향 제어형 결정화 기술 개발",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=716416",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:마이크론": {
-      "title": "서학개미들, 개별 기술주로 복귀…아마존·마이크론·샌디스크 '주목'",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026080813465058742",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "마이크론"
-    },
-    "반도체:반도체": {
-      "title": "부동산·증시·반도체 이어 ISA까지 줄줄이 표류 … 대통령 '과욕'이 화...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/08/2026080800013.html",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:전력": {
-      "title": "LS일렉트릭, 차세대 에너지저장장치(ESS)용 전력변환장치(PCS) 'G2' 양산",
-      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442534",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "에너지:배터리": {
-      "title": "산업부-기후부, 사용후 배터리 육성 본격화…핵심광물 공급망 강화",
-      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49637",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "배터리"
-    },
-    "에너지:원전": {
-      "title": "월성원자력본부, 2027년도 '한수원 지원사업' 공모 실시…‘원전정비원...",
-      "url": "https://view.asiae.co.kr/article/2026080812595169909",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "에너지:태양광": {
-      "title": "정부, 국내생산세액공제 신설…풍력·태양광부터 핵심소재까지 6대 산업...",
-      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49638",
-      "source": "",
-      "count": 2,
-      "group": "에너지",
-      "keyword": "태양광"
-    },
-    "로봇:피지컬AI": {
-      "title": "中 유니트리 회장 \"피지컬AI 산업은 발전 초기\"",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719652",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "피지컬AI"
-    },
-    "로봇:로봇": {
-      "title": "월드로봇올림피아드 한국대회 청주오스코서 개막",
-      "url": "https://www.news1.kr/local/sejong-chungbuk/6253065",
-      "source": "",
-      "count": 3,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프, '대학 스포츠 보호법' 의회 통과 촉구…\"여성·올림픽 종목 사...",
-      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390033",
-      "source": "",
-      "count": 7,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:백악관": {
-      "title": "손현보 목사, 백악관서 트럼프 만나…美정치권과 잇달아 면담",
-      "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6253055",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "백악관"
-    },
-    "증권:하향": {
-      "title": "미국은행, 웨스턴디지털 목표가 720달러로 하향",
-      "url": "https://www.tokenpost.kr/news/breaking/386928",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "하향"
-    },
-    "증권:코스닥": {
-      "title": "경찰, '김부장' 제작사 회장 수사…코스닥 '미공개 정보 이용' 의혹",
-      "url": "https://www.newsis.com/view/NISX20260808_0003741347",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스닥"
-    },
-    "주식:수주": {
-      "title": "60% 빠졌던 효성중공업의 반전…주가 되살린 ‘12조 수주’의 힘 [이주의...",
-      "url": "https://www.mk.co.kr/article/12121695",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "수주"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "포스텍·삼성전자, 3D 낸드 한계 넘는 방향 제어형 결정화 기술 개발",
-        "url": "https://www.hidomin.com/news/articleView.html?idxno=716416",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:마이크론": [
-      {
-        "title": "서학개미들, 개별 기술주로 복귀…아마존·마이크론·샌디스크 '주목'",
-        "url": "https://www.newsway.co.kr/news/view?ud=2026080813465058742",
-        "source": "",
-        "group": "반도체",
-        "keyword": "마이크론"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "부동산·증시·반도체 이어 ISA까지 줄줄이 표류 … 대통령 '과욕'이 화...",
-        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/08/2026080800013.html",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "LS일렉트릭, 차세대 에너지저장장치(ESS)용 전력변환장치(PCS) 'G2' 양산",
-        "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442534",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "에너지:배터리": [
-      {
-        "title": "산업부-기후부, 사용후 배터리 육성 본격화…핵심광물 공급망 강화",
-        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49637",
-        "source": "",
-        "group": "에너지",
-        "keyword": "배터리"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "월성원자력본부, 2027년도 '한수원 지원사업' 공모 실시…‘원전정비원...",
-        "url": "https://view.asiae.co.kr/article/2026080812595169909",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "에너지:태양광": [
-      {
-        "title": "정부, 국내생산세액공제 신설…풍력·태양광부터 핵심소재까지 6대 산업...",
-        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49638",
-        "source": "",
-        "group": "에너지",
-        "keyword": "태양광"
-      },
-      {
-        "title": "남동발전, 국내 최대 400MW 태양광발전사업 착공",
-        "url": "https://www.sidae.com/article/2026080812230882386",
-        "source": "",
-        "group": "에너지",
-        "keyword": "태양광"
-      }
-    ],
-    "로봇:피지컬AI": [
-      {
-        "title": "中 유니트리 회장 \"피지컬AI 산업은 발전 초기\"",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719652",
-        "source": "",
-        "group": "로봇",
-        "keyword": "피지컬AI"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "월드로봇올림피아드 한국대회 청주오스코서 개막",
-        "url": "https://www.news1.kr/local/sejong-chungbuk/6253065",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "[체험기획] '슈퍼로봇대전Y' 35주년 확장팩, 시리즈의 미래와 그 대체 불...",
-        "url": "https://www.inven.co.kr/webzine/news/?news=319318",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
-        "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프, '대학 스포츠 보호법' 의회 통과 촉구…\"여성·올림픽 종목 사...",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390033",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "공화당 머코스키 상원의원, 트럼프와 이례적 이견…스미스소니언 역사...",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390032",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "'尹 탄핵 반대' 손현보 목사, 백악관서 트럼프 접견... \"가족 초청 감사...",
-        "url": "https://www.insight.co.kr/news/567153",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "손현보 목사 \"백악관서 트럼프와 면담\"…美 정치인들과 접촉",
-        "url": "https://www.newsis.com/view/NISX20260808_0003741350",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "‘북극 대사’에 트럼프 측근 부인 지명… 그린란드 노렸나 [이 사람@Wo...",
-        "url": "https://www.segye.com/newsView/20260808506615?OutUrl=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "'윤석열 탄핵 반대' 손현보 목사, 美 트럼프 대통령 면담",
-        "url": "https://www.hankyung.com/article/2026080818607",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 美 '탄약 부족 사태' 보도에 격노…군사기밀 '유출자 색출' 지시",
-        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890040.html",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:백악관": [
-      {
-        "title": "손현보 목사, 백악관서 트럼프 만나…美정치권과 잇달아 면담",
-        "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6253055",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      }
-    ],
-    "증권:하향": [
-      {
-        "title": "미국은행, 웨스턴디지털 목표가 720달러로 하향",
-        "url": "https://www.tokenpost.kr/news/breaking/386928",
-        "source": "",
-        "group": "증권",
-        "keyword": "하향"
-      }
-    ],
-    "증권:코스닥": [
-      {
-        "title": "경찰, '김부장' 제작사 회장 수사…코스닥 '미공개 정보 이용' 의혹",
-        "url": "https://www.newsis.com/view/NISX20260808_0003741347",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스닥"
-      }
-    ],
-    "주식:수주": [
-      {
-        "title": "60% 빠졌던 효성중공업의 반전…주가 되살린 ‘12조 수주’의 힘 [이주의...",
-        "url": "https://www.mk.co.kr/article/12121695",
-        "source": "",
-        "group": "주식",
-        "keyword": "수주"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-08T05:32:29.058038+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
