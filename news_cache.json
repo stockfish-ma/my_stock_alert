@@ -1,74 +1,5 @@
 {
   "news_seen": {
-    "3b63793c5af1": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "762d01ff6090": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "e033f289f968": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "89f0e8f048e6": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "5805043eb6de": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "cc159ce8ffc4": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "bf2f5c788d28": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "caafec9187ee": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "c62533bf8e3a": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "fcea9887dda3": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "34acf4b294f4": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "67b003e4f24e": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "b77b81ecc847": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "89b8b94f178a": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "40b803eb7753": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "ecb6d6f4a752": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "6c55941c266e": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "883aa1eb4646": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "29cb0b70203b": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "208f635e697b": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "82c6ed6a0523": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "c3dbcfb1a245": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
-    "61b407dd52ea": {
-      "first_seen": "2026-08-07T23:45:11.220676+00:00"
-    },
     "3020fee2820d": {
       "first_seen": "2026-08-08T00:33:31.575156+00:00"
     },
@@ -938,6 +869,54 @@
     },
     "61f324dafa5d": {
       "first_seen": "2026-08-08T11:13:42.755923+00:00"
+    },
+    "0c5b3c3c918a": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "a2639b83e403": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "3ca58221c462": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "ab978ec5b777": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "28472aa0061a": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "1a4fe7472339": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "2909341eef5c": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "fea0bd5eabfd": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "3b842d21d13a": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "2d92937fcccd": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "77e7dabb2815": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "624ae2795022": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "9249c17a2023": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "47b744faf715": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "fc434ce856f1": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
+    },
+    "e92ff5fcf671": {
+      "first_seen": "2026-08-08T11:46:58.786801+00:00"
     }
   },
   "news_counts": {
@@ -1998,9 +1977,223 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
-  "kw_counts_reset": "2026-08-07T23:44:04.009216+00:00",
+  "kw_counts": {
+    "반도체:SK하이닉스": 1,
+    "반도체:반도체": 1,
+    "AI인프라:전력": 1,
+    "에너지:태양광": 1,
+    "로봇:로봇": 3,
+    "트럼프:트럼프": 6,
+    "금리/환율:연준": 1,
+    "증권:상향": 1,
+    "원자재:구리": 1
+  },
+  "kw_counts_reset": "2026-08-08T11:45:46.723340+00:00",
   "last_top10_sent": "2026-08-08T11:13:44.431707+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:SK하이닉스": {
+      "title": "\"용인과 청주에 54조 투자\" SK하이닉스, 中 충칭 공장 지분 매각 검토",
+      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2293225",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:반도체": {
+      "title": "임지락 화순군수, 반도체 물길 동복댐으로…“군민 희생 되풀이 안 돼”",
+      "url": "https://www.geconomy.co.kr/news/article.html?no=322649",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "미 해군, 버지니아급 잠수함 강화로 새로운 전력시대 열다",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=874486",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "에너지:태양광": {
+      "title": "해남에 국내 최대 400MW급 태양광 발전단지 착공",
+      "url": "https://kjmbc.co.kr/NewsArticle/1531275",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "로봇:로봇": {
+      "title": "스마트 안경에 진심인 중국‥로봇 학습 위한 데이터 확보가 목적?",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843368_37004.html",
+      "source": "",
+      "count": 3,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "'트럼프 충성파' 법무장관 후보자 인준안, 美 상원 가까스로 통과",
+      "url": "https://www.news1.kr/world/usa-canada/6253200",
+      "source": "",
+      "count": 6,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "금리/환율:연준": {
+      "title": "뉴욕증시 강세 지속… 연준 금리 인상 기대감 약화가 주가 상승세 견인",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=874467",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "연준"
+    },
+    "증권:상향": {
+      "title": "경남 밀양 농업용수 가뭄 비상대응 단계 '심각' 상향",
+      "url": "https://news.knn.co.kr/news/article/191040",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "원자재:구리": {
+      "title": "구리아트홀서 관객 참여형 몰입 연극 '디 옥션' 무료 개최",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=223402",
+      "source": "",
+      "count": 1,
+      "group": "원자재",
+      "keyword": "구리"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:SK하이닉스": [
+      {
+        "title": "\"용인과 청주에 54조 투자\" SK하이닉스, 中 충칭 공장 지분 매각 검토",
+        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2293225",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "임지락 화순군수, 반도체 물길 동복댐으로…“군민 희생 되풀이 안 돼”",
+        "url": "https://www.geconomy.co.kr/news/article.html?no=322649",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "미 해군, 버지니아급 잠수함 강화로 새로운 전력시대 열다",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=874486",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "해남에 국내 최대 400MW급 태양광 발전단지 착공",
+        "url": "https://kjmbc.co.kr/NewsArticle/1531275",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "스마트 안경에 진심인 중국‥로봇 학습 위한 데이터 확보가 목적?",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843368_37004.html",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "칠곡과학발명교육센터, AI·로봇 활용 여름방학 특별과정 운영",
+        "url": "https://www.kbsm.net/news/view.php?idx=529626",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "[불후의 명곡] 61세 믿기지 않는 박남정, '로봇춤'으로 무대 압도한 40년...",
+        "url": "https://kstar.kbs.co.kr/list_view.html?idx=407387",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "'트럼프 충성파' 법무장관 후보자 인준안, 美 상원 가까스로 통과",
+        "url": "https://www.news1.kr/world/usa-canada/6253200",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "'윤 탄핵 반대 집회' 손현보 목사 \"백악관서 트럼프 접견\"",
+        "url": "https://news.jtbc.co.kr/article/NB12312364?influxDiv=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "'전쟁 청구서' 책임 돌린 트럼프…공화당 '경제 우위' 흔들",
+        "url": "https://news.jtbc.co.kr/article/NB12312344?influxDiv=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 지난해 수입 3.1조원…60%가 가상자산",
+        "url": "https://www.kbmaeil.com/article/20260808500112",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "손현보 목사, 트럼프 전 대통령과 백악관 회동…한국 종교·인권 문제 논...",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=874478",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 이민 단속 최전선에 ‘이들’ 있다는데…국경순찰대 무려 절반",
+        "url": "https://www.mk.co.kr/article/12121776",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "금리/환율:연준": [
+      {
+        "title": "뉴욕증시 강세 지속… 연준 금리 인상 기대감 약화가 주가 상승세 견인",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=874467",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "경남 밀양 농업용수 가뭄 비상대응 단계 '심각' 상향",
+        "url": "https://news.knn.co.kr/news/article/191040",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "원자재:구리": [
+      {
+        "title": "구리아트홀서 관객 참여형 몰입 연극 '디 옥션' 무료 개최",
+        "url": "https://www.job-post.co.kr/news/articleView.html?idxno=223402",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
+      }
+    ]
+  }
 }
