@@ -1,41 +1,5 @@
 {
   "news_seen": {
-    "44353eafa633": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "70924666e98a": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "297b8783001e": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "e69b17f8c8f2": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "324f20bcb26a": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "49828dab5a05": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "f4a7b46ed484": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "92fb74498a86": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "bcf3f91df5b6": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "3d7d0caa4997": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "418bf9f63c6b": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
-    "c50a6d78ba9d": {
-      "first_seen": "2026-08-08T10:47:46.458087+00:00"
-    },
     "697a9395515a": {
       "first_seen": "2026-08-08T11:13:42.755923+00:00"
     },
@@ -239,6 +203,75 @@
     },
     "5d3117b780cb": {
       "first_seen": "2026-08-08T22:11:46.822503+00:00"
+    },
+    "12517f6596f9": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "11c224986295": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "b07b2b0dc45f": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "b982996ee9df": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "bbba349f0555": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "fca80d03a9c4": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "c5dc9c2c2d57": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "48ad17d3ef11": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "4cb62ee162ac": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "68c8cff041eb": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "2f1f30cd274b": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "f6572bc8d5d7": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "9d35b1a58af5": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "10d1ae3b3ee0": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "8358efea2479": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "480997aa138d": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "86a487e47b14": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "c690b1919753": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "9e16ba1cd3c0": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "edc7d22ce8c6": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "0ee5b8e1f142": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "22747d67399d": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
+    },
+    "b183a2cca336": {
+      "first_seen": "2026-08-08T22:49:53.981546+00:00"
     }
   },
   "news_counts": {
@@ -1299,9 +1332,349 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:SK하이닉스": 2,
+    "반도체:냉각": 1,
+    "반도체:반도체": 2,
+    "AI인프라:전력": 2,
+    "AI인프라:데이터센터": 1,
+    "에너지:배터리": 1,
+    "로봇:자율주행": 1,
+    "로봇:로봇": 2,
+    "트럼프:트럼프": 2,
+    "트럼프:백악관": 1,
+    "금리/환율:금리인상": 1,
+    "금리/환율:연준": 1,
+    "증권:상향": 1,
+    "증권:코스피": 1,
+    "증권:코스닥": 2,
+    "주식:수주": 2
+  },
   "kw_counts_reset": "2026-08-08T11:45:46.723340+00:00",
   "last_top10_sent": "2026-08-08T22:11:48.618518+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:SK하이닉스": {
+      "title": "투자자 압박에 백기 든 SK하이닉스, ‘나스닥급’ 주주환원 나설까 [선...",
+      "url": "https://www.sedaily.com/article/20077200?ref=naver",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:냉각": {
+      "title": "美 팩토리얼, '90도 무냉각' 전고체 배터리 앞세워 우주 시장 노크",
+      "url": "https://www.theguru.co.kr/news/article.html?no=105546",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "냉각"
+    },
+    "반도체:반도체": {
+      "title": "용인시, 반도체·AI 미래인재 키운다…고교생 30명 ‘공정·피지컬AI’ ...",
+      "url": "https://view.asiae.co.kr/article/2026080907452745661",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "\"미, 이란 전쟁으로 패트리엇 급감‥한국 전력 이전해 대북 태세 우려\"",
+      "url": "https://imnews.imbc.com/news/2026/world/article/6843398_36925.html",
+      "source": "",
+      "count": 2,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "AI인프라:데이터센터": {
+      "title": "인텔, 수천개 위성 관리하는 '궤도 데이터센터' 특허 확보",
+      "url": "https://zdnet.co.kr/view/?no=20260808225255",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "에너지:배터리": {
+      "title": "중앙대, 배터리 열폭주 막는 복합소재 개발",
+      "url": "https://www.naeil.com/news/read/598173?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "로봇:자율주행": {
+      "title": "죽고 멈추고…‘자율주행’ 사고에 안전 직접 검증 나선 中",
+      "url": "https://zdnet.co.kr/view/?no=20260808224530",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "자율주행"
+    },
+    "로봇:로봇": {
+      "title": "마그넨도, 뇌졸중 치료 자율 로봇 개발에 3200만달러 확보",
+      "url": "https://www.g-enews.com/view.php?ud=2026080907412251082bd56fbc3c_1",
+      "source": "",
+      "count": 2,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프의 풍성해진 금발?…백악관, ‘부분가발’ 의심에 “조명 효과”",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632143&ref=A",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:백악관": {
+      "title": "백악관, 전략적 비트코인 준비금 다시 밀어붙인다!",
+      "url": "http://coinreaders.com/251843",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "백악관"
+    },
+    "금리/환율:금리인상": {
+      "title": "고용 쇼크에도 금리인상 베팅 안 꺾였다…이번 주 미국 물가가 분수령",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475601",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "금리인상"
+    },
+    "금리/환율:연준": {
+      "title": "폴리마켓 \"연준 9월 금리 인상 가능성 낮아\"-고용 악화 속 CPI가 변수",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86082",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "연준"
+    },
+    "증권:상향": {
+      "title": "하반기가 더 기대된다… SK바이오팜, 엑스코프리 앞세워 가이던스 상향...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475603",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:코스피": {
+      "title": "미국 물가 지표 주목 속, 코스피·코스닥 엇갈린 흐름",
+      "url": "https://www.tokenpost.kr/news/market/387072",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "개인은 9조 팔았는데… 코스닥 사모은 美 펀드 종목 봤더니",
+      "url": "https://www.chosun.com/economy/economy_general/2026/08/09/3NJTXCLAU5G5RMUPR62K34VYMM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "주식:수주": {
+      "title": "방산 빅4, 하반기 '날갯짓'…실적·수주 따라 속도 차",
+      "url": "http://www.metroseoul.co.kr/article/20260809500003",
+      "source": "",
+      "count": 2,
+      "group": "주식",
+      "keyword": "수주"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:SK하이닉스": [
+      {
+        "title": "투자자 압박에 백기 든 SK하이닉스, ‘나스닥급’ 주주환원 나설까 [선...",
+        "url": "https://www.sedaily.com/article/20077200?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "SK하이닉스, 中 충칭공장 지분 매각 추진설…\"확정된 바 없어\"",
+        "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93480",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:냉각": [
+      {
+        "title": "美 팩토리얼, '90도 무냉각' 전고체 배터리 앞세워 우주 시장 노크",
+        "url": "https://www.theguru.co.kr/news/article.html?no=105546",
+        "source": "",
+        "group": "반도체",
+        "keyword": "냉각"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "용인시, 반도체·AI 미래인재 키운다…고교생 30명 ‘공정·피지컬AI’ ...",
+        "url": "https://view.asiae.co.kr/article/2026080907452745661",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "'반도체 원료' 폴리실리콘에 美 15% 관세… 영향 적고 반사이익 기대",
+        "url": "https://www.mt.co.kr/economy/2026/08/09/2026080713044738548",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "\"미, 이란 전쟁으로 패트리엇 급감‥한국 전력 이전해 대북 태세 우려\"",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6843398_36925.html",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      },
+      {
+        "title": "폭염에 부산 북구 986가구 정전…\"전력 설비에 까마귀 접촉 추정\"",
+        "url": "http://www.yonhapnewstv.co.kr/news/AKR20260809073931YXk",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "인텔, 수천개 위성 관리하는 '궤도 데이터센터' 특허 확보",
+        "url": "https://zdnet.co.kr/view/?no=20260808225255",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "중앙대, 배터리 열폭주 막는 복합소재 개발",
+        "url": "https://www.naeil.com/news/read/598173?ref=naver",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "로봇:자율주행": [
+      {
+        "title": "죽고 멈추고…‘자율주행’ 사고에 안전 직접 검증 나선 中",
+        "url": "https://zdnet.co.kr/view/?no=20260808224530",
+        "source": "",
+        "group": "로봇",
+        "keyword": "자율주행"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "마그넨도, 뇌졸중 치료 자율 로봇 개발에 3200만달러 확보",
+        "url": "https://www.g-enews.com/view.php?ud=2026080907412251082bd56fbc3c_1",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "유니폼부터 AI 로봇 드로잉까지…무료 KT스포츠 팝업 가보니",
+        "url": "https://zdnet.co.kr/view/?no=20260807232749",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프의 풍성해진 금발?…백악관, ‘부분가발’ 의심에 “조명 효과”",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632143&ref=A",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "\"호르무즈 아닌 헤어무즈\"…트럼프 '풍성 금발'에 밈 폭주",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090041&t=NN",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:백악관": [
+      {
+        "title": "백악관, 전략적 비트코인 준비금 다시 밀어붙인다!",
+        "url": "http://coinreaders.com/251843",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "백악관"
+      }
+    ],
+    "금리/환율:금리인상": [
+      {
+        "title": "고용 쇼크에도 금리인상 베팅 안 꺾였다…이번 주 미국 물가가 분수령",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475601",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "금리인상"
+      }
+    ],
+    "금리/환율:연준": [
+      {
+        "title": "폴리마켓 \"연준 9월 금리 인상 가능성 낮아\"-고용 악화 속 CPI가 변수",
+        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86082",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "하반기가 더 기대된다… SK바이오팜, 엑스코프리 앞세워 가이던스 상향...",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475603",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "미국 물가 지표 주목 속, 코스피·코스닥 엇갈린 흐름",
+        "url": "https://www.tokenpost.kr/news/market/387072",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "개인은 9조 팔았는데… 코스닥 사모은 美 펀드 종목 봤더니",
+        "url": "https://www.chosun.com/economy/economy_general/2026/08/09/3NJTXCLAU5G5RMUPR62K34VYMM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      },
+      {
+        "title": "\"환율 하락도 코스닥 유리...이번 주도 코스닥 상승 전망\"",
+        "url": "https://www.ytn.co.kr/_ln/0102_202608090721408878",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "방산 빅4, 하반기 '날갯짓'…실적·수주 따라 속도 차",
+        "url": "http://www.metroseoul.co.kr/article/20260809500003",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      },
+      {
+        "title": "K-방산 수주 이상, “인도네시아, 프랑스 '스코르펜' 착공”…동남아 잠...",
+        "url": "https://www.g-enews.com/view.php?ud=202608090706489656fbbec65dfb_1",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ]
+  }
 }
