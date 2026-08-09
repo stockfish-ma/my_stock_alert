@@ -1421,6 +1421,81 @@
     },
     "eb2ca79a74d6": {
       "first_seen": "2026-08-09T09:24:51.276592+00:00"
+    },
+    "837f7e6a3067": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "3485421dafa7": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "14165d38488e": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "307b033b9ac3": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "b8593cad20d3": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "ac6c6b8c5ebf": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "96f2d2947f73": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "9e203632018b": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "c6af17d47da8": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "0f249f4c2888": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "0b465b49a00c": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "e4d3e3c479f9": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "f88a065f9f16": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "966aa3ef9500": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "1c031f667cff": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "a0dddca99575": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "f1332069369f": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "5f10585b446e": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "3a60407674db": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "d7de3255f702": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "70af7c72e6c3": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "399dd0103d9e": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "5f4433338ac9": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "fcbaa1f51039": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
+    },
+    "05ba4b137954": {
+      "first_seen": "2026-08-09T10:04:20.307501+00:00"
     }
   },
   "news_counts": {
@@ -2481,474 +2556,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:SK하이닉스": 1,
-    "반도체:메모리": 3,
-    "반도체:TSMC": 1,
-    "반도체:반도체": 3,
-    "반도체:HBM4": 1,
-    "AI인프라:전력": 1,
-    "AI인프라:데이터센터": 2,
-    "에너지:배터리": 2,
-    "에너지:LNG": 1,
-    "에너지:풍력": 1,
-    "로봇:피지컬AI": 1,
-    "로봇:로봇": 3,
-    "트럼프:트럼프": 4,
-    "트럼프:관세": 1,
-    "증권:상향": 1,
-    "증권:하향": 1,
-    "증권:코스피": 1,
-    "증권:코스닥": 1,
-    "주식:수주": 2,
-    "주식:M&A": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-08T23:46:46.415706+00:00",
-  "last_top10_sent": "2026-08-09T08:41:51.949495+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "삼성전자, 美 국립연구소와 '차세대 난방 기술' 협력",
-      "url": "https://www.hankyung.com/article/2026080927961",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:SK하이닉스": {
-      "title": "이직하려 SK하이닉스 기술자료 5900장 중국 기업 유출 전 직원, 2심도 실...",
-      "url": "https://weekly.khan.co.kr/article/202608091818001",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:메모리": {
-      "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
-      "url": "https://www.sedaily.com/article/20077396?ref=naver",
-      "source": "",
-      "count": 3,
-      "group": "반도체",
-      "keyword": "메모리"
-    },
-    "반도체:TSMC": {
-      "title": "“경력 없어도 뽑는다”…삼성·TSMC, 미 반도체 인재 쟁탈전 - 뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50MFRTWVZGWk15Unl5bVh1NF9RbHNSMkpQLWpkVG9hZnVBczVvb3lBWk9BRko2MDk4YVFBemltNVJOdTBMWGg4ZFRhSldQb1ZpR0hlRnZIQkVONGpzejVpRw?oc=5",
-      "source": "뉴스토마토",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "TSMC"
-    },
-    "반도체:반도체": {
-      "title": "반도체에 가려졌던 업종 빛 본다… 건설·중공업·전기 강세",
-      "url": "http://www.fnnews.com/news/202608091816524698",
-      "source": "",
-      "count": 3,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "반도체:HBM4": {
-      "title": "삼성 HBM4 '황금 수율' 달성…공급 늘린다 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94LVNiNnp3Wnl6Rk1Ia09hLVF4RUR2N0k3OEFIcmdveERVVVZDb1ZRbHBnRklZeTUzbzFrSWdPSEc0VXMzU3NNOW9ueGx2MWo4WUE4?oc=5",
-      "source": "네이트",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "HBM4"
-    },
-    "AI인프라:전력": {
-      "title": "극한폭염에 정점 치닫는 전력수요… 역대 최고치 기록하나",
-      "url": "https://www.segye.com/newsView/20260809512296?OutUrl=naver",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "AI인프라:데이터센터": {
-      "title": "선베드 뒤로 데이터센터 우뚝… 韓기업 부르는 '경기 다낭시'",
-      "url": "http://www.fnnews.com/news/202608091813311397",
-      "source": "",
-      "count": 2,
-      "group": "AI인프라",
-      "keyword": "데이터센터"
-    },
-    "에너지:배터리": {
-      "title": "본업 살아난 코오롱인더·HS효성…AI·배터리 소재로 보폭 확대",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1309647&inflow=N",
-      "source": "",
-      "count": 2,
-      "group": "에너지",
-      "keyword": "배터리"
-    },
-    "에너지:LNG": {
-      "title": "\"美 LNG 플랜트 설비 시장 선점…10년내 매출 5000억 달성\" - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tT0U4U21Rb0RHTlFnVUpQZnMwTWd2MGVGQ0Vmb21zaDFFWmdMVGlNMngzWDMxRmlOcTNoNTNJb1E5allTaVI3NGlEUXBaa3o4Vkcw?oc=5",
-      "source": "네이트",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "LNG"
-    },
-    "에너지:풍력": {
-      "title": "신협, 고창 해상풍력에 1,000억원 규모 금융지원",
-      "url": "https://sjbnews.com/news/news.php?number=884798",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "풍력"
-    },
-    "로봇:피지컬AI": {
-      "title": "피지컬AI 시대 미래 주역의 로봇은",
-      "url": "https://www.etnews.com/20260809000091",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "피지컬AI"
-    },
-    "로봇:로봇": {
-      "title": "\"로봇이 대신 모기에 물려줄 수 있나요?\"···이색 질문에 웃음꽃 핀 서...",
-      "url": "http://www.hellodd.com/news/articleView.html?idxno=112751",
-      "source": "",
-      "count": 3,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 ‘풍성 금발’에 시선 집중…백악관 “조명 때문”",
-      "url": "https://www.dt.co.kr/article/12077298?ref=naver",
-      "source": "",
-      "count": 4,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:관세": {
-      "title": "'차이나+1'도 안전하지 않다…美 관세 다층화에 패션 공급망 '흔들'",
-      "url": "http://www.ktnews.com/news/articleView.html?idxno=147596",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "관세"
-    },
-    "증권:상향": {
-      "title": "신혼부부 보금자리론 소득 기준, 최소 1.2억으로 상향 검토",
-      "url": "https://www.sedaily.com/article/20077377?ref=naver",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "상향"
-    },
-    "증권:하향": {
-      "title": "거래 위축에 수익 둔화 우려…증권사 목표가 줄하향",
-      "url": "https://www.sedaily.com/article/20077375?ref=naver",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "하향"
-    },
-    "증권:코스피": {
-      "title": "[천왕봉]널뛰기 코스피",
-      "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=642873",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스피"
-    },
-    "증권:코스닥": {
-      "title": "작은 기업에 바늘구멍 된 코스닥… 올 스팩 상장 승인 '0건'[IPO 시장 위...",
-      "url": "http://www.fnnews.com/news/202608091807109366",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스닥"
-    },
-    "주식:수주": {
-      "title": "조선 빅3 '고부가 수주' 올인…年영업익 10조 눈앞",
-      "url": "https://www.hankyung.com/article/2026080927991",
-      "source": "",
-      "count": 2,
-      "group": "주식",
-      "keyword": "수주"
-    },
-    "주식:M&A": {
-      "title": "“글로벌 M&A·마진콜 대응에 강점…美 독립기념일에도 송금” [리빌딩 파이낸스 2026] - decenter.kr",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XSFlnS2JfaWtGd2t4cFhiQ2V2c3ltM2twRW9HWFFUNGRaOGdGYW1SdVZWVTlYTjV3MHNTd0hZTnV5RmQ2V014NGtfNHI4eWJJUVE?oc=5",
-      "source": "decenter.kr",
-      "count": 1,
-      "group": "주식",
-      "keyword": "M&A"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "삼성전자, 美 국립연구소와 '차세대 난방 기술' 협력",
-        "url": "https://www.hankyung.com/article/2026080927961",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "이직하려 SK하이닉스 기술자료 5900장 중국 기업 유출 전 직원, 2심도 실...",
-        "url": "https://weekly.khan.co.kr/article/202608091818001",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:메모리": [
-      {
-        "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
-        "url": "https://www.sedaily.com/article/20077396?ref=naver",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "AI 메모리 국내생산 확대… SK하닉, 글로벌 수요대응 속도전",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260810010002802",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "엔비디아도 ‘메모리 다이어트’ 나서나",
-        "url": "https://www.chosun.com/economy/tech_it/2026/08/09/DYHEIZQV7RFAJPSJ3PIQM7BO44/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      }
-    ],
-    "반도체:TSMC": [
-      {
-        "title": "“경력 없어도 뽑는다”…삼성·TSMC, 미 반도체 인재 쟁탈전 - 뉴스토마토",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50MFRTWVZGWk15Unl5bVh1NF9RbHNSMkpQLWpkVG9hZnVBczVvb3lBWk9BRko2MDk4YVFBemltNVJOdTBMWGg4ZFRhSldQb1ZpR0hlRnZIQkVONGpzejVpRw?oc=5",
-        "source": "뉴스토마토",
-        "group": "반도체",
-        "keyword": "TSMC"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "반도체에 가려졌던 업종 빛 본다… 건설·중공업·전기 강세",
-        "url": "http://www.fnnews.com/news/202608091816524698",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "삼성SDI·에쓰오일…반도체 밖으로 번지는 실적 훈풍",
-        "url": "https://www.hankyung.com/article/2026080928631",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "정청래 또 말실수…\"이명박 임기내 반도체 출시\" 송영길 \"실수한줄도 몰...",
-        "url": "https://www.news1.kr/politics/assembly/6253503",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "반도체:HBM4": [
-      {
-        "title": "삼성 HBM4 '황금 수율' 달성…공급 늘린다 - 네이트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94LVNiNnp3Wnl6Rk1Ia09hLVF4RUR2N0k3OEFIcmdveERVVVZDb1ZRbHBnRklZeTUzbzFrSWdPSEc0VXMzU3NNOW9ueGx2MWo4WUE4?oc=5",
-        "source": "네이트",
-        "group": "반도체",
-        "keyword": "HBM4"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "극한폭염에 정점 치닫는 전력수요… 역대 최고치 기록하나",
-        "url": "https://www.segye.com/newsView/20260809512296?OutUrl=naver",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "AI인프라:데이터센터": [
-      {
-        "title": "선베드 뒤로 데이터센터 우뚝… 韓기업 부르는 '경기 다낭시'",
-        "url": "http://www.fnnews.com/news/202608091813311397",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "데이터센터"
-      },
-      {
-        "title": "[단독] KAIST 본원에 AI데이터센터 세운다",
-        "url": "https://www.sedaily.com/article/20077363?ref=naver",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "데이터센터"
-      }
-    ],
-    "에너지:배터리": [
-      {
-        "title": "본업 살아난 코오롱인더·HS효성…AI·배터리 소재로 보폭 확대",
-        "url": "http://www.newstomato.com/ReadNews.aspx?no=1309647&inflow=N",
-        "source": "",
-        "group": "에너지",
-        "keyword": "배터리"
-      },
-      {
-        "title": "중국산 배터리값 하락에…전기차, 하이브리드보다 싸졌다",
-        "url": "https://www.sedaily.com/article/20077366?ref=naver",
-        "source": "",
-        "group": "에너지",
-        "keyword": "배터리"
-      }
-    ],
-    "에너지:LNG": [
-      {
-        "title": "\"美 LNG 플랜트 설비 시장 선점…10년내 매출 5000억 달성\" - 네이트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tT0U4U21Rb0RHTlFnVUpQZnMwTWd2MGVGQ0Vmb21zaDFFWmdMVGlNMngzWDMxRmlOcTNoNTNJb1E5allTaVI3NGlEUXBaa3o4Vkcw?oc=5",
-        "source": "네이트",
-        "group": "에너지",
-        "keyword": "LNG"
-      }
-    ],
-    "에너지:풍력": [
-      {
-        "title": "신협, 고창 해상풍력에 1,000억원 규모 금융지원",
-        "url": "https://sjbnews.com/news/news.php?number=884798",
-        "source": "",
-        "group": "에너지",
-        "keyword": "풍력"
-      }
-    ],
-    "로봇:피지컬AI": [
-      {
-        "title": "피지컬AI 시대 미래 주역의 로봇은",
-        "url": "https://www.etnews.com/20260809000091",
-        "source": "",
-        "group": "로봇",
-        "keyword": "피지컬AI"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "\"로봇이 대신 모기에 물려줄 수 있나요?\"···이색 질문에 웃음꽃 핀 서...",
-        "url": "http://www.hellodd.com/news/articleView.html?idxno=112751",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "\"상상이 현실로, 불편이 로봇으로\" 학부생들의 100시간 '열정'' \"경쟁보...",
-        "url": "http://www.hellodd.com/news/articleView.html?idxno=112752",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "[화보] \"양산 들고 신발 정리하고\"···'로봇 해커톤' 현장",
-        "url": "http://www.hellodd.com/news/articleView.html?idxno=112753",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 ‘풍성 금발’에 시선 집중…백악관 “조명 때문”",
-        "url": "https://www.dt.co.kr/article/12077298?ref=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 접견 손현보, 한미외교 새 뇌관되나",
-        "url": "https://www.sedaily.com/article/20077390?ref=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "'尹 탄핵 반대 집회 주도'…손현보 목사, 트럼프 만나",
-        "url": "https://www.hankyung.com/article/2026080928681",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "AI 병목 '핵심 광물'…트럼프 4.2조원 투자",
-        "url": "https://www.hankyung.com/article/2026080928141",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:관세": [
-      {
-        "title": "'차이나+1'도 안전하지 않다…美 관세 다층화에 패션 공급망 '흔들'",
-        "url": "http://www.ktnews.com/news/articleView.html?idxno=147596",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      }
-    ],
-    "증권:상향": [
-      {
-        "title": "신혼부부 보금자리론 소득 기준, 최소 1.2억으로 상향 검토",
-        "url": "https://www.sedaily.com/article/20077377?ref=naver",
-        "source": "",
-        "group": "증권",
-        "keyword": "상향"
-      }
-    ],
-    "증권:하향": [
-      {
-        "title": "거래 위축에 수익 둔화 우려…증권사 목표가 줄하향",
-        "url": "https://www.sedaily.com/article/20077375?ref=naver",
-        "source": "",
-        "group": "증권",
-        "keyword": "하향"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "[천왕봉]널뛰기 코스피",
-        "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=642873",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ],
-    "증권:코스닥": [
-      {
-        "title": "작은 기업에 바늘구멍 된 코스닥… 올 스팩 상장 승인 '0건'[IPO 시장 위...",
-        "url": "http://www.fnnews.com/news/202608091807109366",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스닥"
-      }
-    ],
-    "주식:수주": [
-      {
-        "title": "조선 빅3 '고부가 수주' 올인…年영업익 10조 눈앞",
-        "url": "https://www.hankyung.com/article/2026080927991",
-        "source": "",
-        "group": "주식",
-        "keyword": "수주"
-      },
-      {
-        "title": "고부가 3박자…조선 빅3, 수주잔액 200조 돌파",
-        "url": "https://www.hankyung.com/article/2026080928541",
-        "source": "",
-        "group": "주식",
-        "keyword": "수주"
-      }
-    ],
-    "주식:M&A": [
-      {
-        "title": "“글로벌 M&A·마진콜 대응에 강점…美 독립기념일에도 송금” [리빌딩 파이낸스 2026] - decenter.kr",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XSFlnS2JfaWtGd2t4cFhiQ2V2c3ltM2twRW9HWFFUNGRaOGdGYW1SdVZWVTlYTjV3MHNTd0hZTnV5RmQ2V014NGtfNHI4eWJJUVE?oc=5",
-        "source": "decenter.kr",
-        "group": "주식",
-        "keyword": "M&A"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-09T10:04:21.975778+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
