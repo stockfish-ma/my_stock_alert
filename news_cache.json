@@ -1,128 +1,5 @@
 {
   "news_seen": {
-    "12517f6596f9": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "11c224986295": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "b07b2b0dc45f": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "b982996ee9df": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "bbba349f0555": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "fca80d03a9c4": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "c5dc9c2c2d57": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "48ad17d3ef11": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "4cb62ee162ac": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "68c8cff041eb": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "2f1f30cd274b": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "f6572bc8d5d7": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "9d35b1a58af5": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "10d1ae3b3ee0": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "8358efea2479": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "480997aa138d": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "86a487e47b14": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "c690b1919753": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "9e16ba1cd3c0": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "edc7d22ce8c6": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "0ee5b8e1f142": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "22747d67399d": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "b183a2cca336": {
-      "first_seen": "2026-08-08T22:49:53.981546+00:00"
-    },
-    "0069492d8347": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "3478a45bbe1d": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "172ff4b52232": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "e32152cf2abb": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "d09097b1cf63": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "ea926e92214d": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "6dc078c21d8f": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "2409710e6654": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "e9801a52e4c8": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "842bc27fcff6": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "dc240f92b797": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "df0ac0b272b7": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "c65d275a8df3": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "236c56e53554": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "f602dbdeb060": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "b16e15eb5820": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "9c3256bcbd99": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
-    "d6bf6a94ff99": {
-      "first_seen": "2026-08-08T23:13:37.921066+00:00"
-    },
     "ecbacea634c9": {
       "first_seen": "2026-08-08T23:47:53.225077+00:00"
     },
@@ -1409,6 +1286,57 @@
     },
     "d76a57c91603": {
       "first_seen": "2026-08-09T10:49:21.141464+00:00"
+    },
+    "c6246bd6d8a8": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "8e8dd8e592c6": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "f1fb565621ee": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "6f038a3ea810": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "7cdda8693a3b": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "30c5f70654ac": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "c843f45f7836": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "e3a251356687": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "3360d320c2aa": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "248adbef0a01": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "9c98c3dcf52d": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "11def6e3fabf": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "f85031fddc14": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "80f3bd963906": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "dd94715559c8": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "ca3a8297fad6": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
+    },
+    "314f16e5b374": {
+      "first_seen": "2026-08-09T11:15:29.161399+00:00"
     }
   },
   "news_counts": {
@@ -2469,213 +2397,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:HBM": 1,
-    "반도체:GPU": 1,
-    "반도체:반도체": 2,
-    "AI인프라:전력": 1,
-    "에너지:ESS": 1,
-    "에너지:원전": 1,
-    "로봇:로봇": 2,
-    "트럼프:트럼프": 1,
-    "주식:유상증자": 2
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-08T23:46:46.415706+00:00",
-  "last_top10_sent": "2026-08-09T10:04:21.975778+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "삼성전자, 美 오크리지국립연구소와 한랭지 히트펌프 기술 개발",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206235",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:HBM": {
-      "title": "[자막뉴스] 'HBM 핵심 기술' 유출 '하닉 전 직원' \"영업 비밀 아냐\"…이력서 '슬쩍' 썼는데 무죄 이유가? - news.sbs.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHZILUo1REp3U1FnR2pnX0xoRjRBdng3VjJzaGRKX0pUelpjVkw0ajdhUHZnVE9XcjFxMFR3a25uU0FZNXRzRDgtZUg5cWg1SW9UYml1RE5rTTBqcUVQM2pNcV9tTi1uc0ZRWFlxWWJua2dwOC1rSGNlZ1FFN3VFMnhOVkktdFVBbjNvLU9sRdIBZkFVX3lxTFBfOGhzYk9JNTdiUWp0Z1J6UXlseXZaVENrX3ViU2FlYTFrZjIwTjhMcTNHZTJkVDNqZENsWmdTa0JGZUxjb1pHY2tzR0pkVDl6UnZ0bDJYUGY1QjIzVzRjUWdNQUxwQQ?oc=5",
-      "source": "news.sbs.co.kr",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "HBM"
-    },
-    "반도체:GPU": {
-      "title": "'GPU의 아버지' 한국 극찬 …\"삼전닉스 리더십, AI혁명 주도\" - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DT29Jb1FITjZKcTMwWjRUNzFlVnZHTUEtcnQ5eUtKVlV5alNTZjAwT0pVd1BhUGhEYU9GNjhwSG5uWHZhU0VTT1hqS3Z0Zw?oc=5",
-      "source": "매일경제",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "GPU"
-    },
-    "반도체:반도체": {
-      "title": "용인시, 고교생 30명 반도체·AI 미래인재 캠프",
-      "url": "https://www.etnews.com/20260809000117",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:전력": {
-      "title": "휴가철 종료·극한 폭염에 전력수요 비상…예비율 10% 밑으로",
-      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5211267",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "에너지:ESS": {
-      "title": "SK온, 美 리밸런싱 'ESS 전환'으로 답 찾았다 - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qS24zaTdjVlhRWnBWRTBXeVNaNHVuaTRaRW04c1o0Q2p2bHIzLWFocEtPTjlsUXRrb0thRmhwZk8zekhZbmk4M2pteHM3c0hSd0JLa1JLVTBOM3ltcnR5Sm9VMTVtdEdwZllmddIBbEFVX3lxTE9qS24zaTdjVlhRWnBWRTBXeVNaNHVuaTRaRW04c1o0Q2p2bHIzLWFocEtPTjlsUXRrb0thRmhwZk8zekhZbmk4M2pteHM3c0hSd0JLa1JLVTBOM3ltcnR5Sm9VMTVtdEdwZllmdQ?oc=5",
-      "source": "블로터",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "ESS"
-    },
-    "에너지:원전": {
-      "title": "한수원 김회천 사장, 고리원전 폭염 대응·발전설비 점검",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2260678",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "로봇:로봇": {
-      "title": "김천시, 고령층·독거가구 위한 'AI 돌봄로봇' 본격 가동",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=550900",
-      "source": "",
-      "count": 2,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프, 풍성해진 금발에 ‘가발 논란’…“조명이 전부”",
-      "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544208",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "주식:유상증자": {
-      "title": "에코프로비엠, 1조2천억원 유상증자서 자금 사용처 구체적 제시",
-      "url": "https://www.tokenpost.kr/news/market/387211",
-      "source": "",
-      "count": 2,
-      "group": "주식",
-      "keyword": "유상증자"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "삼성전자, 美 오크리지국립연구소와 한랭지 히트펌프 기술 개발",
-        "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206235",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:HBM": [
-      {
-        "title": "[자막뉴스] 'HBM 핵심 기술' 유출 '하닉 전 직원' \"영업 비밀 아냐\"…이력서 '슬쩍' 썼는데 무죄 이유가? - news.sbs.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHZILUo1REp3U1FnR2pnX0xoRjRBdng3VjJzaGRKX0pUelpjVkw0ajdhUHZnVE9XcjFxMFR3a25uU0FZNXRzRDgtZUg5cWg1SW9UYml1RE5rTTBqcUVQM2pNcV9tTi1uc0ZRWFlxWWJua2dwOC1rSGNlZ1FFN3VFMnhOVkktdFVBbjNvLU9sRdIBZkFVX3lxTFBfOGhzYk9JNTdiUWp0Z1J6UXlseXZaVENrX3ViU2FlYTFrZjIwTjhMcTNHZTJkVDNqZENsWmdTa0JGZUxjb1pHY2tzR0pkVDl6UnZ0bDJYUGY1QjIzVzRjUWdNQUxwQQ?oc=5",
-        "source": "news.sbs.co.kr",
-        "group": "반도체",
-        "keyword": "HBM"
-      }
-    ],
-    "반도체:GPU": [
-      {
-        "title": "'GPU의 아버지' 한국 극찬 …\"삼전닉스 리더십, AI혁명 주도\" - 매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DT29Jb1FITjZKcTMwWjRUNzFlVnZHTUEtcnQ5eUtKVlV5alNTZjAwT0pVd1BhUGhEYU9GNjhwSG5uWHZhU0VTT1hqS3Z0Zw?oc=5",
-        "source": "매일경제",
-        "group": "반도체",
-        "keyword": "GPU"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "용인시, 고교생 30명 반도체·AI 미래인재 캠프",
-        "url": "https://www.etnews.com/20260809000117",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "반도체·AI 날개 달고 전남광주 미래 100년 ‘비상’",
-        "url": "http://www.kjdaily.com/article.php?aid=1786271442684160002",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "휴가철 종료·극한 폭염에 전력수요 비상…예비율 10% 밑으로",
-        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5211267",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "에너지:ESS": [
-      {
-        "title": "SK온, 美 리밸런싱 'ESS 전환'으로 답 찾았다 - 블로터",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qS24zaTdjVlhRWnBWRTBXeVNaNHVuaTRaRW04c1o0Q2p2bHIzLWFocEtPTjlsUXRrb0thRmhwZk8zekhZbmk4M2pteHM3c0hSd0JLa1JLVTBOM3ltcnR5Sm9VMTVtdEdwZllmddIBbEFVX3lxTE9qS24zaTdjVlhRWnBWRTBXeVNaNHVuaTRaRW04c1o0Q2p2bHIzLWFocEtPTjlsUXRrb0thRmhwZk8zekhZbmk4M2pteHM3c0hSd0JLa1JLVTBOM3ltcnR5Sm9VMTVtdEdwZllmdQ?oc=5",
-        "source": "블로터",
-        "group": "에너지",
-        "keyword": "ESS"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "한수원 김회천 사장, 고리원전 폭염 대응·발전설비 점검",
-        "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2260678",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "김천시, 고령층·독거가구 위한 'AI 돌봄로봇' 본격 가동",
-        "url": "https://www.dkilbo.com/news/articleView.html?idxno=550900",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "[기획] 로봇 세계1위 유니트리 상장… 대약진 中, 美에 ‘무력시위’",
-        "url": "https://www.dt.co.kr/article/12077308?ref=naver",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프, 풍성해진 금발에 ‘가발 논란’…“조명이 전부”",
-        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544208",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "주식:유상증자": [
-      {
-        "title": "에코프로비엠, 1조2천억원 유상증자서 자금 사용처 구체적 제시",
-        "url": "https://www.tokenpost.kr/news/market/387211",
-        "source": "",
-        "group": "주식",
-        "keyword": "유상증자"
-      },
-      {
-        "title": "에코프로비엠, 유상증자 정정 신고서 제출…1.2조 규모는 유지",
-        "url": "https://www.yna.co.kr/view/AKR20260809043800003?input=1195m",
-        "source": "",
-        "group": "주식",
-        "keyword": "유상증자"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-09T11:15:30.798725+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
