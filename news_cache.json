@@ -1,128 +1,5 @@
 {
   "news_seen": {
-    "7bfa627053d0": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "7fde7cf5cdab": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "0906b7ddf792": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "0ee56e744a30": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "8e602c56dfe9": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "945cb781a3c4": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "a4920f457973": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "bab3ee66f582": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "7f2d1d4b49d5": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "e616045960c6": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "99e0348299ee": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "9178926ff906": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "a0f25a4dc076": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "4a76c297bae3": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "f2b3e21b3caa": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "e4d6bfb0eef5": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "22865e95849d": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "cb8c44ef1595": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "4e7a64689c2b": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "dbf16fec2445": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "8dd7044d1a4d": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "e4e32aea3e0e": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "80a04ef5ab72": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "26ea212029cf": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "616e24dc2ec2": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "e0600c6157f0": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "c0d9eb09d862": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "0d3312d06e2a": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "8bd30af9c528": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "cbb54b824525": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "7222489abd44": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "46e7726562b2": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "82e18a47abd6": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "24250bbbf513": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "c0050f52f9f9": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "37e30d99ec8e": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "2004c58fef67": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "1da2f47dc704": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "f380341ae3d3": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "a9996a5b11cc": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
-    "95ccd54eb626": {
-      "first_seen": "2026-08-12T11:23:28.020535+00:00"
-    },
     "4b84d7de4a12": {
       "first_seen": "2026-08-12T12:07:08.158221+00:00"
     },
@@ -461,6 +338,180 @@
     },
     "7f21b1c81d66": {
       "first_seen": "2026-08-12T22:56:00.370857+00:00"
+    },
+    "050599441099": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "caaf78978bb1": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "3dba6b5f96ec": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "f7c13ad00f80": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "e353acf50c77": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "519b8075656b": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "59b6e26f7a11": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "c15d6c29e0ab": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "eb90003c5456": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "06f42f947a3c": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "1bbd99eb54b1": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "e3633137c239": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "8a376723b8e9": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "78f6119e25e8": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "7e6eed4ff5d3": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "bbbcbd9b2687": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "ebeab3129b1e": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "ec9d63fd9352": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "686763ea7cfa": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "c34fd3e477ab": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "3754978823d0": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "f3c830687d89": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "3ba3a3b322d6": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "2e167febe3a6": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "3d86a01456ae": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "bc2611d648a8": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "fbda95fc8fab": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "8e3e81040af9": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "81cee97df158": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "b8b9a09125c4": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "9639a380fc49": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "a747d6ab9718": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "4c0bd7287ee1": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "6324b1fc02d6": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "dcb4599b4088": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "2a305db2224a": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "e5b5b0b853a2": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "02952c60ff00": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "7d0205418601": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "905eb0c2ca1e": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "ef6435cd0c2f": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "9233f0cf7bbe": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "25837287633e": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "1aa19aa19806": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "a6954fc38056": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "4d273baea428": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "8dbf1080c736": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "42555f14e3cf": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "7132f46960ef": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "3e4cde2ab4d1": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "2ac2c8a26b85": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "13ed3acfdb9b": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "e1c62eae7cf1": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "b4f4b0852aad": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "f5c7c9ca1810": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "c6c911365da3": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "3fd163255239": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
+    },
+    "364a8343a271": {
+      "first_seen": "2026-08-12T23:35:19.467303+00:00"
     }
   },
   "news_counts": {
@@ -1521,581 +1572,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:SK하이닉스": 1,
-    "반도체:엔비디아": 1,
-    "반도체:GPU": 1,
-    "반도체:반도체": 2,
-    "AI인프라:데이터센터": 2,
-    "에너지:배터리": 1,
-    "에너지:원전": 1,
-    "에너지:SMR": 1,
-    "에너지:풍력": 1,
-    "트럼프:트럼프": 8,
-    "트럼프:백악관": 4,
-    "금리/환율:금리인하": 1,
-    "금리/환율:금리동결": 1,
-    "증권:하향": 1,
-    "증권:JP모건": 1,
-    "증권:골드만삭스": 2,
-    "증권:코스피": 2,
-    "증권:코스닥": 1,
-    "증권:나스닥": 2,
-    "증권:s&p500": 1,
-    "국채금리:국채": 2,
-    "원자재:구리": 1,
-    "주식:수주": 1,
-    "주식:배당": 2,
-    "주식:신고가": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-12T22:55:00.374325+00:00",
-  "last_top10_sent": "2026-08-12T22:05:47.271045+00:00",
-  "kw_articles": {
-    "반도체:SK하이닉스": {
-      "title": "중국 YMTC, 낸드 출하량 점유율 세계 3위 첫 진입…삼성·SK하이닉스 추...",
-      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390370",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:엔비디아": {
-      "title": "\"록스타\"…엔비디아 젠슨 황, '직원이 뽑은 최고 CEO' 1위",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000056459",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:GPU": {
-      "title": "\"공짜 AI가 GPU 수요 키운다\"…엔비디아, 세계 최고 개방형 모델 도전 - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkpnS2NQTVBFZnltQTRoUmhVMjlDOS02NzhEcTlMb0RxQTBGQmhSbmhacERlcEdibjJEYkxIVExEOWZMVTJSUEVWVzhYZ3MxTWtFdEtEYmdScDdHN25keFZyN0JVM3FFZjA5T3ROMVFrZkxsZTN3cEhyZm9ScFV6dGprTQ?oc=5",
-      "source": "조선일보",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "GPU"
-    },
-    "반도체:반도체": {
-      "title": "KB證 “반도체, 이제는 재평가의 시간⋯삼전·SK하닉 재평가 본격화”",
-      "url": "https://www.etoday.co.kr/news/view/2613949",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:데이터센터": {
-      "title": "미래에셋證, “KT, 2분기 실적 기대 웃돌아⋯데이터센터ㆍ해저케이블 사...",
-      "url": "https://www.etoday.co.kr/news/view/2613944",
-      "source": "",
-      "count": 2,
-      "group": "AI인프라",
-      "keyword": "데이터센터"
-    },
-    "에너지:배터리": {
-      "title": "LG엔솔·GM, 美 배터리공장 다음주 생산 재개",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546587",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "배터리"
-    },
-    "에너지:원전": {
-      "title": "한국전력, 원전 정비 장기화에 실적 부진…정책 이벤트에 주목 - 신한",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03391526645546992",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "에너지:SMR": {
-      "title": "정기선·빌게이츠 ‘SMR 깐부’…7개월 만에 다시 만난다 - sedaily.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QVk83MTJmWkh6V3VESWFnWXJEazNyT0d5Mk43S240bmlpQ2c1SDNqVnJQMjlQMFZLbXVDb1BOSjVVd2kyNDRkVXc1U0lwSGZIZEHSAVNBVV95cUxOWkhiYnY4NVZhc1VMOEdjU1dTUm9pV0dNMlM0X01jdjJBZml0UGo5ZmV0SEJfaFRVNGI0WWZVZWcySkgzcDM5ai1iemUxVkRZOEl1VQ?oc=5",
-      "source": "sedaily.com",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "SMR"
-    },
-    "에너지:풍력": {
-      "title": "SK오션플랜트, 안마 해상풍력 프로젝트 착공 소식 필요-DS",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03447286645546992",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "풍력"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 \"미국이 호르무즈 완전 장악\"…WSJ \"실제 상황은 달라\"",
-      "url": "https://www.tjb.co.kr/news05/bodo/view/id/102341",
-      "source": "",
-      "count": 8,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:백악관": {
-      "title": "'테플론 인플레이션'에 월가 안도했지만…불안한 백악관의 움직임 [마켓...",
-      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130335&t=NN",
-      "source": "",
-      "count": 4,
-      "group": "트럼프",
-      "keyword": "백악관"
-    },
-    "금리/환율:금리인하": {
-      "title": "美 엔화개입, 원화·위안화도 끌어올려…\"中 금리인하 여지 넓혀\"",
-      "url": "https://www.news1.kr/world/northeast-asia/6257448",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "금리인하"
-    },
-    "금리/환율:금리동결": {
-      "title": "연준, 7월 물가 둔화에 '숨 고르기' 여지…금리동결 기대 커졌다",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62796",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "금리동결"
-    },
-    "증권:하향": {
-      "title": "\"클래시스, 수익성 정상화에 시간 필요…목표가 6만원으로 하향' -대신",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03450566645546992",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "하향"
-    },
-    "증권:JP모건": {
-      "title": "JP모건 \"디스인플레 추세 뚜렷\"",
-      "url": "https://biz.sbs.co.kr/article_hub/20000328396?division=NAVER",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "JP모건"
-    },
-    "증권:골드만삭스": {
-      "title": "골드만삭스, 니오스 인수 보도…비트코인 ETF 1.41조원",
-      "url": "https://www.tokenpost.kr/news/breaking/389581",
-      "source": "",
-      "count": 2,
-      "group": "증권",
-      "keyword": "골드만삭스"
-    },
-    "증권:코스피": {
-      "title": "[마켓 프리뷰] 반도체 '불기둥'에 코스피 급등…코스닥도 '강보합'",
-      "url": "https://biz.sbs.co.kr/article_hub/20000328389?division=NAVER",
-      "source": "",
-      "count": 2,
-      "group": "증권",
-      "keyword": "코스피"
-    },
-    "증권:코스닥": {
-      "title": "'위성통신 안테나' 케이앤에스아이앤씨, 코스닥 데뷔[오늘상장]",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03444006645546992",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스닥"
-    },
-    "증권:나스닥": {
-      "title": "뉴욕증시, 美 소비자물가 둔화에도 혼조…나스닥 0.54%↑",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026081307383022278",
-      "source": "",
-      "count": 2,
-      "group": "증권",
-      "keyword": "나스닥"
-    },
-    "증권:s&p500": {
-      "title": "뉴욕증시, AI주 랠리·물가 둔화에 강세…S&P500 최고치 근접 - newsis.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04cnFWam0tdWdOWERsM19zS3FneDBRZG5mbWtDSWxmdi1pdmNValVjY29UclVVcXNmSl95cHFCS2llMENnSTlTUkFESVRObHp6S2ZJNldYSzFRSi12cnVXZ9IBeEFVX3lxTE0xdkRiSmZZM3lkdTgtSU1yR3lmZXd1NVltTld3SmRjM01zbDktZU83bk55Z08wakF5VkxSekc3M2d3akVFazIzcmNlWVA2MWRDazJnRTNUUXh6TjRyNGtTRVpxSTBoVlFySHB0Z0RzakpYUmZhWW52VQ?oc=5",
-      "source": "newsis.com",
-      "count": 1,
-      "group": "증권",
-      "keyword": "s&p500"
-    },
-    "국채금리:국채": {
-      "title": "[모닝 뉴스브리핑] 토큰화 미 국채 162억달러 外",
-      "url": "https://www.tokenpost.kr/news/briefing/389556",
-      "source": "",
-      "count": 2,
-      "group": "국채금리",
-      "keyword": "국채"
-    },
-    "원자재:구리": {
-      "title": "우혜준 치어리더 ‘섹시한 구리빛 피부’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2183094",
-      "source": "",
-      "count": 1,
-      "group": "원자재",
-      "keyword": "구리"
-    },
-    "주식:수주": {
-      "title": "건설수주 1806.5% 급증에도… 관광객 8.4만명 줄며 제주경제 둔화",
-      "url": "http://www.fnnews.com/news/202608130742076327",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "수주"
-    },
-    "주식:배당": {
-      "title": "'관저 의혹' 조은석 주심 피하려했나…종합특검, '감사원 배당 조작 정...",
-      "url": "http://tbs.seoul.kr/news/newsView.do?typ_800=6&idx_800=3537839&seq_800=20530722",
-      "source": "",
-      "count": 2,
-      "group": "주식",
-      "keyword": "배당"
-    },
-    "주식:신고가": {
-      "title": "[크립토핫이슈] 클래리티법 결국 9월로…비트코인은 8월 신고가",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692529",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "신고가"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:SK하이닉스": [
-      {
-        "title": "중국 YMTC, 낸드 출하량 점유율 세계 3위 첫 진입…삼성·SK하이닉스 추...",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390370",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "\"록스타\"…엔비디아 젠슨 황, '직원이 뽑은 최고 CEO' 1위",
-        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000056459",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:GPU": [
-      {
-        "title": "\"공짜 AI가 GPU 수요 키운다\"…엔비디아, 세계 최고 개방형 모델 도전 - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkpnS2NQTVBFZnltQTRoUmhVMjlDOS02NzhEcTlMb0RxQTBGQmhSbmhacERlcEdibjJEYkxIVExEOWZMVTJSUEVWVzhYZ3MxTWtFdEtEYmdScDdHN25keFZyN0JVM3FFZjA5T3ROMVFrZkxsZTN3cEhyZm9ScFV6dGprTQ?oc=5",
-        "source": "조선일보",
-        "group": "반도체",
-        "keyword": "GPU"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "KB證 “반도체, 이제는 재평가의 시간⋯삼전·SK하닉 재평가 본격화”",
-        "url": "https://www.etoday.co.kr/news/view/2613949",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "[오늘의 증시]美 물가 둔화에 AI주 랠리…코스피도 반도체 중심 반등 지...",
-        "url": "https://www.newsis.com/view/NISX20260813_0003746984",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:데이터센터": [
-      {
-        "title": "미래에셋證, “KT, 2분기 실적 기대 웃돌아⋯데이터센터ㆍ해저케이블 사...",
-        "url": "https://www.etoday.co.kr/news/view/2613944",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "데이터센터"
-      },
-      {
-        "title": "AI 데이터센터發 전력반도체 시장 경쟁 새 국면…8인치 SiC 전환 가속",
-        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692380",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "데이터센터"
-      }
-    ],
-    "에너지:배터리": [
-      {
-        "title": "LG엔솔·GM, 美 배터리공장 다음주 생산 재개",
-        "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546587",
-        "source": "",
-        "group": "에너지",
-        "keyword": "배터리"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "한국전력, 원전 정비 장기화에 실적 부진…정책 이벤트에 주목 - 신한",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03391526645546992",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "에너지:SMR": [
-      {
-        "title": "정기선·빌게이츠 ‘SMR 깐부’…7개월 만에 다시 만난다 - sedaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QVk83MTJmWkh6V3VESWFnWXJEazNyT0d5Mk43S240bmlpQ2c1SDNqVnJQMjlQMFZLbXVDb1BOSjVVd2kyNDRkVXc1U0lwSGZIZEHSAVNBVV95cUxOWkhiYnY4NVZhc1VMOEdjU1dTUm9pV0dNMlM0X01jdjJBZml0UGo5ZmV0SEJfaFRVNGI0WWZVZWcySkgzcDM5ai1iemUxVkRZOEl1VQ?oc=5",
-        "source": "sedaily.com",
-        "group": "에너지",
-        "keyword": "SMR"
-      }
-    ],
-    "에너지:풍력": [
-      {
-        "title": "SK오션플랜트, 안마 해상풍력 프로젝트 착공 소식 필요-DS",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03447286645546992",
-        "source": "",
-        "group": "에너지",
-        "keyword": "풍력"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 \"미국이 호르무즈 완전 장악\"…WSJ \"실제 상황은 달라\"",
-        "url": "https://www.tjb.co.kr/news05/bodo/view/id/102341",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "美 장관 서열 1위도 ‘미끼 비행기’ 탔는데…충성파들은 트럼프 비행기...",
-        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000002748&cp=nv",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 '최연소 대변인' 레빗, 이달 말 퇴임…\"두 아이와 더 많은 시간\"",
-        "url": "https://www.ajunews.com/view/20260813075001135",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 중재안 무색하게…이스라엘, 열흘 만에 가자 공습",
-        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5212100",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈 완전 장악\"...CNN \"하루 14척만 통과\"",
-        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=280983",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈 해협 완전히 장악...이란, 아무 것도 할 수 없어\"",
-        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=142983",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, '전용기 갈아타기' 논란 확산…\"백악관에 안전 대책 요구\"",
-        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212084",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 암살 위협에 기자들 미끼로?…뒤늦게 드러난 비밀작전에 '발칵'",
-        "url": "https://www.ikbc.co.kr/article/view/kbc202608130014",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:백악관": [
-      {
-        "title": "'테플론 인플레이션'에 월가 안도했지만…불안한 백악관의 움직임 [마켓...",
-        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130335&t=NN",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      },
-      {
-        "title": "레빗 백악관 대변인 이달 말 퇴임…\"가족과 더 많은 시간 보낼 것\"",
-        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5212098",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      },
-      {
-        "title": "‘27세 최연소 대변인’ 오른 레빗, 백악관 떠난다···“최고의 엄마...",
-        "url": "https://www.khan.co.kr/article/202608130735001",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      },
-      {
-        "title": "기밀문서 까보니 ‘1.3조원’…트럼프 백악관 개보수 비용 ‘발칵’[1일...",
-        "url": "https://biz.heraldcorp.com/article/10839485?ref=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      }
-    ],
-    "금리/환율:금리인하": [
-      {
-        "title": "美 엔화개입, 원화·위안화도 끌어올려…\"中 금리인하 여지 넓혀\"",
-        "url": "https://www.news1.kr/world/northeast-asia/6257448",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "금리인하"
-      }
-    ],
-    "금리/환율:금리동결": [
-      {
-        "title": "연준, 7월 물가 둔화에 '숨 고르기' 여지…금리동결 기대 커졌다",
-        "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62796",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "금리동결"
-      }
-    ],
-    "증권:하향": [
-      {
-        "title": "\"클래시스, 수익성 정상화에 시간 필요…목표가 6만원으로 하향' -대신",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03450566645546992",
-        "source": "",
-        "group": "증권",
-        "keyword": "하향"
-      }
-    ],
-    "증권:JP모건": [
-      {
-        "title": "JP모건 \"디스인플레 추세 뚜렷\"",
-        "url": "https://biz.sbs.co.kr/article_hub/20000328396?division=NAVER",
-        "source": "",
-        "group": "증권",
-        "keyword": "JP모건"
-      }
-    ],
-    "증권:골드만삭스": [
-      {
-        "title": "골드만삭스, 니오스 인수 보도…비트코인 ETF 1.41조원",
-        "url": "https://www.tokenpost.kr/news/breaking/389581",
-        "source": "",
-        "group": "증권",
-        "keyword": "골드만삭스"
-      },
-      {
-        "title": "골드만삭스, ETF 운용사 네오스 최대 22억5000만달러에 인수",
-        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692668",
-        "source": "",
-        "group": "증권",
-        "keyword": "골드만삭스"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "[마켓 프리뷰] 반도체 '불기둥'에 코스피 급등…코스닥도 '강보합'",
-        "url": "https://biz.sbs.co.kr/article_hub/20000328389?division=NAVER",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      },
-      {
-        "title": "코스피 호황에 투자자문업도 ‘함박웃음’…수수료 수익 1년새 84% 늘어",
-        "url": "https://www.khan.co.kr/article/202608130723001",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ],
-    "증권:코스닥": [
-      {
-        "title": "'위성통신 안테나' 케이앤에스아이앤씨, 코스닥 데뷔[오늘상장]",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03444006645546992",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스닥"
-      }
-    ],
-    "증권:나스닥": [
-      {
-        "title": "뉴욕증시, 美 소비자물가 둔화에도 혼조…나스닥 0.54%↑",
-        "url": "https://www.newsway.co.kr/news/view?ud=2026081307383022278",
-        "source": "",
-        "group": "증권",
-        "keyword": "나스닥"
-      },
-      {
-        "title": "나스닥 0.72% 상승, 코인베이스·로빈후드도 올라",
-        "url": "https://www.tokenpost.kr/news/market/389566",
-        "source": "",
-        "group": "증권",
-        "keyword": "나스닥"
-      }
-    ],
-    "증권:s&p500": [
-      {
-        "title": "뉴욕증시, AI주 랠리·물가 둔화에 강세…S&P500 최고치 근접 - newsis.com",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04cnFWam0tdWdOWERsM19zS3FneDBRZG5mbWtDSWxmdi1pdmNValVjY29UclVVcXNmSl95cHFCS2llMENnSTlTUkFESVRObHp6S2ZJNldYSzFRSi12cnVXZ9IBeEFVX3lxTE0xdkRiSmZZM3lkdTgtSU1yR3lmZXd1NVltTld3SmRjM01zbDktZU83bk55Z08wakF5VkxSekc3M2d3akVFazIzcmNlWVA2MWRDazJnRTNUUXh6TjRyNGtTRVpxSTBoVlFySHB0Z0RzakpYUmZhWW52VQ?oc=5",
-        "source": "newsis.com",
-        "group": "증권",
-        "keyword": "s&p500"
-      }
-    ],
-    "국채금리:국채": [
-      {
-        "title": "[모닝 뉴스브리핑] 토큰화 미 국채 162억달러 外",
-        "url": "https://www.tokenpost.kr/news/briefing/389556",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      },
-      {
-        "title": "STS Digital, 토큰화 국채 USDM1을 파생상품 담보로 채택",
-        "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156046",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      }
-    ],
-    "원자재:구리": [
-      {
-        "title": "우혜준 치어리더 ‘섹시한 구리빛 피부’[엑's HD포토]",
-        "url": "https://www.xportsnews.com/article/2183094",
-        "source": "",
-        "group": "원자재",
-        "keyword": "구리"
-      }
-    ],
-    "주식:수주": [
-      {
-        "title": "건설수주 1806.5% 급증에도… 관광객 8.4만명 줄며 제주경제 둔화",
-        "url": "http://www.fnnews.com/news/202608130742076327",
-        "source": "",
-        "group": "주식",
-        "keyword": "수주"
-      }
-    ],
-    "주식:배당": [
-      {
-        "title": "'관저 의혹' 조은석 주심 피하려했나…종합특검, '감사원 배당 조작 정...",
-        "url": "http://tbs.seoul.kr/news/newsView.do?typ_800=6&idx_800=3537839&seq_800=20530722",
-        "source": "",
-        "group": "주식",
-        "keyword": "배당"
-      },
-      {
-        "title": "'200조 쏜대' 개미들 환호…일본서 또 '사상 최고' 배당 뜬다",
-        "url": "https://www.hankyung.com/article/202608138028i",
-        "source": "",
-        "group": "주식",
-        "keyword": "배당"
-      }
-    ],
-    "주식:신고가": [
-      {
-        "title": "[크립토핫이슈] 클래리티법 결국 9월로…비트코인은 8월 신고가",
-        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692529",
-        "source": "",
-        "group": "주식",
-        "keyword": "신고가"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-12T23:35:22.638545+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
