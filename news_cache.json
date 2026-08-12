@@ -1,158 +1,5 @@
 {
   "news_seen": {
-    "cc5ea5ec06fe": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "936da861c75c": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "5dc324483bcd": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "0e63eeaa12e4": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "7b2886ff9a9f": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "55d4875ba0fa": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "e3da5610186d": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "25bd85683b79": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "f3b6a36f48d7": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "b4278aad6747": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "c7bb90cc59e0": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "b63eac8291b0": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "272dd918fd4a": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "21f7978474a7": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "df8ed4eba356": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "32623ccd4541": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "74ea83e897a1": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "284fc1c6fb9a": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "32b6d420925b": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "0e679f79445d": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "eee52b50cac1": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "438523af97ee": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "dab03bce8b3d": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "e8323be7f3a5": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "c8d49ceb7bbf": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "a1ec11bea864": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "f448a66e7683": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "2a6871aacf0e": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "6150c73777b8": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "95923d7652e6": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "d2f51141a82d": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "fc4f3396bf40": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "19b4c24ef441": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "46cf0cfd1d1c": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "c8a038ec5c3d": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "b56c33f2ac19": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "807144cd9e91": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "e1554ae18d25": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "bb4d7509f836": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "e0e60082d845": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "f284a6265dba": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "1a1494f4f134": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "345aef7eb783": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "4988be9dd9c5": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "10937feae136": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "a74d8051936e": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "6212b81ba626": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "56b68a3d34d7": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "e57e0b61c505": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "5b94e5101d8c": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
-    "e5912ad80973": {
-      "first_seen": "2026-08-11T23:40:19.322261+00:00"
-    },
     "d3cbd931b828": {
       "first_seen": "2026-08-12T00:42:09.456790+00:00"
     },
@@ -1427,6 +1274,90 @@
     },
     "95ccd54eb626": {
       "first_seen": "2026-08-12T11:23:28.020535+00:00"
+    },
+    "4b84d7de4a12": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "32decd90d30f": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "da02a6916d16": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "93ec82b06815": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "c38fcf565d41": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "3bcc8e8d78a9": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "6cc8fdb13ac8": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "6d78713a8d5c": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "94f143ac6b58": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "c30e1fe0247a": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "37f6c0b33fac": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "1e21cca8d3a7": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "df1489fd10bc": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "d91db8b86e71": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "0f662211797a": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "c3b4beebdd11": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "426672e7628d": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "25ac81674e44": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "88f41ad6c5ed": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "78e4389a2939": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "fbdeab06b234": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "e5402993b1d2": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "44cdb444a753": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "8af768e182ed": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "9aaa63786e6b": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "5af268aa6f0e": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "bf6073235afe": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
+    },
+    "cb02f3276c05": {
+      "first_seen": "2026-08-12T12:07:08.158221+00:00"
     }
   },
   "news_counts": {
@@ -2487,519 +2418,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:SK하이닉스": 2,
-    "반도체:엔비디아": 3,
-    "반도체:HBM": 2,
-    "반도체:마이크론": 1,
-    "반도체:TSMC": 1,
-    "반도체:NVIDIA": 2,
-    "반도체:반도체": 5,
-    "에너지:원전": 2,
-    "에너지:태양광": 1,
-    "에너지:SMR": 5,
-    "에너지:LNG": 1,
-    "로봇:휴머노이드": 1,
-    "로봇:로봇": 2,
-    "트럼프:트럼프": 5,
-    "증권:하향": 1,
-    "증권:코스피": 2,
-    "증권:코스닥": 2,
-    "주식:배당": 1,
-    "주식:M&A": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-12T10:27:54.402442+00:00",
-  "last_top10_sent": "2026-08-12T10:28:55.490544+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "한전·삼성전자·SK하이닉스, 호남권·용인 반도체단지 전력공급 3건 협...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=597606",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:SK하이닉스": {
-      "title": "SK하이닉스 인디애나 팹 27일 착공…최태원·젠슨 황 회동 주목",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720176",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:엔비디아": {
-      "title": "경북대, 엔비디아·HD현대로보틱스와 제조 AI 혁신 플랫폼 구축",
-      "url": "https://www.kbsm.net/news/view.php?idx=530230",
-      "source": "",
-      "count": 3,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:HBM": {
-      "title": "[이슈플러스] “HBM 이어 낸드”…SK하이닉스, 낸드 공급망 확장 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rRnhVUm9aNmZ4Wk5NdnBnZDdqN1cwUXU0cm02Q25FdGJpZndzbmpfNVM0ZmxLNzJJQjFtRVJ6UVppcklKWW1EVVgyUExlY3EwbWdiNzBSWUZqRWJ6ZDBZZF9TY2w?oc=5",
-      "source": "서울경제TV",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "HBM"
-    },
-    "반도체:마이크론": {
-      "title": "AI 반도체 붐 지속…마이크론 8월 말 주가 900달러 돌파할까?",
-      "url": "http://coinreaders.com/252452",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "마이크론"
-    },
-    "반도체:TSMC": {
-      "title": "TSMC, 첨단 공정·패키징 등에 42조원 자본지출 승인 - 노컷뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oNW1jdS04cl9EY1FSdWFxMmJqQ1FaSWhOQy10SjFGSE5oQzQ3T3g0NjhrZmRwY0s5YlFxUDNUX0g4Q1g4YTZfYU5FaV9iRzFfZVE?oc=5",
-      "source": "노컷뉴스",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "TSMC"
-    },
-    "반도체:NVIDIA": {
-      "title": "Nvidia 실적 발표에서 투자자들이 주목할 4가지 핵심 사항 - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tUXo1T0RzbnhaNWQ2dDBKVFdpem1BOExaMDZOdUVDSFNlbVpaVmpFOHBvOFl3bzFMYzVpLUJXWTJXSGx6QTdndERYSWxYNVU1bk5JNE1iSThvaERuOXpzOWhSWTRCdEI2NWlicG1NX28?oc=5",
-      "source": "Investing.com",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "NVIDIA"
-    },
-    "반도체:반도체": {
-      "title": "[이슈추적] 반도체 방류수, 진실은 무엇인가",
-      "url": "https://www.kyeongin.com/article/1768944",
-      "source": "",
-      "count": 5,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "에너지:원전": {
-      "title": "정기선, 빌 게이츠 만난다…소형모듈원전 협력 방안 논의할 듯",
-      "url": "https://view.asiae.co.kr/article/2026081219594414494",
-      "source": "",
-      "count": 2,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "에너지:태양광": {
-      "title": "풍력·태양광 이격거리 상한제 도입··· 입지규제 국가 차원서 정비",
-      "url": "http://www.epj.co.kr/news/articleView.html?idxno=39166",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "태양광"
-    },
-    "에너지:SMR": {
-      "title": "HD현대 정기선, 빌 게이츠와 14일 회동…SMR 협력 논의 - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UTlCMmJ0ZUdubEp1d3VSVVk2ZFVoOWp1ejE5eHg3YVh6WXpnNzlEXzFyVHdvSEhZSllLYnpTTk1VWVNqZjBGWUVQQVdQS2JtQ2c?oc=5",
-      "source": "매일경제 마켓",
-      "count": 5,
-      "group": "에너지",
-      "keyword": "SMR"
-    },
-    "에너지:LNG": {
-      "title": "LNG 가격 급등에 한국 수요 위축 전망… 석탄발전 확대 가능성 - 에너지플랫폼뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGd3ppeHZEOGs2a2EzbTVrNXpRbVg3MjNMWnVLY0M3TTVSeldGODdVXzlDZ0tyTmdjeDBvakNBZmdhY1RhWDFXZzZNNTlFSnEtMFp0Zk50Y29RLUNFV2VYVFZSa0h4Y244NU1yTtIBcEFVX3lxTFBzbzZrRnlyRzVWUHEySTdJNlluMEJvdHdCbmlEczI1WG1pRXdLUl9leEtUR0Z3ZDVURzZUMEc0YklEcC1YbnoxME54azB2VEl0UnByaFM0T0U0OVo1MHRBb19IS216REwwSzRTZWlhWXc?oc=5",
-      "source": "에너지플랫폼뉴스",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "LNG"
-    },
-    "로봇:휴머노이드": {
-      "title": "물류 자동화 기술 쌓은 케이엔로보틱스, '휴머노이드'로 연구영역 넓힌...",
-      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322300",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "휴머노이드"
-    },
-    "로봇:로봇": {
-      "title": "대전혁신센터, 31일까지 로봇창업경진대회 참가팀 모집",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175194",
-      "source": "",
-      "count": 2,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "\"취재진 미끼로 비밀 환승\"...트럼프 '전쟁 승리'의 민낯?",
-      "url": "https://www.ytn.co.kr/_ln/0104_202608122010279357",
-      "source": "",
-      "count": 5,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "증권:하향": {
-      "title": "'극한 더위' 주춤…정부, 폭염 중대본 비상근무 2→1단계 하향",
-      "url": "https://www.dailian.co.kr/news/view/1677833/?sc=Naver",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "하향"
-    },
-    "증권:코스피": {
-      "title": "[공시] 코스피·코스닥 32개사, '시총·동전주' 관리종목 무더기 지정",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=713792",
-      "source": "",
-      "count": 2,
-      "group": "증권",
-      "keyword": "코스피"
-    },
-    "증권:코스닥": {
-      "title": "바로팜·크리에이츠·진코스텍, 코스닥 입성 청신호...거래소 상장예심...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476811",
-      "source": "",
-      "count": 2,
-      "group": "증권",
-      "keyword": "코스닥"
-    },
-    "주식:배당": {
-      "title": "'유령주식배당' 사건 8년 만에‥대법원 \"삼성증권이 18억 원 배상\"",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844317_37004.html",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "배당"
-    },
-    "주식:M&A": {
-      "title": "김용범 메리츠 부회장 \"사업 확장 위한 M&A 적극 검토\"[IR종합] - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5WFZGd2wxVGdsYmQtWDRlaTgtWG1hZVA2NjZoYnVPcGdqTDRRbDdSVm1hMEpUWE9TWUt4UHUtZmV6Wk16dmRRTW85bWR6bjc4MWNvcnBScHlDQjZjU3N6Q9IBZkFVX3lxTE5vQzdVWW5XX3pRbEJTeEhjYWdfVzB6ajhNdkFMRF9IaUNhMVBDdDI1anQ0NVBndUl6aEFCN2JoYUk2ZDBxVWdyV1B6TzY2UnZ6N0RLTFBCN21sNmRtNkg5N050UzFDdw?oc=5",
-      "source": "뉴스1",
-      "count": 1,
-      "group": "주식",
-      "keyword": "M&A"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "한전·삼성전자·SK하이닉스, 호남권·용인 반도체단지 전력공급 3건 협...",
-        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=597606",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "SK하이닉스 인디애나 팹 27일 착공…최태원·젠슨 황 회동 주목",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720176",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "SK하이닉스, 27일 美 인디애나 팹 착공식-최태원·젠슨 황 참석 가능성 ...",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86469",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "경북대, 엔비디아·HD현대로보틱스와 제조 AI 혁신 플랫폼 구축",
-        "url": "https://www.kbsm.net/news/view.php?idx=530230",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "서울대, 로보틱스연구동 건립 나선다…엔비디아 조인트랩 입주 논의",
-        "url": "https://www.news1.kr/society/general-society/6257360",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=213846",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:HBM": [
-      {
-        "title": "[이슈플러스] “HBM 이어 낸드”…SK하이닉스, 낸드 공급망 확장 - 서울경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rRnhVUm9aNmZ4Wk5NdnBnZDdqN1cwUXU0cm02Q25FdGJpZndzbmpfNVM0ZmxLNzJJQjFtRVJ6UVppcklKWW1EVVgyUExlY3EwbWdiNzBSWUZqRWJ6ZDBZZF9TY2w?oc=5",
-        "source": "서울경제TV",
-        "group": "반도체",
-        "keyword": "HBM"
-      },
-      {
-        "title": "조선대 반도체화학과, HBM 패키징 소재 상용화 성공 - 아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51SGd3Q2pRTDhCblBGdFlwNWdfTlpuQ0VjdzBxSXdPODY2ZndmLW1NN1BKbXNZeXdHOFZaOFpvUkkza3lkZElYXzNFZFl4c1h0cUROOUlOUGFudDBzTHMzdw?oc=5",
-        "source": "아시아경제",
-        "group": "반도체",
-        "keyword": "HBM"
-      }
-    ],
-    "반도체:마이크론": [
-      {
-        "title": "AI 반도체 붐 지속…마이크론 8월 말 주가 900달러 돌파할까?",
-        "url": "http://coinreaders.com/252452",
-        "source": "",
-        "group": "반도체",
-        "keyword": "마이크론"
-      }
-    ],
-    "반도체:TSMC": [
-      {
-        "title": "TSMC, 첨단 공정·패키징 등에 42조원 자본지출 승인 - 노컷뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oNW1jdS04cl9EY1FSdWFxMmJqQ1FaSWhOQy10SjFGSE5oQzQ3T3g0NjhrZmRwY0s5YlFxUDNUX0g4Q1g4YTZfYU5FaV9iRzFfZVE?oc=5",
-        "source": "노컷뉴스",
-        "group": "반도체",
-        "keyword": "TSMC"
-      }
-    ],
-    "반도체:NVIDIA": [
-      {
-        "title": "Nvidia 실적 발표에서 투자자들이 주목할 4가지 핵심 사항 - Investing.com 한국어",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tUXo1T0RzbnhaNWQ2dDBKVFdpem1BOExaMDZOdUVDSFNlbVpaVmpFOHBvOFl3bzFMYzVpLUJXWTJXSGx6QTdndERYSWxYNVU1bk5JNE1iSThvaERuOXpzOWhSWTRCdEI2NWlicG1NX28?oc=5",
-        "source": "Investing.com",
-        "group": "반도체",
-        "keyword": "NVIDIA"
-      },
-      {
-        "title": "Nvidia, AI 데이터센터용 800VDC 전력 시스템 도입 - Investing.com 한국어",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTEZTcVlEZW5NYThzWkJ3ZFpVSVJ4VzVYT09IaWtzcFFSZjVaUU1CRTFuSGJYRmtWQnd5R1BoM1dnTzRBc0s3VUNyek9qYWhSRVlXS180ODlyckxMUDJ0dmJPVGF3aEVrbEktSjh3bUtTQm9fcHVj?oc=5",
-        "source": "Investing.com",
-        "group": "반도체",
-        "keyword": "NVIDIA"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "[이슈추적] 반도체 방류수, 진실은 무엇인가",
-        "url": "https://www.kyeongin.com/article/1768944",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "“호남 반도체 부지, 정부가 기업에 먼저 제안”",
-        "url": "http://www.kjdaily.com/article.php?aid=1786532329684428002",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "‘광주 군공항 분산배치·반도체 산단 조기 착공’ 모색",
-        "url": "http://www.kjdaily.com/article.php?aid=1786532330684434002",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "호남 반도체 산단에 2029년 3GW 전력 우선 공급",
-        "url": "http://www.kjdaily.com/article.php?aid=1786532324684439002",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "산업장관 \"호남 반도체 부지 정부가 제안\"…\"2029년도 느려\" 속도전(종합...",
-        "url": "https://www.newsis.com/view/NISX20260812_0003746850",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "정기선, 빌 게이츠 만난다…소형모듈원전 협력 방안 논의할 듯",
-        "url": "https://view.asiae.co.kr/article/2026081219594414494",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "정기선·빌 게이츠 만난다..HD현대, 테라파워와 소형원전 협력 확대",
-        "url": "http://www.fnnews.com/news/202608121946069304",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "에너지:태양광": [
-      {
-        "title": "풍력·태양광 이격거리 상한제 도입··· 입지규제 국가 차원서 정비",
-        "url": "http://www.epj.co.kr/news/articleView.html?idxno=39166",
-        "source": "",
-        "group": "에너지",
-        "keyword": "태양광"
-      }
-    ],
-    "에너지:SMR": [
-      {
-        "title": "HD현대 정기선, 빌 게이츠와 14일 회동…SMR 협력 논의 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UTlCMmJ0ZUdubEp1d3VSVVk2ZFVoOWp1ejE5eHg3YVh6WXpnNzlEXzFyVHdvSEhZSllLYnpTTk1VWVNqZjBGWUVQQVdQS2JtQ2c?oc=5",
-        "source": "매일경제 마켓",
-        "group": "에너지",
-        "keyword": "SMR"
-      },
-      {
-        "title": "정기선·빌 게이츠, 14일 서울서 재회…SMR 협력 논의 테이블 오른다 - 조선비즈 - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmVrLWVPbVFzS1hZbUxfeTMtMGU2OVhScFllRk50TXNPcFpldHB3a2VHaktyOTBCR2hyTlpQazhxNXphYUU3cUJueThsb2xsWVBiakxEeE5qTHJxeFpNQk44dElIYU1QQTNPTlNlM1N4TTRlSjhYdHRqVk81bWlVRUljMkPSAZgBQVVfeXFMT0stdlNfbVBLUU9JclMyVnBGUFotdThhZXQ0TF95SzVLMkIxNjdBdDg2bWtkYWpiajBGWGFJVk15Njk4RU8zaDJJZ2JEUlZ0WUFlWjVZMGhjRHozc2xndmpad2JIVk1wY1F4WWVXNGpMdlZMeTZmZUx4WlFlZ21vdWZWaWhweVVSSmQzSzRNRlNsai1aNWphTnU?oc=5",
-        "source": "Chosunbiz",
-        "group": "에너지",
-        "keyword": "SMR"
-      },
-      {
-        "title": "정기선, 14일 방한 빌 게이츠 만난다…SMR·핵융합 협력 논의 관측 - 경향신문",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzM0d3ZtQnRsQTFROF9pTjRnNzA2aXV1dk52aDJidHVKd3RZdGFuUU5PeHpqZmxDRk1UZWFMX2pENXRYQVl3U1RJWmc5WG8yUDBsWmtCejVKUDdQVnlrUVNIakNqQlFBRmdwenBjeGp1dDFoaTdJc0IxQ3dIRHNWNHFSdGdIcElMNVBQdW9tVmR1U1pLZEIxUnBnOHdvUV8zOVUtOHJtZXNaZw?oc=5",
-        "source": "경향신문",
-        "group": "에너지",
-        "keyword": "SMR"
-      },
-      {
-        "title": "AI 다음 먹거리 키운다…SMR·재생E 등 ‘7대 시드’ 육성 - 전기신문",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHR1liSmhZXzhKVlQ0RlRKU2lnMDRUb0NNb2djQ3k1dmljY3RQeUZIU1BQWm83ekRrMXRTYnAweTdVdEg5ZDdkUGdXTEdVVzJSb2FReXMxVzJYREIzeUxWcVRBNFZMOFQyUnItMdIBcEFVX3lxTE1FSXhROHF3al9XSmhTNFBVT1N3TFJ3Qy10Tm9teFl5YVgtRWhYbEZwcXA0eUhQOXQ1c1FJY29qMGV0U21fM1JhTzltcU5aaFVnWTd1b1ZBUEtCQ0hvVHdCNklaYUFRM2ZLc3V6cGNvQ2g?oc=5",
-        "source": "전기신문",
-        "group": "에너지",
-        "keyword": "SMR"
-      },
-      {
-        "title": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 - 대한민국 정책브리핑",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTNLY0JQX1BqMk5pTzB6Q1FhejZ1aEttY2U4R2FheVQzOEdkN2ZtQ2h3MmlXQnd0RVN6ZHNWRG1iTmNtX1dMTThMYVFjR1V2LWZBT1JTcm9DbkVSVW1OTC14MTd6a0UwVTluNV85aHEweVZ5VEp6bHBnYVN2Mm5fNmNuYnQtZ2NIWHNoUlZ3?oc=5",
-        "source": "대한민국 정책브리핑",
-        "group": "에너지",
-        "keyword": "SMR"
-      }
-    ],
-    "에너지:LNG": [
-      {
-        "title": "LNG 가격 급등에 한국 수요 위축 전망… 석탄발전 확대 가능성 - 에너지플랫폼뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGd3ppeHZEOGs2a2EzbTVrNXpRbVg3MjNMWnVLY0M3TTVSeldGODdVXzlDZ0tyTmdjeDBvakNBZmdhY1RhWDFXZzZNNTlFSnEtMFp0Zk50Y29RLUNFV2VYVFZSa0h4Y244NU1yTtIBcEFVX3lxTFBzbzZrRnlyRzVWUHEySTdJNlluMEJvdHdCbmlEczI1WG1pRXdLUl9leEtUR0Z3ZDVURzZUMEc0YklEcC1YbnoxME54azB2VEl0UnByaFM0T0U0OVo1MHRBb19IS216REwwSzRTZWlhWXc?oc=5",
-        "source": "에너지플랫폼뉴스",
-        "group": "에너지",
-        "keyword": "LNG"
-      }
-    ],
-    "로봇:휴머노이드": [
-      {
-        "title": "물류 자동화 기술 쌓은 케이엔로보틱스, '휴머노이드'로 연구영역 넓힌...",
-        "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322300",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "대전혁신센터, 31일까지 로봇창업경진대회 참가팀 모집",
-        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175194",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "마산로봇랜드, 광복절 연휴 15~17일 특별행사 진행",
-        "url": "https://www.newsis.com/view/NISX20260812_0003746867",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "\"취재진 미끼로 비밀 환승\"...트럼프 '전쟁 승리'의 민낯?",
-        "url": "https://www.ytn.co.kr/_ln/0104_202608122010279357",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 중간선거 앞 '비상사태 선포' 가능성 배제 안 해",
-        "url": "https://www.ytn.co.kr/_ln/0104_202608122009094249",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "해상서 다시 불붙은 미·이란 충돌…트럼프 '경제 압박' 이제와 통할까...",
-        "url": "https://www.pressian.com/pages/articles/2026081218441035628?utm_source=naver&utm_medium=search",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 백악관 공사에 1.3조 쏟아붓는다…\"80년래 최대 개조\"",
-        "url": "https://www.news1.kr/world/usa-canada/6257367",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "골프 치는 트럼프 옆에 방공미사일…암살 위협에 경호 강화",
-        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544822",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "증권:하향": [
-      {
-        "title": "'극한 더위' 주춤…정부, 폭염 중대본 비상근무 2→1단계 하향",
-        "url": "https://www.dailian.co.kr/news/view/1677833/?sc=Naver",
-        "source": "",
-        "group": "증권",
-        "keyword": "하향"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "[공시] 코스피·코스닥 32개사, '시총·동전주' 관리종목 무더기 지정",
-        "url": "https://www.newstnt.com/news/articleView.html?idxno=713792",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      },
-      {
-        "title": "[증시 오늘] 코스피가 3.7% 상승",
-        "url": "https://www.bigtanews.co.kr/article/view/big202608120024",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ],
-    "증권:코스닥": [
-      {
-        "title": "바로팜·크리에이츠·진코스텍, 코스닥 입성 청신호...거래소 상장예심...",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476811",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스닥"
-      },
-      {
-        "title": "한국거래소, 2026 코스닥 라이징스타 18곳 선정",
-        "url": "https://www.mt.co.kr/stock/2026/08/12/2026081218231522353",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스닥"
-      }
-    ],
-    "주식:배당": [
-      {
-        "title": "'유령주식배당' 사건 8년 만에‥대법원 \"삼성증권이 18억 원 배상\"",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844317_37004.html",
-        "source": "",
-        "group": "주식",
-        "keyword": "배당"
-      }
-    ],
-    "주식:M&A": [
-      {
-        "title": "김용범 메리츠 부회장 \"사업 확장 위한 M&A 적극 검토\"[IR종합] - 뉴스1",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5WFZGd2wxVGdsYmQtWDRlaTgtWG1hZVA2NjZoYnVPcGdqTDRRbDdSVm1hMEpUWE9TWUt4UHUtZmV6Wk16dmRRTW85bWR6bjc4MWNvcnBScHlDQjZjU3N6Q9IBZkFVX3lxTE5vQzdVWW5XX3pRbEJTeEhjYWdfVzB6ajhNdkFMRF9IaUNhMVBDdDI1anQ0NVBndUl6aEFCN2JoYUk2ZDBxVWdyV1B6TzY2UnZ6N0RLTFBCN21sNmRtNkg5N050UzFDdw?oc=5",
-        "source": "뉴스1",
-        "group": "주식",
-        "keyword": "M&A"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-12T12:07:11.372272+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
