@@ -359,6 +359,60 @@
     },
     "824dbef8be8a": {
       "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "b50019a8f54e": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "7484ed0ce2f6": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "cf8fafeda86c": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "ed9443963906": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "e6b15408de7d": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "b2a680c2676a": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "9621d7bf61d4": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "954cd0f8503b": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "a3305482d476": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "0cc3cd472983": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "04ab68aca15f": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "dc1b4cb0bc1f": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "d29023aff1c3": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "181eba25cd4d": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "7b5581952818": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "ea953a3474e6": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "f28988795252": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
+    },
+    "17621d6cde92": {
+      "first_seen": "2026-08-14T23:56:10.344942+00:00"
     }
   },
   "news_counts": {
@@ -1419,9 +1473,248 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "반도체:엔비디아": 2,
+    "반도체:패키징": 1,
+    "반도체:반도체": 3,
+    "에너지:배터리": 1,
+    "로봇:휴머노이드": 1,
+    "로봇:로봇": 2,
+    "트럼프:트럼프": 3,
+    "금리/환율:연준": 3,
+    "주식:자사주": 1
+  },
   "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
   "last_top10_sent": "2026-08-14T23:33:16.952402+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "'직장인 기상도' 하이닉스 '웃음'·삼성전자 '우울'",
+      "url": "https://magazine.hankyung.com/business/article/202608140761b",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아, 스페이스X 지분 30조원...핵심 전략투자자로 부상",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=169907",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:패키징": {
+      "title": "TSMC, 패키징 공급난 심화…삼성 2나노 턴키로 반격",
+      "url": "https://www.g-enews.com/view.php?ud=202608150850323679fbbec65dfb_1",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "패키징"
+    },
+    "반도체:반도체": {
+      "title": "개미들 다시 야수의 심장?…미장은 반도체 3배, 국장은 빚투",
+      "url": "https://www.ekn.kr/web/view.php?key=20260815024163113",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "에너지:배터리": {
+      "title": "아이폰18 프로 맥스, 배터리 격차 더 커지나",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693388",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "로봇:휴머노이드": {
+      "title": "로봇 올림픽 2056대 격돌, 휴머노이드 상용화 가속",
+      "url": "https://www.g-enews.com/view.php?ud=2026081508474619642bd56fbc3c_1",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "로봇:로봇": {
+      "title": "유니트리 상장 본토 가속, 중국 로봇 11곳 IPO 러시",
+      "url": "https://www.g-enews.com/view.php?ud=2026081508321051632bd56fbc3c_1",
+      "source": "",
+      "count": 2,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "\"0%라면 사기 칠 이유 없다\" 트럼프 관세 폭탄의 자승자박",
+      "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53622",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "금리/환율:연준": {
+      "title": "투모로우바이투게더 연준, 다저스타디움 달군 시구·5곡 퍼포먼스",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164249",
+      "source": "",
+      "count": 3,
+      "group": "금리/환율",
+      "keyword": "연준"
+    },
+    "주식:자사주": {
+      "title": "카카오뱅크 임원 12명, 4억6천만원어치 자사주 사들였다",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62931",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "자사주"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "'직장인 기상도' 하이닉스 '웃음'·삼성전자 '우울'",
+        "url": "https://magazine.hankyung.com/business/article/202608140761b",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아, 스페이스X 지분 30조원...핵심 전략투자자로 부상",
+        "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=169907",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "엔비디아 \"스페이스X 지분 210억달러어치 보유\"...순환금융 다시 도마에",
+        "url": "http://www.fnnews.com/news/202608150819166932",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:패키징": [
+      {
+        "title": "TSMC, 패키징 공급난 심화…삼성 2나노 턴키로 반격",
+        "url": "https://www.g-enews.com/view.php?ud=202608150850323679fbbec65dfb_1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "개미들 다시 야수의 심장?…미장은 반도체 3배, 국장은 빚투",
+        "url": "https://www.ekn.kr/web/view.php?key=20260815024163113",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "'반도체發 초과세수 국민연금에 적립'…여당서 법안 추진",
+        "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260815.99099004109",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "호남권 반도체 클러스터 최적의 정주환경 조성…전남광주시 TF 가동",
+        "url": "https://www.news1.kr/local/gwangju-jeonnam/6260079",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "아이폰18 프로 맥스, 배터리 격차 더 커지나",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693388",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "로봇 올림픽 2056대 격돌, 휴머노이드 상용화 가속",
+        "url": "https://www.g-enews.com/view.php?ud=2026081508474619642bd56fbc3c_1",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "유니트리 상장 본토 가속, 중국 로봇 11곳 IPO 러시",
+        "url": "https://www.g-enews.com/view.php?ud=2026081508321051632bd56fbc3c_1",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
+        "url": "https://www.segye.com/newsView/20260815504889?OutUrl=naver",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "\"0%라면 사기 칠 이유 없다\" 트럼프 관세 폭탄의 자승자박",
+        "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53622",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "이란, 트럼프 '호르무즈 미 영토' 주장에 \"허황된 망상\"",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608150836381319",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "이란 \"美 패배 인정할 때까지 호르무즈 봉쇄\"⋯트럼프에 맞불",
+        "url": "https://www.etoday.co.kr/news/view/2614953",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "금리/환율:연준": [
+      {
+        "title": "투모로우바이투게더 연준, 다저스타디움 달군 시구·5곡 퍼포먼스",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164249",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      },
+      {
+        "title": "투바투 연준, LA 다저스 홈경기 시구·'한국 문화유산의 밤' 공연",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=758963",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      },
+      {
+        "title": "연준, LA 다저스 마운드 올랐다",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202608150066",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      }
+    ],
+    "주식:자사주": [
+      {
+        "title": "카카오뱅크 임원 12명, 4억6천만원어치 자사주 사들였다",
+        "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62931",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      }
+    ]
+  }
 }
