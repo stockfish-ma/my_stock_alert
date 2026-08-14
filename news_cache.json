@@ -377,6 +377,51 @@
     },
     "a26d39e51aab": {
       "first_seen": "2026-08-14T22:16:38.865727+00:00"
+    },
+    "36073fd2959c": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "760816638ae1": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "569f0dbc78d4": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "6ae4f4f7e6da": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "5fe6a060df2e": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "fb7e439c9177": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "1621ee001d7c": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "d6b7a46772ea": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "daf05941cf98": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "5345fe197938": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "33183c7c6bd3": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "1be2335e3215": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "5287c530dba0": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "687b51a871a4": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
+    },
+    "0be2edea8e07": {
+      "first_seen": "2026-08-14T22:43:18.080047+00:00"
     }
   },
   "news_counts": {
@@ -1437,9 +1482,216 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "반도체:SK하이닉스": 1,
+    "반도체:엔비디아": 1,
+    "반도체:반도체": 2,
+    "에너지:SMR": 1,
+    "에너지:LNG": 1,
+    "로봇:자율주행": 1,
+    "트럼프:트럼프": 5,
+    "증권:나스닥": 2
+  },
   "kw_counts_reset": "2026-08-14T11:30:14.130604+00:00",
   "last_top10_sent": "2026-08-14T22:16:40.447839+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "김종국, 30년 저축만 했다더니…삼성전자 5만 원대 매수 “안 팔아”",
+      "url": "https://sports.donga.com/ent/article/all/20260815/134482753/1",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "[단독] “최태원 회장 결단 없으면 투쟁”…SK하이닉스 노조마저 거리로...",
+      "url": "https://biz.heraldcorp.com/article/10842046?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아 두뇌 단 LG 휴머노이드 온다… 모건스탠리도 'LG 로봇주' 주목",
+      "url": "https://www.segye.com/newsView/20260814508322?OutUrl=naver",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:반도체": {
+      "title": "[뉴욕증시] 경기 우려 '숨고르기', 반도체 '희비'…샌디스크 7%↑·AMAT 5...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=635765",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "에너지:SMR": {
+      "title": "빌 게이츠 ‘테라파워’ 손잡은 SK…“AI 전력난, SMR로 뚫는다” - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Vb08wMHlNa092Y011TFNtdDREMGMtWkV2MUExSFE1UVRwajljTDh4M3dBVWw1Nm1FQlE1SDhLM0lZdDc1dEVTMk9wdVZHcmlia2w1Q2lGUTJzWGpLaUdNb0hPS3p1YnJXZ3VWTC1Tcw?oc=5",
+      "source": "서울신문",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "에너지:LNG": {
+      "title": "차세대 LNG 5대 메가 프로젝트 본격 가동 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSldaVUt6d1NrazhMYlF3WERnZ2kwUjUwNWEzakgxZ21hRXVNdkVmRkUySWgzRU1jVzdRZnV5RDl0U05NMUNyWV9jNUtEczhwMHRTQkNJTUtBUUM1TGNiUlBqTWtncmZVN0NRdzd1YXUtUHFud2xtME9mM3A0SmR6bXdGbHpGZDc0?oc=5",
+      "source": "글로벌이코노믹",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "LNG"
+    },
+    "로봇:자율주행": {
+      "title": "'거부할 수 없는' 자율주행 공세…테슬라 FSD에 샤오펑도 예열중",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=145670",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "자율주행"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프 \"조만간 호르무즈 해협 美 영토로 선포할 것\"",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1402717",
+      "source": "",
+      "count": 5,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "증권:나스닥": {
+      "title": "[지난밤 뉴욕에선] 소비 경고음에 나스닥 0.28% 하락",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308996",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "나스닥"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "김종국, 30년 저축만 했다더니…삼성전자 5만 원대 매수 “안 팔아”",
+        "url": "https://sports.donga.com/ent/article/all/20260815/134482753/1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "[단독] “최태원 회장 결단 없으면 투쟁”…SK하이닉스 노조마저 거리로...",
+        "url": "https://biz.heraldcorp.com/article/10842046?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아 두뇌 단 LG 휴머노이드 온다… 모건스탠리도 'LG 로봇주' 주목",
+        "url": "https://www.segye.com/newsView/20260814508322?OutUrl=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "[뉴욕증시] 경기 우려 '숨고르기', 반도체 '희비'…샌디스크 7%↑·AMAT 5...",
+        "url": "https://www.seoulfn.com/news/articleView.html?idxno=635765",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "뉴욕증시, 소비 둔화 우려에 소폭 하락-반도체·AI주 약세",
+        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86733",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "빌 게이츠 ‘테라파워’ 손잡은 SK…“AI 전력난, SMR로 뚫는다” - 서울신문",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Vb08wMHlNa092Y011TFNtdDREMGMtWkV2MUExSFE1UVRwajljTDh4M3dBVWw1Nm1FQlE1SDhLM0lZdDc1dEVTMk9wdVZHcmlia2w1Q2lGUTJzWGpLaUdNb0hPS3p1YnJXZ3VWTC1Tcw?oc=5",
+        "source": "서울신문",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "에너지:LNG": [
+      {
+        "title": "차세대 LNG 5대 메가 프로젝트 본격 가동 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSldaVUt6d1NrazhMYlF3WERnZ2kwUjUwNWEzakgxZ21hRXVNdkVmRkUySWgzRU1jVzdRZnV5RDl0U05NMUNyWV9jNUtEczhwMHRTQkNJTUtBUUM1TGNiUlBqTWtncmZVN0NRdzd1YXUtUHFud2xtME9mM3A0SmR6bXdGbHpGZDc0?oc=5",
+        "source": "글로벌이코노믹",
+        "group": "에너지",
+        "keyword": "LNG"
+      }
+    ],
+    "로봇:자율주행": [
+      {
+        "title": "'거부할 수 없는' 자율주행 공세…테슬라 FSD에 샤오펑도 예열중",
+        "url": "https://www.gpkorea.com/news/articleView.html?idxno=145670",
+        "source": "",
+        "group": "로봇",
+        "keyword": "자율주행"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프 \"조만간 호르무즈 해협 美 영토로 선포할 것\"",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1402717",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"호르무즈 해협, 조만간 미국 영토로 선언할 것\"(상보)",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430315",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"호르무즈, 美영토로 선언할 것\"…통제권 과시",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720547",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "“호르무즈 해협, 조만간 미국 땅 선언할 것”…트럼프, 기름값 급등에...",
+        "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/08/15/20260815500005?wlog_tag3=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 가문 가상 자산회사 신탁은행 가승인",
+        "url": "https://www.newsis.com/view/NISX20260815_0003750425",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "증권:나스닥": [
+      {
+        "title": "[지난밤 뉴욕에선] 소비 경고음에 나스닥 0.28% 하락",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308996",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      },
+      {
+        "title": "뉴욕증시, 소비 둔화 우려에 약세...나스닥 0.3%↓",
+        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=281067",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      }
+    ]
+  }
 }
