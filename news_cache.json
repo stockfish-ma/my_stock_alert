@@ -1,101 +1,5 @@
 {
   "news_seen": {
-    "81a25c2d4116": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "5d4af93e5516": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "64ad70b63158": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "d1b861ce9c90": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "007c69acc955": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "41acb5184f8d": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "77e0093c857a": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "5ea28a963cc4": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "7a32771e25ff": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "452286e1321b": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "a51b6325534a": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "89717be617ea": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "a5e495aeee44": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "5ae0a704d382": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "5e736b78d620": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "a195b1b8e921": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "b3abec72d034": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "1bf120791b23": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "fac0d1c5ab62": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "3841261b632c": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "2ef358176921": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "5b7d3ab86f78": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "6cf44ae55bb9": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "ef067246c619": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "df74974175e7": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "6a87fa042298": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "612d2637940c": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "177b9f1bb040": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "8efe46cbeb29": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "ace54a5ba8a3": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "195b5a960943": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
-    "31af0d46c77d": {
-      "first_seen": "2026-08-14T11:31:12.717615+00:00"
-    },
     "d0d2734db72e": {
       "first_seen": "2026-08-14T12:12:24.496749+00:00"
     },
@@ -356,6 +260,105 @@
     },
     "297e72f75a6d": {
       "first_seen": "2026-08-14T23:02:34.400875+00:00"
+    },
+    "819003a2f7fd": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "234aaca34fe2": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "0ca95073bf15": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "126d844df63f": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "cd59591112e6": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "fd5b6bdb766c": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "21940d77a805": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "63cf18ef4958": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "2b9528dbc1e8": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "0d72c3f61c29": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "61c2bb38105a": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "449b0c6a6a3e": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "c5c08bab2ff5": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "5d14107b94ef": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "d95d0c878946": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "7a54b6f01364": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "f5842bfe3223": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "1ac09efd5639": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "3f7a0cec7ccc": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "2b254de5a154": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "ea1755659833": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "15b64162caba": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "74c4fe695f26": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "883361430f40": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "a7b601d15d9b": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "6c18aea67c0a": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "04bf7b5d41bb": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "b16c03fe0126": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "63dbade703f2": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "d2972b43059e": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "567adfbcfec2": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "b29a0243659f": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
+    },
+    "824dbef8be8a": {
+      "first_seen": "2026-08-14T23:33:15.441357+00:00"
     }
   },
   "news_counts": {
@@ -1416,373 +1419,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:SK하이닉스": 2,
-    "반도체:엔비디아": 2,
-    "반도체:반도체": 2,
-    "에너지:SMR": 1,
-    "에너지:LNG": 1,
-    "로봇:자율주행": 1,
-    "트럼프:트럼프": 10,
-    "증권:나스닥": 2,
-    "반도체:메모리": 1,
-    "AI인프라:전력": 1,
-    "에너지:원전": 1,
-    "로봇:휴머노이드": 1,
-    "트럼프:행정명령": 1,
-    "금리/환율:연준": 1
-  },
-  "kw_counts_reset": "2026-08-14T11:30:14.130604+00:00",
-  "last_top10_sent": "2026-08-14T22:16:40.447839+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "김종국, 30년 저축만 했다더니…삼성전자 5만 원대 매수 “안 팔아”",
-      "url": "https://sports.donga.com/ent/article/all/20260815/134482753/1",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:SK하이닉스": {
-      "title": "[단독] “최태원 회장 결단 없으면 투쟁”…SK하이닉스 노조마저 거리로...",
-      "url": "https://biz.heraldcorp.com/article/10842046?ref=naver",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:엔비디아": {
-      "title": "엔비디아 두뇌 단 LG 휴머노이드 온다… 모건스탠리도 'LG 로봇주' 주목",
-      "url": "https://www.segye.com/newsView/20260814508322?OutUrl=naver",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:반도체": {
-      "title": "[뉴욕증시] 경기 우려 '숨고르기', 반도체 '희비'…샌디스크 7%↑·AMAT 5...",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=635765",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "에너지:SMR": {
-      "title": "빌 게이츠 ‘테라파워’ 손잡은 SK…“AI 전력난, SMR로 뚫는다” - 서울신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Vb08wMHlNa092Y011TFNtdDREMGMtWkV2MUExSFE1UVRwajljTDh4M3dBVWw1Nm1FQlE1SDhLM0lZdDc1dEVTMk9wdVZHcmlia2w1Q2lGUTJzWGpLaUdNb0hPS3p1YnJXZ3VWTC1Tcw?oc=5",
-      "source": "서울신문",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "SMR"
-    },
-    "에너지:LNG": {
-      "title": "차세대 LNG 5대 메가 프로젝트 본격 가동 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSldaVUt6d1NrazhMYlF3WERnZ2kwUjUwNWEzakgxZ21hRXVNdkVmRkUySWgzRU1jVzdRZnV5RDl0U05NMUNyWV9jNUtEczhwMHRTQkNJTUtBUUM1TGNiUlBqTWtncmZVN0NRdzd1YXUtUHFud2xtME9mM3A0SmR6bXdGbHpGZDc0?oc=5",
-      "source": "글로벌이코노믹",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "LNG"
-    },
-    "로봇:자율주행": {
-      "title": "'거부할 수 없는' 자율주행 공세…테슬라 FSD에 샤오펑도 예열중",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=145670",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "자율주행"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 \"조만간 호르무즈 해협 美 영토로 선포할 것\"",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1402717",
-      "source": "",
-      "count": 10,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "증권:나스닥": {
-      "title": "[지난밤 뉴욕에선] 소비 경고음에 나스닥 0.28% 하락",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308996",
-      "source": "",
-      "count": 2,
-      "group": "증권",
-      "keyword": "나스닥"
-    },
-    "반도체:메모리": {
-      "title": "2분기 美저가폰 출하량 64% 급감...메모리값 상승 여파",
-      "url": "https://zdnet.co.kr/view/?no=20260814162850",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "메모리"
-    },
-    "AI인프라:전력": {
-      "title": "루마니아 원전 가동 중단 위기…몰도바 전력난 비상",
-      "url": "https://www.g-enews.com/view.php?ud=2026081507421794222bd56fbc3c_1",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "에너지:원전": {
-      "title": "빌 게이츠 방한에 한국 원전업계 '들썩'…SMR동맹 본격화",
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704212",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "로봇:휴머노이드": {
-      "title": "[로봇 온사이트] 전세계 휴머노이드 장악한 中, 탄탄한 공급망·거대 시...",
-      "url": "https://www.theguru.co.kr/news/article.html?no=105852",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "휴머노이드"
-    },
-    "트럼프:행정명령": {
-      "title": "포항시, 보릿돌교 사고 현장 출입제한 행정명령...‘위험구역’ 설정",
-      "url": "https://www.wikitree.co.kr/articles/1152626",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "행정명령"
-    },
-    "금리/환율:연준": {
-      "title": "9월 금리동결 67.5%, 연준 긴축 기대 낮아졌다",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/391235",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "연준"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "김종국, 30년 저축만 했다더니…삼성전자 5만 원대 매수 “안 팔아”",
-        "url": "https://sports.donga.com/ent/article/all/20260815/134482753/1",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "[단독] “최태원 회장 결단 없으면 투쟁”…SK하이닉스 노조마저 거리로...",
-        "url": "https://biz.heraldcorp.com/article/10842046?ref=naver",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "SK하이닉스, 상반기 매출 64% 미국서-빅테크 2곳서 34조원",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86739",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "엔비디아 두뇌 단 LG 휴머노이드 온다… 모건스탠리도 'LG 로봇주' 주목",
-        "url": "https://www.segye.com/newsView/20260814508322?OutUrl=naver",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "LG이노텍, 엔비디아 동맹 올라탔다…로봇 센서 맡는다",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202608150041",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "[뉴욕증시] 경기 우려 '숨고르기', 반도체 '희비'…샌디스크 7%↑·AMAT 5...",
-        "url": "https://www.seoulfn.com/news/articleView.html?idxno=635765",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "뉴욕증시, 소비 둔화 우려에 소폭 하락-반도체·AI주 약세",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86733",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "에너지:SMR": [
-      {
-        "title": "빌 게이츠 ‘테라파워’ 손잡은 SK…“AI 전력난, SMR로 뚫는다” - 서울신문",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Vb08wMHlNa092Y011TFNtdDREMGMtWkV2MUExSFE1UVRwajljTDh4M3dBVWw1Nm1FQlE1SDhLM0lZdDc1dEVTMk9wdVZHcmlia2w1Q2lGUTJzWGpLaUdNb0hPS3p1YnJXZ3VWTC1Tcw?oc=5",
-        "source": "서울신문",
-        "group": "에너지",
-        "keyword": "SMR"
-      }
-    ],
-    "에너지:LNG": [
-      {
-        "title": "차세대 LNG 5대 메가 프로젝트 본격 가동 - 글로벌이코노믹",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSldaVUt6d1NrazhMYlF3WERnZ2kwUjUwNWEzakgxZ21hRXVNdkVmRkUySWgzRU1jVzdRZnV5RDl0U05NMUNyWV9jNUtEczhwMHRTQkNJTUtBUUM1TGNiUlBqTWtncmZVN0NRdzd1YXUtUHFud2xtME9mM3A0SmR6bXdGbHpGZDc0?oc=5",
-        "source": "글로벌이코노믹",
-        "group": "에너지",
-        "keyword": "LNG"
-      }
-    ],
-    "로봇:자율주행": [
-      {
-        "title": "'거부할 수 없는' 자율주행 공세…테슬라 FSD에 샤오펑도 예열중",
-        "url": "https://www.gpkorea.com/news/articleView.html?idxno=145670",
-        "source": "",
-        "group": "로봇",
-        "keyword": "자율주행"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 \"조만간 호르무즈 해협 美 영토로 선포할 것\"",
-        "url": "https://www.m-i.kr/news/articleView.html?idxno=1402717",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈 해협, 조만간 미국 영토로 선언할 것\"(상보)",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430315",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈, 美영토로 선언할 것\"…통제권 과시",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720547",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "“호르무즈 해협, 조만간 미국 땅 선언할 것”…트럼프, 기름값 급등에...",
-        "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/08/15/20260815500005?wlog_tag3=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 가문 가상 자산회사 신탁은행 가승인",
-        "url": "https://www.newsis.com/view/NISX20260815_0003750425",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈 해협, 조만간 미국 영토로 선언\"",
-        "url": "https://www.slist.kr/news/articleView.html?idxno=758945",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈 해협, 조만간 미국 영토로 선언\"-통제력 과시",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86743",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “호르무즈 美 영토로 선언할 것…사실상 지금도 그런 상태”",
-        "url": "http://www.joseilbo.com/news/news_read.php?uid=573891&class=42&grp=",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈 해협, 조만간 미국 영토로 선언할 것\"",
-        "url": "https://www.ytn.co.kr/_ln/0104_202608150749483892",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “호르무즈, 미국 영토로 선언할 것”",
-        "url": "https://www.tokenpost.kr/news/cryptocurrency/391232",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "증권:나스닥": [
-      {
-        "title": "[지난밤 뉴욕에선] 소비 경고음에 나스닥 0.28% 하락",
-        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308996",
-        "source": "",
-        "group": "증권",
-        "keyword": "나스닥"
-      },
-      {
-        "title": "뉴욕증시, 소비 둔화 우려에 약세...나스닥 0.3%↓",
-        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=281067",
-        "source": "",
-        "group": "증권",
-        "keyword": "나스닥"
-      }
-    ],
-    "반도체:메모리": [
-      {
-        "title": "2분기 美저가폰 출하량 64% 급감...메모리값 상승 여파",
-        "url": "https://zdnet.co.kr/view/?no=20260814162850",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "루마니아 원전 가동 중단 위기…몰도바 전력난 비상",
-        "url": "https://www.g-enews.com/view.php?ud=2026081507421794222bd56fbc3c_1",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "빌 게이츠 방한에 한국 원전업계 '들썩'…SMR동맹 본격화",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704212",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "로봇:휴머노이드": [
-      {
-        "title": "[로봇 온사이트] 전세계 휴머노이드 장악한 中, 탄탄한 공급망·거대 시...",
-        "url": "https://www.theguru.co.kr/news/article.html?no=105852",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      }
-    ],
-    "트럼프:행정명령": [
-      {
-        "title": "포항시, 보릿돌교 사고 현장 출입제한 행정명령...‘위험구역’ 설정",
-        "url": "https://www.wikitree.co.kr/articles/1152626",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "행정명령"
-      }
-    ],
-    "금리/환율:연준": [
-      {
-        "title": "9월 금리동결 67.5%, 연준 긴축 기대 낮아졌다",
-        "url": "https://www.tokenpost.kr/news/cryptocurrency/391235",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "연준"
-      }
-    ]
-  }
+  "kw_counts": {},
+  "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
+  "last_top10_sent": "2026-08-14T23:33:16.952402+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
