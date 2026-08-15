@@ -1061,6 +1061,33 @@
     },
     "68cf7222a349": {
       "first_seen": "2026-08-15T08:11:48.202696+00:00"
+    },
+    "ba94f6ab0660": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "15f35c2a6b97": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "20447ea49f94": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "0251534ff594": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "17bea8e77807": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "cbcd7f45518e": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "0ba1195dafe3": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "29688e31d952": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "564c7d1650ba": {
+      "first_seen": "2026-08-15T08:48:31.940247+00:00"
     }
   },
   "news_counts": {
@@ -2121,9 +2148,163 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:메모리": 1,
+    "반도체:엔비디아": 1,
+    "AI인프라:전력": 1,
+    "AI인프라:데이터센터": 1,
+    "로봇:휴머노이드": 1,
+    "트럼프:트럼프": 2,
+    "트럼프:관세": 1,
+    "증권:상향": 1
+  },
   "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
   "last_top10_sent": "2026-08-15T08:11:49.874380+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:메모리": {
+      "title": "美 트럼프 행정부, 애플에 중국산 메모리 사용 제동",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/15/2026081500043.html",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:엔비디아": {
+      "title": "LG가 엔비디아와 손잡고 꿈꾸는 미래는?",
+      "url": "https://monthly.chosun.com/news/articleView.html?idxno=71046",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "AI인프라:전력": {
+      "title": "신세종빛드림본부, 여름철 전력수급·안전관리 점검",
+      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=355151",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "AI인프라:데이터센터": {
+      "title": "스페이스X, 85조 원에 AI 스타트업 '커서' 품었다... 우주 데이터센터 속...",
+      "url": "https://www.insight.co.kr/news/568443",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "로봇:휴머노이드": {
+      "title": "中 휴머노이드 열풍…유니트리 IPO 경쟁률 8000대 1",
+      "url": "http://www.inews24.com/view/1995390",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "트럼프:트럼프": {
+      "title": "'지지선언' 회피하는 트럼프 …선거 앞둔 네타냐후 '속이 탄다'",
+      "url": "https://biz.sbs.co.kr/article_hub/20000328984?division=NAVER",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "美, 한국 등 40여개국 '中 트로이 목마' 지목…관세 우회 정조준",
+      "url": "http://www.inews24.com/view/1995392",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "증권:상향": {
+      "title": "올해 성장률 전망 상향과 외국인 주식 매도 규모 다음주 주목",
+      "url": "https://biz.sbs.co.kr/article_hub/20000328987?division=NAVER",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:메모리": [
+      {
+        "title": "美 트럼프 행정부, 애플에 중국산 메모리 사용 제동",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/15/2026081500043.html",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "LG가 엔비디아와 손잡고 꿈꾸는 미래는?",
+        "url": "https://monthly.chosun.com/news/articleView.html?idxno=71046",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "신세종빛드림본부, 여름철 전력수급·안전관리 점검",
+        "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=355151",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "스페이스X, 85조 원에 AI 스타트업 '커서' 품었다... 우주 데이터센터 속...",
+        "url": "https://www.insight.co.kr/news/568443",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "中 휴머노이드 열풍…유니트리 IPO 경쟁률 8000대 1",
+        "url": "http://www.inews24.com/view/1995390",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "'지지선언' 회피하는 트럼프 …선거 앞둔 네타냐후 '속이 탄다'",
+        "url": "https://biz.sbs.co.kr/article_hub/20000328984?division=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"호르무즈 조만간 美 영토\"…이란 \"허황된 망상\"",
+        "url": "https://www.dailian.co.kr/news/view/1678883/?sc=Naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "美, 한국 등 40여개국 '中 트로이 목마' 지목…관세 우회 정조준",
+        "url": "http://www.inews24.com/view/1995392",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "올해 성장률 전망 상향과 외국인 주식 매도 규모 다음주 주목",
+        "url": "https://biz.sbs.co.kr/article_hub/20000328987?division=NAVER",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ]
+  }
 }
