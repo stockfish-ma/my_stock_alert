@@ -575,6 +575,105 @@
     },
     "0bc780502ac2": {
       "first_seen": "2026-08-15T02:11:11.529167+00:00"
+    },
+    "91abdc6cd8e6": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "dc472d24246b": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "baceb561dc77": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "5f481628c6b2": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "5b203fb94b0e": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "528271ddf113": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "20e4755d9916": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "5c8de0b21b02": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "b5117434ae69": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "dd1bc9a6642f": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "a7e67c8a0e11": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "2ff0681a5995": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "b89a1685b04d": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "f8f19edf1bfc": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "303521eb3fb1": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "5576de2dee7f": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "466c3b3efa9b": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "99eaf439f794": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "f3d5665812de": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "94c146b76f44": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "f04a43a98d75": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "d63b86d3b00f": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "7f5fe3a1e72d": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "1dd5dac605a2": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "e97c49966085": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "cb9fabffd078": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "117f82b94b73": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "f2597627230d": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "5ce3b657c9a1": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "549bc7cccacb": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "9b19055700c7": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "e380052637ec": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
+    },
+    "8db7f1970507": {
+      "first_seen": "2026-08-15T03:04:00.345882+00:00"
     }
   },
   "news_counts": {
@@ -1635,9 +1734,419 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 4,
+    "반도체:SK하이닉스": 2,
+    "반도체:메모리": 3,
+    "반도체:엔비디아": 3,
+    "반도체:HBM": 1,
+    "반도체:반도체": 2,
+    "AI인프라:전력": 3,
+    "에너지:원전": 1,
+    "에너지:SMR": 1,
+    "로봇:자율주행": 1,
+    "트럼프:트럼프": 5,
+    "트럼프:관세": 3,
+    "증권:목표주가": 1,
+    "증권:리포트": 1,
+    "국채금리:국채": 1,
+    "주식:배당": 1
+  },
   "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
   "last_top10_sent": "2026-08-15T02:11:13.132536+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "8월 둘째주 삼성전자우 주가 꾸준한 우상향",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164326",
+      "source": "",
+      "count": 4,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스, AI 호황에 실적 또 뛴다…\"지금이 비중 확대 기회\"",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477689",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:메모리": {
+      "title": "트럼프 행정부, 애플에 \"중국산 메모리 구매 안돼\" 전달",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590050.html",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아, 오픈AI 데이터센터 '채무 보증' 반토막 축소",
+      "url": "https://biz.sbs.co.kr/article_hub/20000328954?division=NAVER",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:HBM": {
+      "title": "엔비디아 HBM을 독점하는 회사가 왜 52주 고점 절반에 있을까요 - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmVwWVJ3aGhuRHotMXNaUXBPZzZGRXdQMlRSWGhSX1FjNGJ2VFJ0UC1SdUxWZEtIMEVNNDBtbnVDQjQwcHFwTVk3cGJhT2E5NjZaUC16dVg0VXdLMHVkVlJyTXBWdWswblRhamFGbC1uR2E1QTFpMktLSnJhUWp5UThIVXo0ejA?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM"
+    },
+    "반도체:반도체": {
+      "title": "호남 반도체 포함 미래 전력수요 재전망…9월엔 신규 원전 토론회",
+      "url": "https://www.mt.co.kr/economy/2026/08/15/2026081419175078674",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "12차 전기본 4·5차 토론회…20일 전력수요 재전망 논의",
+      "url": "https://www.dailian.co.kr/news/view/1678788/?sc=Naver",
+      "source": "",
+      "count": 3,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "에너지:원전": {
+      "title": "빌 게이츠의 차세대 원전 '나트륨'…SK·HD현대·두산·현대건설 올라탔...",
+      "url": "https://bizhankook.com/articles/bill-gates-k-nuclear-ai-power.html",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "원전"
+    },
+    "에너지:SMR": {
+      "title": "산업부-테라파워, 4세대 SMR 글로벌 공급망 협력 본격화… 韓 원전 파운드리 생태계 결합 추진 - 기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tZG1NeVRQNzgtM0thTVZiQlgtdlNqRjRkaHBkak9LMi1TbFA4RFlZaFBzYzRJZEprOHQzWGRQWHlYVDBxVGlpeExLZnM5SC1aYlFrRVNES3RENUN2ZjNNSXM0VmFRZw?oc=5",
+      "source": "기계신문",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "로봇:자율주행": {
+      "title": "충주 탄금공원 자율주행 셔틀, 정식 운행 시동",
+      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=355165",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "자율주행"
+    },
+    "트럼프:트럼프": {
+      "title": "도널드 트럼프 \"호르무즈 해협 실질적 통제 선언\"… 국제적 논란 예고",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=875187",
+      "source": "",
+      "count": 5,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "한미 관세협상 이끈 여한구 산업부 통상본부장 직권면직",
+      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2294660",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "증권:목표주가": {
+      "title": "알테오젠, QLEX 순항에 신규 계약까지…목표주가 또 올랐다",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477688",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "목표주가"
+    },
+    "증권:리포트": {
+      "title": "[티몰 뷰티 트렌드 7월 리포트⑤] 클렌징폼 시장, 저자극·보습이 대세",
+      "url": "https://www.thebk.co.kr/news/articleView.html?idxno=310991",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "리포트"
+    },
+    "국채금리:국채": {
+      "title": "美, 대기업 연금 흑자 전환…연 5%대 초장기 국채로 잠근다",
+      "url": "https://www.g-enews.com/view.php?ud=202608151103476925fbbec65dfb_1",
+      "source": "",
+      "count": 1,
+      "group": "국채금리",
+      "keyword": "국채"
+    },
+    "주식:배당": {
+      "title": "휴온스글로벌, 2분기 매출 2141억원 기록...2분기 배당 400원 결정",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=279546",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "8월 둘째주 삼성전자우 주가 꾸준한 우상향",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164326",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "주가는 낮아졌는데 실적은 뛴다…삼성전자에 겹친 호재들",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477690",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "'AI 반도체 호황 덕'... 삼성전자, 올 상반기 對美ㆍ 對中 수출 급증",
+        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878036",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "최근 5거래일 삼성전자 주가 23만원대서 급등",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164312",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스, AI 호황에 실적 또 뛴다…\"지금이 비중 확대 기회\"",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477689",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "8월 2주차 SK하이닉스 주가 견조한 상승세",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164313",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "트럼프 행정부, 애플에 \"중국산 메모리 구매 안돼\" 전달",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590050.html",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      },
+      {
+        "title": "트럼프 행정부, 애플에 \"중국산 메모리칩 사지 말라\" 직접 경고",
+        "url": "https://www.news1.kr/world/usa-canada/6260160",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      },
+      {
+        "title": "최태원 SK그룹 회장, 美 메모리 팹 가능성 열었다…\"생태계 갖춰지면 어...",
+        "url": "https://www.econovill.com/news/articleView.html?idxno=748112",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아, 오픈AI 데이터센터 금융보증 규모 대폭 줄인다…'순환거래' ...",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=208626",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "엔비디아, 오픈AI 데이터센터 '채무 보증' 반토막 축소",
+        "url": "https://biz.sbs.co.kr/article_hub/20000328954?division=NAVER",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "엔비디아, 오픈AI 데이터센터 '채무 보증' 반토막 축소",
+        "url": "https://www.yna.co.kr/view/AKR20260815026700091?input=1195m",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:HBM": [
+      {
+        "title": "엔비디아 HBM을 독점하는 회사가 왜 52주 고점 절반에 있을까요 - 네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmVwWVJ3aGhuRHotMXNaUXBPZzZGRXdQMlRSWGhSX1FjNGJ2VFJ0UC1SdUxWZEtIMEVNNDBtbnVDQjQwcHFwTVk3cGJhT2E5NjZaUC16dVg0VXdLMHVkVlJyTXBWdWswblRhamFGbC1uR2E1QTFpMktLSnJhUWp5UThIVXo0ejA?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "group": "반도체",
+        "keyword": "HBM"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "호남 반도체 포함 미래 전력수요 재전망…9월엔 신규 원전 토론회",
+        "url": "https://www.mt.co.kr/economy/2026/08/15/2026081419175078674",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "최근 5거래일 제주반도체 주가 하락 마감 변동성 확대",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164333",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "12차 전기본 4·5차 토론회…20일 전력수요 재전망 논의",
+        "url": "https://www.dailian.co.kr/news/view/1678788/?sc=Naver",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      },
+      {
+        "title": "3대 메가 반영 전력수요 전망 다시 나온다…전기본 토론회 재개",
+        "url": "https://www.yna.co.kr/view/AKR20260815025100530?input=1195m",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      },
+      {
+        "title": "메가프로젝트에 따른 미래 전력수요는…12차 전기본 토론회 개최",
+        "url": "https://www.newsis.com/view/NISX20260815_0003750431",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "에너지:원전": [
+      {
+        "title": "빌 게이츠의 차세대 원전 '나트륨'…SK·HD현대·두산·현대건설 올라탔...",
+        "url": "https://bizhankook.com/articles/bill-gates-k-nuclear-ai-power.html",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "산업부-테라파워, 4세대 SMR 글로벌 공급망 협력 본격화… 韓 원전 파운드리 생태계 결합 추진 - 기계신문",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tZG1NeVRQNzgtM0thTVZiQlgtdlNqRjRkaHBkak9LMi1TbFA4RFlZaFBzYzRJZEprOHQzWGRQWHlYVDBxVGlpeExLZnM5SC1aYlFrRVNES3RENUN2ZjNNSXM0VmFRZw?oc=5",
+        "source": "기계신문",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "로봇:자율주행": [
+      {
+        "title": "충주 탄금공원 자율주행 셔틀, 정식 운행 시동",
+        "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=355165",
+        "source": "",
+        "group": "로봇",
+        "keyword": "자율주행"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "도널드 트럼프 \"호르무즈 해협 실질적 통제 선언\"… 국제적 논란 예고",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=875187",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "LA레이커스부터 월드컵까지…‘트럼프 사돈’ 왜 스포츠에 꽂혔나? [디...",
+        "url": "https://biz.heraldcorp.com/article/10842198?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “호르무즈 곧 美 영토”...이란 “과거도 미래도 우리 영토” ...",
+        "url": "https://www.m-economynews.com/news/article.html?no=69789",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 일본 항복 겨냥 “미군의 꺾이지 않는 의지에 굴복”",
+        "url": "https://www.segye.com/newsView/20260815507289?OutUrl=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “호르무즈 해협, 조만간 美 영토로 선언”…이란 “우리 땅” ...",
+        "url": "https://www.munhwa.com/article/11609739?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "한미 관세협상 이끈 여한구 산업부 통상본부장 직권면직",
+        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2294660",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "‘대미 관세협상 참여’ 여한구 산업부 통상교섭본부장 경질",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003293&cp=nv",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "여한구 통상교섭본부장 전격 면직...한미 관세·대미투자 갈등 속 배경...",
+        "url": "https://www.m-economynews.com/news/article.html?no=69788",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "증권:목표주가": [
+      {
+        "title": "알테오젠, QLEX 순항에 신규 계약까지…목표주가 또 올랐다",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477688",
+        "source": "",
+        "group": "증권",
+        "keyword": "목표주가"
+      }
+    ],
+    "증권:리포트": [
+      {
+        "title": "[티몰 뷰티 트렌드 7월 리포트⑤] 클렌징폼 시장, 저자극·보습이 대세",
+        "url": "https://www.thebk.co.kr/news/articleView.html?idxno=310991",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "美, 대기업 연금 흑자 전환…연 5%대 초장기 국채로 잠근다",
+        "url": "https://www.g-enews.com/view.php?ud=202608151103476925fbbec65dfb_1",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "휴온스글로벌, 2분기 매출 2141억원 기록...2분기 배당 400원 결정",
+        "url": "http://www.paxetv.com/news/articleView.html?idxno=279546",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ]
+  }
 }
