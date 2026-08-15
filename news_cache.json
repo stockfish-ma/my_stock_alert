@@ -944,6 +944,69 @@
     },
     "9d63ee4f5123": {
       "first_seen": "2026-08-15T06:02:21.022770+00:00"
+    },
+    "10d1e73d23f9": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "d271530c3a8e": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "8dd9b161bbbe": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "76145f106dd4": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "a78f75016160": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "0db8171dd6d3": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "ee15962d5aef": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "a9305ad53138": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "46737c6a6817": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "dc5edb7f16e7": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "1ed5eb7a34c9": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "fb204eb74a1b": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "60269fc08c74": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "84e03786eb3c": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "293827fe4ec6": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "6ea74540d06a": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "87903329ff12": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "980873260e52": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "d30f40835c36": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "8d839551b1dc": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
+    },
+    "5269c001782f": {
+      "first_seen": "2026-08-15T06:54:47.943048+00:00"
     }
   },
   "news_counts": {
@@ -2004,387 +2067,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 2,
-    "반도체:메모리": 5,
-    "반도체:반도체": 2,
-    "AI인프라:전력": 2,
-    "에너지:원전": 3,
-    "에너지:SMR": 2,
-    "트럼프:트럼프": 6,
-    "증권:s&p500": 1,
-    "반도체:엔비디아": 1,
-    "반도체:마이크론": 1,
-    "로봇:로봇": 1,
-    "트럼프:행정명령": 1,
-    "금리/환율:연준": 1,
-    "증권:상향": 1,
-    "원자재:구리": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
-  "last_top10_sent": "2026-08-15T05:12:23.075224+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "삼성전자 상반기 원재료 매입 55.8조원-AI 열풍에 모바일 메모리 비용 급...",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86810",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:메모리": {
-      "title": "트럼프 행정부, 애플에 \"중국산 메모리칩 사지 말라\" 직접 경고",
-      "url": "https://www.hankookilbo.com/news/article/A2026081514330004616?did=NA",
-      "source": "",
-      "count": 5,
-      "group": "반도체",
-      "keyword": "메모리"
-    },
-    "반도체:반도체": {
-      "title": "\"반도체 인수하면 다 죽어\" 반대했는데...SK 성과 노소영 측 9440억 기여...",
-      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85169",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:전력": {
-      "title": "삼성전기, 빌 게이츠 '나트륨 원전' 행보까지 겹쳤다…AI 전력 인프라 확...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598522",
-      "source": "",
-      "count": 2,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "에너지:원전": {
-      "title": "두산에너빌리티, 빌 게이츠가 창업한 미국 테라파워 소형모듈원전(SMR)에...",
-      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442899",
-      "source": "",
-      "count": 3,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "에너지:SMR": {
-      "title": "일본 청년 58.3% 원전 재가동·교체 찬성…SMR 기대감 70% - 에너지안전신문",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjRnJ1RVRHOWZtWDFQanFoc0pfb3hVNlp6SC13eXR3SHhQS3B1LWJVQWdGQUFxR0gzb0lyUHFkaHBUdHFyLVNyQnFWUld5aE9WR1JqMGxoSjZTQ3pEai1nT08tTGg?oc=5",
-      "source": "에너지안전신문",
-      "count": 2,
-      "group": "에너지",
-      "keyword": "SMR"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 “호르무즈, 조만간 미 영토로 선언”…이란 “허황된 망상”",
-      "url": "https://www.hani.co.kr/arti/international/america/1273044.html",
-      "source": "",
-      "count": 6,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "증권:s&p500": {
-      "title": "같은 S&P500을 사도, 국내 계좌에 담는 순간 건보료 고지서가 따라붙음 - 네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOXdGQ2lXMXJoMG5SMW12RjB2Sng5YjBTUmlUQ0Ita0oxN2RKakEwcy1CR1Jwazd5aElQczZIcHVEQURRTWFUdGlFUXA5MU5jckdNZ0duZnFSOVk5SGVFa0V3Rk91d2ZFMXpKYkl5WHZhWE1LaFZDb1p0cUJCeEZVTTZxcWxTY19oNW5lZA?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "count": 1,
-      "group": "증권",
-      "keyword": "s&p500"
-    },
-    "반도체:엔비디아": {
-      "title": "엔비디아 225달러 재도전…UBS “280달러까지 오른다”",
-      "url": "http://coinreaders.com/252973",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:마이크론": {
-      "title": "마이크론 주가 급등…물가 둔화 타고 1,000달러 되찾나",
-      "url": "http://coinreaders.com/252972",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "마이크론"
-    },
-    "로봇:로봇": {
-      "title": "中항저우서 '2026 루이캉로봇개발자대회' 개최",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=88515",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:행정명령": {
-      "title": "포항 보릿돌교 붕괴 현장 '위험구역' 행정명령…갯바위 낚시 등 출입통...",
-      "url": "https://www.newsis.com/view/NISX20260815_0003750617",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "행정명령"
-    },
-    "금리/환율:연준": {
-      "title": "美연준에 새 도전 될 수 있는 두 위험",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115529",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "연준"
-    },
-    "증권:상향": {
-      "title": "버그 수정 포함 8단 상향? 총 13단 상향받은 D.Mon",
-      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110691",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "상향"
-    },
-    "원자재:구리": {
-      "title": "구리 지역사회, 독립운동가 심점봉 선생 서훈 재추진",
-      "url": "https://www.newsis.com/view/NISX20260815_0003750619",
-      "source": "",
-      "count": 1,
-      "group": "원자재",
-      "keyword": "구리"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "삼성전자 상반기 원재료 매입 55.8조원-AI 열풍에 모바일 메모리 비용 급...",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86810",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자·SK하이닉스 투자에 웃었다…테스, 신규 수주 급증",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477714",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:메모리": [
-      {
-        "title": "트럼프 행정부, 애플에 \"중국산 메모리칩 사지 말라\" 직접 경고",
-        "url": "https://www.hankookilbo.com/news/article/A2026081514330004616?did=NA",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "트럼프 행정부, '中메모리 검토' 애플에 \"다른 해결책 찾아라\"",
-        "url": "https://www.yna.co.kr/view/AKR20260815033200009?input=1195m",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "트럼프 행정부, ‘中메모리 검토’ 애플에 “다른 해결책 찾아라”",
-        "url": "https://www.mk.co.kr/article/12128740",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "美트럼프 행정부, 애플 '中메모리 탑재' 막았다",
-        "url": "https://view.asiae.co.kr/article/2026081514521670088",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "“중국산 메모리 쓰지마”…트럼프 정부, 애플에 제동",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02423926645547648",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "\"반도체 인수하면 다 죽어\" 반대했는데...SK 성과 노소영 측 9440억 기여...",
-        "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85169",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "호남권 반도체 클러스터 속도…정주여건 TF 가동·軍 임시배치 구체화",
-        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057052",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "삼성전기, 빌 게이츠 '나트륨 원전' 행보까지 겹쳤다…AI 전력 인프라 확...",
-        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598522",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      },
-      {
-        "title": "전기본 토론회 재개…메가프로젝트에 전력수요 확대 전망",
-        "url": "http://www.yonhapnewstv.co.kr/news/AKR20260815143237DhL",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "두산에너빌리티, 빌 게이츠가 창업한 미국 테라파워 소형모듈원전(SMR)에...",
-        "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442899",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "수은, 빌 게이츠와 SMR 금융협력 논의…K-원전 글로벌 진출 지원",
-        "url": "https://biz.heraldcorp.com/article/10842369?ref=naver",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "수출입은행·게이츠재단, SMR 금융협력 논의…K-원전 글로벌 진출 지원",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86815",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "에너지:SMR": [
-      {
-        "title": "일본 청년 58.3% 원전 재가동·교체 찬성…SMR 기대감 70% - 에너지안전신문",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjRnJ1RVRHOWZtWDFQanFoc0pfb3hVNlp6SC13eXR3SHhQS3B1LWJVQWdGQUFxR0gzb0lyUHFkaHBUdHFyLVNyQnFWUld5aE9WR1JqMGxoSjZTQ3pEai1nT08tTGg?oc=5",
-        "source": "에너지안전신문",
-        "group": "에너지",
-        "keyword": "SMR"
-      },
-      {
-        "title": "美 에너지부, X-에너지 SMR 프로젝트에 10억 달러 추가 지원 - 에너지안전신문",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dnprelE0U0ZwZFBPQ3lERmhfaHRlMGszRzhGMm4zZGl5Zi1NZGppUV9oRlY0dlN1MUxyYVFmdW9MVmVFTDdDTEJlWWNrYm1vZEg5cUVxZ1VaTUVrNmxBSERqRTE?oc=5",
-        "source": "에너지안전신문",
-        "group": "에너지",
-        "keyword": "SMR"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 “호르무즈, 조만간 미 영토로 선언”…이란 “허황된 망상”",
-        "url": "https://www.hani.co.kr/arti/international/america/1273044.html",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 행정부, 대법에 \"백악관 연회장 공사 계속하게 해달라\"",
-        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260815141544lpY",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "이란, 트럼프 '호르무즈 美 영토' 주장에 \"허황된 망상\"",
-        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260815141453Uwa",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "이란 \"트럼프의 호르무즈 미국 영토 주장, 허황된 망상\"",
-        "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005901662",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 민간기업에 외국 사이버범죄 조직 '해킹 공격' 허용",
-        "url": "https://www.yna.co.kr/view/AKR20260815035200009?input=1195m",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 중국산 드론에 최대 100% '관세 폭탄'…한국 등 동맹국엔 15%",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=213992",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "증권:s&p500": [
-      {
-        "title": "같은 S&P500을 사도, 국내 계좌에 담는 순간 건보료 고지서가 따라붙음 - 네이버 프리미엄콘텐츠",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOXdGQ2lXMXJoMG5SMW12RjB2Sng5YjBTUmlUQ0Ita0oxN2RKakEwcy1CR1Jwazd5aElQczZIcHVEQURRTWFUdGlFUXA5MU5jckdNZ0duZnFSOVk5SGVFa0V3Rk91d2ZFMXpKYkl5WHZhWE1LaFZDb1p0cUJCeEZVTTZxcWxTY19oNW5lZA?oc=5",
-        "source": "네이버 프리미엄콘텐츠",
-        "group": "증권",
-        "keyword": "s&p500"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "엔비디아 225달러 재도전…UBS “280달러까지 오른다”",
-        "url": "http://coinreaders.com/252973",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:마이크론": [
-      {
-        "title": "마이크론 주가 급등…물가 둔화 타고 1,000달러 되찾나",
-        "url": "http://coinreaders.com/252972",
-        "source": "",
-        "group": "반도체",
-        "keyword": "마이크론"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "中항저우서 '2026 루이캉로봇개발자대회' 개최",
-        "url": "https://www.the-today.com/news/articleView.html?idxno=88515",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:행정명령": [
-      {
-        "title": "포항 보릿돌교 붕괴 현장 '위험구역' 행정명령…갯바위 낚시 등 출입통...",
-        "url": "https://www.newsis.com/view/NISX20260815_0003750617",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "행정명령"
-      }
-    ],
-    "금리/환율:연준": [
-      {
-        "title": "美연준에 새 도전 될 수 있는 두 위험",
-        "url": "https://www.businessplus.kr/news/articleView.html?idxno=115529",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "연준"
-      }
-    ],
-    "증권:상향": [
-      {
-        "title": "버그 수정 포함 8단 상향? 총 13단 상향받은 D.Mon",
-        "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110691",
-        "source": "",
-        "group": "증권",
-        "keyword": "상향"
-      }
-    ],
-    "원자재:구리": [
-      {
-        "title": "구리 지역사회, 독립운동가 심점봉 선생 서훈 재추진",
-        "url": "https://www.newsis.com/view/NISX20260815_0003750619",
-        "source": "",
-        "group": "원자재",
-        "keyword": "구리"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-15T06:54:49.727111+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
