@@ -1,17 +1,5 @@
 {
   "news_seen": {
-    "287830fc0fc0": {
-      "first_seen": "2026-08-15T10:42:59.336139+00:00"
-    },
-    "c543fa90ce9e": {
-      "first_seen": "2026-08-15T10:42:59.336139+00:00"
-    },
-    "6e3fd71cac71": {
-      "first_seen": "2026-08-15T10:42:59.336139+00:00"
-    },
-    "dd908a25dcdf": {
-      "first_seen": "2026-08-15T10:42:59.336139+00:00"
-    },
     "da8d310ded38": {
       "first_seen": "2026-08-15T11:01:34.523899+00:00"
     },
@@ -236,6 +224,33 @@
     },
     "2e28ec0fe3c6": {
       "first_seen": "2026-08-15T22:41:07.693311+00:00"
+    },
+    "2b3f81cc59a6": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "7b1a57e5be01": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "ce7e3ec5d3da": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "a99f4d0b4b99": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "359292053d0e": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "7acb12c3dedc": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "8cbb706bbee9": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "c26f4148fdd5": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "2b328f8a4858": {
+      "first_seen": "2026-08-15T22:57:59.214349+00:00"
     }
   },
   "news_counts": {
@@ -1298,13 +1313,13 @@
   },
   "kw_counts": {
     "반도체:삼성전자": 2,
-    "반도체:반도체": 2,
+    "반도체:반도체": 5,
     "AI인프라:전력": 1,
     "에너지:ESS": 1,
     "에너지:우라늄": 1,
     "로봇:자율주행": 1,
-    "트럼프:트럼프": 4,
-    "증권:상향": 1,
+    "트럼프:트럼프": 7,
+    "증권:상향": 4,
     "증권:하향": 1,
     "증권:코스피": 1
   },
@@ -1323,7 +1338,7 @@
       "title": "충남대학교 물리학과, AI 반도체 연구성과 한자리에…'Graduate Research Day...",
       "url": "https://www.lecturernews.com/news/articleView.html?idxno=208635",
       "source": "",
-      "count": 2,
+      "count": 5,
       "group": "반도체",
       "keyword": "반도체"
     },
@@ -1363,7 +1378,7 @@
       "title": "트럼프 \"김정은과 난 사이 좋다\"… 이번엔 김정은과 판문점 회동 사진 ...",
       "url": "https://www.busan.com/view/busan/view.php?code=2026081606593250174",
       "source": "",
-      "count": 4,
+      "count": 7,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -1371,7 +1386,7 @@
       "title": "KDI, 성장률 전망 상향 예고…가계부채·연체율 '경고등' 켜지나",
       "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62943",
       "source": "",
-      "count": 1,
+      "count": 4,
       "group": "증권",
       "keyword": "상향"
     },
@@ -1420,6 +1435,27 @@
       {
         "title": "8월 수익률 1위 코스닥, 코스피에 추월 허용…반도체가 판도 바꿨다",
         "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477770",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "같은 반도체 호황인데…한국 성장률, 대만에 13분기 연속 밀렸다",
+        "url": "https://www.news1.kr/economy/trend/6259748",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "반도체 반등에 다시 8,000억대…레버리지 거래 '꿈틀'",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160032&t=NN",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "\"반도체나 살걸 괜히 들어갔다가...\" 39개 종목 상폐 갈림길에 '발동동'",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160030&t=NN",
         "source": "",
         "group": "반도체",
         "keyword": "반도체"
@@ -1489,12 +1525,54 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 김정은과 판문점 회동 사진 올리고 \"우리는 사이 좋아\"",
+        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2294693",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "\"하마스 수장, 美트럼프 특사보다 먼저 이집트 방문\"",
+        "url": "https://www.newsis.com/view/NISX20260816_0003750826",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "“get along GREAT!” 트럼프, ‘김정은 사진’ SNS에 또 올려",
+        "url": "https://www.segye.com/newsView/20260816503589?OutUrl=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "증권:상향": [
       {
         "title": "KDI, 성장률 전망 상향 예고…가계부채·연체율 '경고등' 켜지나",
         "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62943",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "남부 호우특보 확대…행안부, 위기경보 '주의' 상향",
+        "url": "https://www.news1.kr/local/moi/6260420",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "[속보] 남부지방 호우특보 확대…행안부, 위기경보 '주의' 상향",
+        "url": "https://www.news1.kr/local/moi/6260419",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "남부지방에 강한 비···호우 위기경보 ‘주의’로 상향",
+        "url": "https://www.khan.co.kr/article/202608160748001",
         "source": "",
         "group": "증권",
         "keyword": "상향"
