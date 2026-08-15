@@ -1088,6 +1088,18 @@
     },
     "564c7d1650ba": {
       "first_seen": "2026-08-15T08:48:31.940247+00:00"
+    },
+    "2eaaa926ecc4": {
+      "first_seen": "2026-08-15T09:11:11.443814+00:00"
+    },
+    "5bdf75928295": {
+      "first_seen": "2026-08-15T09:11:11.443814+00:00"
+    },
+    "c32dac03082e": {
+      "first_seen": "2026-08-15T09:11:11.443814+00:00"
+    },
+    "96c77937d963": {
+      "first_seen": "2026-08-15T09:11:11.443814+00:00"
     }
   },
   "news_counts": {
@@ -2154,9 +2166,11 @@
     "AI인프라:전력": 1,
     "AI인프라:데이터센터": 1,
     "로봇:휴머노이드": 1,
-    "트럼프:트럼프": 2,
-    "트럼프:관세": 1,
-    "증권:상향": 1
+    "트럼프:트럼프": 3,
+    "트럼프:관세": 2,
+    "증권:상향": 1,
+    "에너지:ESS": 1,
+    "로봇:로봇": 1
   },
   "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
   "last_top10_sent": "2026-08-15T08:11:49.874380+00:00",
@@ -2205,7 +2219,7 @@
       "title": "'지지선언' 회피하는 트럼프 …선거 앞둔 네타냐후 '속이 탄다'",
       "url": "https://biz.sbs.co.kr/article_hub/20000328984?division=NAVER",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2213,7 +2227,7 @@
       "title": "美, 한국 등 40여개국 '中 트로이 목마' 지목…관세 우회 정조준",
       "url": "http://www.inews24.com/view/1995392",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "트럼프",
       "keyword": "관세"
     },
@@ -2224,6 +2238,22 @@
       "count": 1,
       "group": "증권",
       "keyword": "상향"
+    },
+    "에너지:ESS": {
+      "title": "삼성SDI, 중국 배터리 점유율 되찾나…ESS·유럽 EV가 승부처 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvMXpyTmxXc2ZsZk1IZWFVeDY2ODEycTVTS2o1M18yekNhQmtKbzB0c0hBQ2lxdlQyU3NHUkQtR081RUdZcGFkM2RxR0xmZEdVcFZESFVxcURkdTh0OTJRc3NpQmZMRWpQc0xXci1EaWY3S1XSAXdBVV95cUxQSUZQb000WHNMVkloZThrYW1FbUFzWGNsMnZlNjhJeFViQU5nX19EbHd4c0xYSUcybW9iazQxMHYzUDAtTGtRcDMtWUE2ai0xYVpvbG5BbHFMSXpoMkt3SjZtLTBnelJUZjBqc0Y0MWhnSVlKN3BYNA?oc=5",
+      "source": "핀포인트뉴스",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "ESS"
+    },
+    "로봇:로봇": {
+      "title": "도입 이후 극적인 성과, 사람 대신 순찰 도는 로봇 개 [자막뉴스]",
+      "url": "https://www.ytn.co.kr/_ln/0134_202608151736201658",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
     }
   },
   "kw_article_pool": {
@@ -2286,12 +2316,26 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 호르무즈 美 영토 주장에 이란 '일축'...긴장 고조",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150612&t=NN",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "트럼프:관세": [
       {
         "title": "美, 한국 등 40여개국 '中 트로이 목마' 지목…관세 우회 정조준",
         "url": "http://www.inews24.com/view/1995392",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "'통상 사령탑' 여한구 본부장 경질…\"대미 관세협상과 무관\"",
+        "url": "https://www.yna.co.kr/view/AKR20260815043100001?input=1195m",
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
@@ -2304,6 +2348,24 @@
         "source": "",
         "group": "증권",
         "keyword": "상향"
+      }
+    ],
+    "에너지:ESS": [
+      {
+        "title": "삼성SDI, 중국 배터리 점유율 되찾나…ESS·유럽 EV가 승부처 - 핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvMXpyTmxXc2ZsZk1IZWFVeDY2ODEycTVTS2o1M18yekNhQmtKbzB0c0hBQ2lxdlQyU3NHUkQtR081RUdZcGFkM2RxR0xmZEdVcFZESFVxcURkdTh0OTJRc3NpQmZMRWpQc0xXci1EaWY3S1XSAXdBVV95cUxQSUZQb000WHNMVkloZThrYW1FbUFzWGNsMnZlNjhJeFViQU5nX19EbHd4c0xYSUcybW9iazQxMHYzUDAtTGtRcDMtWUE2ai0xYVpvbG5BbHFMSXpoMkt3SjZtLTBnelJUZjBqc0Y0MWhnSVlKN3BYNA?oc=5",
+        "source": "핀포인트뉴스",
+        "group": "에너지",
+        "keyword": "ESS"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "도입 이후 극적인 성과, 사람 대신 순찰 도는 로봇 개 [자막뉴스]",
+        "url": "https://www.ytn.co.kr/_ln/0134_202608151736201658",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
       }
     ]
   }
