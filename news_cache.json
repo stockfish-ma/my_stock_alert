@@ -1,11 +1,5 @@
 {
   "news_seen": {
-    "da8d310ded38": {
-      "first_seen": "2026-08-15T11:01:34.523899+00:00"
-    },
-    "84f278bf7bf1": {
-      "first_seen": "2026-08-15T11:01:34.523899+00:00"
-    },
     "1483648c4227": {
       "first_seen": "2026-08-15T11:31:27.686276+00:00"
     },
@@ -251,6 +245,69 @@
     },
     "2b328f8a4858": {
       "first_seen": "2026-08-15T22:57:59.214349+00:00"
+    },
+    "f98dd248a2d9": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "de00c471b20a": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "2f2d3a7eddf9": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "63a2b5bf6c27": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "c009e8d08ac1": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "a347f6e74706": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "71b5e381f6b3": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "682d009c9965": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "64424ca373c8": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "d810eaf7a5dc": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "2dbf736bfd67": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "547af1e76000": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "f6bb66431f2d": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "b8ac5d2bd6fd": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "02e2271245e8": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "d07a3c726c1e": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "758c852b00c5": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "75c5a170cad6": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "7f4e839e1a53": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "1e6b53530e2e": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "8421c2851b97": {
+      "first_seen": "2026-08-15T23:17:50.010208+00:00"
     }
   },
   "news_counts": {
@@ -1311,290 +1368,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 2,
-    "반도체:반도체": 5,
-    "AI인프라:전력": 1,
-    "에너지:ESS": 1,
-    "에너지:우라늄": 1,
-    "로봇:자율주행": 1,
-    "트럼프:트럼프": 7,
-    "증권:상향": 4,
-    "증권:하향": 1,
-    "증권:코스피": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-15T11:47:39.613870+00:00",
-  "last_top10_sent": "2026-08-15T22:14:42.057096+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "코스피 껑충, 삼성전자·SK하이닉스·현대차 등 주가↑…美 CPI·PPI 물가...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598371",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:반도체": {
-      "title": "충남대학교 물리학과, AI 반도체 연구성과 한자리에…'Graduate Research Day...",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=208635",
-      "source": "",
-      "count": 5,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:전력": {
-      "title": "AI 핵심 인프라 재생에너지…전력 안정성 높이는 ESS 입지 확대",
-      "url": "https://www.yna.co.kr/view/AKR20260814177500003?input=1195m",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "에너지:ESS": {
-      "title": "AI 핵심 인프라 재생에너지…전력 안정성 높이는 ESS 입지 확대 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vQ2dvV2EyYkxwU01rR0tCS2pTZ1puNjVBTGZCeENkT1lRM1Q2QzRQRWh1cS14LTBaU3h3bEgyNTNsdlFBbW9Jenl5RjRsbXppVDhB?oc=5",
-      "source": "네이트",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "ESS"
-    },
-    "에너지:우라늄": {
-      "title": "캐나다, 우라늄 광산 착공…세계 공급 20% 생산",
-      "url": "https://www.g-enews.com/view.php?ud=202608160715337728fbbec65dfb_1",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "우라늄"
-    },
-    "로봇:자율주행": {
-      "title": "전북대학교 방산AI부트캠프, 전국 자율주행 경진대회서 대상·동상 동시...",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=208485",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "자율주행"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 \"김정은과 난 사이 좋다\"… 이번엔 김정은과 판문점 회동 사진 ...",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026081606593250174",
-      "source": "",
-      "count": 7,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "증권:상향": {
-      "title": "KDI, 성장률 전망 상향 예고…가계부채·연체율 '경고등' 켜지나",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62943",
-      "source": "",
-      "count": 4,
-      "group": "증권",
-      "keyword": "상향"
-    },
-    "증권:하향": {
-      "title": "미래에셋증권 주주들 울겠네…\"스페이스X 때문\" 목표가 줄하향 이유는",
-      "url": "https://www.mt.co.kr/stock/2026/08/16/2026081414521369932",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "하향"
-    },
-    "증권:코스피": {
-      "title": "‘삼전닉스’ 돌아오자 코스피 7000 터치…다음주 증시 향방은 [선데이...",
-      "url": "https://www.sedaily.com/article/20079842?ref=naver",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스피"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "코스피 껑충, 삼성전자·SK하이닉스·현대차 등 주가↑…美 CPI·PPI 물가...",
-        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598371",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "가전업계 '청담대전'…삼성전자, 원스톱 혼수 특화 매장 개설",
-        "url": "https://www.yna.co.kr/view/AKR20260815027800003?input=1195m",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "충남대학교 물리학과, AI 반도체 연구성과 한자리에…'Graduate Research Day...",
-        "url": "https://www.lecturernews.com/news/articleView.html?idxno=208635",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "8월 수익률 1위 코스닥, 코스피에 추월 허용…반도체가 판도 바꿨다",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477770",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "같은 반도체 호황인데…한국 성장률, 대만에 13분기 연속 밀렸다",
-        "url": "https://www.news1.kr/economy/trend/6259748",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "반도체 반등에 다시 8,000억대…레버리지 거래 '꿈틀'",
-        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160032&t=NN",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "\"반도체나 살걸 괜히 들어갔다가...\" 39개 종목 상폐 갈림길에 '발동동'",
-        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160030&t=NN",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "AI 핵심 인프라 재생에너지…전력 안정성 높이는 ESS 입지 확대",
-        "url": "https://www.yna.co.kr/view/AKR20260814177500003?input=1195m",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "에너지:ESS": [
-      {
-        "title": "AI 핵심 인프라 재생에너지…전력 안정성 높이는 ESS 입지 확대 - 네이트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vQ2dvV2EyYkxwU01rR0tCS2pTZ1puNjVBTGZCeENkT1lRM1Q2QzRQRWh1cS14LTBaU3h3bEgyNTNsdlFBbW9Jenl5RjRsbXppVDhB?oc=5",
-        "source": "네이트",
-        "group": "에너지",
-        "keyword": "ESS"
-      }
-    ],
-    "에너지:우라늄": [
-      {
-        "title": "캐나다, 우라늄 광산 착공…세계 공급 20% 생산",
-        "url": "https://www.g-enews.com/view.php?ud=202608160715337728fbbec65dfb_1",
-        "source": "",
-        "group": "에너지",
-        "keyword": "우라늄"
-      }
-    ],
-    "로봇:자율주행": [
-      {
-        "title": "전북대학교 방산AI부트캠프, 전국 자율주행 경진대회서 대상·동상 동시...",
-        "url": "https://www.lecturernews.com/news/articleView.html?idxno=208485",
-        "source": "",
-        "group": "로봇",
-        "keyword": "자율주행"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 \"김정은과 난 사이 좋다\"… 이번엔 김정은과 판문점 회동 사진 ...",
-        "url": "https://www.busan.com/view/busan/view.php?code=2026081606593250174",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"김정은과 나는 사이가 좋다\"... 판문점 회동 사진 올렸다",
-        "url": "https://www.insight.co.kr/news/568461",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"김정은과 사이 좋다\"…판문점 회동 사진 게시",
-        "url": "https://www.hankyung.com/article/2026081636417",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 김정은과 판문점 회동 사진 게시…\"사이 좋아\"",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707252&plink=ORI&cooper=NAVER",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 김정은과 판문점 회동 사진 올리고 \"우리는 사이 좋아\"",
-        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2294693",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "\"하마스 수장, 美트럼프 특사보다 먼저 이집트 방문\"",
-        "url": "https://www.newsis.com/view/NISX20260816_0003750826",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "“get along GREAT!” 트럼프, ‘김정은 사진’ SNS에 또 올려",
-        "url": "https://www.segye.com/newsView/20260816503589?OutUrl=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "증권:상향": [
-      {
-        "title": "KDI, 성장률 전망 상향 예고…가계부채·연체율 '경고등' 켜지나",
-        "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62943",
-        "source": "",
-        "group": "증권",
-        "keyword": "상향"
-      },
-      {
-        "title": "남부 호우특보 확대…행안부, 위기경보 '주의' 상향",
-        "url": "https://www.news1.kr/local/moi/6260420",
-        "source": "",
-        "group": "증권",
-        "keyword": "상향"
-      },
-      {
-        "title": "[속보] 남부지방 호우특보 확대…행안부, 위기경보 '주의' 상향",
-        "url": "https://www.news1.kr/local/moi/6260419",
-        "source": "",
-        "group": "증권",
-        "keyword": "상향"
-      },
-      {
-        "title": "남부지방에 강한 비···호우 위기경보 ‘주의’로 상향",
-        "url": "https://www.khan.co.kr/article/202608160748001",
-        "source": "",
-        "group": "증권",
-        "keyword": "상향"
-      }
-    ],
-    "증권:하향": [
-      {
-        "title": "미래에셋증권 주주들 울겠네…\"스페이스X 때문\" 목표가 줄하향 이유는",
-        "url": "https://www.mt.co.kr/stock/2026/08/16/2026081414521369932",
-        "source": "",
-        "group": "증권",
-        "keyword": "하향"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "‘삼전닉스’ 돌아오자 코스피 7000 터치…다음주 증시 향방은 [선데이...",
-        "url": "https://www.sedaily.com/article/20079842?ref=naver",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-15T23:17:51.735482+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
