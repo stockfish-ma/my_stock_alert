@@ -872,6 +872,24 @@
     },
     "ba121d159dc2": {
       "first_seen": "2026-08-15T12:01:05.916500+00:00"
+    },
+    "3a14900507b5": {
+      "first_seen": "2026-08-15T12:49:49.663925+00:00"
+    },
+    "040c583adee2": {
+      "first_seen": "2026-08-15T12:49:49.663925+00:00"
+    },
+    "c6c7f2d8e672": {
+      "first_seen": "2026-08-15T12:49:49.663925+00:00"
+    },
+    "e2f5da4717f2": {
+      "first_seen": "2026-08-15T12:49:49.663925+00:00"
+    },
+    "2b8f7ecea1d6": {
+      "first_seen": "2026-08-15T12:49:49.663925+00:00"
+    },
+    "af932c8a5af1": {
+      "first_seen": "2026-08-15T12:49:49.663925+00:00"
     }
   },
   "news_counts": {
@@ -1932,91 +1950,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:반도체": 2,
-    "AI인프라:전력": 1,
-    "로봇:로봇": 1,
-    "증권:리포트": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-15T11:47:39.613870+00:00",
-  "last_top10_sent": "2026-08-15T11:48:56.129306+00:00",
-  "kw_articles": {
-    "반도체:반도체": {
-      "title": "[김병철 시선②] 23조 8천억 투자유치 넘어 AI·반도체로…정명근, 화성...",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712568",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:전력": {
-      "title": "메가프로젝트 담은 전력수요 밑그림 나온다…20일 토론회 개최",
-      "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590138.html",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "로봇:로봇": {
-      "title": "경산시, 자동차부품 산업 AI 로봇으로 영역 넓힌다.",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202608152018092824c923548bdf_7",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "증권:리포트": {
-      "title": "[리포트]81주년 광복절⋯바로 세운 광복의 의미",
-      "url": "https://tjmbc.co.kr/NewsArticle/856880",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "리포트"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:반도체": [
-      {
-        "title": "[김병철 시선②] 23조 8천억 투자유치 넘어 AI·반도체로…정명근, 화성...",
-        "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712568",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "\"중국산 반도체 구매말라\"…트럼프 행정부, 애플에 직접 경고",
-        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590140.html",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "메가프로젝트 담은 전력수요 밑그림 나온다…20일 토론회 개최",
-        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590138.html",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "경산시, 자동차부품 산업 AI 로봇으로 영역 넓힌다.",
-        "url": "https://www.thepowernews.co.kr/view.php?ud=202608152018092824c923548bdf_7",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "증권:리포트": [
-      {
-        "title": "[리포트]81주년 광복절⋯바로 세운 광복의 의미",
-        "url": "https://tjmbc.co.kr/NewsArticle/856880",
-        "source": "",
-        "group": "증권",
-        "keyword": "리포트"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-15T12:49:49.664173+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
