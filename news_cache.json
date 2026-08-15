@@ -1130,6 +1130,30 @@
     },
     "40b070ce3a01": {
       "first_seen": "2026-08-15T09:56:40.848297+00:00"
+    },
+    "18066b870bd0": {
+      "first_seen": "2026-08-15T10:16:58.180248+00:00"
+    },
+    "9c24c499461b": {
+      "first_seen": "2026-08-15T10:16:58.180248+00:00"
+    },
+    "8d6fc23bfe20": {
+      "first_seen": "2026-08-15T10:16:58.180248+00:00"
+    },
+    "dd52d12746bd": {
+      "first_seen": "2026-08-15T10:16:58.180248+00:00"
+    },
+    "8396d9604f77": {
+      "first_seen": "2026-08-15T10:16:58.180248+00:00"
+    },
+    "5276b2d5c133": {
+      "first_seen": "2026-08-15T10:16:58.180248+00:00"
+    },
+    "13ac677fc484": {
+      "first_seen": "2026-08-15T10:16:58.180248+00:00"
+    },
+    "3c4e7378cff7": {
+      "first_seen": "2026-08-15T10:16:58.180248+00:00"
     }
   },
   "news_counts": {
@@ -2192,8 +2216,13 @@
   },
   "kw_counts": {
     "반도체:삼성전자": 1,
-    "트럼프:트럼프": 2,
-    "증권:목표주가": 1
+    "트럼프:트럼프": 4,
+    "증권:목표주가": 1,
+    "반도체:엔비디아": 1,
+    "AI인프라:전력": 1,
+    "에너지:SMR": 1,
+    "에너지:LNG": 1,
+    "트럼프:관세": 2
   },
   "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
   "last_top10_sent": "2026-08-15T09:38:48.173720+00:00",
@@ -2210,7 +2239,7 @@
       "title": "\"트럼프도 베팅했다\"…AI 다음은 '광물' 전쟁, 돈 몰리는 전략자산 ETF",
       "url": "http://www.fnnews.com/news/202608151843181723",
       "source": "",
-      "count": 2,
+      "count": 4,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2221,6 +2250,46 @@
       "count": 1,
       "group": "증권",
       "keyword": "목표주가"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아, 스페이스X 210억 달러·인텔 300억 달러 지분 보유",
+      "url": "https://zdnet.co.kr/view/?no=20260815145938",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "AI인프라:전력": {
+      "title": "한화 삼킨 '이 악물고 전력투구', 국민유격수도 극찬…\"1회부터 온 힘 다...",
+      "url": "https://www.xportsnews.com/article/2184147",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "에너지:SMR": {
+      "title": "테라파워·현대건설·SK, 차세대 나트륨 SMR 상용화 본격화 - 에너지안전신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01Zm5DWjY1MGtidkZZNkxiQ0FRRnBjT1JxSnE3amVQQnl6bU1KWkticHRLM0pmOExFLWM0cDFubFE4aDNvUlFHcDR2OTJDS2o3bnZwRFgxRUgyMkZwTm9tUUNPU3Y?oc=5",
+      "source": "에너지안전신문",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "에너지:LNG": {
+      "title": "태광에 다시 볕드나…미국·캐나다 LNG 발주 재개에 수주 회복 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41cklZUkdaWDhxSjd3RVBpNW1mR1diVm5HbUZhNUhfQXVRRlhmaGtYRDlieUh6bXhPc3lvdWt6dGN0d3BnbWhNQkVVbXdKSlJoU1B2WWhJTHdfdGU3UjJKemU4WW1iMURKaDQ2anNsQ2s0b1HSAXdBVV95cUxOLVQ2cnVEWVlHWmlpbW9mZDJ0YVd1WnN0RkZNeWJkenNZejFtSFlnaVQ4MGJSN0o3RWpMaXQxV2F2RDdFdEJ0MTdzUGtBUUliNlN5enVvMjRnV0gtSzNFRlE1WGpaS1VIcVZpT1QyRGpFVnRPYTdNUQ?oc=5",
+      "source": "핀포인트뉴스",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "LNG"
+    },
+    "트럼프:관세": {
+      "title": "[뉴스더] '한미관세 사령탑' 여한구 경질 이유는",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590100.html",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "관세"
     }
   },
   "kw_article_pool": {
@@ -2247,6 +2316,20 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “호르무즈 美 영토로 선언” vs 이란 “허황된 망상”",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545335",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 '호르무즈 美 영토' 주장에⋯이란 \"허황된 망상\"",
+        "url": "http://www.inews24.com/view/1995404",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "증권:목표주가": [
@@ -2256,6 +2339,58 @@
         "source": "",
         "group": "증권",
         "keyword": "목표주가"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아, 스페이스X 210억 달러·인텔 300억 달러 지분 보유",
+        "url": "https://zdnet.co.kr/view/?no=20260815145938",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "한화 삼킨 '이 악물고 전력투구', 국민유격수도 극찬…\"1회부터 온 힘 다...",
+        "url": "https://www.xportsnews.com/article/2184147",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "테라파워·현대건설·SK, 차세대 나트륨 SMR 상용화 본격화 - 에너지안전신문",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01Zm5DWjY1MGtidkZZNkxiQ0FRRnBjT1JxSnE3amVQQnl6bU1KWkticHRLM0pmOExFLWM0cDFubFE4aDNvUlFHcDR2OTJDS2o3bnZwRFgxRUgyMkZwTm9tUUNPU3Y?oc=5",
+        "source": "에너지안전신문",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "에너지:LNG": [
+      {
+        "title": "태광에 다시 볕드나…미국·캐나다 LNG 발주 재개에 수주 회복 - 핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41cklZUkdaWDhxSjd3RVBpNW1mR1diVm5HbUZhNUhfQXVRRlhmaGtYRDlieUh6bXhPc3lvdWt6dGN0d3BnbWhNQkVVbXdKSlJoU1B2WWhJTHdfdGU3UjJKemU4WW1iMURKaDQ2anNsQ2s0b1HSAXdBVV95cUxOLVQ2cnVEWVlHWmlpbW9mZDJ0YVd1WnN0RkZNeWJkenNZejFtSFlnaVQ4MGJSN0o3RWpMaXQxV2F2RDdFdEJ0MTdzUGtBUUliNlN5enVvMjRnV0gtSzNFRlE1WGpaS1VIcVZpT1QyRGpFVnRPYTdNUQ?oc=5",
+        "source": "핀포인트뉴스",
+        "group": "에너지",
+        "keyword": "LNG"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "[뉴스더] '한미관세 사령탑' 여한구 경질 이유는",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590100.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "\"업무 관련도, 비위도 아냐\"…'美관세협상 사령탑' 여한구 경질 두고 의...",
+        "url": "https://www.imaeil.com/page/view/2026081518443458955",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
       }
     ]
   }
