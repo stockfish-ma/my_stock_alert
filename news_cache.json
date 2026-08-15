@@ -1,26 +1,5 @@
 {
   "news_seen": {
-    "1483648c4227": {
-      "first_seen": "2026-08-15T11:31:27.686276+00:00"
-    },
-    "815cdbd5859b": {
-      "first_seen": "2026-08-15T11:31:27.686276+00:00"
-    },
-    "2e66df1fd123": {
-      "first_seen": "2026-08-15T11:31:27.686276+00:00"
-    },
-    "2e46c3ceb682": {
-      "first_seen": "2026-08-15T11:31:27.686276+00:00"
-    },
-    "4fb209ccb313": {
-      "first_seen": "2026-08-15T11:31:27.686276+00:00"
-    },
-    "990a4cc9715d": {
-      "first_seen": "2026-08-15T11:31:27.686276+00:00"
-    },
-    "d85b80d136e9": {
-      "first_seen": "2026-08-15T11:31:27.686276+00:00"
-    },
     "29fb350cc8a2": {
       "first_seen": "2026-08-15T11:48:54.543577+00:00"
     },
@@ -308,6 +287,57 @@
     },
     "8421c2851b97": {
       "first_seen": "2026-08-15T23:17:50.010208+00:00"
+    },
+    "f1246518b9fe": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "e1825c256ba0": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "015ca62706a2": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "1f09c0488dde": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "3c6aeb26a59d": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "7439e405013f": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "2f9f4fd5645e": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "229c507a635b": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "2d89cb603cdb": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "7afe12729541": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "999de0c6a24a": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "74e957c7dec9": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "9e11f349d7f9": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "28db3f0d10b2": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "e78d609fcfca": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "aeb19c5070cb": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "3812eedf0ec8": {
+      "first_seen": "2026-08-15T23:38:29.948564+00:00"
     }
   },
   "news_counts": {
@@ -1368,9 +1398,208 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 3,
+    "반도체:반도체": 2,
+    "에너지:ESS": 1,
+    "트럼프:트럼프": 5,
+    "금리/환율:연준": 1,
+    "증권:상향": 4,
+    "주식:배당": 1
+  },
   "kw_counts_reset": "2026-08-15T11:47:39.613870+00:00",
   "last_top10_sent": "2026-08-15T23:17:51.735482+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "AI 열풍 타고 삼성전자 반도체 수출 2배↑…미국 70조 돌파",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598541",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:반도체": {
+      "title": "극한 가뭄에 반도체 용수까지… 물 확보 '비상'",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260816083348HKR",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "에너지:ESS": {
+      "title": "[VC’s Pick]차세대 AI 데이터센터·ESS 기반 '배터리'에 쏠린 시선 - edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFdaZnF2dkdWeF9DbGFFTU1RUXMwaWk3YUQzRHlvUmpOT3BsTkhiMGVhU053RTZETUZ4cmh4Wmk4emJ6Ui1HWm5KWjBlUm9OVWVyckpoRHk5dkpicWxTQVJYTFJSYm0yaFdaM3hYXzlrc2M5S2RsMU5yWWpPZ1ktWg?oc=5",
+      "source": "edaily.co.kr",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "ESS"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프 \"김정은과 좋은 관계\"…'판문점 회동' 사진 올려",
+      "url": "https://news.tf.co.kr/read/world/2354644.htm",
+      "source": "",
+      "count": 5,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "금리/환율:연준": {
+      "title": "3주 오른 뉴욕증시, 이번주 분수령…이란·연준·월마트 ‘3대 시험대’",
+      "url": "https://www.kbmaeil.com/article/20260816500021",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "연준"
+    },
+    "증권:상향": {
+      "title": "남부지방 거센 비…행안부, 호우 위기경보 ‘주의’로 상향",
+      "url": "https://www.joongang.co.kr/article/25453655",
+      "source": "",
+      "count": 4,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "주식:배당": {
+      "title": "'TIME 미국배당다우존스액티브 ETF' 19일 상장폐지...\"상관계수 요건 3개...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477776",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "AI 열풍 타고 삼성전자 반도체 수출 2배↑…미국 70조 돌파",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598541",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자·SK하이닉스, 주주환원 확대 기대…연 300조원 관측",
+        "url": "https://www.sentv.co.kr/article/view/sentv202608160002",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자·SK하이닉스 반등에 '빚투'도 증가…신용잔고 10조원 육박",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720567",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "극한 가뭄에 반도체 용수까지… 물 확보 '비상'",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260816083348HKR",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "\"코스피 더 오를까, 떨어질까\" 공매도 19조원 급증…LG엔솔·한미반도체...",
+        "url": "https://www.kizmom.com/news/articleView.html?idxno=112123",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "에너지:ESS": [
+      {
+        "title": "[VC’s Pick]차세대 AI 데이터센터·ESS 기반 '배터리'에 쏠린 시선 - edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFdaZnF2dkdWeF9DbGFFTU1RUXMwaWk3YUQzRHlvUmpOT3BsTkhiMGVhU053RTZETUZ4cmh4Wmk4emJ6Ui1HWm5KWjBlUm9OVWVyckpoRHk5dkpicWxTQVJYTFJSYm0yaFdaM3hYXzlrc2M5S2RsMU5yWWpPZ1ktWg?oc=5",
+        "source": "edaily.co.kr",
+        "group": "에너지",
+        "keyword": "ESS"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프 \"김정은과 좋은 관계\"…'판문점 회동' 사진 올려",
+        "url": "https://news.tf.co.kr/read/world/2354644.htm",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 또 김정은 사진 올렸다…“우린 아주 잘 지내고 있다”",
+        "url": "https://www.joongang.co.kr/article/25453654",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "[박근종 칼럼] 트럼프 미국 밖 미국 군함 건조 승인, '마스가' 한국이 닻...",
+        "url": "https://www.mhns.co.kr/news/articleView.html?idxno=756583",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 중간선거에 쟁여둔 정치자금 푼다…\"426억원 1차 투입 거론\"",
+        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057108",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 대통령 “北김정은과 사이 좋다”…‘판문점 회동’ 사진 게재",
+        "url": "https://www.dt.co.kr/article/12078411?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "금리/환율:연준": [
+      {
+        "title": "3주 오른 뉴욕증시, 이번주 분수령…이란·연준·월마트 ‘3대 시험대’",
+        "url": "https://www.kbmaeil.com/article/20260816500021",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "남부지방 거센 비…행안부, 호우 위기경보 ‘주의’로 상향",
+        "url": "https://www.joongang.co.kr/article/25453655",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "[속보] 전남·경남 산사태 위기경보 관심→주의로 상향",
+        "url": "https://www.ytn.co.kr/_ln/0108_202608160829067273",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "남부지방 거센 비…정부, 호우 위기경보 '관심'→'주의' 상향",
+        "url": "http://www.yonhapnewstv.co.kr/news/AKR202608160826243wL",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "남부지방 거센 비…호우 위기경보 '관심'→'주의' 상향",
+        "url": "https://www.yna.co.kr/view/AKR20260816011300530?input=1195m",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "'TIME 미국배당다우존스액티브 ETF' 19일 상장폐지...\"상관계수 요건 3개...",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477776",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ]
+  }
 }
