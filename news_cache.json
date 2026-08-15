@@ -1,44 +1,5 @@
 {
   "news_seen": {
-    "eebea404e12e": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "2bf7d2d72abe": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "2aa5044bfa49": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "82dbeee42a53": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "68bdb29f1a4c": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "c97525f4416e": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "10a01f2a114b": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "0c4293a7cdca": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "15e371ead786": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "a78176bd95ca": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "371e02dda600": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "83ee552210c3": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
-    "297e72f75a6d": {
-      "first_seen": "2026-08-14T23:02:34.400875+00:00"
-    },
     "819003a2f7fd": {
       "first_seen": "2026-08-14T23:33:15.441357+00:00"
     },
@@ -1025,6 +986,27 @@
     },
     "84f278bf7bf1": {
       "first_seen": "2026-08-15T11:01:34.523899+00:00"
+    },
+    "1483648c4227": {
+      "first_seen": "2026-08-15T11:31:27.686276+00:00"
+    },
+    "815cdbd5859b": {
+      "first_seen": "2026-08-15T11:31:27.686276+00:00"
+    },
+    "2e66df1fd123": {
+      "first_seen": "2026-08-15T11:31:27.686276+00:00"
+    },
+    "2e46c3ceb682": {
+      "first_seen": "2026-08-15T11:31:27.686276+00:00"
+    },
+    "4fb209ccb313": {
+      "first_seen": "2026-08-15T11:31:27.686276+00:00"
+    },
+    "990a4cc9715d": {
+      "first_seen": "2026-08-15T11:31:27.686276+00:00"
+    },
+    "d85b80d136e9": {
+      "first_seen": "2026-08-15T11:31:27.686276+00:00"
     }
   },
   "news_counts": {
@@ -2087,7 +2069,12 @@
   },
   "kw_counts": {
     "AI인프라:전력": 1,
-    "트럼프:트럼프": 1
+    "트럼프:트럼프": 3,
+    "반도체:메모리": 1,
+    "반도체:반도체": 1,
+    "에너지:태양광": 1,
+    "에너지:SMR": 1,
+    "트럼프:관세": 1
   },
   "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
   "last_top10_sent": "2026-08-15T10:43:01.019598+00:00",
@@ -2104,9 +2091,49 @@
       "title": "트럼프 행정부, 쿠바 군사작전 후순위로…경제 압박에 무게",
       "url": "https://www.yna.co.kr/view/AKR20260815046600009?input=1195m",
       "source": "",
-      "count": 1,
+      "count": 3,
       "group": "트럼프",
       "keyword": "트럼프"
+    },
+    "반도체:메모리": {
+      "title": "트럼프 정부, 중국산 메모리 검토하는 애플에 ‘제동’",
+      "url": "https://www.g-enews.com/view.php?ud=202608152025537299e30fcb1ba8_1",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:반도체": {
+      "title": "광주특별시, '살기 좋은 반도체 도시' 정주여건 TF 가동",
+      "url": "https://kjmbc.co.kr/NewsArticle/1532399",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "에너지:태양광": {
+      "title": "반도체 24조·태양광 14조...머스크의 거침없는 ‘쩐의 전쟁’ [김기혁의...",
+      "url": "https://www.sedaily.com/article/20079812?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "에너지:SMR": {
+      "title": "황기연 수출입은행장 빌 게이츠와 차세대 SMR 금융협력 논의 - 인더뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aM3Z2M3FodGM0bTBWZjRxMTBWT1JmSlJFVWM1b25lUUlhRmhhYXVXem45T0NxeHdOalNKaVZocVgzb2hXUC1LUFoxZ1czTDN0X1dGYndSSEpVTnI1LXdIVDY0SXI?oc=5",
+      "source": "인더뉴스",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "트럼프:관세": {
+      "title": "'통상 사령탑' 여한구 본부장 경질…\"대미 관세협상과 무관\"",
+      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212733",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "관세"
     }
   },
   "kw_article_pool": {
@@ -2126,6 +2153,65 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 민간기업 해외 테러단체 해킹 허용 명령 서명…“기업들에 위험...",
+        "url": "https://www.newsis.com/view/NISX20260815_0003750748",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"호르무즈, 곧 미국 영토\"…이란 \"허황된 망상\"",
+        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212746",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "트럼프 정부, 중국산 메모리 검토하는 애플에 ‘제동’",
+        "url": "https://www.g-enews.com/view.php?ud=202608152025537299e30fcb1ba8_1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "광주특별시, '살기 좋은 반도체 도시' 정주여건 TF 가동",
+        "url": "https://kjmbc.co.kr/NewsArticle/1532399",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "반도체 24조·태양광 14조...머스크의 거침없는 ‘쩐의 전쟁’ [김기혁의...",
+        "url": "https://www.sedaily.com/article/20079812?ref=naver",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "황기연 수출입은행장 빌 게이츠와 차세대 SMR 금융협력 논의 - 인더뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aM3Z2M3FodGM0bTBWZjRxMTBWT1JmSlJFVWM1b25lUUlhRmhhYXVXem45T0NxeHdOalNKaVZocVgzb2hXUC1LUFoxZ1czTDN0X1dGYndSSEpVTnI1LXdIVDY0SXI?oc=5",
+        "source": "인더뉴스",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "'통상 사령탑' 여한구 본부장 경질…\"대미 관세협상과 무관\"",
+        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212733",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
       }
     ]
   }
