@@ -773,6 +773,42 @@
     },
     "d226e277fe9d": {
       "first_seen": "2026-08-15T04:16:39.448589+00:00"
+    },
+    "77563b5669fa": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "3e534733fe67": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "a1d74863663a": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "0a2667e9f9f9": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "943b2871766e": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "b1c66c562acd": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "9fc2868c7394": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "ad7b9e4e5fd4": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "ad4347fb9aea": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "274b1538c9fd": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "1ad6ff395430": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
+    },
+    "448cbf7cc656": {
+      "first_seen": "2026-08-15T04:50:06.503880+00:00"
     }
   },
   "news_counts": {
@@ -1835,16 +1871,21 @@
   },
   "kw_counts": {
     "반도체:SK하이닉스": 1,
-    "반도체:반도체": 1,
-    "AI인프라:전력": 2,
+    "반도체:반도체": 2,
+    "AI인프라:전력": 3,
     "에너지:SMR": 2,
     "로봇:자율주행": 1,
-    "로봇:로봇": 1,
-    "트럼프:트럼프": 2,
-    "트럼프:관세": 2,
+    "로봇:로봇": 2,
+    "트럼프:트럼프": 4,
+    "트럼프:관세": 3,
     "증권:리포트": 1,
     "증권:코스피": 2,
-    "주식:수주": 1
+    "주식:수주": 2,
+    "반도체:NVIDIA": 1,
+    "AI인프라:전력수요": 1,
+    "로봇:휴머노이드": 1,
+    "증권:상향": 1,
+    "증권:하향": 1
   },
   "kw_counts_reset": "2026-08-14T23:32:00.568376+00:00",
   "last_top10_sent": "2026-08-15T03:50:37.737151+00:00",
@@ -1861,7 +1902,7 @@
       "title": "“중국산 반도체 구매말라”…트럼프 행정부, 애플에 직접 경고",
       "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545288",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "반도체",
       "keyword": "반도체"
     },
@@ -1869,7 +1910,7 @@
       "title": "'리그컵 이어 개막전도 제외' 황희찬 사실상 전력 외...U-21 훈련 속 이적...",
       "url": "http://www.maniareport.com/view.php?ud=2026081511290919286cf2d78c68_19",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "AI인프라",
       "keyword": "전력"
     },
@@ -1893,7 +1934,7 @@
       "title": "[ABC AI 국가대전환=조영훈 한국로봇산업진흥원장] AI가 몸을 얻는다…...",
       "url": "https://www.ajunews.com/view/20260814101627942",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -1901,7 +1942,7 @@
       "title": "美, 이란 '전례 없는 경제 고립' 예고…트럼프 \"호르무즈 美영토로\"",
       "url": "https://www.newscj.com/news/articleView.html?idxno=3425360",
       "source": "",
-      "count": 2,
+      "count": 4,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -1909,7 +1950,7 @@
       "title": "'한미 관세협상 주도' 여한구 통상본부장 교체",
       "url": "http://www.yonhapnewstv.co.kr/news/MYH20260815130839ksj",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "트럼프",
       "keyword": "관세"
     },
@@ -1933,9 +1974,49 @@
       "title": "딥엑스 \"국산 NPU 양산 첫 해 77개국 수주\"",
       "url": "https://www.itbiznews.com/news/articleView.html?idxno=221951",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "주식",
       "keyword": "수주"
+    },
+    "반도체:NVIDIA": {
+      "title": "Nvidia, OpenAI 오하이오 데이터센터 보증 규모 1,200억 달러 이하로 축소 - Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CX0tsOXJ5Qlc3aXVhcGI1cXA4eGhjN2REMU1rRzlldGlXWmRkQmtVR0J6V0U4dlp2R2pIbUpfdjFuRnBhUDN2YUpmNE1QM1BmbDl3dW5renFRd0M0bVlmckw3MEVaQ1BWZnc?oc=5",
+      "source": "Investing.com",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "NVIDIA"
+    },
+    "AI인프라:전력수요": {
+      "title": "‘3대 메가’ 반영 전력수요 전망 재수립…전기본 토론회 재개",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637986&ref=A",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력수요"
+    },
+    "로봇:휴머노이드": {
+      "title": "대동, 레인보우로보틱스와 농업용 휴머노이드 로봇 '애그로이드' 공동 ...",
+      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442893",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "증권:상향": {
+      "title": "상향 평준화된 인디게임 퀄리티, 다양한 플랫폼, 장르 담은 BIC 부산글로...",
+      "url": "https://gamefocus.co.kr/detail.php?number=178276",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:하향": {
+      "title": "JYP엔터, 공연 대박 기대에도 목표가 하향…저연차 IP가 관건",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477701",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "하향"
     }
   },
   "kw_article_pool": {
@@ -1955,6 +2036,13 @@
         "source": "",
         "group": "반도체",
         "keyword": "반도체"
+      },
+      {
+        "title": "인하대학교, 반도체 공정 이론 넘어 클린룸 장비 실습까지 교육 확대",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=208606",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
       }
     ],
     "AI인프라:전력": [
@@ -1968,6 +2056,13 @@
       {
         "title": "메가프로젝트發 전력수요, 다시 잰다…2040년 수요 재전망",
         "url": "http://www.newskr.kr/news/articleView.html?idxno=105646",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      },
+      {
+        "title": "'비시즌 전력 보강' 하이원리조트·휴온스 나란히 3연승, 하이원 PBA 팀리...",
+        "url": "https://www.starnewskorea.com/sports/2026/08/15/2026081512284120034",
         "source": "",
         "group": "AI인프라",
         "keyword": "전력"
@@ -2005,6 +2100,13 @@
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
+      },
+      {
+        "title": "\"경비원 대신 로봇 개\"...아파트 단지의 새로운 야간 순찰",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608151320217125",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
       }
     ],
     "트럼프:트럼프": [
@@ -2021,6 +2123,20 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "이란, 트럼프 '호르무즈 美 영토' 주장에 \"허황된 망상\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20260815012951009?input=1195m",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"호르무즈 해협, 조만간 美 영토로 선언\"…이란 \"허황된 망상\"",
+        "url": "https://www.imaeil.com/page/view/2026081509522912023",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "트럼프:관세": [
@@ -2034,6 +2150,13 @@
       {
         "title": "'한·미 관세협상 총괄' 여한구 통상교섭본부장 직권면직",
         "url": "http://www.newstomato.com/ReadNews.aspx?no=1310410&inflow=N",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "물류비·관세 이중고… TK 수출기업 채산성 악화",
+        "url": "https://www.idaegu.com/news/articleView.html?idxno=665034",
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
@@ -2071,6 +2194,58 @@
         "source": "",
         "group": "주식",
         "keyword": "수주"
+      },
+      {
+        "title": "태광에 다시 볕드나…미국·캐나다 LNG 발주 재개에 수주 회복",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477702",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ],
+    "반도체:NVIDIA": [
+      {
+        "title": "Nvidia, OpenAI 오하이오 데이터센터 보증 규모 1,200억 달러 이하로 축소 - Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CX0tsOXJ5Qlc3aXVhcGI1cXA4eGhjN2REMU1rRzlldGlXWmRkQmtVR0J6V0U4dlp2R2pIbUpfdjFuRnBhUDN2YUpmNE1QM1BmbDl3dW5renFRd0M0bVlmckw3MEVaQ1BWZnc?oc=5",
+        "source": "Investing.com",
+        "group": "반도체",
+        "keyword": "NVIDIA"
+      }
+    ],
+    "AI인프라:전력수요": [
+      {
+        "title": "‘3대 메가’ 반영 전력수요 전망 재수립…전기본 토론회 재개",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637986&ref=A",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력수요"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "대동, 레인보우로보틱스와 농업용 휴머노이드 로봇 '애그로이드' 공동 ...",
+        "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442893",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "상향 평준화된 인디게임 퀄리티, 다양한 플랫폼, 장르 담은 BIC 부산글로...",
+        "url": "https://gamefocus.co.kr/detail.php?number=178276",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:하향": [
+      {
+        "title": "JYP엔터, 공연 대박 기대에도 목표가 하향…저연차 IP가 관건",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477701",
+        "source": "",
+        "group": "증권",
+        "keyword": "하향"
       }
     ]
   }
