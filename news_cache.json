@@ -1,8 +1,5 @@
 {
   "news_seen": {
-    "29fb350cc8a2": {
-      "first_seen": "2026-08-15T11:48:54.543577+00:00"
-    },
     "b382e966738d": {
       "first_seen": "2026-08-15T12:01:05.916500+00:00"
     },
@@ -338,6 +335,39 @@
     },
     "3812eedf0ec8": {
       "first_seen": "2026-08-15T23:38:29.948564+00:00"
+    },
+    "928f005d4eec": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "0c0406f5927f": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "4c962c5133ab": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "e919f5411ca7": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "d18dd88e5e4d": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "b18755178d48": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "421c91d68dd8": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "57696ab3283b": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "9d4a916821dd": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "93367aaaa694": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
+    },
+    "4317b62b5868": {
+      "first_seen": "2026-08-15T23:54:19.675172+00:00"
     }
   },
   "news_counts": {
@@ -1399,15 +1429,13 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:삼성전자": 3,
-    "반도체:반도체": 2,
-    "에너지:ESS": 1,
-    "트럼프:트럼프": 5,
-    "금리/환율:연준": 1,
-    "증권:상향": 4,
-    "주식:배당": 1
+    "반도체:SK하이닉스": 1,
+    "반도체:메모리": 1,
+    "AI인프라:전력": 2,
+    "트럼프:트럼프": 3,
+    "증권:상향": 4
   },
-  "kw_counts_reset": "2026-08-15T11:47:39.613870+00:00",
+  "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-15T23:17:51.735482+00:00",
   "kw_articles": {
     "반도체:삼성전자": {
@@ -1438,7 +1466,7 @@
       "title": "트럼프 \"김정은과 좋은 관계\"…'판문점 회동' 사진 올려",
       "url": "https://news.tf.co.kr/read/world/2354644.htm",
       "source": "",
-      "count": 5,
+      "count": 3,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -1465,6 +1493,30 @@
       "count": 1,
       "group": "주식",
       "keyword": "배당"
+    },
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스 신규 팹, 2028년 말 전 양산 공급 제한 전망",
+      "url": "https://www.g-enews.com/view.php?ud=20260816081401772fbbec65dfb_1",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:메모리": {
+      "title": "美 트럼프 행정부 \"애플의 중국산 메모리 사용 원치 않아\"",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608160004",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "AI인프라:전력": {
+      "title": "\"AI 전력난 겨냥\"… 韓 델타엑스, 美 조지아에 1.41억 달러 BESS 생산 캠퍼...",
+      "url": "https://www.g-enews.com/view.php?ud=2026081608421267380c8c1c064d_1",
+      "source": "",
+      "count": 2,
+      "group": "AI인프라",
+      "keyword": "전력"
     }
   },
   "kw_article_pool": {
@@ -1551,6 +1603,27 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 지지율 또 역대 최저…중간선거 '먹구름'",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260816084609rAr",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 김정은 판문점 사진 올리며 \"사이 좋아\"",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260816084553vaa",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "\"우리 사이 좋아\"…또 김정은 사진 올린 트럼프",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160037&t=NN",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "금리/환율:연준": [
@@ -1590,6 +1663,34 @@
         "source": "",
         "group": "증권",
         "keyword": "상향"
+      },
+      {
+        "title": "남부 호우특보 확대… 위기경보 '주의' 상향",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545362",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "남부지방 호우특보 확대…위기경보 '주의' 상향",
+        "url": "https://www.newsis.com/view/NISX20260816_0003750844",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "호우특보 내려진 영호남 산사태 위기경보 ‘주의’로 상향",
+        "url": "https://www.khan.co.kr/article/202608160843001",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "[속보] 행정안전부, 남부지방 호우 위기경보 '주의'로 상향",
+        "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260816.99099004168",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
       }
     ],
     "주식:배당": [
@@ -1599,6 +1700,40 @@
         "source": "",
         "group": "주식",
         "keyword": "배당"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스 신규 팹, 2028년 말 전 양산 공급 제한 전망",
+        "url": "https://www.g-enews.com/view.php?ud=20260816081401772fbbec65dfb_1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "美 트럼프 행정부 \"애플의 중국산 메모리 사용 원치 않아\"",
+        "url": "https://www.sentv.co.kr/article/view/sentv202608160004",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "\"AI 전력난 겨냥\"… 韓 델타엑스, 美 조지아에 1.41억 달러 BESS 생산 캠퍼...",
+        "url": "https://www.g-enews.com/view.php?ud=2026081608421267380c8c1c064d_1",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      },
+      {
+        "title": "스페이스X, 궤도 AI 데이터센터 추진… 지상 전력망 한계 넘는다",
+        "url": "https://www.g-enews.com/view.php?ud=202608160837383556fbbec65dfb_1",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
       }
     ]
   }
