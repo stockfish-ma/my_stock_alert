@@ -1,38 +1,5 @@
 {
   "news_seen": {
-    "928f005d4eec": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "0c0406f5927f": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "4c962c5133ab": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "e919f5411ca7": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "d18dd88e5e4d": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "b18755178d48": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "421c91d68dd8": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "57696ab3283b": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "9d4a916821dd": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "93367aaaa694": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
-    "4317b62b5868": {
-      "first_seen": "2026-08-15T23:54:19.675172+00:00"
-    },
     "8b1b8d4eee41": {
       "first_seen": "2026-08-16T00:54:55.117601+00:00"
     },
@@ -1046,6 +1013,30 @@
     },
     "8286b8b63c08": {
       "first_seen": "2026-08-16T11:53:42.095638+00:00"
+    },
+    "3309b00debd4": {
+      "first_seen": "2026-08-16T12:25:41.684915+00:00"
+    },
+    "9abb78a7e68d": {
+      "first_seen": "2026-08-16T12:25:41.684915+00:00"
+    },
+    "5c48d411dd75": {
+      "first_seen": "2026-08-16T12:25:41.684915+00:00"
+    },
+    "c2d16d65de92": {
+      "first_seen": "2026-08-16T12:25:41.684915+00:00"
+    },
+    "39d49cac31e6": {
+      "first_seen": "2026-08-16T12:25:41.684915+00:00"
+    },
+    "3a7bc3db4d96": {
+      "first_seen": "2026-08-16T12:25:41.684915+00:00"
+    },
+    "e936963bbf8c": {
+      "first_seen": "2026-08-16T12:25:41.684915+00:00"
+    },
+    "6859e557130e": {
+      "first_seen": "2026-08-16T12:25:41.684915+00:00"
     }
   },
   "news_counts": {
@@ -2108,9 +2099,14 @@
   },
   "kw_counts": {
     "AI인프라:전력": 1,
-    "트럼프:트럼프": 2
+    "AI인프라:데이터센터": 1,
+    "에너지:배터리": 2,
+    "에너지:SMR": 1,
+    "트럼프:트럼프": 1,
+    "트럼프:관세": 1,
+    "금리/환율:연준": 1
   },
-  "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
+  "kw_counts_reset": "2026-08-16T12:24:28.443477+00:00",
   "last_top10_sent": "2026-08-16T11:37:16.867228+00:00",
   "kw_articles": {
     "AI인프라:전력": {
@@ -2125,9 +2121,49 @@
       "title": "OCC, 트럼프家 40억달러 USD1 신탁은행 승인…비트고서 발행권 넘겨받는...",
       "url": "https://www.wikitree.co.kr/articles/1152800",
       "source": "",
-      "count": 2,
+      "count": 1,
       "group": "트럼프",
       "keyword": "트럼프"
+    },
+    "AI인프라:데이터센터": {
+      "title": "반대 직면한 AI 데이터센터…물·전기 부족 문제는? [AI너머]",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638262&ref=A",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "에너지:배터리": {
+      "title": "아이폰18 프로맥스 배터리 5,567mAh 껑충…프로는 36mAh 증가에 그쳐",
+      "url": "https://www.wikitree.co.kr/articles/1152804",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "에너지:SMR": {
+      "title": "SK이노-테라파워, K-나트륨 SMR 사업모델 협력 강화 - 에너지타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tNFVzc3NDVGZGYm0yNWJKVU9Bd3V2YWRIdjBnU25ubUEwZlFkLUdFVW1lUmxVTXRJeTJOTmtqamM0bzlTaVQ2X2t2dWJYWGxnUE1VdHRTWUJOT28tZVVzc2h1a3VlUDlFLWlseg?oc=5",
+      "source": "에너지타임즈",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "트럼프:관세": {
+      "title": "대미투자·추가관세 ‘겹악재’…김정관 산업장관 ‘긴급 방미’",
+      "url": "https://www.asiatime.co.kr/article/20260816500004",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "금리/환율:연준": {
+      "title": "연준 3.50~3.75% 동결, 3명 인상 주장",
+      "url": "https://www.tokenpost.kr/news/breaking/391679",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "연준"
     }
   },
   "kw_article_pool": {
@@ -2135,6 +2171,13 @@
       {
         "title": "49년 노익장 ‘보이저 2호’, “꺼지기엔 아직 일러”…‘전력 다이어트...",
         "url": "https://www.khan.co.kr/article/202608162047005",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      },
+      {
+        "title": "전력·광모듈, 골드만이 본 중국 AI 핵심축",
+        "url": "https://www.tokenpost.kr/news/cryptocurrency/391680",
         "source": "",
         "group": "AI인프라",
         "keyword": "전력"
@@ -2154,6 +2197,65 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “2차대전 항모처럼” 발언에… 포드급 항모 지휘탑 설계 변경 ...",
+        "url": "https://www.donga.com/news/Inter/article/all/20260816/134484546/1",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "반대 직면한 AI 데이터센터…물·전기 부족 문제는? [AI너머]",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638262&ref=A",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "아이폰18 프로맥스 배터리 5,567mAh 껑충…프로는 36mAh 증가에 그쳐",
+        "url": "https://www.wikitree.co.kr/articles/1152804",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "보조 배터리 폭발...다친 사람 없어",
+        "url": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026081620544560743?feed=na",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "SK이노-테라파워, K-나트륨 SMR 사업모델 협력 강화 - 에너지타임즈",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tNFVzc3NDVGZGYm0yNWJKVU9Bd3V2YWRIdjBnU25ubUEwZlFkLUdFVW1lUmxVTXRJeTJOTmtqamM0bzlTaVQ2X2t2dWJYWGxnUE1VdHRTWUJOT28tZVVzc2h1a3VlUDlFLWlseg?oc=5",
+        "source": "에너지타임즈",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "대미투자·추가관세 ‘겹악재’…김정관 산업장관 ‘긴급 방미’",
+        "url": "https://www.asiatime.co.kr/article/20260816500004",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "금리/환율:연준": [
+      {
+        "title": "연준 3.50~3.75% 동결, 3명 인상 주장",
+        "url": "https://www.tokenpost.kr/news/breaking/391679",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
       }
     ]
   }
