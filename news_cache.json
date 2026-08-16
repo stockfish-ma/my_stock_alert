@@ -1,26 +1,5 @@
 {
   "news_seen": {
-    "28290daed798": {
-      "first_seen": "2026-08-16T10:35:26.773768+00:00"
-    },
-    "3e5a668e17ce": {
-      "first_seen": "2026-08-16T10:35:26.773768+00:00"
-    },
-    "d469905bb3b1": {
-      "first_seen": "2026-08-16T10:35:26.773768+00:00"
-    },
-    "e2c72974c634": {
-      "first_seen": "2026-08-16T10:35:26.773768+00:00"
-    },
-    "a78f224163e3": {
-      "first_seen": "2026-08-16T10:35:26.773768+00:00"
-    },
-    "2c74549fea4d": {
-      "first_seen": "2026-08-16T10:35:26.773768+00:00"
-    },
-    "100ec4c4a035": {
-      "first_seen": "2026-08-16T10:35:26.773768+00:00"
-    },
     "9cbf51aab9f9": {
       "first_seen": "2026-08-16T10:55:15.962079+00:00"
     },
@@ -251,6 +230,48 @@
     },
     "988d9c6517c6": {
       "first_seen": "2026-08-16T22:20:34.982236+00:00"
+    },
+    "60dcd7361ef0": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "74d72a032228": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "92988903747b": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "51c760deecc5": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "1ccc46b6f9f6": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "15c3cdff173e": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "9c6e5d033814": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "64f076ad64b1": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "0f3dcc3098b4": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "c3c185c00955": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "0f2de9e0025b": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "12cf9301a536": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "ded6467c8f39": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "12257801aad5": {
+      "first_seen": "2026-08-16T22:42:21.704706+00:00"
     }
   },
   "news_counts": {
@@ -1311,9 +1332,187 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:SK하이닉스": 1,
+    "반도체:반도체": 1,
+    "에너지:SMR": 1,
+    "로봇:로봇": 1,
+    "트럼프:트럼프": 8,
+    "금리/환율:연준": 1,
+    "주식:수주": 1
+  },
   "kw_counts_reset": "2026-08-16T12:24:28.443477+00:00",
   "last_top10_sent": "2026-08-16T22:20:36.722897+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스 솔리다임 IPO설 '모락모락'…주주에 득일까, 실일까",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608170047&t=NN",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:반도체": {
+      "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430354",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "에너지:SMR": {
+      "title": "HD현대, 빌 게이츠와 손잡고 글로벌 SMR 생태계 선점 가속화 - knpp.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9GOWNWeXR1OHMzeDN2NjNKdXVYbkhXMkVQRjdOY0tvRGZwUmJSdmRwWGppMHJ2dFd3a3N6MXhndGZ0OGs?oc=5",
+      "source": "knpp.co.kr",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "로봇:로봇": {
+      "title": "'새 눈' 될까‥지하철 누비는 AI 안내 로봇",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845208_37012.html",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "[속보] 트럼프 “나와 김정은 매우 좋은 관계…한미합동훈련 축소 지시...",
+      "url": "https://www.segye.com/newsView/20260817504112?OutUrl=naver",
+      "source": "",
+      "count": 8,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "금리/환율:연준": {
+      "title": "홈디포·월마트 실적, 연준 회의록 공개…뉴욕증시 최대 변수",
+      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85238",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "연준"
+    },
+    "주식:수주": {
+      "title": "성수·목동 정비 대어 줄줄이 단독입찰···사라진 수주전",
+      "url": "https://www.dt.co.kr/article/12078454?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "수주"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스 솔리다임 IPO설 '모락모락'…주주에 득일까, 실일까",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608170047&t=NN",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430354",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "HD현대, 빌 게이츠와 손잡고 글로벌 SMR 생태계 선점 가속화 - knpp.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9GOWNWeXR1OHMzeDN2NjNKdXVYbkhXMkVQRjdOY0tvRGZwUmJSdmRwWGppMHJ2dFd3a3N6MXhndGZ0OGs?oc=5",
+        "source": "knpp.co.kr",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "'새 눈' 될까‥지하철 누비는 AI 안내 로봇",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845208_37012.html",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "[속보] 트럼프 “나와 김정은 매우 좋은 관계…한미합동훈련 축소 지시...",
+        "url": "https://www.segye.com/newsView/20260817504112?OutUrl=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"한미연합훈련 대폭 축소 지시\"",
+        "url": "https://www.nocutnews.co.kr/news/6563650?utm_source=naver&utm_medium=article&utm_campaign=20260817073803",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "[속보] 트럼프 \"이 대통령에 이란 비핵화 노력 동참 물었으나 사양\"",
+        "url": "http://www.yonhapnewstv.co.kr/news/AKR20260817073521mKP",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "[속보] 트럼프 \"나와 김정은 매우 관계 좋아…한미합동훈련 축소 지시\"",
+        "url": "http://www.yonhapnewstv.co.kr/news/AKR20260817073449upg",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"한미연합연습 축소 지시…韓 이란 비핵화 동참 거부\"(종합)",
+        "url": "https://www.newsis.com/view/NISX20260817_0003751180",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "美유권자 절반 이상 \"트럼프 집권 후 살림살이 악화\"...11월 선거 '빨간...",
+        "url": "https://www.newspim.com/news/view/20260817000006",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"김정은과 좋은 관계...한미 합동 군사훈련 축소 지시\"",
+        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=281088",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "미·이란 60일 협상 시한 종료...'출구 없는' 이란전에 트럼프 조급",
+        "url": "https://www.ikbc.co.kr/article/view/kbc202608170003",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "금리/환율:연준": [
+      {
+        "title": "홈디포·월마트 실적, 연준 회의록 공개…뉴욕증시 최대 변수",
+        "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85238",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "성수·목동 정비 대어 줄줄이 단독입찰···사라진 수주전",
+        "url": "https://www.dt.co.kr/article/12078454?ref=naver",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ]
+  }
 }
