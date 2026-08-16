@@ -857,6 +857,51 @@
     },
     "3d5b1c0085e6": {
       "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "8d0144b33fdd": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "4a4211587fd5": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "58918081ff10": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "1e8cca52c686": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "060fbf45e9bb": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "ccad594ccdb0": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "0fd8d0e83085": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "9105b4ff326d": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "0a4e66075368": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "2842afe1ba08": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "87b60add9de5": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "6147a63d0b45": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "66fedd42b6bf": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "b938c10bc8bf": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
+    },
+    "a1fa0c0706fe": {
+      "first_seen": "2026-08-16T06:06:03.608452+00:00"
     }
   },
   "news_counts": {
@@ -1918,18 +1963,21 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:삼성전자": 2,
+    "반도체:삼성전자": 3,
     "반도체:SK하이닉스": 1,
     "반도체:HBM": 1,
-    "반도체:반도체": 3,
+    "반도체:반도체": 6,
     "AI인프라:전력": 1,
     "에너지:SMR": 1,
     "로봇:로봇": 1,
-    "트럼프:트럼프": 4,
-    "트럼프:관세": 3,
+    "트럼프:트럼프": 6,
+    "트럼프:관세": 8,
     "증권:코스피": 2,
     "증권:코스닥": 1,
-    "주식:배당": 1
+    "주식:배당": 1,
+    "반도체:냉각": 1,
+    "AI인프라:데이터센터": 1,
+    "주식:수주": 2
   },
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-16T05:13:50.611533+00:00",
@@ -1938,7 +1986,7 @@
       "title": "800만 소액주주 삼성전자, 올해 200조 주주환원 나설까...'국민 배당주'...",
       "url": "https://www.livebiz.today/news/articleView.html?idxno=204174",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "반도체",
       "keyword": "삼성전자"
     },
@@ -1962,7 +2010,7 @@
       "title": "코스닥 이달 수익률 선두에도…대형 반도체주 부활에 수급 불균형 심화",
       "url": "https://www.mediapen.com/news/view/1116808",
       "source": "",
-      "count": 3,
+      "count": 6,
       "group": "반도체",
       "keyword": "반도체"
     },
@@ -1994,7 +2042,7 @@
       "title": "지지율 급락에 다급한 트럼프…중간선거에 1조 '실탄' 푼다",
       "url": "http://www.fnnews.com/news/202608161437085273",
       "source": "",
-      "count": 4,
+      "count": 6,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2002,7 +2050,7 @@
       "title": "[속보] 투자 이행·관세 '발등의 불'…김정관 산업장관 다시 미국행",
       "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160110&t=NN",
       "source": "",
-      "count": 3,
+      "count": 8,
       "group": "트럼프",
       "keyword": "관세"
     },
@@ -2029,6 +2077,30 @@
       "count": 1,
       "group": "주식",
       "keyword": "배당"
+    },
+    "반도체:냉각": {
+      "title": "[포착] 대형 바지선까지 강제 침몰…원전 냉각수 얻기 위해 ‘해전’ 중...",
+      "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260816601009&wlog_tag3=naver",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "냉각"
+    },
+    "AI인프라:데이터센터": {
+      "title": "정유로 벌고 AI로 키운다…GS, 2.4GW 데이터센터 승부수",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477820",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "주식:수주": {
+      "title": "성광벤드, 실적보다 수주가 뜨겁다…미국發 LNG 수요에 주목",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477819",
+      "source": "",
+      "count": 2,
+      "group": "주식",
+      "keyword": "수주"
     }
   },
   "kw_article_pool": {
@@ -2043,6 +2115,13 @@
       {
         "title": "삼성전자·SK하이닉스 주주환원 확대 기대…증권가 \"연간 300조원 가능\"",
         "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720580",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자 소액주주 800만명 육박…'삼전닉스' 1100만명 돌파",
+        "url": "https://news.tf.co.kr/read/economy/2354679.htm",
         "source": "",
         "group": "반도체",
         "keyword": "삼성전자"
@@ -2084,6 +2163,27 @@
       {
         "title": "반도체 강조한 김민석, 부동산 공급 꺼낸 정청래… 경기 맞춤형 '현안'으...",
         "url": "https://www.hankookilbo.com/news/article/A2026081610150004983?did=NA",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "외국인은 사고 개인은 팔았다..코스피 반등 이끈 ‘반도체 투톱’",
+        "url": "https://kpenews.com/View.aspx?No=4188212",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "[박준규의 이슈언박싱] 호남반도체 못 하는 게 미국 탓?…\"주한미군만 ...",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=125782",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "\"삼전·SK하닉 합산 300조 푼다\"... 반도체 호황에 쏠린 반도체 TOP2의 '주...",
+        "url": "https://www.insight.co.kr/news/568505",
         "source": "",
         "group": "반도체",
         "keyword": "반도체"
@@ -2144,6 +2244,20 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "김민석 \"트럼프와 김정은 사진 놓고 대화…백악관도 北 관심·의지\"",
+        "url": "https://www.news1.kr/politics/assembly/6260558",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "K조선, 트럼프 업고 '新르네상스'",
+        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7178882",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "트럼프:관세": [
@@ -2164,6 +2278,41 @@
       {
         "title": "美 포드가 한국산 자동차 관세 인상을 요구한 이유는?",
         "url": "https://www.chosun.com/economy/auto/2026/08/16/F2BXGWR4B5EQRNQA5JSGTR6EZI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "통상본부장 공백에 미 투자 압박까지…한·미 관세협상 ‘겹악재’",
+        "url": "https://www.khan.co.kr/article/202608161501001",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "김정관 산업장관 긴급 미국행…대미투자·관세 논의",
+        "url": "https://biz.sbs.co.kr/article_hub/20000329022?division=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "美 관세압박에…김정관 산업장관, 3주만 다시 긴급출국",
+        "url": "http://www.inews24.com/view/1995446",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "콜롬비아 강진 사망 290명·부상 4000명↑…美에 \"관세 유예\" 요청",
+        "url": "https://www.news1.kr/world/latin-america/6260555",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "미국 투자·관세 압박 속에…산업부 장관 다시 미국행",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5212796",
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
@@ -2201,6 +2350,40 @@
         "source": "",
         "group": "주식",
         "keyword": "배당"
+      }
+    ],
+    "반도체:냉각": [
+      {
+        "title": "[포착] 대형 바지선까지 강제 침몰…원전 냉각수 얻기 위해 ‘해전’ 중...",
+        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260816601009&wlog_tag3=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "냉각"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "정유로 벌고 AI로 키운다…GS, 2.4GW 데이터센터 승부수",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477820",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "성광벤드, 실적보다 수주가 뜨겁다…미국發 LNG 수요에 주목",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477819",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      },
+      {
+        "title": "두산에너빌리티, 美 테라파워 차세대 SMR 핵심 기자재 수주",
+        "url": "https://www.segye.com/newsView/20260816509334?OutUrl=naver",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
       }
     ]
   }
