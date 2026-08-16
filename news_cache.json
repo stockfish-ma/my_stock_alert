@@ -1,26 +1,5 @@
 {
   "news_seen": {
-    "9cbf51aab9f9": {
-      "first_seen": "2026-08-16T10:55:15.962079+00:00"
-    },
-    "5fc5410d0cc9": {
-      "first_seen": "2026-08-16T10:55:15.962079+00:00"
-    },
-    "235f5af95d31": {
-      "first_seen": "2026-08-16T10:55:15.962079+00:00"
-    },
-    "94399e342807": {
-      "first_seen": "2026-08-16T10:55:15.962079+00:00"
-    },
-    "70f2f28700a3": {
-      "first_seen": "2026-08-16T10:55:15.962079+00:00"
-    },
-    "4597eeaf8725": {
-      "first_seen": "2026-08-16T10:55:15.962079+00:00"
-    },
-    "09b6f539f777": {
-      "first_seen": "2026-08-16T10:55:15.962079+00:00"
-    },
     "ea5442577e01": {
       "first_seen": "2026-08-16T11:14:34.922734+00:00"
     },
@@ -272,6 +251,51 @@
     },
     "12257801aad5": {
       "first_seen": "2026-08-16T22:42:21.704706+00:00"
+    },
+    "8d0daf09333d": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "98cd1b3dfe7b": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "0694158f5088": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "a6768d6b9fea": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "3105c6b0f6ea": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "952690620360": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "eeeedc8d81a5": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "b5ca5f286322": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "df4216bcc08a": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "e39ea59531a2": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "2b75d132d11a": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "2b9a6b1f2864": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "6e515528b9f5": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "4a4cbd7e5d8b": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
+    },
+    "2988977ee0f7": {
+      "first_seen": "2026-08-16T22:59:57.990925+00:00"
     }
   },
   "news_counts": {
@@ -1334,12 +1358,16 @@
   },
   "kw_counts": {
     "반도체:SK하이닉스": 1,
-    "반도체:반도체": 1,
-    "에너지:SMR": 1,
+    "반도체:반도체": 3,
+    "에너지:SMR": 2,
     "로봇:로봇": 1,
-    "트럼프:트럼프": 8,
+    "트럼프:트럼프": 15,
     "금리/환율:연준": 1,
-    "주식:수주": 1
+    "주식:수주": 1,
+    "반도체:삼성전자": 2,
+    "반도체:엔비디아": 1,
+    "에너지:배터리": 1,
+    "증권:코스피": 1
   },
   "kw_counts_reset": "2026-08-16T12:24:28.443477+00:00",
   "last_top10_sent": "2026-08-16T22:20:36.722897+00:00",
@@ -1356,7 +1384,7 @@
       "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430354",
       "source": "",
-      "count": 1,
+      "count": 3,
       "group": "반도체",
       "keyword": "반도체"
     },
@@ -1364,7 +1392,7 @@
       "title": "HD현대, 빌 게이츠와 손잡고 글로벌 SMR 생태계 선점 가속화 - knpp.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9GOWNWeXR1OHMzeDN2NjNKdXVYbkhXMkVQRjdOY0tvRGZwUmJSdmRwWGppMHJ2dFd3a3N6MXhndGZ0OGs?oc=5",
       "source": "knpp.co.kr",
-      "count": 1,
+      "count": 2,
       "group": "에너지",
       "keyword": "SMR"
     },
@@ -1380,7 +1408,7 @@
       "title": "[속보] 트럼프 “나와 김정은 매우 좋은 관계…한미합동훈련 축소 지시...",
       "url": "https://www.segye.com/newsView/20260817504112?OutUrl=naver",
       "source": "",
-      "count": 8,
+      "count": 15,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -1399,6 +1427,38 @@
       "count": 1,
       "group": "주식",
       "keyword": "수주"
+    },
+    "반도체:삼성전자": {
+      "title": "삼성전자 ETF 반토막, 설계대로 작동한 결과였다",
+      "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58337",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:엔비디아": {
+      "title": "백악관 자문이 엔비디아의 700조 금융망을 경고한 이유",
+      "url": "https://www.g-enews.com/view.php?ud=20260817073735492fbbec65dfb_1",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "에너지:배터리": {
+      "title": "폐배터리 재자원화 업종‥과도한 규제 풀리나",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845209_37012.html",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "증권:코스피": {
+      "title": "[한국 증시] 8월 17일 코스피·코스닥 국내 주식시장 휴장한다, 이유는?...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598027",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스피"
     }
   },
   "kw_article_pool": {
@@ -1418,6 +1478,20 @@
         "source": "",
         "group": "반도체",
         "keyword": "반도체"
+      },
+      {
+        "title": "반도체 우려 정점 진단, 삼성·SK 재평가 전망",
+        "url": "https://www.tokenpost.kr/news/market/391792",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "[정유신의 스타트업스토리]AI 전쟁, 반도체서 전력·전력망으로 확장 중",
+        "url": "https://www.sidae.com/article/2026081515015247067",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
       }
     ],
     "에너지:SMR": [
@@ -1425,6 +1499,13 @@
         "title": "HD현대, 빌 게이츠와 손잡고 글로벌 SMR 생태계 선점 가속화 - knpp.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9GOWNWeXR1OHMzeDN2NjNKdXVYbkhXMkVQRjdOY0tvRGZwUmJSdmRwWGppMHJ2dFd3a3N6MXhndGZ0OGs?oc=5",
         "source": "knpp.co.kr",
+        "group": "에너지",
+        "keyword": "SMR"
+      },
+      {
+        "title": "깊어지는 최태원·빌 게이츠 SMR 동맹…AI 전력 핵심파트너 - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94aEtLR0c0Tm8ySUdzSm40eDk0QUw1OTNHNi1xTllINnh3cmI1YjZySHVrSHEwZjZvM2FlN2RkQkJCQVlOUVE2alNVTmczcjNlQ3huQmYyeXptUlnSAWBBVV95cUxQRVlJNzhENTU4a0pFdk5YS1QwbU5VR0NiTGtieWJkcFRxM0M2b01yMUFMNUZINzQydmlPVHZHV1dHamU0OE5hRkYyTFdpcXVkQUFzbXh4X1ZseUN4bXdvT1g?oc=5",
+        "source": "연합뉴스",
         "group": "에너지",
         "keyword": "SMR"
       }
@@ -1494,6 +1575,55 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "또 연합훈련 문제 삼은 트럼프 “김정은과 좋은 관계...내가 축소 지시...",
+        "url": "https://www.joongang.co.kr/article/25453831",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "미·이란 '60일 협상' 만료…트럼프, 지구전 속 '중간선거' 고뇌",
+        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057215",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "美 유권자 53% “트럼프 집권 뒤 살림살이 나빠져”",
+        "url": "https://www.g-enews.com/view.php?ud=2026081707483561569a1f309431_1",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “을지훈련 축소 지시…韓 이란 비핵화 동참 거부”",
+        "url": "https://www.munhwa.com/article/11609867?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"한미연합훈련 대폭 축소 지시…나와 김정은 매우 좋은 관계\"(종...",
+        "url": "https://www.yna.co.kr/view/AKR20260817008851071?input=1195m",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 한미연합훈련 축소…北 관계 강조",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202608170052",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “한미연합연습 축소 지시…韓 이란 비핵화 동참 거부”",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545444",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "금리/환율:연준": [
@@ -1512,6 +1642,49 @@
         "source": "",
         "group": "주식",
         "keyword": "수주"
+      }
+    ],
+    "반도체:삼성전자": [
+      {
+        "title": "삼성전자 ETF 반토막, 설계대로 작동한 결과였다",
+        "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58337",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "상반기 현금성 자산 삼성전자 190조·SK하이닉스 88조…6개월새 117조↑",
+        "url": "https://biz.sbs.co.kr/article_hub/20000329034?division=NAVER",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "백악관 자문이 엔비디아의 700조 금융망을 경고한 이유",
+        "url": "https://www.g-enews.com/view.php?ud=20260817073735492fbbec65dfb_1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "폐배터리 재자원화 업종‥과도한 규제 풀리나",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845209_37012.html",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "[한국 증시] 8월 17일 코스피·코스닥 국내 주식시장 휴장한다, 이유는?...",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598027",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
       }
     ]
   }
