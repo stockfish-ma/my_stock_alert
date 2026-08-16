@@ -1139,6 +1139,60 @@
     },
     "3228078dd574": {
       "first_seen": "2026-08-16T08:52:25.412095+00:00"
+    },
+    "2b861a4f1354": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "988d1dd36907": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "7e03a2d146a2": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "7e665a4911ee": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "309c3bebec49": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "7a2ea4b16fbc": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "c98177cb2213": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "55c5655081af": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "d087698ede57": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "e62d2f6bd127": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "701e1e3f1ebe": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "c6f79caa228b": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "fc5688b6a216": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "213e44ee176d": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "a334cf4cb150": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "ff49c5a1b628": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "6ba3a16ab1ae": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
+    },
+    "f626386f4645": {
+      "first_seen": "2026-08-16T09:21:33.970091+00:00"
     }
   },
   "news_counts": {
@@ -2199,209 +2253,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "AI인프라:전력망": 1,
-    "에너지:풍력": 1,
-    "로봇:휴머노이드": 1,
-    "로봇:로봇": 1,
-    "트럼프:트럼프": 6,
-    "트럼프:관세": 1,
-    "증권:목표주가": 1,
-    "주식:수주": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
-  "last_top10_sent": "2026-08-16T08:21:11.537969+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "4대 은행원 상반기 평균급여 7150만원… 삼성전자 앞질러",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168277",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "AI인프라:전력망": {
-      "title": "英 국가 핵심 전력망 운영사 해킹 당했나... 내부 기술 데이터 40GB 유출...",
-      "url": "http://www.boannews.com/media/view.asp?idx=145174&kind=1",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력망"
-    },
-    "에너지:풍력": {
-      "title": "세아제강지주, 해상풍력 비용에 2분기 적자전환… 본업 강관은 최대 실...",
-      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357486",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "풍력"
-    },
-    "로봇:휴머노이드": {
-      "title": "‘코르티스’ 고난도 안무도 거뜬…K-로봇 근육 키워 휴머노이드까지 정...",
-      "url": "https://biz.heraldcorp.com/article/10841965?ref=naver",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "휴머노이드"
-    },
-    "로봇:로봇": {
-      "title": "로봇 무장한 中 '제조업 독식'에…태국선 매달 100여곳 줄폐업",
-      "url": "https://www.hankyung.com/article/2026081641521",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "\"트럼프, 이란전쟁 장기화 속 목표 갈수록 줄어들어\"",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=740364",
-      "source": "",
-      "count": 6,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:관세": {
-      "title": "김정관 장관, 긴급 방미…3500억달러 대미투자·301조 관세 막판 조율",
-      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5739",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "관세"
-    },
-    "증권:목표주가": {
-      "title": "월가, 목표주가 분산도 10년 이래 최고… 착시 주의보",
-      "url": "https://www.g-enews.com/view.php?ud=202608161733325523fbbec65dfb_1",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "목표주가"
-    },
-    "주식:수주": {
-      "title": "[단독] 공작기계 상반기 수주 8년 만에 최대",
-      "url": "https://www.hankyung.com/article/2026081642071",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "수주"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "4대 은행원 상반기 평균급여 7150만원… 삼성전자 앞질러",
-        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168277",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "AI인프라:전력망": [
-      {
-        "title": "英 국가 핵심 전력망 운영사 해킹 당했나... 내부 기술 데이터 40GB 유출...",
-        "url": "http://www.boannews.com/media/view.asp?idx=145174&kind=1",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력망"
-      }
-    ],
-    "에너지:풍력": [
-      {
-        "title": "세아제강지주, 해상풍력 비용에 2분기 적자전환… 본업 강관은 최대 실...",
-        "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357486",
-        "source": "",
-        "group": "에너지",
-        "keyword": "풍력"
-      }
-    ],
-    "로봇:휴머노이드": [
-      {
-        "title": "‘코르티스’ 고난도 안무도 거뜬…K-로봇 근육 키워 휴머노이드까지 정...",
-        "url": "https://biz.heraldcorp.com/article/10841965?ref=naver",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "로봇 무장한 中 '제조업 독식'에…태국선 매달 100여곳 줄폐업",
-        "url": "https://www.hankyung.com/article/2026081641521",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "\"트럼프, 이란전쟁 장기화 속 목표 갈수록 줄어들어\"",
-        "url": "https://www.polinews.co.kr/news/articleView.html?idxno=740364",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 복고취향에 최신 항모 “2차대전 항모처럼” 재설계…골치 아픈...",
-        "url": "https://www.joongang.co.kr/article/25453731",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "“김정은 핫하네”…李대통령도 푸틴도 트럼프도 손짓, 한국은 건너뛰나...",
-        "url": "https://www.seoul.co.kr/news/international/2026/08/16/20260816500070?wlog_tag3=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "김민석 \"트럼프 만났을 때 제 북한 해법 듣고는 즉석으로 저 사진 가져...",
-        "url": "https://www.pressian.com/pages/articles/2026081612185416933?utm_source=naver&utm_medium=search",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "'총기 사건→트럼프 사면' 美 유명 래퍼, 가족 두고 한국에 뿌리 내렸다...",
-        "url": "https://www.tvreport.co.kr/world/article/1069103/",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈, 곧 미국 영토\" 생떼…'치킨 게임'만 장기화",
-        "url": "https://www.hankookilbo.com/news/article/A2026081611090005643?did=NA",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:관세": [
-      {
-        "title": "김정관 장관, 긴급 방미…3500억달러 대미투자·301조 관세 막판 조율",
-        "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5739",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      }
-    ],
-    "증권:목표주가": [
-      {
-        "title": "월가, 목표주가 분산도 10년 이래 최고… 착시 주의보",
-        "url": "https://www.g-enews.com/view.php?ud=202608161733325523fbbec65dfb_1",
-        "source": "",
-        "group": "증권",
-        "keyword": "목표주가"
-      }
-    ],
-    "주식:수주": [
-      {
-        "title": "[단독] 공작기계 상반기 수주 8년 만에 최대",
-        "url": "https://www.hankyung.com/article/2026081642071",
-        "source": "",
-        "group": "주식",
-        "keyword": "수주"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-16T09:21:35.511706+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
