@@ -1229,6 +1229,39 @@
     },
     "48d9d674aae0": {
       "first_seen": "2026-08-16T09:47:35.406714+00:00"
+    },
+    "158875b258f2": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "225a64603026": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "bfa60e45e0bc": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "87077e0e7dce": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "80825ca2e5a3": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "d2e6f9cfd36c": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "779e5337557f": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "756a28c7e697": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "05279156b7f5": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "95f6803d74ff": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
+    },
+    "2e0c761d0c8b": {
+      "first_seen": "2026-08-16T10:02:36.121004+00:00"
     }
   },
   "news_counts": {
@@ -2290,13 +2323,19 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:삼성전자": 1,
+    "반도체:삼성전자": 2,
     "반도체:SK하이닉스": 1,
     "반도체:엔비디아": 2,
     "반도체:반도체": 5,
     "로봇:로봇": 1,
-    "트럼프:트럼프": 1,
-    "증권:하향": 1
+    "트럼프:트럼프": 5,
+    "증권:하향": 1,
+    "반도체:메모리": 1,
+    "반도체:HBM": 1,
+    "반도체:냉각": 1,
+    "에너지:ESS": 1,
+    "증권:리포트": 1,
+    "증권:코스피": 1
   },
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-16T09:21:35.511706+00:00",
@@ -2305,7 +2344,7 @@
       "title": "\"폴드8울트라 게임성능 궁금해\"… 삼성전자, 게임스컴서 '풀스택 게이밍...",
       "url": "https://www.econovill.com/news/articleView.html?idxno=748126",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "반도체",
       "keyword": "삼성전자"
     },
@@ -2345,7 +2384,7 @@
       "title": "트럼프 \"호르무즈 해협 미국 영토로 선언\"...이란 \"망상\" 즉각 반발",
       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720588",
       "source": "",
-      "count": 1,
+      "count": 5,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2356,6 +2395,54 @@
       "count": 1,
       "group": "증권",
       "keyword": "하향"
+    },
+    "반도체:메모리": {
+      "title": "상위 3종목 74.84%, 라운드힐 메모리 ETF 집중",
+      "url": "https://www.tokenpost.kr/news/market/391654",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:HBM": {
+      "title": "\"한국, HBM 말고도 기회 있다\"…다시 뜨는 '미국 CPU'에 들썩 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSTduYUJ2c2RFX2VpMFotdHY1aXBHSWlXQkJfVnVXQXJNVWE0OEVPM1pmOHJvbXNGd0Q4cllFSmswTU5XclpEVHRyWWp2MnZpMFNCQ3Z5MG5sUQ?oc=5",
+      "source": "한국경제",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM"
+    },
+    "반도체:냉각": {
+      "title": "“전력·부지·냉각 한계 타개”… AI 데이터센터, 바다로 간다",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003475&cp=nv",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "냉각"
+    },
+    "에너지:ESS": {
+      "title": "AI 시대 전력난 해법은 ESS…재생에너지 확대에 배터리 새 성장축 부상 : 기업·산업 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zRDItdlFpdi1zREtQR2l2dWlsZzhwUEtRalZIZ2VkLUlxWmt6djhMN1N4eE16bnRFa2lBRXh1cWY0dGxicVNidWF3?oc=5",
+      "source": "재경일보",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "ESS"
+    },
+    "증권:리포트": {
+      "title": "[글로벌 리포트] '사랑방 변신한 빈 집'日고베의 실험… \"철거만이 능사...",
+      "url": "http://www.fnnews.com/news/202608161846303395",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "리포트"
+    },
+    "증권:코스피": {
+      "title": "[증시프리즘] 외국인이 돌아왔다…코스피 5일 연속 상승 이끈 '바이 코리...",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5740",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스피"
     }
   },
   "kw_article_pool": {
@@ -2363,6 +2450,13 @@
       {
         "title": "\"폴드8울트라 게임성능 궁금해\"… 삼성전자, 게임스컴서 '풀스택 게이밍...",
         "url": "https://www.econovill.com/news/articleView.html?idxno=748126",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "반도체 '빚투' 다시 고개...삼성전자·SK하이닉스 신용잔고 나란히 급증",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=125785",
         "source": "",
         "group": "반도체",
         "keyword": "삼성전자"
@@ -2446,6 +2540,34 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 굳은 표정의 김정은 사진 올리고 “잘 지낸다”?",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545421",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "이란전·고물가 궁지 몰린 트럼프, 425억 풀어 ‘마가’ 결집",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003480&cp=nv",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 또 김정은 사진 “우리 사이 좋다”",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003476&cp=nv",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 김정은 째려본 까닭?",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545408",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "증권:하향": [
@@ -2455,6 +2577,60 @@
         "source": "",
         "group": "증권",
         "keyword": "하향"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "상위 3종목 74.84%, 라운드힐 메모리 ETF 집중",
+        "url": "https://www.tokenpost.kr/news/market/391654",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:HBM": [
+      {
+        "title": "\"한국, HBM 말고도 기회 있다\"…다시 뜨는 '미국 CPU'에 들썩 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSTduYUJ2c2RFX2VpMFotdHY1aXBHSWlXQkJfVnVXQXJNVWE0OEVPM1pmOHJvbXNGd0Q4cllFSmswTU5XclpEVHRyWWp2MnZpMFNCQ3Z5MG5sUQ?oc=5",
+        "source": "한국경제",
+        "group": "반도체",
+        "keyword": "HBM"
+      }
+    ],
+    "반도체:냉각": [
+      {
+        "title": "“전력·부지·냉각 한계 타개”… AI 데이터센터, 바다로 간다",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003475&cp=nv",
+        "source": "",
+        "group": "반도체",
+        "keyword": "냉각"
+      }
+    ],
+    "에너지:ESS": [
+      {
+        "title": "AI 시대 전력난 해법은 ESS…재생에너지 확대에 배터리 새 성장축 부상 : 기업·산업 - 재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zRDItdlFpdi1zREtQR2l2dWlsZzhwUEtRalZIZ2VkLUlxWmt6djhMN1N4eE16bnRFa2lBRXh1cWY0dGxicVNidWF3?oc=5",
+        "source": "재경일보",
+        "group": "에너지",
+        "keyword": "ESS"
+      }
+    ],
+    "증권:리포트": [
+      {
+        "title": "[글로벌 리포트] '사랑방 변신한 빈 집'日고베의 실험… \"철거만이 능사...",
+        "url": "http://www.fnnews.com/news/202608161846303395",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "[증시프리즘] 외국인이 돌아왔다…코스피 5일 연속 상승 이끈 '바이 코리...",
+        "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5740",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
       }
     ]
   }
