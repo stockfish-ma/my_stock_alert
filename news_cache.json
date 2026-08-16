@@ -1,68 +1,5 @@
 {
   "news_seen": {
-    "f98dd248a2d9": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "de00c471b20a": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "2f2d3a7eddf9": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "63a2b5bf6c27": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "c009e8d08ac1": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "a347f6e74706": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "71b5e381f6b3": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "682d009c9965": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "64424ca373c8": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "d810eaf7a5dc": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "2dbf736bfd67": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "547af1e76000": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "f6bb66431f2d": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "b8ac5d2bd6fd": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "02e2271245e8": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "d07a3c726c1e": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "758c852b00c5": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "75c5a170cad6": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "7f4e839e1a53": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "1e6b53530e2e": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
-    "8421c2851b97": {
-      "first_seen": "2026-08-15T23:17:50.010208+00:00"
-    },
     "f1246518b9fe": {
       "first_seen": "2026-08-15T23:38:29.948564+00:00"
     },
@@ -1130,6 +1067,27 @@
     },
     "1cff7ffbb0d8": {
       "first_seen": "2026-08-16T11:14:34.922734+00:00"
+    },
+    "d3b6130a685c": {
+      "first_seen": "2026-08-16T11:37:15.153092+00:00"
+    },
+    "f210b35e0f6c": {
+      "first_seen": "2026-08-16T11:37:15.153092+00:00"
+    },
+    "edb5354b4ba5": {
+      "first_seen": "2026-08-16T11:37:15.153092+00:00"
+    },
+    "3e8f807adaed": {
+      "first_seen": "2026-08-16T11:37:15.153092+00:00"
+    },
+    "4c93da039135": {
+      "first_seen": "2026-08-16T11:37:15.153092+00:00"
+    },
+    "581f055fe3b7": {
+      "first_seen": "2026-08-16T11:37:15.153092+00:00"
+    },
+    "a08312c46755": {
+      "first_seen": "2026-08-16T11:37:15.153092+00:00"
     }
   },
   "news_counts": {
@@ -2190,173 +2148,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:엔비디아": 1,
-    "반도체:반도체": 2,
-    "로봇:로봇": 3,
-    "트럼프:트럼프": 3,
-    "증권:코스피": 1,
-    "로봇:휴머노이드": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
-  "last_top10_sent": "2026-08-16T10:35:28.320878+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "외국인, 삼성전자 사고 SK하이닉스 팔았다...8월 수급 '반도체 안에서도...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477871",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:엔비디아": {
-      "title": "[ICT 종합] LG전자, 엔비디아와 휴머노이드 로봇 만든다 소식 외",
-      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60067",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:반도체": {
-      "title": "반도체 반등에 또 '빚투'⋯삼전닉스 신용잔고 '쑥'",
-      "url": "http://www.inews24.com/view/1995462",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "로봇:로봇": {
-      "title": "창원시, 로봇랜드서 독립유공자 홍보·체험 부스 운영",
-      "url": "http://www.metroseoul.co.kr/article/20260816500018",
-      "source": "",
-      "count": 3,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 정부, 이란 혁명수비대 우회 접촉 보도",
-      "url": "https://www.tokenpost.kr/news/breaking/391666",
-      "source": "",
-      "count": 3,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "증권:코스피": {
-      "title": "\"27만전자·160만닉스 회복\"…5일 연속 오른 코스피, 이번주도 달릴까",
-      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160123&t=NN",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스피"
-    },
-    "로봇:휴머노이드": {
-      "title": "中 PTC 히터 생산기업 '쿤하이', 생산라인에 휴머노이드 실전 투입",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=47937",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "휴머노이드"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "외국인, 삼성전자 사고 SK하이닉스 팔았다...8월 수급 '반도체 안에서도...",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477871",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "[ICT 종합] LG전자, 엔비디아와 휴머노이드 로봇 만든다 소식 외",
-        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60067",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "반도체 반등에 또 '빚투'⋯삼전닉스 신용잔고 '쑥'",
-        "url": "http://www.inews24.com/view/1995462",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "부울경 산업 전기료 10%↓…반도체 기업 올까",
-        "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260817.22002004296",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "창원시, 로봇랜드서 독립유공자 홍보·체험 부스 운영",
-        "url": "http://www.metroseoul.co.kr/article/20260816500018",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "美 택타시스템즈, 정밀한 제조 작업용 로봇 손 기술 개발",
-        "url": "https://www.irobotnews.com/news/articleView.html?idxno=47939",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "중국과학기술대, 로봇용 플렉시블 전자 피부 개발",
-        "url": "https://www.irobotnews.com/news/articleView.html?idxno=47938",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 정부, 이란 혁명수비대 우회 접촉 보도",
-        "url": "https://www.tokenpost.kr/news/breaking/391666",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "SNS에 '판문점 회동' 사진 게시…트럼프 \"김정은과 사이좋다\"",
-        "url": "https://news.jtbc.co.kr/article/NB12313597?influxDiv=NAVER",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "군사분계선 넘는 사진 SNS에 올린 트럼프…김정은은 푸틴에 친서",
-        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212834",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "\"27만전자·160만닉스 회복\"…5일 연속 오른 코스피, 이번주도 달릴까",
-        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160123&t=NN",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ],
-    "로봇:휴머노이드": [
-      {
-        "title": "中 PTC 히터 생산기업 '쿤하이', 생산라인에 휴머노이드 실전 투입",
-        "url": "https://www.irobotnews.com/news/articleView.html?idxno=47937",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-16T11:37:16.867228+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
