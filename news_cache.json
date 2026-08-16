@@ -1,32 +1,5 @@
 {
   "news_seen": {
-    "2b3f81cc59a6": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
-    "7b1a57e5be01": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
-    "ce7e3ec5d3da": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
-    "a99f4d0b4b99": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
-    "359292053d0e": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
-    "7acb12c3dedc": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
-    "8cbb706bbee9": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
-    "c26f4148fdd5": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
-    "2b328f8a4858": {
-      "first_seen": "2026-08-15T22:57:59.214349+00:00"
-    },
     "f98dd248a2d9": {
       "first_seen": "2026-08-15T23:17:50.010208+00:00"
     },
@@ -1142,6 +1115,21 @@
     },
     "09b6f539f777": {
       "first_seen": "2026-08-16T10:55:15.962079+00:00"
+    },
+    "ea5442577e01": {
+      "first_seen": "2026-08-16T11:14:34.922734+00:00"
+    },
+    "4228de879e23": {
+      "first_seen": "2026-08-16T11:14:34.922734+00:00"
+    },
+    "cea2a19fd274": {
+      "first_seen": "2026-08-16T11:14:34.922734+00:00"
+    },
+    "2eaab4ea4e88": {
+      "first_seen": "2026-08-16T11:14:34.922734+00:00"
+    },
+    "1cff7ffbb0d8": {
+      "first_seen": "2026-08-16T11:14:34.922734+00:00"
     }
   },
   "news_counts": {
@@ -2206,9 +2194,10 @@
     "반도체:삼성전자": 1,
     "반도체:엔비디아": 1,
     "반도체:반도체": 2,
-    "로봇:로봇": 1,
-    "트럼프:트럼프": 1,
-    "증권:코스피": 1
+    "로봇:로봇": 3,
+    "트럼프:트럼프": 3,
+    "증권:코스피": 1,
+    "로봇:휴머노이드": 1
   },
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-16T10:35:28.320878+00:00",
@@ -2241,7 +2230,7 @@
       "title": "창원시, 로봇랜드서 독립유공자 홍보·체험 부스 운영",
       "url": "http://www.metroseoul.co.kr/article/20260816500018",
       "source": "",
-      "count": 1,
+      "count": 3,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -2249,7 +2238,7 @@
       "title": "트럼프 정부, 이란 혁명수비대 우회 접촉 보도",
       "url": "https://www.tokenpost.kr/news/breaking/391666",
       "source": "",
-      "count": 1,
+      "count": 3,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2260,6 +2249,14 @@
       "count": 1,
       "group": "증권",
       "keyword": "코스피"
+    },
+    "로봇:휴머노이드": {
+      "title": "中 PTC 히터 생산기업 '쿤하이', 생산라인에 휴머노이드 실전 투입",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=47937",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "휴머노이드"
     }
   },
   "kw_article_pool": {
@@ -2304,12 +2301,40 @@
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
+      },
+      {
+        "title": "美 택타시스템즈, 정밀한 제조 작업용 로봇 손 기술 개발",
+        "url": "https://www.irobotnews.com/news/articleView.html?idxno=47939",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "중국과학기술대, 로봇용 플렉시블 전자 피부 개발",
+        "url": "https://www.irobotnews.com/news/articleView.html?idxno=47938",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
       }
     ],
     "트럼프:트럼프": [
       {
         "title": "트럼프 정부, 이란 혁명수비대 우회 접촉 보도",
         "url": "https://www.tokenpost.kr/news/breaking/391666",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "SNS에 '판문점 회동' 사진 게시…트럼프 \"김정은과 사이좋다\"",
+        "url": "https://news.jtbc.co.kr/article/NB12313597?influxDiv=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "군사분계선 넘는 사진 SNS에 올린 트럼프…김정은은 푸틴에 친서",
+        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212834",
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
@@ -2322,6 +2347,15 @@
         "source": "",
         "group": "증권",
         "keyword": "코스피"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "中 PTC 히터 생산기업 '쿤하이', 생산라인에 휴머노이드 실전 투입",
+        "url": "https://www.irobotnews.com/news/articleView.html?idxno=47937",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
       }
     ]
   }
