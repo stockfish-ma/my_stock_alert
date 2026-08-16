@@ -977,6 +977,42 @@
     },
     "f8ea4864cc50": {
       "first_seen": "2026-08-16T06:56:02.797161+00:00"
+    },
+    "e65f6056f1af": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "e58871e3cfc9": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "53807ff0cce0": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "226e7b418fce": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "30403cfa1591": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "e390c2ff5df0": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "9f88724bd4c4": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "ba32bff704fe": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "2e7f96804630": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "c46902e90265": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "46cda4c81a69": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "b3ec6463e67f": {
+      "first_seen": "2026-08-16T07:26:33.962681+00:00"
     }
   },
   "news_counts": {
@@ -2037,9 +2073,195 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 2,
+    "반도체:메모리": 1,
+    "반도체:반도체": 1,
+    "AI인프라:데이터센터": 1,
+    "트럼프:트럼프": 1,
+    "트럼프:관세": 3,
+    "증권:코스피": 1,
+    "원자재:구리": 1,
+    "주식:배당": 1
+  },
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-16T06:56:06.209758+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "4대 시중은행 상반기 평균 급여 7150만원... 삼성전자 직원보다 더 많이...",
+      "url": "https://www.insight.co.kr/news/568517",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:메모리": {
+      "title": "애플, 중국산 메모리 사용 시도 무산될 듯... 미 상무장관 \"바람직 않아...",
+      "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=101051",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:반도체": {
+      "title": "[매경포럼] 반도체 호황 속 무너지는 非반도체",
+      "url": "https://www.mk.co.kr/article/12128967",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:데이터센터": {
+      "title": "SK텔레콤 기업가치 바꿀 한 수…전국에 AI 데이터센터 깐다",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477840",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "트럼프:트럼프": {
+      "title": "'비핵화'에서 '유가 안정'으로…CNN \"트럼프, 이란전 목표 쪼그라들어\"",
+      "url": "https://view.asiae.co.kr/article/2026081616154019648",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "김정관 산업장관 긴급 미국행…대미투자·관세 논의",
+      "url": "https://news.mtn.co.kr/news-detail/2026081616075718725",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "증권:코스피": {
+      "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런...",
+      "url": "https://www.sedaily.com/article/20079924?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "원자재:구리": {
+      "title": "구리값 오르고 방산 수출 회복…풍산 주가 재평가 가능할까",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477836",
+      "source": "",
+      "count": 1,
+      "group": "원자재",
+      "keyword": "구리"
+    },
+    "주식:배당": {
+      "title": "한국가스공사, 우려 씻고 '깜짝 실적'…배당 매력도 다시 부각",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477835",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "4대 시중은행 상반기 평균 급여 7150만원... 삼성전자 직원보다 더 많이...",
+        "url": "https://www.insight.co.kr/news/568517",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "4대 시중은행 상반기 급여 평균 7천150만 원… 삼성전자 제쳤다",
+        "url": "https://www.kyeonggi.com/article/20260816580055",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "애플, 중국산 메모리 사용 시도 무산될 듯... 미 상무장관 \"바람직 않아...",
+        "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=101051",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "[매경포럼] 반도체 호황 속 무너지는 非반도체",
+        "url": "https://www.mk.co.kr/article/12128967",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "SK텔레콤 기업가치 바꿀 한 수…전국에 AI 데이터센터 깐다",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477840",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "'비핵화'에서 '유가 안정'으로…CNN \"트럼프, 이란전 목표 쪼그라들어\"",
+        "url": "https://view.asiae.co.kr/article/2026081616154019648",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "김정관 산업장관 긴급 미국행…대미투자·관세 논의",
+        "url": "https://news.mtn.co.kr/news-detail/2026081616075718725",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "대미 투자·추가 관세 논의…김정관 산업부 장관 긴급 미국행",
+        "url": "https://www.sidae.com/article/2026081615431720201",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "콜롬비아 7.4 강진 사망자 290명…대통령, 트럼프에 \"관세 한시 유예해달...",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/16/2026081690063.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런...",
+        "url": "https://www.sedaily.com/article/20079924?ref=naver",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "원자재:구리": [
+      {
+        "title": "구리값 오르고 방산 수출 회복…풍산 주가 재평가 가능할까",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477836",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "한국가스공사, 우려 씻고 '깜짝 실적'…배당 매력도 다시 부각",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477835",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ]
+  }
 }
