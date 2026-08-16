@@ -560,6 +560,81 @@
     },
     "bd3bfdbfad3a": {
       "first_seen": "2026-08-16T02:19:23.261698+00:00"
+    },
+    "cd43494cd27f": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "3b5df7008990": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "b68496cc83f1": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "7648e60870ce": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "65ced62df28d": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "cbfffe7ab805": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "8564e1ab6c0d": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "08192ff38987": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "7f9d66fb83ef": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "9e28791224aa": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "8338969e114e": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "1fe1b113fa83": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "e28afaaededd": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "ac48f837e549": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "10f73d0cc284": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "86163eee6a5c": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "768716cab752": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "28ba8400c984": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "1ba34874712f": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "c482b5121ab4": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "0d845ff67af1": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "a2939926dd12": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "c3e16afaa745": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "c91e827750ca": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
+    },
+    "0273734924b1": {
+      "first_seen": "2026-08-16T03:16:22.441730+00:00"
     }
   },
   "news_counts": {
@@ -1620,9 +1695,286 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 4,
+    "반도체:반도체": 3,
+    "AI인프라:전력수요": 1,
+    "에너지:배터리": 3,
+    "에너지:SMR": 1,
+    "로봇:로봇": 1,
+    "트럼프:트럼프": 7,
+    "증권:상향": 1,
+    "증권:코스피": 4
+  },
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-16T02:19:24.929945+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "기관 '삼성전자'·외인 'SK하이닉스'·개인 '한국전력' 1위 [주간 코스피...",
+      "url": "https://www.fntimes.com/html/view.php?ud=20260815210245595179ad43907_18",
+      "source": "",
+      "count": 4,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:반도체": {
+      "title": "반도체 ‘잡음’으로 움직임·음성 인식…인공 뉴런 개발",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638206&ref=A",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력수요": {
+      "title": "12차 전기본 전력수요 다시 짠다…'3대 메가' 반영 전망 20일 공개",
+      "url": "https://www.news1.kr/society/environment/6260506",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력수요"
+    },
+    "에너지:배터리": {
+      "title": "서울시, 전기 이륜자동차 배터리 화재 분석…6천여 대 리콜 이끌어",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1402795",
+      "source": "",
+      "count": 3,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "에너지:SMR": {
+      "title": "빌 게이츠 방한, K-SMR 공급망 현실화… SK·HD현대·두산, 테라파워와 협력 확대 - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpY3o3RnVpTmc2NS1pWnoyTWt5ZnQ4bjYwME1EODZJQlJOU2l5aEhHZDNNcmlXdEJncldmbmdvTnJ4OVhvYWpIcHNpdzJmamNpT1RWblZob195d2RSNmVhdXE0eXlNR1gtMXV1OTBPTlU?oc=5",
+      "source": "Korea IT Times",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "로봇:로봇": {
+      "title": "네이버에서 커피 배달하는 로봇⋯진화형 '루키2' 순차 투입 [IT돋보기]",
+      "url": "http://www.inews24.com/view/1995426",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프 미 대통령 “호르무즈 협상 17일 시한” 경고…유가쇼크 속 코스...",
+      "url": "http://www.breaknews.com/1229305",
+      "source": "",
+      "count": 7,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "증권:상향": {
+      "title": "고물가 속 제품값 올린 주요 식품사…경영진 보수도 일제히 상향",
+      "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005901852",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:코스피": {
+      "title": "[롤러코스피 탑승기] 청년도, 노인도 모두가 주식을 시작했다",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003368&cp=nv",
+      "source": "",
+      "count": 4,
+      "group": "증권",
+      "keyword": "코스피"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "기관 '삼성전자'·외인 'SK하이닉스'·개인 '한국전력' 1위 [주간 코스피...",
+        "url": "https://www.fntimes.com/html/view.php?ud=20260815210245595179ad43907_18",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자·SK하이닉스 주주환원 확대 주목… '300조원' 전망 실현 가능할...",
+        "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156168",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자·SK하이닉스, 역대급 실적 다음은 ‘주주환원’..주가 재평가...",
+        "url": "https://kpenews.com/View.aspx?No=4188125",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자서비스 엔지니어, 폭염 속 쓰러진 70대 살렸다",
+        "url": "https://www.mk.co.kr/article/12128899",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "반도체 ‘잡음’으로 움직임·음성 인식…인공 뉴런 개발",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638206&ref=A",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "기관 '이오테크닉스'·외인 '파마리서치'·개인 '제주반도체' 1위 [주간...",
+        "url": "https://www.fntimes.com/html/view.php?ud=20260815211415527179ad43907_18",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "[쿠키과학] ‘반도체 전류 잡음을 정보 자원으로’… KAIST, 인공뉴런 개...",
+        "url": "https://www.kukinews.com/article/view/kuk202608160007",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력수요": [
+      {
+        "title": "12차 전기본 전력수요 다시 짠다…'3대 메가' 반영 전망 20일 공개",
+        "url": "https://www.news1.kr/society/environment/6260506",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력수요"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "서울시, 전기 이륜자동차 배터리 화재 분석…6천여 대 리콜 이끌어",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1402795",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "서울시 배터리 화재 실험서 9분 만에 연기…전기 이륜차 6144대 리콜",
+        "url": "https://www.g-enews.com/view.php?ud=20260816114355925324debea800_1",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "서울 소방재난본부, 전기 이륜차 배터리 화재 분석… 6000여대 리콜",
+        "url": "https://biz.chosun.com/topics/topics_social/2026/08/16/LFIFUHMMCRBJTHJ2MP2JOFZ4DQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "빌 게이츠 방한, K-SMR 공급망 현실화… SK·HD현대·두산, 테라파워와 협력 확대 - Korea IT Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpY3o3RnVpTmc2NS1pWnoyTWt5ZnQ4bjYwME1EODZJQlJOU2l5aEhHZDNNcmlXdEJncldmbmdvTnJ4OVhvYWpIcHNpdzJmamNpT1RWblZob195d2RSNmVhdXE0eXlNR1gtMXV1OTBPTlU?oc=5",
+        "source": "Korea IT Times",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "네이버에서 커피 배달하는 로봇⋯진화형 '루키2' 순차 투입 [IT돋보기]",
+        "url": "http://www.inews24.com/view/1995426",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프 미 대통령 “호르무즈 협상 17일 시한” 경고…유가쇼크 속 코스...",
+        "url": "http://www.breaknews.com/1229305",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "중간선거 앞둔 트럼프, 또 김정은 사진 올려",
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6845081_36967.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 7년 전 김정은과 판문점 사진 공개⋯“사이 좋다”",
+        "url": "https://www.etoday.co.kr/news/view/2615034",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "이란, 트럼프 '호르무즈 미국 영토' 주장 일축-해협 긴장 고조",
+        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86882",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "김민석 \"트럼프, 내게도 김정은 사진 보여줘…美中日 연내 방문할 것\"",
+        "url": "https://www.mt.co.kr/politics/2026/08/16/2026081611070624773",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 ...",
+        "url": "https://www.khan.co.kr/article/202608161134001",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "이란에 묶여버린 트럼프…\"누가 감히 나를 막을 거냐\"",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707415&plink=ORI&cooper=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "고물가 속 제품값 올린 주요 식품사…경영진 보수도 일제히 상향",
+        "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005901852",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "[롤러코스피 탑승기] 청년도, 노인도 모두가 주식을 시작했다",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003368&cp=nv",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "“올라도 불안하다”…코스피 반등에도 개미들은 ‘하락 베팅’",
+        "url": "https://www.mk.co.kr/article/12128900",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "코스피 7000 회복에도 ‘하락 베팅’…공매도 잔고 14% 증가",
+        "url": "https://www.viva100.com/article/20260816500086",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "코스피 반등에 불안한 개미들…'하락배팅' 공매도 늘었다",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5212776",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ]
+  }
 }
