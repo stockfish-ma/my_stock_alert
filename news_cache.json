@@ -695,6 +695,78 @@
     },
     "1ac3110093c8": {
       "first_seen": "2026-08-16T04:02:21.532766+00:00"
+    },
+    "4dc50bf8d280": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "c131ae9e9063": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "69d5df75f2a3": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "08cb451b37ef": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "c76543744089": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "9b20969cf41a": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "5c9d0149ad8f": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "f855d9c4d6dd": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "e55ce886dd0f": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "968cab3dfc47": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "e0b85fb03ca7": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "3348350081b6": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "44bbd8dd17f0": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "401585816476": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "a75e2d933d24": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "645b68e841ea": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "8bfb166b92ea": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "623fc8348a4e": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "54ee4dcb20a0": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "0b3bebde913d": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "8c0e004f097a": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "6a86963cb0ad": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "1320fe1dbc1f": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
+    },
+    "ccaa63b7b70b": {
+      "first_seen": "2026-08-16T04:47:10.818095+00:00"
     }
   },
   "news_counts": {
@@ -1755,9 +1827,334 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "반도체:SK하이닉스": 1,
+    "반도체:엔비디아": 1,
+    "반도체:반도체": 3,
+    "반도체:HBM4": 1,
+    "AI인프라:전력": 1,
+    "에너지:배터리": 1,
+    "에너지:SMR": 1,
+    "트럼프:트럼프": 4,
+    "증권:상향": 4,
+    "증권:코스피": 3,
+    "증권:코스닥": 1,
+    "주식:배당": 1,
+    "주식:자사주": 1
+  },
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-16T04:02:24.548263+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "\"배당 말고 45조 자사주 사라\" 삼성전자에 '메리츠式 처방' 꺼낸 주주들...",
+      "url": "http://www.fnnews.com/news/202608161319459400",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "\"SK하이닉스 청주 지방세가...\" 1위 역전한 박선원의 약속",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003259576&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아, 스페이스X 지분 30조원 보유-AI칩 거래 놓고 '순환거래' 우려",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86888",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:반도체": {
+      "title": "반도체 반등에 삼전·닉스 신용잔고 ‘쑥’…레버리지ETF 거래도 회복세",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026081613331337316",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "반도체:HBM4": {
+      "title": "전영현 \"갈 길 멀다, 자만 말라\"…HBM4 성공에도 삼성 반도체 '긴장'[biz-플러스] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PWnJ5TS1YU29sM2NTQ1NxSGw4MUpONzQ1NkNFN216akY0bVRHenNhRjYyTUFqczdMeTJ6RUdoYXlyUFV5Mm5VNkdXZGZHUXNVcGVB?oc=5",
+      "source": "네이트",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM4"
+    },
+    "AI인프라:전력": {
+      "title": "잦아든 폭염에 전력수급도 ‘여유’…습한 날이 더 무섭다",
+      "url": "https://www.sedaily.com/article/20079916?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "에너지:배터리": {
+      "title": "\"9분 만에 연기·폭발\"…서울시 소방재난본부, 실험이 잡아낸 배터리 결...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065582094109336",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "에너지:SMR": {
+      "title": "HD현대-테라파워-현대건설, 미국 SMR 시장 속도 내 - pinenews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zWmhuZkFXbVRDLW03MkktV0FGSUdackRKNDhpdnEyUHNiRXJSTFNpUHdEaUt3RXZobFhFR2VZNDNSZFNhNGFn?oc=5",
+      "source": "pinenews.co.kr",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "트럼프:트럼프": {
+      "title": "김민석,또 트럼프 마케팅“대표 되면 방미 추진”",
+      "url": "https://www.munhwa.com/article/11609814?ref=naver",
+      "source": "",
+      "count": 4,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "증권:상향": {
+      "title": "남부권 산사태 위기경보 '주의' 상향···\"집중호우 각별히 주의\"",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=279558",
+      "source": "",
+      "count": 4,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:코스피": {
+      "title": "외국인 귀환에 코스피 '활짝'…\"일부 챙기자\" 개미, 7조원 차익실현",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160104&t=NN",
+      "source": "",
+      "count": 3,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "이번 주 인제니아·기도산업 코스닥 상장…청약 경쟁률 올해 IPO 최저",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430348",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "주식:배당": {
+      "title": "\"배당률 19% 실화냐\"... 넥슨 파격 특별배당에 도쿄 증시 발칵 뒤집혔다",
+      "url": "https://www.insight.co.kr/news/568494",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
+    },
+    "주식:자사주": {
+      "title": "카카오뱅크 임원진, 자사주 매입통해 책임경영 실천",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856896",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "자사주"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "\"배당 말고 45조 자사주 사라\" 삼성전자에 '메리츠式 처방' 꺼낸 주주들...",
+        "url": "http://www.fnnews.com/news/202608161319459400",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "\"SK하이닉스 청주 지방세가...\" 1위 역전한 박선원의 약속",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003259576&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아, 스페이스X 지분 30조원 보유-AI칩 거래 놓고 '순환거래' 우려",
+        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86888",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "반도체 반등에 삼전·닉스 신용잔고 ‘쑥’…레버리지ETF 거래도 회복세",
+        "url": "https://www.busan.com/view/busan/view.php?code=2026081613331337316",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "반도체 반등하자 다시 ‘3배 베팅’..서학개미 SOXL로 유턴",
+        "url": "https://kpenews.com/View.aspx?No=4188154",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "전영현 “갈 길 멀다, 자만 말라”…HBM4 성공에도 삼성 반도체 ‘긴장...",
+        "url": "https://www.sedaily.com/article/20079906?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "반도체:HBM4": [
+      {
+        "title": "전영현 \"갈 길 멀다, 자만 말라\"…HBM4 성공에도 삼성 반도체 '긴장'[biz-플러스] - 네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PWnJ5TS1YU29sM2NTQ1NxSGw4MUpONzQ1NkNFN216akY0bVRHenNhRjYyTUFqczdMeTJ6RUdoYXlyUFV5Mm5VNkdXZGZHUXNVcGVB?oc=5",
+        "source": "네이트",
+        "group": "반도체",
+        "keyword": "HBM4"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "잦아든 폭염에 전력수급도 ‘여유’…습한 날이 더 무섭다",
+        "url": "https://www.sedaily.com/article/20079916?ref=naver",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "\"9분 만에 연기·폭발\"…서울시 소방재난본부, 실험이 잡아낸 배터리 결...",
+        "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065582094109336",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "HD현대-테라파워-현대건설, 미국 SMR 시장 속도 내 - pinenews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zWmhuZkFXbVRDLW03MkktV0FGSUdackRKNDhpdnEyUHNiRXJSTFNpUHdEaUt3RXZobFhFR2VZNDNSZFNhNGFn?oc=5",
+        "source": "pinenews.co.kr",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "김민석,또 트럼프 마케팅“대표 되면 방미 추진”",
+        "url": "https://www.munhwa.com/article/11609814?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "\"美 해군, 트럼프 '2차대전 취향' 맞춰 신형 항공모함 재설계 검토\"",
+        "url": "https://www.news1.kr/world/usa-canada/6260525",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "미·중 정상회담 코앞인데 대중 제재 강화 나선 트럼프···“미국 측 회...",
+        "url": "https://www.khan.co.kr/article/202608161307001",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 사진 올린 김민석 \"연내 미중일 방문 추진\"",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5212782",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "남부권 산사태 위기경보 '주의' 상향···\"집중호우 각별히 주의\"",
+        "url": "http://www.paxetv.com/news/articleView.html?idxno=279558",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "남부지방에 강한 비···호우 위기경보 ‘주의’로 상향",
+        "url": "https://www.segye.com/newsView/20260816507717?OutUrl=naver",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "中 경제브리핑…철도 여객 28억명 돌파·홍콩 성장률 전망 상향",
+        "url": "https://www.the-today.com/news/articleView.html?idxno=88532",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "산림청, 폭우에 산사태위기경보 '주의' 상향",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260816130543hJu",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "외국인 귀환에 코스피 '활짝'…\"일부 챙기자\" 개미, 7조원 차익실현",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160104&t=NN",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "BBC가 본 ‘롤러코스피’..“세계서 가장 변동성 큰 증시”",
+        "url": "https://kpenews.com/View.aspx?No=4188151",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅' [분석+]",
+        "url": "https://www.hankyung.com/article/2026081639276",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "이번 주 인제니아·기도산업 코스닥 상장…청약 경쟁률 올해 IPO 최저",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430348",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "\"배당률 19% 실화냐\"... 넥슨 파격 특별배당에 도쿄 증시 발칵 뒤집혔다",
+        "url": "https://www.insight.co.kr/news/568494",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ],
+    "주식:자사주": [
+      {
+        "title": "카카오뱅크 임원진, 자사주 매입통해 책임경영 실천",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856896",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      }
+    ]
+  }
 }
