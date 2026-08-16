@@ -794,6 +794,69 @@
     },
     "5f6a4bfcb44f": {
       "first_seen": "2026-08-16T05:13:48.855707+00:00"
+    },
+    "cf76ab0f234f": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "52a784f706c3": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "18d82ff40bb7": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "cdb452944b12": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "fe2a5859e407": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "b44d433e91fc": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "2ae2e5798f80": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "4c2ea75df1be": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "2acba96af275": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "280c9aa1a73e": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "97df0938b3c0": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "afa4f95d9552": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "1860c9e58a11": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "19283bcbefc6": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "93e311e0c225": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "84d947261d66": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "383328f63485": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "23a17e2e1dea": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "34e2c5000235": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "24c2b3bf63b4": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
+    },
+    "3d5b1c0085e6": {
+      "first_seen": "2026-08-16T05:46:20.256071+00:00"
     }
   },
   "news_counts": {
@@ -1854,9 +1917,291 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 2,
+    "반도체:SK하이닉스": 1,
+    "반도체:HBM": 1,
+    "반도체:반도체": 3,
+    "AI인프라:전력": 1,
+    "에너지:SMR": 1,
+    "로봇:로봇": 1,
+    "트럼프:트럼프": 4,
+    "트럼프:관세": 3,
+    "증권:코스피": 2,
+    "증권:코스닥": 1,
+    "주식:배당": 1
+  },
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-16T05:13:50.611533+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "800만 소액주주 삼성전자, 올해 200조 주주환원 나설까...'국민 배당주'...",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=204174",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스 주가 하루만 10% 폭락에 미자, 심경…\"주식 다 날아갔다\"",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164778",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:HBM": {
+      "title": "전영현 “갈 길 멀다, 자만 말라”…HBM4 성공에도 삼성 반도체 ‘긴장’[biz-플러스] - sedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13X3ZqRlUyOG9SVTVhY3k2X21yYXJrYmVVTzliQ3dkTWxIeUlRUHM1ZjU1Mi1EVm1tSVQtb0hVNlJaZmwwUjk1Zk1CUkdlUUh2M1E?oc=5",
+      "source": "sedaily.com",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM"
+    },
+    "반도체:반도체": {
+      "title": "코스닥 이달 수익률 선두에도…대형 반도체주 부활에 수급 불균형 심화",
+      "url": "https://www.mediapen.com/news/view/1116808",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "전기차 밖으로 나온 K-배터리…AI 데이터센터 전력시장 공략",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1402803",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "에너지:SMR": {
+      "title": "SK이노베이션·테라파워, 나트륨 SMR 사업협력 합의서 체결 - 로이슈",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZVF83dXRTODh1ZGdiTElIOTl5S3lxSDRlNmE0T3ZfUU1KSFJ3U3BXOVJwbDJPdWRtU2RRWmZ5cXNXTE85SlA5ZS14RV9Fa0NlbjVLR3YzQWhPSEFOaUlwRElNbEQtdHBaWnFSdEE0WkRLai1nd0huYm9B?oc=5",
+      "source": "로이슈",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "로봇:로봇": {
+      "title": "로봇·AI 개발하는 디즈니...‘마법’을 현실로 만드는 기술들",
+      "url": "https://www.chosun.com/economy/tech_it/2026/08/16/2UBCCA3JGFC4TLVRGQOOHH6V24/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "지지율 급락에 다급한 트럼프…중간선거에 1조 '실탄' 푼다",
+      "url": "http://www.fnnews.com/news/202608161437085273",
+      "source": "",
+      "count": 4,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "[속보] 투자 이행·관세 '발등의 불'…김정관 산업장관 다시 미국행",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160110&t=NN",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "증권:코스피": {
+      "title": "'코스피 다시 강세' 전망에도 청개구리 베팅...국장 불신 커졌다",
+      "url": "https://www.hankookilbo.com/news/article/A2026081612420000674?did=NA",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "코스닥, 세계 1위 질주에도…삼전닉스 부활에 수급 우려",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026081614201052026",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "주식:배당": {
+      "title": "“배당률 19%, 오타 아니야?”…넥슨 ‘통큰 주주환원’에 日 뒤집혔다",
+      "url": "https://www.mk.co.kr/article/12128924",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "800만 소액주주 삼성전자, 올해 200조 주주환원 나설까...'국민 배당주'...",
+        "url": "https://www.livebiz.today/news/articleView.html?idxno=204174",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자·SK하이닉스 주주환원 확대 기대…증권가 \"연간 300조원 가능\"",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720580",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스 주가 하루만 10% 폭락에 미자, 심경…\"주식 다 날아갔다\"",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164778",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:HBM": [
+      {
+        "title": "전영현 “갈 길 멀다, 자만 말라”…HBM4 성공에도 삼성 반도체 ‘긴장’[biz-플러스] - sedaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13X3ZqRlUyOG9SVTVhY3k2X21yYXJrYmVVTzliQ3dkTWxIeUlRUHM1ZjU1Mi1EVm1tSVQtb0hVNlJaZmwwUjk1Zk1CUkdlUUh2M1E?oc=5",
+        "source": "sedaily.com",
+        "group": "반도체",
+        "keyword": "HBM"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "코스닥 이달 수익률 선두에도…대형 반도체주 부활에 수급 불균형 심화",
+        "url": "https://www.mediapen.com/news/view/1116808",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "“반도체 잡음, 없애는 대신 써먹는다” 뇌 닮은 인공 뉴런 개발",
+        "url": "https://www.chosun.com/economy/science/2026/08/16/TU4KSPZYQ5GDHGW7FANYV27W2U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "반도체 강조한 김민석, 부동산 공급 꺼낸 정청래… 경기 맞춤형 '현안'으...",
+        "url": "https://www.hankookilbo.com/news/article/A2026081610150004983?did=NA",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "전기차 밖으로 나온 K-배터리…AI 데이터센터 전력시장 공략",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1402803",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "SK이노베이션·테라파워, 나트륨 SMR 사업협력 합의서 체결 - 로이슈",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZVF83dXRTODh1ZGdiTElIOTl5S3lxSDRlNmE0T3ZfUU1KSFJ3U3BXOVJwbDJPdWRtU2RRWmZ5cXNXTE85SlA5ZS14RV9Fa0NlbjVLR3YzQWhPSEFOaUlwRElNbEQtdHBaWnFSdEE0WkRLai1nd0huYm9B?oc=5",
+        "source": "로이슈",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "로봇·AI 개발하는 디즈니...‘마법’을 현실로 만드는 기술들",
+        "url": "https://www.chosun.com/economy/tech_it/2026/08/16/2UBCCA3JGFC4TLVRGQOOHH6V24/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "지지율 급락에 다급한 트럼프…중간선거에 1조 '실탄' 푼다",
+        "url": "http://www.fnnews.com/news/202608161437085273",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 김정은 회동 사진 올려…\"11월 중간 선거용\"",
+        "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534223",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "“우린 아주 잘 지냅니다”…트럼프, 北 김정은에 또 다시 러브콜?",
+        "url": "https://www.kukinews.com/article/view/kuk202608160016",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "지지율 폭락에 결국 '돈 보따리' 푼 트럼프…426억원부터 쏜다",
+        "url": "https://view.asiae.co.kr/article/2026081614262958964",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "[속보] 투자 이행·관세 '발등의 불'…김정관 산업장관 다시 미국행",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160110&t=NN",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "김정관 산업장관, 3주 만에 미국 재방문… ‘대미 투자·관세 현안’ 긴...",
+        "url": "https://biz.chosun.com/policy/politics/2026/08/16/SEQ4TYMJYRCXLJ734TIZ57EUUM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "美 포드가 한국산 자동차 관세 인상을 요구한 이유는?",
+        "url": "https://www.chosun.com/economy/auto/2026/08/16/F2BXGWR4B5EQRNQA5JSGTR6EZI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "'코스피 다시 강세' 전망에도 청개구리 베팅...국장 불신 커졌다",
+        "url": "https://www.hankookilbo.com/news/article/A2026081612420000674?did=NA",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "코스피 ‘변동성’ 단일종목 레버리지, 규제 후 35% 이상 하락",
+        "url": "https://www.donga.com/news/Economy/article/all/20260816/134484492/1",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "코스닥, 세계 1위 질주에도…삼전닉스 부활에 수급 우려",
+        "url": "https://www.busan.com/view/busan/view.php?code=2026081614201052026",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "“배당률 19%, 오타 아니야?”…넥슨 ‘통큰 주주환원’에 日 뒤집혔다",
+        "url": "https://www.mk.co.kr/article/12128924",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ]
+  }
 }
