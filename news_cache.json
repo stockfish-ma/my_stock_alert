@@ -1013,6 +1013,57 @@
     },
     "b3ec6463e67f": {
       "first_seen": "2026-08-16T07:26:33.962681+00:00"
+    },
+    "3ad079f0898b": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "6c4fc095daf9": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "5e8736fe4ff3": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "7240802b1ea0": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "98085d14adca": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "203148c33204": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "fbba2bf09cad": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "0ae9bb1969e2": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "027d447f17e1": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "f47eb9cd8f40": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "4d308bd357e4": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "9bf4ebd8145b": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "bc421ac3c253": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "e6bc71219161": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "48b34d385611": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "062e0b5084f0": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
+    },
+    "135772407762": {
+      "first_seen": "2026-08-16T07:54:12.011687+00:00"
     }
   },
   "news_counts": {
@@ -2074,15 +2125,21 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:삼성전자": 2,
+    "반도체:삼성전자": 3,
     "반도체:메모리": 1,
-    "반도체:반도체": 1,
+    "반도체:반도체": 2,
     "AI인프라:데이터센터": 1,
-    "트럼프:트럼프": 1,
-    "트럼프:관세": 3,
-    "증권:코스피": 1,
+    "트럼프:트럼프": 4,
+    "트럼프:관세": 6,
+    "증권:코스피": 3,
     "원자재:구리": 1,
-    "주식:배당": 1
+    "주식:배당": 2,
+    "반도체:SK하이닉스": 1,
+    "반도체:엔비디아": 1,
+    "로봇:피지컬AI": 1,
+    "로봇:자율주행": 1,
+    "증권:상향": 1,
+    "증권:코스닥": 1
   },
   "kw_counts_reset": "2026-08-15T23:53:11.990991+00:00",
   "last_top10_sent": "2026-08-16T06:56:06.209758+00:00",
@@ -2091,7 +2148,7 @@
       "title": "4대 시중은행 상반기 평균 급여 7150만원... 삼성전자 직원보다 더 많이...",
       "url": "https://www.insight.co.kr/news/568517",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "반도체",
       "keyword": "삼성전자"
     },
@@ -2107,7 +2164,7 @@
       "title": "[매경포럼] 반도체 호황 속 무너지는 非반도체",
       "url": "https://www.mk.co.kr/article/12128967",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "반도체",
       "keyword": "반도체"
     },
@@ -2123,7 +2180,7 @@
       "title": "'비핵화'에서 '유가 안정'으로…CNN \"트럼프, 이란전 목표 쪼그라들어\"",
       "url": "https://view.asiae.co.kr/article/2026081616154019648",
       "source": "",
-      "count": 1,
+      "count": 4,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2131,7 +2188,7 @@
       "title": "김정관 산업장관 긴급 미국행…대미투자·관세 논의",
       "url": "https://news.mtn.co.kr/news-detail/2026081616075718725",
       "source": "",
-      "count": 3,
+      "count": 6,
       "group": "트럼프",
       "keyword": "관세"
     },
@@ -2139,7 +2196,7 @@
       "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런...",
       "url": "https://www.sedaily.com/article/20079924?ref=naver",
       "source": "",
-      "count": 1,
+      "count": 3,
       "group": "증권",
       "keyword": "코스피"
     },
@@ -2155,9 +2212,57 @@
       "title": "한국가스공사, 우려 씻고 '깜짝 실적'…배당 매력도 다시 부각",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477835",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "주식",
       "keyword": "배당"
+    },
+    "반도체:SK하이닉스": {
+      "title": "국민연금 리밸런싱 한 달 반…SK하이닉스 사고, SK스퀘어 팔았다",
+      "url": "http://www.fnnews.com/news/202608161213000928",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아, SB 에너지에 4조 투자 논의...오픈AI 10GW 데이터센터 구축 총...",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214001",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "로봇:피지컬AI": {
+      "title": "'서울대 10개 만들기' 선정 임박…'피지컬AI' 전북대 포함될까",
+      "url": "https://www.news1.kr/local/jeonbuk/6260579",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "피지컬AI"
+    },
+    "로봇:자율주행": {
+      "title": "[IR52 장영실상] 자율주행 2차 사고 급증…속도 미리 줄여 사고 예방",
+      "url": "https://www.mk.co.kr/article/12128981",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "자율주행"
+    },
+    "증권:상향": {
+      "title": "가뭄 속 내린 단비…'강한 비'에 행안부 호우 위기경보 '주의'로 상향[종...",
+      "url": "http://www.fnnews.com/news/202608161631194864",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:코스닥": {
+      "title": "이달 주요국 1위 수익률에도 불안한 코스닥···삼전닉스 반등하면 상...",
+      "url": "https://www.khan.co.kr/article/202608161639001",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스닥"
     }
   },
   "kw_article_pool": {
@@ -2172,6 +2277,13 @@
       {
         "title": "4대 시중은행 상반기 급여 평균 7천150만 원… 삼성전자 제쳤다",
         "url": "https://www.kyeonggi.com/article/20260816580055",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자도 제친 '신의 직장'…4대 은행 상반기 급여만 7,150만 원",
+        "url": "https://economist.co.kr/article/view/ecn202608160010",
         "source": "",
         "group": "반도체",
         "keyword": "삼성전자"
@@ -2193,6 +2305,13 @@
         "source": "",
         "group": "반도체",
         "keyword": "반도체"
+      },
+      {
+        "title": "전북대학교, 전공 벽 허문 반도체 교육 확대…산업 맞춤형 인재 양성 본...",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=208486",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
       }
     ],
     "AI인프라:데이터센터": [
@@ -2208,6 +2327,27 @@
       {
         "title": "'비핵화'에서 '유가 안정'으로…CNN \"트럼프, 이란전 목표 쪼그라들어\"",
         "url": "https://view.asiae.co.kr/article/2026081616154019648",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "\"모양이 마음에 안 들어\"…트럼프 취향에 30조원 항공모함 뜯어고치나",
+        "url": "https://view.asiae.co.kr/article/2026081616415350904",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "'비핵화'서 '유가안정'으로…트럼프, 이란전쟁 목표 후퇴",
+        "url": "https://www.g-enews.com/view.php?ud=202608161642593457a6e8311f64_1",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "정권교체·완전항복 어디 갔나…트럼프, 이란전 출구 찾는다",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477849",
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
@@ -2234,12 +2374,47 @@
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
+      },
+      {
+        "title": "콜롬비아 강진, 사망 290·부상 4000 상회…美에 관세유예 읍소",
+        "url": "https://www.mt.co.kr/world/2026/08/16/2026081615543875219",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "대미투자·관세 압박에 통상수장 공백까지…김정관, 예정 없던 긴급 방...",
+        "url": "https://www.hidomin.com/news/articleView.html?idxno=717379",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "美 투자·관세 압박 속…김정관 산업장관, 3주 만에 다시 미국행",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/16/2026081690065.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
       }
     ],
     "증권:코스피": [
       {
         "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런...",
         "url": "https://www.sedaily.com/article/20079924?ref=naver",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "악재 걷힌 삼전닉스...코스피 8500선 회복 가능성도 [주간 증시 전망]",
+        "url": "http://www.fnnews.com/news/202608161243311205",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "닷새 연속 오른 코스피...정부는 '닥공 속도전' 사활",
+        "url": "https://www.ytn.co.kr/_ln/0102_202608161627263429",
         "source": "",
         "group": "증권",
         "keyword": "코스피"
@@ -2261,6 +2436,67 @@
         "source": "",
         "group": "주식",
         "keyword": "배당"
+      },
+      {
+        "title": "배당 10배·수익률 19% … 넥슨 '3조원 특별배당'에 日증시 들썩",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/16/2026081600034.html",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "국민연금 리밸런싱 한 달 반…SK하이닉스 사고, SK스퀘어 팔았다",
+        "url": "http://www.fnnews.com/news/202608161213000928",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아, SB 에너지에 4조 투자 논의...오픈AI 10GW 데이터센터 구축 총...",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214001",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "로봇:피지컬AI": [
+      {
+        "title": "'서울대 10개 만들기' 선정 임박…'피지컬AI' 전북대 포함될까",
+        "url": "https://www.news1.kr/local/jeonbuk/6260579",
+        "source": "",
+        "group": "로봇",
+        "keyword": "피지컬AI"
+      }
+    ],
+    "로봇:자율주행": [
+      {
+        "title": "[IR52 장영실상] 자율주행 2차 사고 급증…속도 미리 줄여 사고 예방",
+        "url": "https://www.mk.co.kr/article/12128981",
+        "source": "",
+        "group": "로봇",
+        "keyword": "자율주행"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "가뭄 속 내린 단비…'강한 비'에 행안부 호우 위기경보 '주의'로 상향[종...",
+        "url": "http://www.fnnews.com/news/202608161631194864",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "이달 주요국 1위 수익률에도 불안한 코스닥···삼전닉스 반등하면 상...",
+        "url": "https://www.khan.co.kr/article/202608161639001",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
       }
     ]
   }
