@@ -1,125 +1,5 @@
 {
   "news_seen": {
-    "8e969bc4f1bc": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "f4aa23b63179": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "bf467196b2e0": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "cfc955cac3e2": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "a59408854995": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "7b89186191fe": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "5f1d1a5a30b4": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "869fdc5abcdf": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "0cf6600ff3b9": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "5fc45f1ae2a6": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "2a88d6703701": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "cf37ec16a2b4": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "20185aabe87f": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "c95e30f5fa61": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "f67e4b08c79d": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "cfc670101aac": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "2d5b307571ce": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "b6868f0b1079": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "7c68b906eb9c": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "58198ec009e1": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "d8ff34dcf484": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "295c1b41fa53": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "c8ce1cb08cb6": {
-      "first_seen": "2026-08-16T23:23:03.150767+00:00"
-    },
-    "b84635981eeb": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "5f1781ac52f3": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "cff2909ddfcd": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "e822f94ff730": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "21cd4563e7be": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "27cd8b74ec93": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "74102a7d22eb": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "fa88b0d13b86": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "254496088a45": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "b8c9f3f64422": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "8f0bc7d78b98": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "0173590cf6bf": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "dd669971b9ae": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "9056644a5481": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "1d97ab2d6b6b": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "f05de217a3c9": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
-    "36ae45f477bd": {
-      "first_seen": "2026-08-16T23:42:39.121072+00:00"
-    },
     "2c58f83c5dcd": {
       "first_seen": "2026-08-16T23:59:02.026025+00:00"
     },
@@ -1712,6 +1592,57 @@
     },
     "625060b0ba2d": {
       "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "5dd2feca48bb": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "30cfc37223c8": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "089d83549b11": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "52720e3965ce": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "7f232083981a": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "cc0dc1ce92db": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "2290acdfb8b8": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "6f54464fc81e": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "0b3e108d4562": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "473b5ba803ff": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "6aef1a6386fe": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "570bdb5b0f91": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "6a3917a1965b": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "8db32182f0da": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "3e1436d6b568": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "90824c18072c": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "0e826525c594": {
+      "first_seen": "2026-08-17T11:44:23.078872+00:00"
     }
   },
   "news_counts": {
@@ -2772,405 +2703,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:메모리": 1,
-    "반도체:엔비디아": 1,
-    "반도체:TSMC": 1,
-    "반도체:GPU": 1,
-    "반도체:반도체": 1,
-    "AI인프라:데이터센터": 2,
-    "에너지:ESS": 2,
-    "로봇:로봇": 5,
-    "트럼프:트럼프": 9,
-    "금리/환율:연준": 1,
-    "증권:코스피": 2,
-    "증권:s&p500": 1,
-    "원자재:구리": 1,
-    "주식:M&A": 1,
-    "트럼프:백악관": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-17T01:14:13.328185+00:00",
-  "last_top10_sent": "2026-08-17T10:17:28.890853+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티: 모던 워페어 4' 파트너십",
-      "url": "http://www.inews24.com/view/1995579",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:메모리": {
-      "title": "中 헤지펀드, 2분기 美 AI 주식 팔고 '메모리 반도체' 갈아탔다",
-      "url": "https://www.ajunews.com/view/20260817191907977",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "메모리"
-    },
-    "반도체:엔비디아": {
-      "title": "공시로 드러난 거대 자본의 결실…엔비디아·알파벳, 스페이스X 투자로...",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=214028",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:TSMC": {
-      "title": "2나노 건너뛴 엔비디아 차세대 GPU '파인만', TSMC 1.6나노 공정 쓴다 - 콕스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55Y29YenEzMWpxcmViSkpCWV92QV9GWm9RRmhLZkFpTXZqY1NGd0ltSlFqdWVPcmVkZXNtRzJDVXJYN05QUkt6clU3QnlZQWljN1RwbGZ4R3NMZ3lfNlppOUJlTm5fc3VnS2c?oc=5",
-      "source": "콕스뉴스",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "TSMC"
-    },
-    "반도체:GPU": {
-      "title": "HIVE 디지털, 3.5억 달러 규모 GPU 클라우드 서비스 계약 체결 - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QOXNxeVp4S3lSYll1WnlGMTRITjlrejZFZzloS0lQdDJwUkFYM2prT0Q5b1BnMmFhcEViZ0dYUUFmMWVPaE8wbDBFTm1kemhCb3BRRUQxM3MybTRWM2VLbjBYbXZPTXlNMmhxN2h5T2g?oc=5",
-      "source": "Investing.com",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "GPU"
-    },
-    "반도체:반도체": {
-      "title": "반도체 공장만 지어선 사람 못 잡는다…전남광주시 ‘정주도시’ 설계...",
-      "url": "http://www.kwangju.co.kr/article.php?aid=1786963200802359277",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:데이터센터": {
-      "title": "\"375억 보상금 거절\" vs \"제발 사달라\"…데이터센터가 갈라놓은 미 농촌",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=214029",
-      "source": "",
-      "count": 2,
-      "group": "AI인프라",
-      "keyword": "데이터센터"
-    },
-    "에너지:ESS": {
-      "title": "KTL, 액침형 ESS 기능안전 인증 국내 첫 발행 - 경남일보",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neWJJOWRlSnZ4ckt3Y2RSek9pZHFTTXEtekk4ZHNOZm9hVXpBa0RrMDA1N1VyOVYzY1ZyMVBFd0dNX1ZibE9aa2VqWGt5eFA4YmpoVUhZX1doN04xMEl2YXIxT29WMDlEVzFF?oc=5",
-      "source": "경남일보",
-      "count": 2,
-      "group": "에너지",
-      "keyword": "ESS"
-    },
-    "로봇:로봇": {
-      "title": "‘2m 제자리 뛰기로 인간 추월’…中 새로봇 ‘초인’ 공개",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003762&cp=nv",
-      "source": "",
-      "count": 5,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 \"한미연합훈련 대폭 축소 지시…김정은 위원장과 사이 좋다\"",
-      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212962",
-      "source": "",
-      "count": 9,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "금리/환율:연준": {
-      "title": "달러 3개월 최저치, 연준 인상 베팅 축소 영향",
-      "url": "https://www.tokenpost.kr/news/breaking/392065",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "연준"
-    },
-    "증권:코스피": {
-      "title": "코스피 변동성 작년의 2배 이상…“완화 장치 실효성 높여야”",
-      "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260818.22010004616",
-      "source": "",
-      "count": 2,
-      "group": "증권",
-      "keyword": "코스피"
-    },
-    "증권:s&p500": {
-      "title": "‘디시인사이드’ 같은 업체가 ‘S&P500’라고?…주식 투자하려면 이 정도는 돼야 [투자360] - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIeUJ1NG9ILUlScXQ2TlRiTDhCLWFES1VhR0dQTDlpdnpndG93dExFLWF3ZDFrYW43WjRTbHdLYVgwWmFNSWF2Rk9JRGdKMG1mZlVGMjRn?oc=5",
-      "source": "헤럴드경제",
-      "count": 1,
-      "group": "증권",
-      "keyword": "s&p500"
-    },
-    "원자재:구리": {
-      "title": "수은, 구리 안정적 확보 위해 글로벌 자원업체에 10억달러 지원",
-      "url": "https://www.yna.co.kr/view/AKR20260817063500002?input=1195m",
-      "source": "",
-      "count": 1,
-      "group": "원자재",
-      "keyword": "구리"
-    },
-    "주식:M&A": {
-      "title": "디지넥스, 2026회계연도 매출 77% 증가..3건 M&A로 ESG 플랫폼 전환 - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vT2V4d0VDYTNFQkctSDBXZ2lHZkx5SnJicWRkQlQ5Y0ZEN1hqTTI2ZWpvTUxTdjhiVHVqNWZtNkhURm1paXV6cWQwYXA4Wm1Ua2c?oc=5",
-      "source": "매일경제 마켓",
-      "count": 1,
-      "group": "주식",
-      "keyword": "M&A"
-    },
-    "트럼프:백악관": {
-      "title": "英 총리도 낚였다…백악관 비서실장 사칭범에 속아 문자 주고받아",
-      "url": "https://www.donga.com/news/Inter/article/all/20260817/134491036/1",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "백악관"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티: 모던 워페어 4' 파트너십",
-        "url": "http://www.inews24.com/view/1995579",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:메모리": [
-      {
-        "title": "中 헤지펀드, 2분기 美 AI 주식 팔고 '메모리 반도체' 갈아탔다",
-        "url": "https://www.ajunews.com/view/20260817191907977",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "공시로 드러난 거대 자본의 결실…엔비디아·알파벳, 스페이스X 투자로...",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=214028",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:TSMC": [
-      {
-        "title": "2나노 건너뛴 엔비디아 차세대 GPU '파인만', TSMC 1.6나노 공정 쓴다 - 콕스뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55Y29YenEzMWpxcmViSkpCWV92QV9GWm9RRmhLZkFpTXZqY1NGd0ltSlFqdWVPcmVkZXNtRzJDVXJYN05QUkt6clU3QnlZQWljN1RwbGZ4R3NMZ3lfNlppOUJlTm5fc3VnS2c?oc=5",
-        "source": "콕스뉴스",
-        "group": "반도체",
-        "keyword": "TSMC"
-      }
-    ],
-    "반도체:GPU": [
-      {
-        "title": "HIVE 디지털, 3.5억 달러 규모 GPU 클라우드 서비스 계약 체결 - Investing.com 한국어",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QOXNxeVp4S3lSYll1WnlGMTRITjlrejZFZzloS0lQdDJwUkFYM2prT0Q5b1BnMmFhcEViZ0dYUUFmMWVPaE8wbDBFTm1kemhCb3BRRUQxM3MybTRWM2VLbjBYbXZPTXlNMmhxN2h5T2g?oc=5",
-        "source": "Investing.com",
-        "group": "반도체",
-        "keyword": "GPU"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "반도체 공장만 지어선 사람 못 잡는다…전남광주시 ‘정주도시’ 설계...",
-        "url": "http://www.kwangju.co.kr/article.php?aid=1786963200802359277",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:데이터센터": [
-      {
-        "title": "\"375억 보상금 거절\" vs \"제발 사달라\"…데이터센터가 갈라놓은 미 농촌",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=214029",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "데이터센터"
-      },
-      {
-        "title": "플로리다 AI 규제, 정치광고·데이터센터로 쪼갰다",
-        "url": "https://www.tokenpost.kr/news/cryptocurrency/392069",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "데이터센터"
-      }
-    ],
-    "에너지:ESS": [
-      {
-        "title": "KTL, 액침형 ESS 기능안전 인증 국내 첫 발행 - 경남일보",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neWJJOWRlSnZ4ckt3Y2RSek9pZHFTTXEtekk4ZHNOZm9hVXpBa0RrMDA1N1VyOVYzY1ZyMVBFd0dNX1ZibE9aa2VqWGt5eFA4YmpoVUhZX1doN04xMEl2YXIxT29WMDlEVzFF?oc=5",
-        "source": "경남일보",
-        "group": "에너지",
-        "keyword": "ESS"
-      },
-      {
-        "title": "ESS 뜨자…中 텃밭 LFP 양극재, 韓 소재사들이 노린다 - edaily.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTV8tOFZRYklfVmJVZzdzbFZBNjR5aVJxSTFzRDBXaHl1eWgwUDVuNTBteTdGSlhpY3FxRmNiVUp3bWJ6MDltdXZjYjhrdGpvWTRJNWtBR0VEQy1VbEtfWG9uYnNEUlROR0poRlR5ZGpSR1EydGVZWVpXUGZhTE9uaA?oc=5",
-        "source": "edaily.co.kr",
-        "group": "에너지",
-        "keyword": "ESS"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "‘2m 제자리 뛰기로 인간 추월’…中 새로봇 ‘초인’ 공개",
-        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003762&cp=nv",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "40㎏급 고중량 택배 드론과 로봇이 배송",
-        "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1548767",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "“1시간에 202잔 제조”…커피로봇 세계 신기록",
-        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545554",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "유니트리, 신제품 로봇 2m 제자리 뛰기 영상 공개",
-        "url": "https://www.ytn.co.kr/_ln/0104_202608171951211307",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "“30~40대 부장급 중국인 모십니다”…한국이 역수입하고 있다는 中로봇...",
-        "url": "https://www.mk.co.kr/article/12129557",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 \"한미연합훈련 대폭 축소 지시…김정은 위원장과 사이 좋다\"",
-        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212962",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "[아는기자]트럼프 ‘축소’ 지시…한미연합훈련 줄어드나",
-        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545542",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “한국 대통령에 이란 비핵화 물었더니 ‘노 땡큐’”",
-        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545540",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “한미연합훈련 마음에 안 들어…대폭 축소 지시”",
-        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545539",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "김정은과 친분 내세운 트럼프 \"한미연합 군사훈련 대폭 축소\"",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005486",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "김정은에 손 내밀고, 이 대통령엔 공개 불만…트럼프 속내는",
-        "url": "https://news.jtbc.co.kr/article/NB12313705?influxDiv=NAVER",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "\"한미훈련 대폭 축소\" 카드 꺼낸 트럼프…북미 대화 재개 조짐?",
-        "url": "https://news.jtbc.co.kr/article/NB12313692?influxDiv=NAVER",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 '김정은과 투샷' 올리더니…\"한·미훈련 축소하라\"",
-        "url": "https://news.jtbc.co.kr/article/NB12313706?influxDiv=NAVER",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "[사설] 트럼프의 훈련 축소, 한반도 정세·안보 영향 주시해야",
-        "url": "https://www.hani.co.kr/arti/opinion/editorial/1273298.html",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "금리/환율:연준": [
-      {
-        "title": "달러 3개월 최저치, 연준 인상 베팅 축소 영향",
-        "url": "https://www.tokenpost.kr/news/breaking/392065",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "연준"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "코스피 변동성 작년의 2배 이상…“완화 장치 실효성 높여야”",
-        "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260818.22010004616",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      },
-      {
-        "title": "롤러코스피 쓴맛 본 개미들, 코스닥으로 미국장으로",
-        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212963",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ],
-    "증권:s&p500": [
-      {
-        "title": "‘디시인사이드’ 같은 업체가 ‘S&P500’라고?…주식 투자하려면 이 정도는 돼야 [투자360] - 헤럴드경제",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIeUJ1NG9ILUlScXQ2TlRiTDhCLWFES1VhR0dQTDlpdnpndG93dExFLWF3ZDFrYW43WjRTbHdLYVgwWmFNSWF2Rk9JRGdKMG1mZlVGMjRn?oc=5",
-        "source": "헤럴드경제",
-        "group": "증권",
-        "keyword": "s&p500"
-      }
-    ],
-    "원자재:구리": [
-      {
-        "title": "수은, 구리 안정적 확보 위해 글로벌 자원업체에 10억달러 지원",
-        "url": "https://www.yna.co.kr/view/AKR20260817063500002?input=1195m",
-        "source": "",
-        "group": "원자재",
-        "keyword": "구리"
-      }
-    ],
-    "주식:M&A": [
-      {
-        "title": "디지넥스, 2026회계연도 매출 77% 증가..3건 M&A로 ESG 플랫폼 전환 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vT2V4d0VDYTNFQkctSDBXZ2lHZkx5SnJicWRkQlQ5Y0ZEN1hqTTI2ZWpvTUxTdjhiVHVqNWZtNkhURm1paXV6cWQwYXA4Wm1Ua2c?oc=5",
-        "source": "매일경제 마켓",
-        "group": "주식",
-        "keyword": "M&A"
-      }
-    ],
-    "트럼프:백악관": [
-      {
-        "title": "英 총리도 낚였다…백악관 비서실장 사칭범에 속아 문자 주고받아",
-        "url": "https://www.donga.com/news/Inter/article/all/20260817/134491036/1",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-17T11:44:24.641909+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
