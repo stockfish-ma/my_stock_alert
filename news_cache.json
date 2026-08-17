@@ -1,50 +1,5 @@
 {
   "news_seen": {
-    "8d0daf09333d": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "98cd1b3dfe7b": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "0694158f5088": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "a6768d6b9fea": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "3105c6b0f6ea": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "952690620360": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "eeeedc8d81a5": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "b5ca5f286322": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "df4216bcc08a": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "e39ea59531a2": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "2b75d132d11a": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "2b9a6b1f2864": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "6e515528b9f5": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "4a4cbd7e5d8b": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
-    "2988977ee0f7": {
-      "first_seen": "2026-08-16T22:59:57.990925+00:00"
-    },
     "8e969bc4f1bc": {
       "first_seen": "2026-08-16T23:23:03.150767+00:00"
     },
@@ -1724,6 +1679,39 @@
     },
     "1d611fdfc680": {
       "first_seen": "2026-08-17T10:50:55.030552+00:00"
+    },
+    "bddcd2d81b04": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "6fc824c32c4f": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "8842c568d4bd": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "9420f4a6c444": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "ec297b4bea7d": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "b1995dff3ea3": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "77aae30381b5": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "a03aef92291b": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "67095e1bab84": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "befc6e3befc6": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
+    },
+    "625060b0ba2d": {
+      "first_seen": "2026-08-17T11:12:25.735669+00:00"
     }
   },
   "news_counts": {
@@ -2793,13 +2781,14 @@
     "반도체:반도체": 1,
     "AI인프라:데이터센터": 2,
     "에너지:ESS": 2,
-    "로봇:로봇": 1,
-    "트럼프:트럼프": 4,
+    "로봇:로봇": 5,
+    "트럼프:트럼프": 9,
     "금리/환율:연준": 1,
-    "증권:코스피": 1,
+    "증권:코스피": 2,
     "증권:s&p500": 1,
     "원자재:구리": 1,
-    "주식:M&A": 1
+    "주식:M&A": 1,
+    "트럼프:백악관": 1
   },
   "kw_counts_reset": "2026-08-17T01:14:13.328185+00:00",
   "last_top10_sent": "2026-08-17T10:17:28.890853+00:00",
@@ -2872,7 +2861,7 @@
       "title": "‘2m 제자리 뛰기로 인간 추월’…中 새로봇 ‘초인’ 공개",
       "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003762&cp=nv",
       "source": "",
-      "count": 1,
+      "count": 5,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -2880,7 +2869,7 @@
       "title": "트럼프 \"한미연합훈련 대폭 축소 지시…김정은 위원장과 사이 좋다\"",
       "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212962",
       "source": "",
-      "count": 4,
+      "count": 9,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2896,7 +2885,7 @@
       "title": "코스피 변동성 작년의 2배 이상…“완화 장치 실효성 높여야”",
       "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260818.22010004616",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "증권",
       "keyword": "코스피"
     },
@@ -2923,6 +2912,14 @@
       "count": 1,
       "group": "주식",
       "keyword": "M&A"
+    },
+    "트럼프:백악관": {
+      "title": "英 총리도 낚였다…백악관 비서실장 사칭범에 속아 문자 주고받아",
+      "url": "https://www.donga.com/news/Inter/article/all/20260817/134491036/1",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "백악관"
     }
   },
   "kw_article_pool": {
@@ -3019,6 +3016,34 @@
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
+      },
+      {
+        "title": "40㎏급 고중량 택배 드론과 로봇이 배송",
+        "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1548767",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "“1시간에 202잔 제조”…커피로봇 세계 신기록",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545554",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "유니트리, 신제품 로봇 2m 제자리 뛰기 영상 공개",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608171951211307",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "“30~40대 부장급 중국인 모십니다”…한국이 역수입하고 있다는 中로봇...",
+        "url": "https://www.mk.co.kr/article/12129557",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
       }
     ],
     "트럼프:트럼프": [
@@ -3049,6 +3074,41 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "김정은과 친분 내세운 트럼프 \"한미연합 군사훈련 대폭 축소\"",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005486",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "김정은에 손 내밀고, 이 대통령엔 공개 불만…트럼프 속내는",
+        "url": "https://news.jtbc.co.kr/article/NB12313705?influxDiv=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "\"한미훈련 대폭 축소\" 카드 꺼낸 트럼프…북미 대화 재개 조짐?",
+        "url": "https://news.jtbc.co.kr/article/NB12313692?influxDiv=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 '김정은과 투샷' 올리더니…\"한·미훈련 축소하라\"",
+        "url": "https://news.jtbc.co.kr/article/NB12313706?influxDiv=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "[사설] 트럼프의 훈련 축소, 한반도 정세·안보 영향 주시해야",
+        "url": "https://www.hani.co.kr/arti/opinion/editorial/1273298.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "금리/환율:연준": [
@@ -3064,6 +3124,13 @@
       {
         "title": "코스피 변동성 작년의 2배 이상…“완화 장치 실효성 높여야”",
         "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260818.22010004616",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "롤러코스피 쓴맛 본 개미들, 코스닥으로 미국장으로",
+        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212963",
         "source": "",
         "group": "증권",
         "keyword": "코스피"
@@ -3094,6 +3161,15 @@
         "source": "매일경제 마켓",
         "group": "주식",
         "keyword": "M&A"
+      }
+    ],
+    "트럼프:백악관": [
+      {
+        "title": "英 총리도 낚였다…백악관 비서실장 사칭범에 속아 문자 주고받아",
+        "url": "https://www.donga.com/news/Inter/article/all/20260817/134491036/1",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "백악관"
       }
     ]
   }
