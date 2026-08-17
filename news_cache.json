@@ -845,6 +845,93 @@
     },
     "760aec5373aa": {
       "first_seen": "2026-08-17T03:30:55.365557+00:00"
+    },
+    "b0557b148028": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "aa3bd3b0d027": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "f417e913b69d": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "f9c5b3a7bb4a": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "1ea465d5ebb3": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "46bd5002deeb": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "7658ecbe6514": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "129b9c13cfca": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "97c6eb4ed6a0": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "02f8a7eca8d5": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "a2455d1c04fa": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "b30c7aefd412": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "4123986e69d9": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "0a4ecb975d31": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "ba7b973e4860": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "891d3161cf09": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "e992d4d5e248": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "a17ba70565da": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "75bcf3a44976": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "671a363f81c1": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "0e5fdec71aee": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "4997e445c045": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "60ad83a9da66": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "8ee62bdfc216": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "2acabfa07805": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "34878af6433b": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "b447ad2f678f": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "43c65e9a3011": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
+    },
+    "09ae093ad57b": {
+      "first_seen": "2026-08-17T04:21:13.253917+00:00"
     }
   },
   "news_counts": {
@@ -1905,609 +1992,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:SK하이닉스": 1,
-    "반도체:메모리": 1,
-    "반도체:엔비디아": 2,
-    "AI인프라:전력": 1,
-    "AI인프라:데이터센터": 1,
-    "AI인프라:전력망": 1,
-    "에너지:배터리": 2,
-    "에너지:원전": 2,
-    "에너지:태양광": 1,
-    "에너지:SMR": 3,
-    "에너지:LNG": 2,
-    "로봇:휴머노이드": 2,
-    "로봇:로봇": 1,
-    "트럼프:트럼프": 3,
-    "트럼프:관세": 2,
-    "트럼프:백악관": 1,
-    "금리/환율:연준": 1,
-    "증권:리포트": 1,
-    "증권:코스피": 1,
-    "국채금리:국채": 5,
-    "국채금리:채권시장": 1,
-    "원자재:구리": 1,
-    "주식:자사주": 8,
-    "주식:신고가": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-17T01:14:13.328185+00:00",
-  "last_top10_sent": "2026-08-17T02:36:03.032580+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티4' 파트너십…게이밍 경쟁...",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=714132",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:SK하이닉스": {
-      "title": "AI 반도체 호황기에 성과급 갈등 불씨… SK하이닉스, 통합노조 첫 시험...",
-      "url": "https://www.g-enews.com/view.php?ud=20260814110207524139bf6e4b2_1",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:메모리": {
-      "title": "DDR4 3분기 50% 상승 전망, 성숙 메모리 공급 부족",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/391883",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "메모리"
-    },
-    "반도체:엔비디아": {
-      "title": "LG전자 양재 캠퍼스에 엔비디아 젠슨황 장녀 방문 예정, 로보틱스 협력...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444902",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "AI인프라:전력": {
-      "title": "폭염 꺾이자 전력수요 80GW대 안정…휴가 끝나는 이번주 '최대 피크' 전...",
-      "url": "https://www.news1.kr/economy/trend/6260836",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "AI인프라:데이터센터": {
-      "title": "칩플레이션이 불러온 ‘디지털 재활용’… 스마트폰을 데이터센터로",
-      "url": "https://www.chosun.com/economy/tech_it/2026/08/17/JLK4KMYHKNFD5HIGCRT5WRUBTY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "데이터센터"
-    },
-    "AI인프라:전력망": {
-      "title": "\"유럽 전력망 정조준\" HD현대일렉트릭, 420kV 친환경 차단기 독자 개발",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=259012",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력망"
-    },
-    "에너지:배터리": {
-      "title": "휴대폰 충전 중 보조배터리 폭발...제주 다세대주택 화재연기에 '깜짝'",
-      "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597549",
-      "source": "",
-      "count": 2,
-      "group": "에너지",
-      "keyword": "배터리"
-    },
-    "에너지:원전": {
-      "title": "한전기술, 2분기 매출 주춤했지만… 원전 수주가 든든하다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477964",
-      "source": "",
-      "count": 2,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "에너지:태양광": {
-      "title": "한국남동발전, 새만금에 국내 첫 ‘태양광-그린수소-수소발전’ 무탄소...",
-      "url": "http://www.metroseoul.co.kr/article/20260817500140",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "태양광"
-    },
-    "에너지:SMR": {
-      "title": "美 블루·GE히타치 2.5GW 가스·SMR…韓 i-SMR 주목 - 에너지안전신문",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GaWxXNFdJcS1JVDByRmxKV3NxdEhzX3dfLVFTRlY1OTRLRUFwakJLdldKazY0ckhDTGkzbVo1X3hOUEs0TnVWRVNqdFZ1ZnlWX1lCbG9aZFNqS2t3enNCSFN6NXk?oc=5",
-      "source": "에너지안전신문",
-      "count": 3,
-      "group": "에너지",
-      "keyword": "SMR"
-    },
-    "에너지:LNG": {
-      "title": "K조선, 중국에 ‘꿀꺽’ 먹힐라…“뒤집힌 LNG선 수주량” 초비상 [밀리터리+] - 나우뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13QVVKaFlyWEwtVkhyWFdjUHA3N1MtWnJjSE1rVUVYeXNUYzlSa3BYMU1BQ1RmbHozU3NNbmc3VHpFdGJZQkh2N0UxbHE4WndHY3NabHFRQ2E2NDBYbXZ4T3JIMHRCejN1RlFyQWNPX1E?oc=5",
-      "source": "나우뉴스",
-      "count": 2,
-      "group": "에너지",
-      "keyword": "LNG"
-    },
-    "로봇:휴머노이드": {
-      "title": "백화점 선물 넘보는 편의점…금테크부터 휴머노이드까지 담았다",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=316479",
-      "source": "",
-      "count": 2,
-      "group": "로봇",
-      "keyword": "휴머노이드"
-    },
-    "로봇:로봇": {
-      "title": "젠슨 황 딸 매디슨, MOU 닷새만에 LG 로봇 연구 거점 찾는다",
-      "url": "https://www.hankookilbo.com/news/article/A2026081711050005809?did=NA",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프, 한미연합 군사훈련 규모 축소 지시",
-      "url": "https://m.skyedaily.com/news_view.html?ID=309880",
-      "source": "",
-      "count": 3,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:관세": {
-      "title": "미국 추가 관세 예고 속 김정관 방미...투자 이행안 조율",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=540449",
-      "source": "",
-      "count": 2,
-      "group": "트럼프",
-      "keyword": "관세"
-    },
-    "트럼프:백악관": {
-      "title": "미국 법무장관, 백악관 독립성 확약 회피... 논란 지속",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=875274",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "백악관"
-    },
-    "금리/환율:연준": {
-      "title": "버핏·버리 경고 이어졌다…김영익 \"美 증시 과열, 연준 10월 금리 내릴...",
-      "url": "https://www.newsis.com/view/NISX20260817_0003751277",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "연준"
-    },
-    "증권:리포트": {
-      "title": "[바이오사 리포트] 쓰리빌리언, 신생아 전략 1800건 계약으로 구체화",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=671069",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "리포트"
-    },
-    "증권:코스피": {
-      "title": "[주간증시전망] 불확실성 털어낸 코스피, 7000선 ‘정조준’",
-      "url": "https://www.g-enews.com/view.php?ud=202608141535389115923c501012_1",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스피"
-    },
-    "국채금리:국채": {
-      "title": "日 금리 인상 빨라지나…국채 가치 30년 만에 최저",
-      "url": "https://www.dailian.co.kr/news/view/1679046/?sc=Naver",
-      "source": "",
-      "count": 5,
-      "group": "국채금리",
-      "keyword": "국채"
-    },
-    "국채금리:채권시장": {
-      "title": "일본 10년물 금리 2.93%… 30년 만에 최고, 채권시장 '휘청'",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477957",
-      "source": "",
-      "count": 1,
-      "group": "국채금리",
-      "keyword": "채권시장"
-    },
-    "원자재:구리": {
-      "title": "수은, ‘인공지능 시대 핵심자원’ 구리 수입선 확보…10억 달러 투입",
-      "url": "http://www.segyebiz.com/newsView/20260817508168?OutUrl=naver",
-      "source": "",
-      "count": 1,
-      "group": "원자재",
-      "keyword": "구리"
-    },
-    "주식:자사주": {
-      "title": "카카오뱅크, 자사주 27만 주 소각…잔여분은 임직원 보상",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026081712231889847",
-      "source": "",
-      "count": 8,
-      "group": "주식",
-      "keyword": "자사주"
-    },
-    "주식:신고가": {
-      "title": "뉴라이, 1시간 22.12% 올라 시총 신고가",
-      "url": "https://www.tokenpost.kr/news/breaking/391884",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "신고가"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티4' 파트너십…게이밍 경쟁...",
-        "url": "https://www.newstnt.com/news/articleView.html?idxno=714132",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "AI 반도체 호황기에 성과급 갈등 불씨… SK하이닉스, 통합노조 첫 시험...",
-        "url": "https://www.g-enews.com/view.php?ud=20260814110207524139bf6e4b2_1",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:메모리": [
-      {
-        "title": "DDR4 3분기 50% 상승 전망, 성숙 메모리 공급 부족",
-        "url": "https://www.tokenpost.kr/news/cryptocurrency/391883",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "LG전자 양재 캠퍼스에 엔비디아 젠슨황 장녀 방문 예정, 로보틱스 협력...",
-        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444902",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "엔비디아 매디슨황, LG전자 로보틱스 거점 찾는다…휴머노이드 동맹 속...",
-        "url": "https://biz.sbs.co.kr/article_hub/20000329052?division=NAVER",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "폭염 꺾이자 전력수요 80GW대 안정…휴가 끝나는 이번주 '최대 피크' 전...",
-        "url": "https://www.news1.kr/economy/trend/6260836",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "AI인프라:데이터센터": [
-      {
-        "title": "칩플레이션이 불러온 ‘디지털 재활용’… 스마트폰을 데이터센터로",
-        "url": "https://www.chosun.com/economy/tech_it/2026/08/17/JLK4KMYHKNFD5HIGCRT5WRUBTY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "데이터센터"
-      }
-    ],
-    "AI인프라:전력망": [
-      {
-        "title": "\"유럽 전력망 정조준\" HD현대일렉트릭, 420kV 친환경 차단기 독자 개발",
-        "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=259012",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력망"
-      }
-    ],
-    "에너지:배터리": [
-      {
-        "title": "휴대폰 충전 중 보조배터리 폭발...제주 다세대주택 화재연기에 '깜짝'",
-        "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597549",
-        "source": "",
-        "group": "에너지",
-        "keyword": "배터리"
-      },
-      {
-        "title": "배터리 없이 몸속서 발전…손상 여부도 빛으로 알려준다",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01453046645548304",
-        "source": "",
-        "group": "에너지",
-        "keyword": "배터리"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "한전기술, 2분기 매출 주춤했지만… 원전 수주가 든든하다",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477964",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "최태원, 빌게이츠 만나 차세대 원전 사업 논의",
-        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7179280",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "에너지:태양광": [
-      {
-        "title": "한국남동발전, 새만금에 국내 첫 ‘태양광-그린수소-수소발전’ 무탄소...",
-        "url": "http://www.metroseoul.co.kr/article/20260817500140",
-        "source": "",
-        "group": "에너지",
-        "keyword": "태양광"
-      }
-    ],
-    "에너지:SMR": [
-      {
-        "title": "美 블루·GE히타치 2.5GW 가스·SMR…韓 i-SMR 주목 - 에너지안전신문",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GaWxXNFdJcS1JVDByRmxKV3NxdEhzX3dfLVFTRlY1OTRLRUFwakJLdldKazY0ckhDTGkzbVo1X3hOUEs0TnVWRVNqdFZ1ZnlWX1lCbG9aZFNqS2t3enNCSFN6NXk?oc=5",
-        "source": "에너지안전신문",
-        "group": "에너지",
-        "keyword": "SMR"
-      },
-      {
-        "title": "최태원·빌 게이츠 1년새 두차례 회동...SMR 동맹 강화 - 뉴스토마토",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GbzYwTVZTTndlUjZHcGk4S290RlFhalFReU83dm5JWUlkYzFqQ1RQOWNpa2ZwdWVRQmtTTmE5RjNrUmNkdl9fazZxZHF3czFCMVZhRXJST1VZbGRkRXgw?oc=5",
-        "source": "뉴스토마토",
-        "group": "에너지",
-        "keyword": "SMR"
-      },
-      {
-        "title": "SK이노베이션-테라파워, ‘나트륨’ SMR 사업 협력… 글로벌 진출·K-나트륨 모델 구체화 - 퍼블릭뉴스통신",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CSk0xMmJiN3FQQjRkckdhQTVvOVN5YUk4YnE1blMtbW9ZRXlnZU9vc1NiUlpWdWJfakRtUmlMdTlaRkhMQWVrYUFnUFktbFIyYWlZRmpjVzNPQ0dfYko0RktmMG8ya0xtaFlv?oc=5",
-        "source": "퍼블릭뉴스통신",
-        "group": "에너지",
-        "keyword": "SMR"
-      }
-    ],
-    "에너지:LNG": [
-      {
-        "title": "K조선, 중국에 ‘꿀꺽’ 먹힐라…“뒤집힌 LNG선 수주량” 초비상 [밀리터리+] - 나우뉴스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13QVVKaFlyWEwtVkhyWFdjUHA3N1MtWnJjSE1rVUVYeXNUYzlSa3BYMU1BQ1RmbHozU3NNbmc3VHpFdGJZQkh2N0UxbHE4WndHY3NabHFRQ2E2NDBYbXZ4T3JIMHRCejN1RlFyQWNPX1E?oc=5",
-        "source": "나우뉴스",
-        "group": "에너지",
-        "keyword": "LNG"
-      },
-      {
-        "title": "기상악화 속 머리 부상 당한 외국인 LNG운반선 선원 구조 - 뉴스1",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wbkU3N21Hb2hKWldtYUxhbTJUMms1V3pjZmxNSmh1cXUyQklnZTJlWVpqVHpBblNwbVU0azJvSWxwdUc0TFE3MllEeFhXR21COWJJY09EUk9SZGNPUlA00gFkQVVfeXFMTVk4YkFCbkxjblBuanlVTDhKQmp4WUctM1NDTGxmVExINXEzQzl5YV9ubllzclpxNEkzT0ZIdmJDQ3pJd1RaemNPc0R0QXc2dFh4V0g3NnRSZlp2U0ZWMmlPTVFLRw?oc=5",
-        "source": "뉴스1",
-        "group": "에너지",
-        "keyword": "LNG"
-      }
-    ],
-    "로봇:휴머노이드": [
-      {
-        "title": "백화점 선물 넘보는 편의점…금테크부터 휴머노이드까지 담았다",
-        "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=316479",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      },
-      {
-        "title": "협동로봇 넘어 휴머노이드로…국내 로봇업계 투자축 이동",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01423526645548304",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "젠슨 황 딸 매디슨, MOU 닷새만에 LG 로봇 연구 거점 찾는다",
-        "url": "https://www.hankookilbo.com/news/article/A2026081711050005809?did=NA",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프, 한미연합 군사훈련 규모 축소 지시",
-        "url": "https://m.skyedaily.com/news_view.html?ID=309880",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 19일 가상자산 회의서 규제 방향 논의",
-        "url": "https://www.tokenpost.kr/news/policy/391886",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "“트럼프 정부, 이란 정부와 종전 협상 중 혁수대와 비밀 접촉”",
-        "url": "https://www.joongang.co.kr/article/25453856",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:관세": [
-      {
-        "title": "미국 추가 관세 예고 속 김정관 방미...투자 이행안 조율",
-        "url": "https://www.joongangenews.com/news/articleView.html?idxno=540449",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "김정관 장관 대미 투자 프로젝트 최종 조정…관세 문제 해결 돌파구 있...",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=875288",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      }
-    ],
-    "트럼프:백악관": [
-      {
-        "title": "미국 법무장관, 백악관 독립성 확약 회피... 논란 지속",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=875274",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      }
-    ],
-    "금리/환율:연준": [
-      {
-        "title": "버핏·버리 경고 이어졌다…김영익 \"美 증시 과열, 연준 10월 금리 내릴...",
-        "url": "https://www.newsis.com/view/NISX20260817_0003751277",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "연준"
-      }
-    ],
-    "증권:리포트": [
-      {
-        "title": "[바이오사 리포트] 쓰리빌리언, 신생아 전략 1800건 계약으로 구체화",
-        "url": "https://www.bloter.net/news/articleView.html?idxno=671069",
-        "source": "",
-        "group": "증권",
-        "keyword": "리포트"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "[주간증시전망] 불확실성 털어낸 코스피, 7000선 ‘정조준’",
-        "url": "https://www.g-enews.com/view.php?ud=202608141535389115923c501012_1",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ],
-    "국채금리:국채": [
-      {
-        "title": "日 금리 인상 빨라지나…국채 가치 30년 만에 최저",
-        "url": "https://www.dailian.co.kr/news/view/1679046/?sc=Naver",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      },
-      {
-        "title": "월가 스마트 머니, 금리 인하 기대에도 장기 국채를 던진다",
-        "url": "https://www.g-enews.com/view.php?ud=202608171219402505fbbec65dfb_1",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      },
-      {
-        "title": "[속보] 日 10년물 국채금리 한때 2.93%…30년만에 최고치",
-        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608170130&t=NN",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      },
-      {
-        "title": "일본 10년물 국채금리 2.93%…30년만 최고치",
-        "url": "https://biz.sbs.co.kr/article_hub/20000329053?division=NAVER",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      },
-      {
-        "title": "日 10년물 국채금리 한때 2.93%…30년만에 최고치",
-        "url": "https://www.yna.co.kr/view/AKR20260817033000073?input=1195m",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      }
-    ],
-    "국채금리:채권시장": [
-      {
-        "title": "일본 10년물 금리 2.93%… 30년 만에 최고, 채권시장 '휘청'",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477957",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "채권시장"
-      }
-    ],
-    "원자재:구리": [
-      {
-        "title": "수은, ‘인공지능 시대 핵심자원’ 구리 수입선 확보…10억 달러 투입",
-        "url": "http://www.segyebiz.com/newsView/20260817508168?OutUrl=naver",
-        "source": "",
-        "group": "원자재",
-        "keyword": "구리"
-      }
-    ],
-    "주식:자사주": [
-      {
-        "title": "카카오뱅크, 자사주 27만 주 소각…잔여분은 임직원 보상",
-        "url": "https://www.busan.com/view/busan/view.php?code=2026081712231889847",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      },
-      {
-        "title": "카카오뱅크, 자사주 27만주 소각 추진…잔여분은 임직원 보상",
-        "url": "https://www.chosun.com/economy/economy_general/2026/08/17/EJEE6TWQXJFFNF5HN4NESH6PJQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      },
-      {
-        "title": "카카오뱅크, 자사주 27만주 소각-주주가치 제고 나선다",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86989",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      },
-      {
-        "title": "카카오뱅크, 자사주 27만주 소각…주주가치 제고 목적",
-        "url": "https://www.newspim.com/news/view/20260817000068",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      },
-      {
-        "title": "카카오뱅크, 자사주 27만주 소각 추진",
-        "url": "https://biz.sbs.co.kr/article_hub/20000329051?division=NAVER",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      },
-      {
-        "title": "카카오뱅크, 자사주 27만주 소각 추진…\"주주가치 제고\"",
-        "url": "http://www.yonhapnewstv.co.kr/news/AKR20260817114144djw",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      },
-      {
-        "title": "카카오뱅크 주주들 주목…자사주 27만주 소각한다",
-        "url": "https://www.kizmom.com/news/articleView.html?idxno=112139",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      },
-      {
-        "title": "카카오뱅크, 자사주 27만 주 소각 추진",
-        "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662555",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      }
-    ],
-    "주식:신고가": [
-      {
-        "title": "뉴라이, 1시간 22.12% 올라 시총 신고가",
-        "url": "https://www.tokenpost.kr/news/breaking/391884",
-        "source": "",
-        "group": "주식",
-        "keyword": "신고가"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-17T04:21:16.368102+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
