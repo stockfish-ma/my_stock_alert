@@ -1,59 +1,5 @@
 {
   "news_seen": {
-    "2c58f83c5dcd": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "abd43711cae6": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "97b794a3af91": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "b0a3883fe82d": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "cf6c1ce1d00a": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "0cf59ca5f119": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "5da132450d61": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "1cd1a0122545": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "7cb6932a7c13": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "58a93ba07ade": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "dc1db7899755": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "ce51676ff98e": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "02050a093d0c": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "f9ed1d60ddea": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "fa2e0cf359c3": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "be4754f8aafd": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "8b62deaaf4ec": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
-    "e16b5bd3c57a": {
-      "first_seen": "2026-08-16T23:59:02.026025+00:00"
-    },
     "9983b5d54dee": {
       "first_seen": "2026-08-17T01:15:21.919844+00:00"
     },
@@ -1643,6 +1589,39 @@
     },
     "0e826525c594": {
       "first_seen": "2026-08-17T11:44:23.078872+00:00"
+    },
+    "4c27f60a9581": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "284b61a750ad": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "e8d0c585ed6f": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "943a1e51d5f0": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "bb103382be9a": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "0a3505c7301c": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "dd57431bd2ba": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "3beb2a0d4c3a": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "d1054f89fdf9": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "0c11760b2bcf": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
+    },
+    "e8d1300d5b0d": {
+      "first_seen": "2026-08-17T12:02:13.372477+00:00"
     }
   },
   "news_counts": {
@@ -2703,9 +2682,177 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:SK하이닉스": 1,
+    "반도체:엔비디아": 1,
+    "에너지:배터리": 1,
+    "에너지:LNG": 1,
+    "로봇:로봇": 1,
+    "트럼프:트럼프": 2,
+    "트럼프:관세": 2,
+    "원자재:구리": 2
+  },
   "kw_counts_reset": "2026-08-17T01:14:13.328185+00:00",
   "last_top10_sent": "2026-08-17T11:44:24.641909+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스 ADR 3.97% 올라 170달러 회복",
+      "url": "https://www.tokenpost.kr/news/market/392111",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:엔비디아": {
+      "title": "[월드 e-브리핑] 엔비디아, 스페이스X 지분 보유…'순환거래' 우려",
+      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534298",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "에너지:배터리": {
+      "title": "고려아연 자회사 케이잼, 배터리 핵심 '동박' 첫 공급",
+      "url": "http://web.ubc.co.kr/wp/archives/129439",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "에너지:LNG": {
+      "title": "미 “관세 인상” 압박에도…정부, 텍사스 LNG 발전소 막판 고심 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYThJVHExUDk1TXNMSmVyYUNWWXRSa3ZBSDFWMmszNWpqZURKMGJrQk9JeUNmUEZrX0ZXZ1pzbVRWRW5ISHZPWjQzQ1FyRUVodkRIbTdyNE1VZ9IBX0FVX3lxTE90MWZGa0JSY1BtcGFIdFlSSDR2TnN3VXU4c2VhSS1YUUlpNjdqTDdNTGJzNlpxNjJqcG5PcG5QR0FaMldaaXR5NlU2N01vS1JwSVpSNmVyT3BsMWtET3Fj?oc=5",
+      "source": "경향신문",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "LNG"
+    },
+    "로봇:로봇": {
+      "title": "(R)\"폭염에 대청호 녹조 비상\"..자율 로봇까지 투입",
+      "url": "https://www.tjb.co.kr/news05/bodo/view/id/102496",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프 ‘북-미 대화 원해’ 명확한 신호…김정은 호응할지 촉각",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1273304.html",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "미 “관세 인상” 압박에도…정부, 텍사스 LNG 발전소 막판 고심",
+      "url": "https://www.khan.co.kr/article/202608172052015",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "원자재:구리": {
+      "title": "수출입은행, 글렌코어 10억 달러 투입…구리 수입선 확보",
+      "url": "https://www.newsis.com/view/NISX20260817_0003751672",
+      "source": "",
+      "count": 2,
+      "group": "원자재",
+      "keyword": "구리"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스 ADR 3.97% 올라 170달러 회복",
+        "url": "https://www.tokenpost.kr/news/market/392111",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "[월드 e-브리핑] 엔비디아, 스페이스X 지분 보유…'순환거래' 우려",
+        "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534298",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "고려아연 자회사 케이잼, 배터리 핵심 '동박' 첫 공급",
+        "url": "http://web.ubc.co.kr/wp/archives/129439",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "에너지:LNG": [
+      {
+        "title": "미 “관세 인상” 압박에도…정부, 텍사스 LNG 발전소 막판 고심 - 경향신문",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYThJVHExUDk1TXNMSmVyYUNWWXRSa3ZBSDFWMmszNWpqZURKMGJrQk9JeUNmUEZrX0ZXZ1pzbVRWRW5ISHZPWjQzQ1FyRUVodkRIbTdyNE1VZ9IBX0FVX3lxTE90MWZGa0JSY1BtcGFIdFlSSDR2TnN3VXU4c2VhSS1YUUlpNjdqTDdNTGJzNlpxNjJqcG5PcG5QR0FaMldaaXR5NlU2N01vS1JwSVpSNmVyT3BsMWtET3Fj?oc=5",
+        "source": "경향신문",
+        "group": "에너지",
+        "keyword": "LNG"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "(R)\"폭염에 대청호 녹조 비상\"..자율 로봇까지 투입",
+        "url": "https://www.tjb.co.kr/news05/bodo/view/id/102496",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프 ‘북-미 대화 원해’ 명확한 신호…김정은 호응할지 촉각",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1273304.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"한미훈련 축소\" SNS에…靑 \"북미대화 논의 개시 기대\"",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/17/2026081790162.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "미 “관세 인상” 압박에도…정부, 텍사스 LNG 발전소 막판 고심",
+        "url": "https://www.khan.co.kr/article/202608172052015",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "유럽보다 5천만 원 싸다?‥'낮은 관세' 파고든 중국 전기차 저가 공습",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845312_37004.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "원자재:구리": [
+      {
+        "title": "수출입은행, 글렌코어 10억 달러 투입…구리 수입선 확보",
+        "url": "https://www.newsis.com/view/NISX20260817_0003751672",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
+      },
+      {
+        "title": "수출입은행 글로벌 원자재기업에 10억불 지원…‘구리’ 안정적 공급",
+        "url": "https://www.inthenews.co.kr/news/article.html?no=90563",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
+      }
+    ]
+  }
 }
