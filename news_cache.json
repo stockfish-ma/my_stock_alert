@@ -1,29 +1,5 @@
 {
   "news_seen": {
-    "3309b00debd4": {
-      "first_seen": "2026-08-16T12:25:41.684915+00:00"
-    },
-    "9abb78a7e68d": {
-      "first_seen": "2026-08-16T12:25:41.684915+00:00"
-    },
-    "5c48d411dd75": {
-      "first_seen": "2026-08-16T12:25:41.684915+00:00"
-    },
-    "c2d16d65de92": {
-      "first_seen": "2026-08-16T12:25:41.684915+00:00"
-    },
-    "39d49cac31e6": {
-      "first_seen": "2026-08-16T12:25:41.684915+00:00"
-    },
-    "3a7bc3db4d96": {
-      "first_seen": "2026-08-16T12:25:41.684915+00:00"
-    },
-    "e936963bbf8c": {
-      "first_seen": "2026-08-16T12:25:41.684915+00:00"
-    },
-    "6859e557130e": {
-      "first_seen": "2026-08-16T12:25:41.684915+00:00"
-    },
     "f8f277990c5a": {
       "first_seen": "2026-08-16T22:20:34.982236+00:00"
     },
@@ -425,6 +401,165 @@
     },
     "e16b5bd3c57a": {
       "first_seen": "2026-08-16T23:59:02.026025+00:00"
+    },
+    "9983b5d54dee": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "98f8cc04c901": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "c7e221a71adf": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "5ea7e14851e1": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "b88d1c816882": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "6eab9ee4be24": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "bb24be716e01": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "443e50332259": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "c408787f3577": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "63c038cea8bd": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "d0242aef9df0": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "542d8198a4e6": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "e555e0c1346a": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "c7ed1ef1180a": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "8c3f8a8daab5": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "b4883f9afeb9": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "2e8d7c1b2e00": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "7eedd3391a70": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "d24c7e1b4acd": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "02f99f6f2c38": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "7225df22fceb": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "54e07bdb0bcd": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "05a63eebfd21": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "e84d6e25018c": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "1e4f2041b153": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "ed257af45e13": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "bfcdbc5ca6df": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "3e60fa30d308": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "1de0c7ae96b2": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "0ed6f6dd19e7": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "2de3b3cbcf5c": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "45e5b3fe06f2": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "67c86c855055": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "1b37adbad90a": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "b8b3e27d28df": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "1559850a1db1": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "d707e4fefb64": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "19b9525fdca7": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "26c515238143": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "4acea5688d84": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "640585231ebb": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "9c44a80d26c2": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "f3bd4bdbffdc": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "d0e0408f495b": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "02f13d89192d": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "d0a84fc99e7a": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "f40b449a3c3e": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "3df77cd38d3e": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "33d697f1f42a": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "2167d74d0da1": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "0dcd41463408": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "e95da715764b": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
+    },
+    "b05cc4650e7d": {
+      "first_seen": "2026-08-17T01:15:21.919844+00:00"
     }
   },
   "news_counts": {
@@ -1485,411 +1620,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 8,
-    "에너지:원전": 1,
-    "로봇:로봇": 2,
-    "트럼프:트럼프": 11,
-    "트럼프:관세": 2,
-    "금리/환율:연준": 1,
-    "주식:수주": 1,
-    "주식:배당": 1,
-    "반도체:SK하이닉스": 1,
-    "반도체:엔비디아": 2,
-    "AI인프라:전력": 2,
-    "에너지:LNG": 1,
-    "로봇:휴머노이드": 1,
-    "트럼프:백악관": 1
-  },
-  "kw_counts_reset": "2026-08-16T12:24:28.443477+00:00",
-  "last_top10_sent": "2026-08-16T23:23:04.967235+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "삼성전자 모니터로 '콜 오브 듀티' 신작 생생하게 즐긴다",
-      "url": "https://www.yna.co.kr/view/AKR20260817017300003?input=1195m",
-      "source": "",
-      "count": 8,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "에너지:원전": {
-      "title": "한전KPS, 2분기 실적은 잊어라…원전·LNG가 다시 뛴다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477900",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "로봇:로봇": {
-      "title": "비에이치, PCB 넘어 로봇으로…삼성과 손잡고 새 시장 노린다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477899",
-      "source": "",
-      "count": 2,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 “한·미 연합훈련 대폭 축소 지시”",
-      "url": "https://www.segye.com/newsView/20260817504931?OutUrl=naver",
-      "source": "",
-      "count": 11,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:관세": {
-      "title": "9월 방미 앞둔 李, 대미투자 '막판 숙제'…15% 관세선 사수 시험대",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01161126645548304",
-      "source": "",
-      "count": 2,
-      "group": "트럼프",
-      "keyword": "관세"
-    },
-    "금리/환율:연준": {
-      "title": "실적이 끄는 증시…연준·중동 변수 촉각 [뉴욕인사이트]",
-      "url": "https://www.etoday.co.kr/news/view/2615075",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "연준"
-    },
-    "주식:수주": {
-      "title": "태광, 캐나다 LNG 사업 수주…“역대 최고 실적”",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638510&ref=A",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "수주"
-    },
-    "주식:배당": {
-      "title": "서울보증보험, 분기배당 430원 첫발…주주환원 강화",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=671078",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "배당"
-    },
-    "반도체:SK하이닉스": {
-      "title": "'77kg→68kg' 랄랄, SK하이닉스 41% 폭락 속 \"살 확 빠졌다\"",
-      "url": "https://www.mydaily.co.kr/page/view/2026081708544045439",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:엔비디아": {
-      "title": "구광모-젠슨 황 손잡고 AI 승부수…'One LG'에 엔비디아 더한다",
-      "url": "https://www.mt.co.kr/industry/2026/08/17/2026081417232298614",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "AI인프라:전력": {
-      "title": "최태원·빌 게이츠, 1년 새 두 차례 회동… SMR 등 'AI 전력' 전략적 동맹...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720596",
-      "source": "",
-      "count": 2,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "에너지:LNG": {
-      "title": "한전KPS, 2분기 실적은 잊어라…원전·LNG가 다시 뛴다 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93VDFCU0hzb3kwbkxCQWRPZDN3Qm9qVWtSd2Y2aWNER1M2NUFCSUhnMkQ0SmloY0lUSUI5WXZRODA5T0NwQ0xtUlpocE01bmRvb2FQT0FFQWdRWll6Sm9yT2tfR0E5ekFQTDFtTURDN2RhaXPSAXdBVV95cUxPanlHNmpuTk8yUFlWWFJDdm1BalFvTXRyc3Vqcm9CVFRhWlY3NWtNNlBDSG9NbEhLTE9CU3hjZThtcmMyNVZsUWdSZ1JzWkl2R01sMUJ3UzNyakc3ZmxyaGZMN3hodWF4dFJTYTZMTjJZLU81V2czNA?oc=5",
-      "source": "핀포인트뉴스",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "LNG"
-    },
-    "로봇:휴머노이드": {
-      "title": "젠슨 황 장녀, LG전자 로봇 데이터팩토리 방문…휴머노이드 개발 속도전",
-      "url": "https://www.etoday.co.kr/news/view/2615080",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "휴머노이드"
-    },
-    "트럼프:백악관": {
-      "title": "美법무장관 \"백악관서 독립 약속 못해…업무수행과 별개 문제\"",
-      "url": "https://www.yna.co.kr/view/AKR20260817020300009?input=1195m",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "백악관"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "삼성전자 모니터로 '콜 오브 듀티' 신작 생생하게 즐긴다",
-        "url": "https://www.yna.co.kr/view/AKR20260817017300003?input=1195m",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자, 블리자드와 손잡고 게이밍 생태계 공략",
-        "url": "https://www.asiatime.co.kr/article/20260817500004",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자, 액티비전 블리자드와 맞손…'콜 오브 듀티' 신작 최적화",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477893",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자, 액티비전 블리자드와 손잡았다…‘콜 오브 듀티’ 신작 최적...",
-        "url": "https://www.etoday.co.kr/news/view/2615073",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자, 액티비전과 파트너십…'콜 오브 듀티 4' 최적화 기술 적용",
-        "url": "https://www.newsis.com/view/NISX20260817_0003751207",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자, '콜 오브 듀티' 신작 개발부터 협업…게이밍 시장 공략",
-        "url": "http://www.4th.kr/news/articleView.html?idxno=2116446",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자와 '콜 오브 듀티' 만났다…한국 배경 '모던 워페어 4' 나온다",
-        "url": "https://www.kizmom.com/news/articleView.html?idxno=112131",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자, 액티비전 블리자드와 '콜 오브 듀티: 모던 워페어 4' 파트너십",
-        "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442917",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "한전KPS, 2분기 실적은 잊어라…원전·LNG가 다시 뛴다",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477900",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "비에이치, PCB 넘어 로봇으로…삼성과 손잡고 새 시장 노린다",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477899",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "해남군 지역아동센터 아동, 국제 AI·로봇대회서 은·동상 쾌거",
-        "url": "http://www.breaknews.com/1229336",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 “한·미 연합훈련 대폭 축소 지시”",
-        "url": "https://www.segye.com/newsView/20260817504931?OutUrl=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 한미연합훈련 축소 지시…\"김정은과 좋은 관계\"",
-        "url": "https://www.nocutnews.co.kr/news/6563656?utm_source=naver&utm_medium=article&utm_campaign=20260817083503",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"한미연합훈련 대폭 축소 지시…김정은과 매우 좋은 관계\"",
-        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7179273",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “이란 전쟁 ‘노 땡스’한 한국과 연합훈련 대폭 축소…나와 김...",
-        "url": "https://weekly.khan.co.kr/article/202608170831001",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "한미연합훈련 첫날 트럼프 대폭 축소 지시… 한국에 방위비·이란 비핵...",
-        "url": "https://www.g-enews.com/view.php?ud=202608170759029464e207547429_1",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "美 트럼프 \"호르무즈 해협을 미국 영토로 선언하겠다\" [중동전쟁]",
-        "url": "http://www.kdfnews.com/news/articleView.html?idxno=186635",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 한미연합훈련 대폭 축소 지시…\"한국, 이란 비핵화 참여 요청 ...",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390680",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"한미연합훈련 대폭 축소 지시…나와 김정은 매우 좋은 관계\"",
-        "url": "https://www.m-i.kr/news/articleView.html?idxno=1402854",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 행정부, 지난 5월 혁명수비대 사령관과 비밀 접촉 시도",
-        "url": "https://www.hani.co.kr/arti/international/international_general/1273191.html",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "김정은에 '구애' 트럼프, \"한미 연합 군사훈련 대폭 축소하라고 지시\".....",
-        "url": "https://www.hankyung.com/article/202608174629i",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"김정은과 좋은 관계\"…연합훈련 축소 지시 파장",
-        "url": "https://www.sidae.com/article/2026081708294937785",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:관세": [
-      {
-        "title": "9월 방미 앞둔 李, 대미투자 '막판 숙제'…15% 관세선 사수 시험대",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01161126645548304",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "美 50% 관세 나흘 앞인데…캐나다 “무역합의 아직 멀었다”",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01170966645548304",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      }
-    ],
-    "금리/환율:연준": [
-      {
-        "title": "실적이 끄는 증시…연준·중동 변수 촉각 [뉴욕인사이트]",
-        "url": "https://www.etoday.co.kr/news/view/2615075",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "연준"
-      }
-    ],
-    "주식:수주": [
-      {
-        "title": "태광, 캐나다 LNG 사업 수주…“역대 최고 실적”",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638510&ref=A",
-        "source": "",
-        "group": "주식",
-        "keyword": "수주"
-      }
-    ],
-    "주식:배당": [
-      {
-        "title": "서울보증보험, 분기배당 430원 첫발…주주환원 강화",
-        "url": "https://www.bloter.net/news/articleView.html?idxno=671078",
-        "source": "",
-        "group": "주식",
-        "keyword": "배당"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "'77kg→68kg' 랄랄, SK하이닉스 41% 폭락 속 \"살 확 빠졌다\"",
-        "url": "https://www.mydaily.co.kr/page/view/2026081708544045439",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "구광모-젠슨 황 손잡고 AI 승부수…'One LG'에 엔비디아 더한다",
-        "url": "https://www.mt.co.kr/industry/2026/08/17/2026081417232298614",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "[김대호 인물] 엔비디아 젠슨황... 존경받는 CEO 1위 \"매맞던 소년 '",
-        "url": "https://www.g-enews.com/view.php?ud=202608130825172915906806b77b_1",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "최태원·빌 게이츠, 1년 새 두 차례 회동… SMR 등 'AI 전력' 전략적 동맹...",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720596",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      },
-      {
-        "title": "韓총리, 경남 거제 집중호우에 \"고립주민 등 구조에 전력\"",
-        "url": "https://www.yna.co.kr/view/AKR20260817019200001?input=1195m",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "에너지:LNG": [
-      {
-        "title": "한전KPS, 2분기 실적은 잊어라…원전·LNG가 다시 뛴다 - 핀포인트뉴스",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93VDFCU0hzb3kwbkxCQWRPZDN3Qm9qVWtSd2Y2aWNER1M2NUFCSUhnMkQ0SmloY0lUSUI5WXZRODA5T0NwQ0xtUlpocE01bmRvb2FQT0FFQWdRWll6Sm9yT2tfR0E5ekFQTDFtTURDN2RhaXPSAXdBVV95cUxPanlHNmpuTk8yUFlWWFJDdm1BalFvTXRyc3Vqcm9CVFRhWlY3NWtNNlBDSG9NbEhLTE9CU3hjZThtcmMyNVZsUWdSZ1JzWkl2R01sMUJ3UzNyakc3ZmxyaGZMN3hodWF4dFJTYTZMTjJZLU81V2czNA?oc=5",
-        "source": "핀포인트뉴스",
-        "group": "에너지",
-        "keyword": "LNG"
-      }
-    ],
-    "로봇:휴머노이드": [
-      {
-        "title": "젠슨 황 장녀, LG전자 로봇 데이터팩토리 방문…휴머노이드 개발 속도전",
-        "url": "https://www.etoday.co.kr/news/view/2615080",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      }
-    ],
-    "트럼프:백악관": [
-      {
-        "title": "美법무장관 \"백악관서 독립 약속 못해…업무수행과 별개 문제\"",
-        "url": "https://www.yna.co.kr/view/AKR20260817020300009?input=1195m",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      }
-    ]
-  }
+  "kw_counts": {},
+  "kw_counts_reset": "2026-08-17T01:14:13.328185+00:00",
+  "last_top10_sent": "2026-08-17T01:15:24.981554+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
