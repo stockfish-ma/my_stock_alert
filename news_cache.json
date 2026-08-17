@@ -1226,6 +1226,117 @@
     },
     "c39f85f5cfd2": {
       "first_seen": "2026-08-17T05:46:22.914584+00:00"
+    },
+    "163383f17347": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "dc50bfb417f9": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "edf26dfb9f85": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "d40e70f91647": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "4fd9f832ea40": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "fff9af5ac03e": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "16783b7f8712": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "5567647d4e5f": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "a5dba2be7b9c": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "f2401c193e4a": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "6a19689e1e4b": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "aa4d20f142f1": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "ac05d5a218c2": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "fa5524326191": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "df2ad080ac7b": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "de7dd6dbe5a0": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "6d1c78291975": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "590e9bf47012": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "022889042f24": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "d9df89b56953": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "d2fcf42e2c81": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "faa7de54ac49": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "bb5d67fd590d": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "98bd654d98bd": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "1519a803993c": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "2a7629f0c186": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "3ad306a0c228": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "0a8e30dc0796": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "b3b82f905d92": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "acd41c1d2ecf": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "861a2539f130": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "9dbc11b3a78b": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "8b174e1e3815": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "e9d8e9ed7786": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "b9c2c3299e52": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "95dc6f483c57": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
+    },
+    "a139bf93972f": {
+      "first_seen": "2026-08-17T06:22:23.076549+00:00"
     }
   },
   "news_counts": {
@@ -2286,9 +2397,480 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 4,
+    "반도체:엔비디아": 1,
+    "반도체:냉각": 1,
+    "AI인프라:전력": 1,
+    "AI인프라:데이터센터": 2,
+    "AI인프라:전력반도체": 1,
+    "에너지:태양광": 1,
+    "에너지:풍력": 1,
+    "로봇:휴머노이드": 1,
+    "로봇:자율주행": 1,
+    "로봇:로봇": 3,
+    "트럼프:트럼프": 7,
+    "트럼프:관세": 4,
+    "금리/환율:금리인상": 1,
+    "증권:코스피": 1,
+    "원자재:구리": 1,
+    "주식:수주": 2,
+    "주식:배당": 1,
+    "주식:자사주": 3
+  },
   "kw_counts_reset": "2026-08-17T01:14:13.328185+00:00",
   "last_top10_sent": "2026-08-17T05:46:26.209397+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "삼성전자·SK하이닉스 '현금 곳간' 두둑…반년 새 117조 늘었다",
+      "url": "https://www.namdonews.com/news/articleView.html?idxno=920173",
+      "source": "",
+      "count": 4,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아 ‘베라 루빈’이 낸드도 끌어올렸다…가격 3주만에 11.6%↑",
+      "url": "https://www.dt.co.kr/article/12078535?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:냉각": {
+      "title": "성빈센트병원, 암 환자 탈모 예방 돕는 ‘PAXMAN 두피냉각시스템’ 도입",
+      "url": "https://www.kgnews.co.kr/news/article.html?no=907929",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "냉각"
+    },
+    "AI인프라:전력": {
+      "title": "전반기 선두 경쟁 꿈 같네…후반기 최하위 LG, 사실 6~7위 전력인데 잘 ...",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002240",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "AI인프라:데이터센터": {
+      "title": "美데이터센터 60곳 가동 시, ‘석탄발전 27기급’ 탄소 배출",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003686&cp=nv",
+      "source": "",
+      "count": 2,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "AI인프라:전력반도체": {
+      "title": "KEC, 임단협 16년 연속 무파업 타결…전력반도체 투자 확대",
+      "url": "https://www.idaegu.com/news/articleView.html?idxno=665057",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력반도체"
+    },
+    "에너지:태양광": {
+      "title": "[기획] 태양광의 다음 전쟁터는 '지붕'…정부, 건물태양광 규제 손질",
+      "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16397",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "에너지:풍력": {
+      "title": "\"트럼프 악재에도 美공장 풀가동\" 세계 1위 韓 풍력 기업 근황[기후로운...",
+      "url": "https://www.nocutnews.co.kr/news/6563734?utm_source=naver&utm_medium=article&utm_campaign=20260817025007",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "풍력"
+    },
+    "로봇:휴머노이드": {
+      "title": "2m 점프 유니트리 휴머노이드 성능 영상 공개",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/391958",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "로봇:자율주행": {
+      "title": "충주 탄금공원 누비는 자율주행 셔틀",
+      "url": "https://www.inews365.com/news/article.html?no=931912",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "자율주행"
+    },
+    "로봇:로봇": {
+      "title": "편의점 추석선물도 취향따라…로봇·호텔 디저트·한우까지",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116465",
+      "source": "",
+      "count": 3,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "美유권자 과반 “트럼프 재집권 후 형편 더 나빠져”",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01656406645548304",
+      "source": "",
+      "count": 7,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "美 추가관세 우려 속 김정관 방미⋯\"대미투자 막판 협상 총력\"",
+      "url": "http://www.inews24.com/view/1995537",
+      "source": "",
+      "count": 4,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "금리/환율:금리인상": {
+      "title": "연준보다 무서운 ‘글로벌 긴축’…한국 금리인상 전망 1위",
+      "url": "https://www.etoday.co.kr/news/view/2615143",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "금리인상"
+    },
+    "증권:코스피": {
+      "title": "[코스피 주간 동향] 금호전기 한주간 105% 급등...호남 반도체 클러스터...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=540458",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "원자재:구리": {
+      "title": "구리도시공사, 디지털 기반 버스정보 서비스 도입…시민 편의·탄소중립...",
+      "url": "http://www.breaknews.com/1229362",
+      "source": "",
+      "count": 1,
+      "group": "원자재",
+      "keyword": "구리"
+    },
+    "주식:수주": {
+      "title": "대우건설, 목동 8단지 재건축 수주 본격 나선다",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141058077760092",
+      "source": "",
+      "count": 2,
+      "group": "주식",
+      "keyword": "수주"
+    },
+    "주식:배당": {
+      "title": "두나무, 상반기 영업익 80% ‘급감’…송치형 회장 보수 39억·배당금 51...",
+      "url": "https://www.sportsseoul.com/news/read/1629005?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
+    },
+    "주식:자사주": {
+      "title": "카카오뱅크, 자사주 27만주 소각 추진...주주환원 강화",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=225208",
+      "source": "",
+      "count": 3,
+      "group": "주식",
+      "keyword": "자사주"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "삼성전자·SK하이닉스 '현금 곳간' 두둑…반년 새 117조 늘었다",
+        "url": "https://www.namdonews.com/news/articleView.html?idxno=920173",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "대구신세계, 삼성전자 감사제…가전 구매 혜택 확대",
+        "url": "https://www.kbmaeil.com/article/20260817500323",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자, 블리자드와 '오디세이' 최적화 '콜 오브 듀티: 모던 워페어 4...",
+        "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206629",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자 노조의 ‘호남 반도체 제동’ 후폭풍…흔들리는 노정관계",
+        "url": "https://www.khan.co.kr/article/202608171500001",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아 ‘베라 루빈’이 낸드도 끌어올렸다…가격 3주만에 11.6%↑",
+        "url": "https://www.dt.co.kr/article/12078535?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:냉각": [
+      {
+        "title": "성빈센트병원, 암 환자 탈모 예방 돕는 ‘PAXMAN 두피냉각시스템’ 도입",
+        "url": "https://www.kgnews.co.kr/news/article.html?no=907929",
+        "source": "",
+        "group": "반도체",
+        "keyword": "냉각"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "전반기 선두 경쟁 꿈 같네…후반기 최하위 LG, 사실 6~7위 전력인데 잘 ...",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002240",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "美데이터센터 60곳 가동 시, ‘석탄발전 27기급’ 탄소 배출",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003686&cp=nv",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      },
+      {
+        "title": "최태원·빌 게이츠 ‘SMR 밀월’…AI 데이터센터 전력시장 정조준",
+        "url": "https://www.busan.com/view/busan/view.php?code=2026081712185769325",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "AI인프라:전력반도체": [
+      {
+        "title": "KEC, 임단협 16년 연속 무파업 타결…전력반도체 투자 확대",
+        "url": "https://www.idaegu.com/news/articleView.html?idxno=665057",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력반도체"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "[기획] 태양광의 다음 전쟁터는 '지붕'…정부, 건물태양광 규제 손질",
+        "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16397",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "에너지:풍력": [
+      {
+        "title": "\"트럼프 악재에도 美공장 풀가동\" 세계 1위 韓 풍력 기업 근황[기후로운...",
+        "url": "https://www.nocutnews.co.kr/news/6563734?utm_source=naver&utm_medium=article&utm_campaign=20260817025007",
+        "source": "",
+        "group": "에너지",
+        "keyword": "풍력"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "2m 점프 유니트리 휴머노이드 성능 영상 공개",
+        "url": "https://www.tokenpost.kr/news/cryptocurrency/391958",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "로봇:자율주행": [
+      {
+        "title": "충주 탄금공원 누비는 자율주행 셔틀",
+        "url": "https://www.inews365.com/news/article.html?no=931912",
+        "source": "",
+        "group": "로봇",
+        "keyword": "자율주행"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "편의점 추석선물도 취향따라…로봇·호텔 디저트·한우까지",
+        "url": "http://www.4th.kr/news/articleView.html?idxno=2116465",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "올 추석 선물로 로봇을?…편의점 '이색·프리미엄' 승부",
+        "url": "https://www.joongboo.com/news/articleView.html?idxno=363734006",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "\"지역 차부품기업, 로봇 분야로 전환\"…경산시, 국비 확보 총력",
+        "url": "https://www.dkilbo.com/news/articleView.html?idxno=551462",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "美유권자 과반 “트럼프 재집권 후 형편 더 나빠져”",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01656406645548304",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "靑 \"트럼프 '한미훈련 축소 '메시지 주목…한반도 평화 논의 기대\"",
+        "url": "https://www.news1.kr/politics/president/6260941",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "청와대, 트럼프 ‘한미훈련 축소’ 지시에…“구체사항 공조할 것”",
+        "url": "https://www.kyeonggi.com/article/20260817580176",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "靑, 트럼프 '한미훈련 대폭 축소' 지시에 \"긴밀 조율…북미대화 개시 기...",
+        "url": "https://www.dailian.co.kr/news/view/1679081/?sc=Naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "野, 트럼프 '한미훈련 축소' 지시에 \"이재명 자초 외교참사\"",
+        "url": "https://www.news1.kr/politics/assembly/6260947",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "한미 연합훈련 개시일에 딱...트럼프 폭탄 발언 이유 [자막뉴스]",
+        "url": "https://www.ytn.co.kr/_ln/0134_202608171516110366",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "국힘, 트럼프 한미훈련 축소 지시에 \"이 대통령 자초한 외교 참사\"",
+        "url": "https://www.hankookilbo.com/news/article/A2026081714540000088?did=NA",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "美 추가관세 우려 속 김정관 방미⋯\"대미투자 막판 협상 총력\"",
+        "url": "http://www.inews24.com/view/1995537",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "“8말 9초 ‘데드라인’은 유효… 더 지연되면 加처럼 보복관세 우려”",
+        "url": "https://www.sedaily.com/article/20080037?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "[아주사설 | 기본 원칙 상식] 美 관세 파고 거센데 통상 사령탑 공백…...",
+        "url": "https://www.ajunews.com/view/20260817101006130",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "日 철강 관세장벽 높인다…철강업계 수출 부담",
+        "url": "https://www.dkilbo.com/news/articleView.html?idxno=551454",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "금리/환율:금리인상": [
+      {
+        "title": "연준보다 무서운 ‘글로벌 긴축’…한국 금리인상 전망 1위",
+        "url": "https://www.etoday.co.kr/news/view/2615143",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "금리인상"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "[코스피 주간 동향] 금호전기 한주간 105% 급등...호남 반도체 클러스터...",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=540458",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "원자재:구리": [
+      {
+        "title": "구리도시공사, 디지털 기반 버스정보 서비스 도입…시민 편의·탄소중립...",
+        "url": "http://www.breaknews.com/1229362",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "대우건설, 목동 8단지 재건축 수주 본격 나선다",
+        "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141058077760092",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      },
+      {
+        "title": "효성중공업, 주가는 주춤해도 실적·수주는 전진…미국 전력시장 정조준",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478001",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "두나무, 상반기 영업익 80% ‘급감’…송치형 회장 보수 39억·배당금 51...",
+        "url": "https://www.sportsseoul.com/news/read/1629005?ref=naver",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ],
+    "주식:자사주": [
+      {
+        "title": "카카오뱅크, 자사주 27만주 소각 추진...주주환원 강화",
+        "url": "https://www.youthdaily.co.kr/news/article.html?no=225208",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      },
+      {
+        "title": "카카오뱅크, 자사주 27만주 소각…주주가치 제고",
+        "url": "https://sateconomy.co.kr/news/view/1065592177632013",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      },
+      {
+        "title": "카카오뱅크 보유 자사주 절반 소각한다 : 암원 자사주 매입 이어 주주가...",
+        "url": "https://www.huffingtonpost.kr/article/259617",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      }
+    ]
+  }
 }
