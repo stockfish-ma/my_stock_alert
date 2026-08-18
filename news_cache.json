@@ -3149,6 +3149,102 @@
     },
     "ed9a6078787c": {
       "first_seen": "2026-08-18T09:52:32.515078+00:00"
+    },
+    "8b27719f9d32": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "f052b7ada5ee": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "eec3e0cfbe63": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "8a121f5281f8": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "c56af9f19ebb": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "0f0d14545aca": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "ab96a7ce2549": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "bfb0fc3615b8": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "c68570827519": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "74c66b3550d2": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "fa1325256ae2": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "7a2c3f03cd6a": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "1ea6c1a75078": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "a62714f69f57": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "8c1b339c2697": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "46ebe81d6e8c": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "b6dfaf22cd19": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "91ac3fde31db": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "6d6ae41448ed": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "69767b792168": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "69a1ba2c4f6c": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "4f4626bab2cc": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "40219ebc5b5d": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "4cf397143de8": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "21f8c9101a74": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "ca18ae699344": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "09ee25a70a4d": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "7c077e20c9f9": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "383333ab1a77": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "52220a36b699": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "89ecb9020c42": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
+    },
+    "4c19e0e4c052": {
+      "first_seen": "2026-08-18T10:21:25.520338+00:00"
     }
   },
   "news_counts": {
@@ -4209,666 +4305,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:SK하이닉스": 1,
-    "반도체:메모리": 1,
-    "반도체:엔비디아": 4,
-    "반도체:GPU": 1,
-    "반도체:냉각": 1,
-    "반도체:NVIDIA": 1,
-    "반도체:반도체": 3,
-    "반도체:HBM4": 1,
-    "에너지:ESS": 1,
-    "에너지:배터리": 1,
-    "에너지:원전": 6,
-    "에너지:태양광": 3,
-    "로봇:피지컬AI": 2,
-    "로봇:자율주행": 1,
-    "로봇:로봇": 2,
-    "트럼프:트럼프": 3,
-    "트럼프:백악관": 1,
-    "금리/환율:연준": 2,
-    "증권:상향": 2,
-    "증권:리포트": 3,
-    "증권:코스피": 3,
-    "국채금리:국채": 2,
-    "국채금리:30년물": 2,
-    "주식:수주": 1,
-    "주식:배당": 1,
-    "주식:자사주": 1
-  },
-  "kw_counts_reset": "2026-08-17T22:19:53.857743+00:00",
-  "last_top10_sent": "2026-08-18T09:18:17.018449+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "삼성전자 '나우톡' 실명제에 노조 공문 전송…\"실명제 전면 재검토·사...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=748288",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:SK하이닉스": {
-      "title": "삼성전자 2%↓·SK하이닉스 1%↑... '삼전닉스' 주주환원, 주가 반등 이...",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1176059",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:메모리": {
-      "title": "\"쉴 틈 없는 반도체 라인\"… 메모리·부품사 상반기 美·中 매출 날았다",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=748283",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "메모리"
-    },
-    "반도체:엔비디아": {
-      "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…젠슨 황 “순환금융 아니...",
-      "url": "https://www.sedaily.com/article/20080567?ref=naver",
-      "source": "",
-      "count": 4,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:GPU": {
-      "title": "[공공 클라우드 블로킹 전쟁③] GPU 나눠 쓰면 AI 자원 중복 투자…비용·복원성 부담 커진다 - ER 이코노믹리뷰",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zTkdLVU5pNVFXQThMMFc0YmVkWUN4X3A0RUNJZ0FZLTBfT0tkOF9udVF6UHJacDhmUjVVNVJBM3ZYd2pfMnk3ZjdtblJkSkFsVDBjbUhCMVlJenFRZjZ2a2ZsZjRFcXRwWUlkSA?oc=5",
-      "source": "ER 이코노믹리뷰",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "GPU"
-    },
-    "반도체:냉각": {
-      "title": "오텍캐리어, 48MW 하이퍼스케일 데이터센터 냉각 수주",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=748265",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "냉각"
-    },
-    "반도체:NVIDIA": {
-      "title": "보아, Nvidia AI 투자 확고에 ’매수’ 등급 재확인 - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IOGduUEJtblpib193NzhLODJXQU9PZ0c0MDY3UGUxdmhLZHdDNGhoanZpcUpUUjdnWUpoWU9qbkoweEFIT3l4Ry15el9jNTRRMENxb3dsVWtYRExfWlc0S3hyYy1OQzdISk5mUWF2V0FMeWZm?oc=5",
-      "source": "Investing.com",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "NVIDIA"
-    },
-    "반도체:반도체": {
-      "title": "달아오르는 동탄·분당…'반도체 벨트'서 분양 봇물",
-      "url": "https://www.hankyung.com/article/2026081877991",
-      "source": "",
-      "count": 3,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "반도체:HBM4": {
-      "title": "다음 세대 HBM4 주도권 잡을 승자는 삼성전자? - sedaily.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqLUQ0S2M3RktSWnFiXzJNb1U0bm5kOGRiYzh0UEJFQ0F3UTAzZklEUHhaVjNGQS1lcVZfYWltZWZsOHJSb0YxN3k1VQ?oc=5",
-      "source": "sedaily.com",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "HBM4"
-    },
-    "에너지:ESS": {
-      "title": "K-배터리 3사, 1조 규모 공공 ESS 정면승부...국내 생산이 핵심 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sUGxvczN2SUZTX1lZZ2l3aGNpYnppX1hKSkVVUUZwWUp6N2Q1YjF1QWlPSHF1ZFNvR295WTBqX1RvT29vVFd2bnpYVnlxQVdjVGowLWZNYk9wZ9IBWEFVX3lxTFAyUG4yTEFQNHItQmo5NjU0aU5MdFplM3kzODBXai15Q085cVdrc0Myd1JJR2lTRzQ0bElLMU1PV1ZWUDIzU3hNakl0dzRSXzdYekh6MHBDZ1Q?oc=5",
-      "source": "아주경제",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "ESS"
-    },
-    "에너지:배터리": {
-      "title": "GM, 인공지능·배터리·충전 기술 이끄는 '라이징 스타' 3명 선정",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41496",
-      "source": "",
-      "count": 1,
-      "group": "에너지",
-      "keyword": "배터리"
-    },
-    "에너지:원전": {
-      "title": "\"현대건설, 대규모 원전 프로젝트 본계약 '가능'...순항 기대\"-IBK證",
-      "url": "https://www.betanews.net/article/view/beta202608180082",
-      "source": "",
-      "count": 6,
-      "group": "에너지",
-      "keyword": "원전"
-    },
-    "에너지:태양광": {
-      "title": "대전시 세계태양광총회 준비 본격화…11월 국제행사 성공 개최 총력",
-      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094422",
-      "source": "",
-      "count": 3,
-      "group": "에너지",
-      "keyword": "태양광"
-    },
-    "로봇:피지컬AI": {
-      "title": "한전KPS, 작업자 밀착형 피지컬AI 기술개발",
-      "url": "http://www.lawissue.co.kr/view.php?ud=202608181840538474f4ab64559d_12",
-      "source": "",
-      "count": 2,
-      "group": "로봇",
-      "keyword": "피지컬AI"
-    },
-    "로봇:자율주행": {
-      "title": "'자율주행 AI 솔루션' 라이드플럭스, 코스닥 상장예비심사 신청",
-      "url": "https://www.yna.co.kr/view/AKR20260818159300008?input=1195m",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "자율주행"
-    },
-    "로봇:로봇": {
-      "title": "'1시간에 커피 202잔 제조'…중국 로봇카페 기네스 인증",
-      "url": "https://www.yna.co.kr/view/AKR20260818162100083?input=1195m",
-      "source": "",
-      "count": 2,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "트럼프 “김정은, 대화 요청 응답” 주장… 한국에는 압박",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026081818411152303",
-      "source": "",
-      "count": 3,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:백악관": {
-      "title": "백악관 SNS 계정, 질문하는 기자 '자녀'까지 거론하며 맹비난",
-      "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=317861",
-      "source": "",
-      "count": 1,
-      "group": "트럼프",
-      "keyword": "백악관"
-    },
-    "금리/환율:연준": {
-      "title": "연준 금리 동결 전망에도 美 장기금리 급등…왜?",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315258",
-      "source": "",
-      "count": 2,
-      "group": "금리/환율",
-      "keyword": "연준"
-    },
-    "증권:상향": {
-      "title": "무디스, 韓 성장률 3.5%로 상향",
-      "url": "http://www.fnnews.com/news/202608181829088630",
-      "source": "",
-      "count": 2,
-      "group": "증권",
-      "keyword": "상향"
-    },
-    "증권:리포트": {
-      "title": "[뉴스팜리포트 : 22025회계연도 결산-농림축산식품부]농식품부 2025년 결...",
-      "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102016",
-      "source": "",
-      "count": 3,
-      "group": "증권",
-      "keyword": "리포트"
-    },
-    "증권:코스피": {
-      "title": "코스피, 5거래일 연속 상승 마감…1.55% 하락",
-      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094484",
-      "source": "",
-      "count": 3,
-      "group": "증권",
-      "keyword": "코스피"
-    },
-    "국채금리:국채": {
-      "title": "정부·기업 빚 늘리기에… 美 국채 장기금리 19년만에 최고치",
-      "url": "http://www.fnnews.com/news/202608181840360663",
-      "source": "",
-      "count": 2,
-      "group": "국채금리",
-      "keyword": "국채"
-    },
-    "국채금리:30년물": {
-      "title": "日 국채금리 30년만에 최고…美 30년물 금리 5.3%까지 밀어올린 ‘나비...",
-      "url": "https://biz.heraldcorp.com/article/10844338?ref=naver",
-      "source": "",
-      "count": 2,
-      "group": "국채금리",
-      "keyword": "30년물"
-    },
-    "주식:수주": {
-      "title": "2조원 KF-21 핵심무장 잡아라…한화·LIG, 장거리공대공 수주전 격돌",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315232",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "수주"
-    },
-    "주식:배당": {
-      "title": "TYM, 중간배당 주당 120원 결정…지난해 대비 2.4배 확대",
-      "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102023",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "배당"
-    },
-    "주식:자사주": {
-      "title": "\"자사주 싹 태우면…IMM PE, 한샘 지분율 35%→54.5% '절대 과반' 확보\"",
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=271950",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "자사주"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "삼성전자 '나우톡' 실명제에 노조 공문 전송…\"실명제 전면 재검토·사...",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=748288",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "삼성전자 2%↓·SK하이닉스 1%↑... '삼전닉스' 주주환원, 주가 반등 이...",
-        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1176059",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:메모리": [
-      {
-        "title": "\"쉴 틈 없는 반도체 라인\"… 메모리·부품사 상반기 美·中 매출 날았다",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=748283",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…젠슨 황 “순환금융 아니...",
-        "url": "https://www.sedaily.com/article/20080567?ref=naver",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "LG데이터팩토리 찾은 엔비디아 매디슨 황, …로보틱스 협업 확대",
-        "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265816",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "LG전자·엔비디아, 로봇 협업 가속…연내 '12년치' 데이터 학습",
-        "url": "https://www.gpkorea.com/news/articleView.html?idxno=145773",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "구광모·젠슨 황 만남 나흘 만에...LG·엔비디아 속도전",
-        "url": "https://www.ytn.co.kr/_ln/0102_202608181831231713",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:GPU": [
-      {
-        "title": "[공공 클라우드 블로킹 전쟁③] GPU 나눠 쓰면 AI 자원 중복 투자…비용·복원성 부담 커진다 - ER 이코노믹리뷰",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zTkdLVU5pNVFXQThMMFc0YmVkWUN4X3A0RUNJZ0FZLTBfT0tkOF9udVF6UHJacDhmUjVVNVJBM3ZYd2pfMnk3ZjdtblJkSkFsVDBjbUhCMVlJenFRZjZ2a2ZsZjRFcXRwWUlkSA?oc=5",
-        "source": "ER 이코노믹리뷰",
-        "group": "반도체",
-        "keyword": "GPU"
-      }
-    ],
-    "반도체:냉각": [
-      {
-        "title": "오텍캐리어, 48MW 하이퍼스케일 데이터센터 냉각 수주",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=748265",
-        "source": "",
-        "group": "반도체",
-        "keyword": "냉각"
-      }
-    ],
-    "반도체:NVIDIA": [
-      {
-        "title": "보아, Nvidia AI 투자 확고에 ’매수’ 등급 재확인 - Investing.com 한국어",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IOGduUEJtblpib193NzhLODJXQU9PZ0c0MDY3UGUxdmhLZHdDNGhoanZpcUpUUjdnWUpoWU9qbkoweEFIT3l4Ry15el9jNTRRMENxb3dsVWtYRExfWlc0S3hyYy1OQzdISk5mUWF2V0FMeWZm?oc=5",
-        "source": "Investing.com",
-        "group": "반도체",
-        "keyword": "NVIDIA"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "달아오르는 동탄·분당…'반도체 벨트'서 분양 봇물",
-        "url": "https://www.hankyung.com/article/2026081877991",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "[반도체 전쟁] 中 CXMT '신화'… 그것을 가능케 한 결승타는? '",
-        "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275002",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "\"용인 반도체 전력을 왜 충북이 떠안나\"",
-        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094470",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "반도체:HBM4": [
-      {
-        "title": "다음 세대 HBM4 주도권 잡을 승자는 삼성전자? - sedaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqLUQ0S2M3RktSWnFiXzJNb1U0bm5kOGRiYzh0UEJFQ0F3UTAzZklEUHhaVjNGQS1lcVZfYWltZWZsOHJSb0YxN3k1VQ?oc=5",
-        "source": "sedaily.com",
-        "group": "반도체",
-        "keyword": "HBM4"
-      }
-    ],
-    "에너지:ESS": [
-      {
-        "title": "K-배터리 3사, 1조 규모 공공 ESS 정면승부...국내 생산이 핵심 - 아주경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sUGxvczN2SUZTX1lZZ2l3aGNpYnppX1hKSkVVUUZwWUp6N2Q1YjF1QWlPSHF1ZFNvR295WTBqX1RvT29vVFd2bnpYVnlxQVdjVGowLWZNYk9wZ9IBWEFVX3lxTFAyUG4yTEFQNHItQmo5NjU0aU5MdFplM3kzODBXai15Q085cVdrc0Myd1JJR2lTRzQ0bElLMU1PV1ZWUDIzU3hNakl0dzRSXzdYekh6MHBDZ1Q?oc=5",
-        "source": "아주경제",
-        "group": "에너지",
-        "keyword": "ESS"
-      }
-    ],
-    "에너지:배터리": [
-      {
-        "title": "GM, 인공지능·배터리·충전 기술 이끄는 '라이징 스타' 3명 선정",
-        "url": "https://www.aitimes.kr/news/articleView.html?idxno=41496",
-        "source": "",
-        "group": "에너지",
-        "keyword": "배터리"
-      }
-    ],
-    "에너지:원전": [
-      {
-        "title": "\"현대건설, 대규모 원전 프로젝트 본계약 '가능'...순항 기대\"-IBK證",
-        "url": "https://www.betanews.net/article/view/beta202608180082",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "현대건설, 테라파워 나트륨 원전 후속 8기 EPC 파트너 선정",
-        "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2269710",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "\"빌 게이츠 원전, 韓이 만든다\"…테라파워 상용화 밸류체인 꿰찬 K원전",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=748271",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "기후장관 “신규원전 건설, 답 정해놓지 않아… 가스발전 일부 늘어날 ...",
-        "url": "https://www.segye.com/newsView/20260818521534?OutUrl=naver",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "현대건설, 빌 게이츠·정기선과 회동…차세대 원전 ‘나트륨’ 상용화 ...",
-        "url": "https://www.nspna.com/news/?mode=view&newsid=824609",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      },
-      {
-        "title": "[기업] 현대건설, 테라파워 원전 설계·조달·시공 우선권",
-        "url": "https://www.ytn.co.kr/_ln/0102_202608181830136210",
-        "source": "",
-        "group": "에너지",
-        "keyword": "원전"
-      }
-    ],
-    "에너지:태양광": [
-      {
-        "title": "대전시 세계태양광총회 준비 본격화…11월 국제행사 성공 개최 총력",
-        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094422",
-        "source": "",
-        "group": "에너지",
-        "keyword": "태양광"
-      },
-      {
-        "title": "화성 사곶마을 영농형태양광 1MW 착공…10월 상업발전 목표",
-        "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61639",
-        "source": "",
-        "group": "에너지",
-        "keyword": "태양광"
-      },
-      {
-        "title": "대전시, 11월 열리는 '세계태양광총회' 준비 상황 종합 점검",
-        "url": "https://www.news1.kr/local/daejeon-chungnam/6262318",
-        "source": "",
-        "group": "에너지",
-        "keyword": "태양광"
-      }
-    ],
-    "로봇:피지컬AI": [
-      {
-        "title": "한전KPS, 작업자 밀착형 피지컬AI 기술개발",
-        "url": "http://www.lawissue.co.kr/view.php?ud=202608181840538474f4ab64559d_12",
-        "source": "",
-        "group": "로봇",
-        "keyword": "피지컬AI"
-      },
-      {
-        "title": "발전정비 현장에 '동행 로봇'...한전KPS, 피지컬AI 실증",
-        "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=227505",
-        "source": "",
-        "group": "로봇",
-        "keyword": "피지컬AI"
-      }
-    ],
-    "로봇:자율주행": [
-      {
-        "title": "'자율주행 AI 솔루션' 라이드플럭스, 코스닥 상장예비심사 신청",
-        "url": "https://www.yna.co.kr/view/AKR20260818159300008?input=1195m",
-        "source": "",
-        "group": "로봇",
-        "keyword": "자율주행"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "'1시간에 커피 202잔 제조'…중국 로봇카페 기네스 인증",
-        "url": "https://www.yna.co.kr/view/AKR20260818162100083?input=1195m",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "대동그룹, 레인보우로보틱스와 농업로봇 '애그로이드' 공동 개발",
-        "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102024",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "트럼프 “김정은, 대화 요청 응답” 주장… 한국에는 압박",
-        "url": "https://www.busan.com/view/busan/view.php?code=2026081818411152303",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프가 한미훈련 축소 지시한 이유?…“대미 투자 지연에 불만”",
-        "url": "https://www.munhwa.com/article/11610218?ref=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 잇단 러브콜...핵 쥔 북한, 대화 응할까",
-        "url": "https://www.ytn.co.kr/_ln/0101_202608181841308020",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:백악관": [
-      {
-        "title": "백악관 SNS 계정, 질문하는 기자 '자녀'까지 거론하며 맹비난",
-        "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=317861",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "백악관"
-      }
-    ],
-    "금리/환율:연준": [
-      {
-        "title": "연준 금리 동결 전망에도 美 장기금리 급등…왜?",
-        "url": "https://www.thepublic.kr/news/articleView.html?idxno=315258",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "연준"
-      },
-      {
-        "title": "[현장포토] \"다 가려도, 최연준\"…연준, 완전무장 입국",
-        "url": "http://www.dispatch.co.kr/2346574",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "연준"
-      }
-    ],
-    "증권:상향": [
-      {
-        "title": "무디스, 韓 성장률 3.5%로 상향",
-        "url": "http://www.fnnews.com/news/202608181829088630",
-        "source": "",
-        "group": "증권",
-        "keyword": "상향"
-      },
-      {
-        "title": "무디스, 韓성장률 전망치 2.5→3.5% 상향…\"반도체 사이클, 적어도 내년...",
-        "url": "https://www.mt.co.kr/economy/2026/08/18/2026081818161894852",
-        "source": "",
-        "group": "증권",
-        "keyword": "상향"
-      }
-    ],
-    "증권:리포트": [
-      {
-        "title": "[뉴스팜리포트 : 22025회계연도 결산-농림축산식품부]농식품부 2025년 결...",
-        "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102016",
-        "source": "",
-        "group": "증권",
-        "keyword": "리포트"
-      },
-      {
-        "title": "[뉴스팜리포트 : 22025회계연도 결산-농촌진흥청]3년째 같은 고장 되풀이...",
-        "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102018",
-        "source": "",
-        "group": "증권",
-        "keyword": "리포트"
-      },
-      {
-        "title": "[뉴스팜리포트: 2025회계연도 결산-농지기금‧양곡회계]농지기금 예산 ...",
-        "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102017",
-        "source": "",
-        "group": "증권",
-        "keyword": "리포트"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "코스피, 5거래일 연속 상승 마감…1.55% 하락",
-        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094484",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      },
-      {
-        "title": "'19년 만의 최고' 美 30년물 금리 부담에 코스피 6800선 흔들",
-        "url": "https://www.newspim.com/news/view/20260818001254",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      },
-      {
-        "title": "코스피·코스닥, 엿새 만에 하락 전환...\"미 국채금리 영향\"",
-        "url": "https://www.ytn.co.kr/_ln/0102_202608181833107316",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ],
-    "국채금리:국채": [
-      {
-        "title": "정부·기업 빚 늘리기에… 美 국채 장기금리 19년만에 최고치",
-        "url": "http://www.fnnews.com/news/202608181840360663",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      },
-      {
-        "title": "금리의 역습, 美·英·日 국채금리 급등",
-        "url": "https://www.chosun.com/economy/stock-finance/2026/08/18/NFECLQG5JFD53NH45QMQ5TEFYM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      }
-    ],
-    "국채금리:30년물": [
-      {
-        "title": "日 국채금리 30년만에 최고…美 30년물 금리 5.3%까지 밀어올린 ‘나비...",
-        "url": "https://biz.heraldcorp.com/article/10844338?ref=naver",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "30년물"
-      },
-      {
-        "title": "美 30년물 금리 5%대 쇼크… 기업 자금조달 비상",
-        "url": "http://www.fnnews.com/news/202608181827283114",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "30년물"
-      }
-    ],
-    "주식:수주": [
-      {
-        "title": "2조원 KF-21 핵심무장 잡아라…한화·LIG, 장거리공대공 수주전 격돌",
-        "url": "https://www.thepublic.kr/news/articleView.html?idxno=315232",
-        "source": "",
-        "group": "주식",
-        "keyword": "수주"
-      }
-    ],
-    "주식:배당": [
-      {
-        "title": "TYM, 중간배당 주당 120원 결정…지난해 대비 2.4배 확대",
-        "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102023",
-        "source": "",
-        "group": "주식",
-        "keyword": "배당"
-      }
-    ],
-    "주식:자사주": [
-      {
-        "title": "\"자사주 싹 태우면…IMM PE, 한샘 지분율 35%→54.5% '절대 과반' 확보\"",
-        "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=271950",
-        "source": "",
-        "group": "주식",
-        "keyword": "자사주"
-      }
-    ]
-  }
+  "kw_counts": {},
+  "kw_counts_reset": "2026-08-18T10:20:16.612208+00:00",
+  "last_top10_sent": "2026-08-18T10:21:27.161645+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
