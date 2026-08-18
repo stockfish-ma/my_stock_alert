@@ -398,6 +398,102 @@
     },
     "ca26a8253642": {
       "first_seen": "2026-08-18T22:29:44.250738+00:00"
+    },
+    "254afbe6e07c": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "e5ff997cebaf": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "ff4f714759b6": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "1073d45aab84": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "dc0d465c3d12": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "1c982c8d2549": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "d41573f9f0c1": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "60977f226572": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "a004ffe99ede": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "92a68214fc00": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "a0d270dec582": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "e92cc838be04": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "087ec40fba92": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "7db70643302d": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "5c038ba6cbd2": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "45c6c80273ba": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "1adf4aa254c6": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "24e48a541cf4": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "28c155dcbef1": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "5e26e160dff6": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "1802610bc254": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "8ff5b1ff2b7c": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "a72b9dd12f2b": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "9ad000ecd103": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "d3ed67b7052f": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "5d769f608297": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "a9d645815992": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "e74ba1668656": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "e3b537db3414": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "40916306997a": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "6a5fe3ad82da": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
+    },
+    "aca3947f83b1": {
+      "first_seen": "2026-08-18T22:52:58.697582+00:00"
     }
   },
   "news_counts": {
@@ -1458,9 +1554,434 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 2,
+    "반도체:HBM": 1,
+    "반도체:마이크론": 1,
+    "반도체:냉각": 1,
+    "반도체:반도체": 1,
+    "AI인프라:데이터센터": 1,
+    "에너지:배터리": 2,
+    "로봇:자율주행": 1,
+    "로봇:로봇": 2,
+    "트럼프:트럼프": 3,
+    "트럼프:관세": 3,
+    "증권:하향": 2,
+    "증권:코스피": 2,
+    "증권:코스닥": 1,
+    "증권:나스닥": 4,
+    "국채금리:국채": 3,
+    "국채금리:30년물": 1,
+    "주식:유상증자": 1
+  },
   "kw_counts_reset": "2026-08-18T22:28:42.303624+00:00",
   "last_top10_sent": "2026-08-18T22:29:45.970002+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "[단독]삼성전자, AI 컴퓨팅 솔루션 업체 '벨라우라 AI' 투자",
+      "url": "https://thetracker.co.kr/View.aspx?No=4190659",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:HBM": {
+      "title": "AMD, AI 가속기 효율 4배 전망…삼성·SK HBM 수혜 시험대 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalZiM0Q2ZHQ3MnJKTVh3b0hyWmpsci16NXVoQktKQUdZNmgzWWVpbEpydExkYzhXWGJKSmttel9qR0t0T1hEQ0FDZEo0aE5Zc2tBaW82R3hpcm11YW9makdhekhmM1N5SzdTcHN4Q2FYRXJXLXVsUzJ6SS1mRndlcGxrUVFjRGZs?oc=5",
+      "source": "글로벌이코노믹",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM"
+    },
+    "반도체:마이크론": {
+      "title": "하닉 9% 마이크론 6% 급락…경기방어주로 환승",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52228",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "마이크론"
+    },
+    "반도체:냉각": {
+      "title": "한국에 AI팩토리 짓는데…서버·냉각 공급망은 대만에 의존?",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693781",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "냉각"
+    },
+    "반도체:반도체": {
+      "title": "[손병관의 뉴스프레소] 호남 반도체에 '람사르 습지' 변수",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260129&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:데이터센터": {
+      "title": "알리바바 클라우드, 국내 세 번째 데이터센터 출범",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61068",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "에너지:배터리": {
+      "title": "“배터리만으로 슝” 스웨덴 11톤 대형 전기 항공기, 첫 비행 성공 [잇슈...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640012&ref=A",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "로봇:자율주행": {
+      "title": "[모빌리티핫이슈] 자율주행 기술 끝판왕은?…바퀴 달린 스마트폰 'SDV' 경...",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693734",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "자율주행"
+    },
+    "로봇:로봇": {
+      "title": "리브스메드, 제품 라인업 확장 본격화…아티씰·수술로봇으로 성장동력...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=744220",
+      "source": "",
+      "count": 2,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프 1기 안보보좌관 \"한미훈련 축소, 큰 실수\"",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02515766645548960",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "'캐나다에 50% 관세' 하루 전…美·加 정상 통화에도 협상 난항",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=206557",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "증권:하향": {
+      "title": "\"미국 금리 하향 안정화될 것...주식시장 안도 랠리 지속\"",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02512486645548960",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "하향"
+    },
+    "증권:코스피": {
+      "title": "[오늘의 증시]중동 불안에 美 반도체주도 급락…코스피, 外人 수급에 촉...",
+      "url": "https://www.newsis.com/view/NISX20260819_0003753439",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "라이드플럭스, 코스닥 상장 예비심사청구서 제출",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61071",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "증권:나스닥": {
+      "title": "뉴욕증시, 유가·국채금리 급등에 사흘째 하락…나스닥 1.3%↓",
+      "url": "https://www.khan.co.kr/article/202608190746001",
+      "source": "",
+      "count": 4,
+      "group": "증권",
+      "keyword": "나스닥"
+    },
+    "국채금리:국채": {
+      "title": "뉴욕증시, 3거래일 연속 하락…미 국채금리 급등 “우려 커졌다” [투자...",
+      "url": "https://biz.heraldcorp.com/article/10844663?ref=naver",
+      "source": "",
+      "count": 3,
+      "group": "국채금리",
+      "keyword": "국채"
+    },
+    "국채금리:30년물": {
+      "title": "글로벌 장기채 금리 급등세...미 30년물 20년래 최고치",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143203",
+      "source": "",
+      "count": 1,
+      "group": "국채금리",
+      "keyword": "30년물"
+    },
+    "주식:유상증자": {
+      "title": "에스에스알, 70억원 규모 유상증자…AI·클라우드 보안 투자 확대",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=208101",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "유상증자"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "[단독]삼성전자, AI 컴퓨팅 솔루션 업체 '벨라우라 AI' 투자",
+        "url": "https://thetracker.co.kr/View.aspx?No=4190659",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "이현이, 삼성전자 100주 매입-뜻밖의 장기 투자",
+        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87151",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:HBM": [
+      {
+        "title": "AMD, AI 가속기 효율 4배 전망…삼성·SK HBM 수혜 시험대 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalZiM0Q2ZHQ3MnJKTVh3b0hyWmpsci16NXVoQktKQUdZNmgzWWVpbEpydExkYzhXWGJKSmttel9qR0t0T1hEQ0FDZEo0aE5Zc2tBaW82R3hpcm11YW9makdhekhmM1N5SzdTcHN4Q2FYRXJXLXVsUzJ6SS1mRndlcGxrUVFjRGZs?oc=5",
+        "source": "글로벌이코노믹",
+        "group": "반도체",
+        "keyword": "HBM"
+      }
+    ],
+    "반도체:마이크론": [
+      {
+        "title": "하닉 9% 마이크론 6% 급락…경기방어주로 환승",
+        "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52228",
+        "source": "",
+        "group": "반도체",
+        "keyword": "마이크론"
+      }
+    ],
+    "반도체:냉각": [
+      {
+        "title": "한국에 AI팩토리 짓는데…서버·냉각 공급망은 대만에 의존?",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693781",
+        "source": "",
+        "group": "반도체",
+        "keyword": "냉각"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "[손병관의 뉴스프레소] 호남 반도체에 '람사르 습지' 변수",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260129&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "알리바바 클라우드, 국내 세 번째 데이터센터 출범",
+        "url": "https://www.thelec.kr/news/articleView.html?idxno=61068",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "“배터리만으로 슝” 스웨덴 11톤 대형 전기 항공기, 첫 비행 성공 [잇슈...",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640012&ref=A",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "K-배터리, 2Q 흑자에도 이익 체력은 아직…美보조금·관세환급덕",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430646",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "로봇:자율주행": [
+      {
+        "title": "[모빌리티핫이슈] 자율주행 기술 끝판왕은?…바퀴 달린 스마트폰 'SDV' 경...",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693734",
+        "source": "",
+        "group": "로봇",
+        "keyword": "자율주행"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "리브스메드, 제품 라인업 확장 본격화…아티씰·수술로봇으로 성장동력...",
+        "url": "http://www.newsprime.co.kr/news/article.html?no=744220",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "유니트리 슈퍼맨 로봇, 볼트 속도 추월 주장의 진실은",
+        "url": "https://www.g-enews.com/view.php?ud=2026081907264854502bd56fbc3c_1",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프 1기 안보보좌관 \"한미훈련 축소, 큰 실수\"",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02515766645548960",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "“김정은과 사랑에 빠졌다”더니 또 불필요한 양보…볼턴, 트럼프 훈련...",
+        "url": "https://biz.heraldcorp.com/article/10844662?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 이란戰 수렁에 동맹에 화풀이… 美언론 \"韓, 희생양\"",
+        "url": "https://www.tjb.co.kr/news05/bodo/view/id/102564",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "'캐나다에 50% 관세' 하루 전…美·加 정상 통화에도 협상 난항",
+        "url": "https://www.tfmedia.co.kr/news/article.html?no=206557",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "세아제강, 美 관세에도 강관 수출 증가…하반기 실적 기대",
+        "url": "http://www.newsprime.co.kr/news/article.html?no=744224",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "멕시코, 중국산 추가 관세 검토…美 ‘무역 장벽’ 동참",
+        "url": "https://www.etoday.co.kr/news/view/2615696",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "증권:하향": [
+      {
+        "title": "\"미국 금리 하향 안정화될 것...주식시장 안도 랠리 지속\"",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02512486645548960",
+        "source": "",
+        "group": "증권",
+        "keyword": "하향"
+      },
+      {
+        "title": "증시 부담요인 된 美 금리…NH證 “결국 하향 안정화될 것”",
+        "url": "https://biz.chosun.com/stock/stock_general/2026/08/19/XOTOIKROLFAG3CTI7CNY6DR4YQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "",
+        "group": "증권",
+        "keyword": "하향"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "[오늘의 증시]중동 불안에 美 반도체주도 급락…코스피, 外人 수급에 촉...",
+        "url": "https://www.newsis.com/view/NISX20260819_0003753439",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "[마켓 프리뷰] 코스피 6거래일 만에 하락…주요국 국채 금리 급등",
+        "url": "https://biz.sbs.co.kr/article_hub/20000329359?division=NAVER",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "라이드플럭스, 코스닥 상장 예비심사청구서 제출",
+        "url": "https://www.thelec.kr/news/articleView.html?idxno=61071",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "증권:나스닥": [
+      {
+        "title": "뉴욕증시, 유가·국채금리 급등에 사흘째 하락…나스닥 1.3%↓",
+        "url": "https://www.khan.co.kr/article/202608190746001",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      },
+      {
+        "title": "[데일리 머니마켓] 나스닥 1.3% 하락",
+        "url": "https://www.bigtanews.co.kr/article/view/big202608190002",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      },
+      {
+        "title": "국제유가·미국 국채금리 동반 상승에 뉴욕증시 하락…나스닥 1.33%↓",
+        "url": "https://www.newsway.co.kr/news/view?ud=2026081907293413965",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      },
+      {
+        "title": "뉴욕증시, 중동불안·미 국채금리 급등에 하락…나스닥 1.3%↓",
+        "url": "https://www.tfmedia.co.kr/news/article.html?no=206556",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "뉴욕증시, 3거래일 연속 하락…미 국채금리 급등 “우려 커졌다” [투자...",
+        "url": "https://biz.heraldcorp.com/article/10844663?ref=naver",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "뉴욕증시 3대 지수 일제히 하락…중동 불안·국채 금리 급등 '직격탄'",
+        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057710",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "[3분증시] 뉴욕증시, 글로벌 국채금리 급등에 3일째 하락",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH202608190743592mm",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ],
+    "국채금리:30년물": [
+      {
+        "title": "글로벌 장기채 금리 급등세...미 30년물 20년래 최고치",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143203",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "30년물"
+      }
+    ],
+    "주식:유상증자": [
+      {
+        "title": "에스에스알, 70억원 규모 유상증자…AI·클라우드 보안 투자 확대",
+        "url": "https://www.dailysecu.com/news/articleView.html?idxno=208101",
+        "source": "",
+        "group": "주식",
+        "keyword": "유상증자"
+      }
+    ]
+  }
 }
