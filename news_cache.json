@@ -1,110 +1,5 @@
 {
   "news_seen": {
-    "d73389e08305": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "33ce0f0f7340": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "b3cafa8f15a5": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "beb864775e09": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "49f929906b0f": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "4df3c72ed415": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "5f2abcdcacfa": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "db6ffb0bfcd6": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "a7a113dc8059": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "6359720878a3": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "5006e85be229": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "2fcce60cbe2a": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "5a156b3fd3ea": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "07b3a1e3e780": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "8771e538eca8": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "989ba74d2043": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "15a72fe5d618": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "24c01324ffae": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "12af73e787fc": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "5203e7fb47b5": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "349bc55d8af8": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "ea0a1cfd5a56": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "4d9955bbe1ea": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "a2ecb4b484ba": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "29c837ec8502": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "4315772d8024": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "6f68efcd6c4e": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "c7aeeebb3165": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "1d6d14c86f79": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "272b35c24368": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "7aaf2792763b": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "7557960e6617": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "bec0a9ff908d": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "6edcb842d38c": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
-    "c019239e3390": {
-      "first_seen": "2026-08-19T10:42:34.697676+00:00"
-    },
     "3b7310acf157": {
       "first_seen": "2026-08-19T11:05:00.170369+00:00"
     },
@@ -575,6 +470,132 @@
     },
     "2a140a80a1a6": {
       "first_seen": "2026-08-19T22:19:35.182766+00:00"
+    },
+    "08ba47aebfca": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "3b189c420b8c": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "7bf69d56c62b": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "48d0d34b6c08": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "0ff6cfe2dc46": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "8a810de54f98": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "2d27e513e049": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "2c317a66e957": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "e0956b005c06": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "22efd78319fb": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "03811803b7ce": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "467e17015289": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "72fe439a4755": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "3903e054df62": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "7424fca6cfb1": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "f6b31d85e952": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "b91edfcb9b48": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "da71588ec184": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "9ecb87d3f37e": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "6b7a50581458": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "65233e29e909": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "cc617cad0ff8": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "4aa8bd01f44e": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "ecdd21ee453f": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "300773b83b8d": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "cec2e86d37b0": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "9c4bab2bec07": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "891013ed2a28": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "e06e6311dd3d": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "b3a9431c2058": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "6ec45150a232": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "144c35306a8b": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "f1163a09ed95": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "49ed90197d0e": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "4ef1970b2a80": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "5ccf631fa72d": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "e0ae510316b6": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "e0b0d2772760": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "e726d0ee6644": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "33ead0f09b7c": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "cd26a3054178": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
+    },
+    "8453b4b0a996": {
+      "first_seen": "2026-08-19T22:46:26.026765+00:00"
     }
   },
   "news_counts": {
@@ -1635,9 +1656,570 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
-  "kw_counts_reset": "2026-08-19T10:41:34.418568+00:00",
+  "kw_counts": {
+    "반도체:삼성전자": 2,
+    "반도체:SK하이닉스": 1,
+    "반도체:메모리": 1,
+    "반도체:HBM": 1,
+    "반도체:마이크론": 1,
+    "반도체:TSMC": 1,
+    "반도체:반도체": 1,
+    "AI인프라:전력": 2,
+    "AI인프라:전력망": 1,
+    "에너지:배터리": 4,
+    "로봇:휴머노이드": 1,
+    "트럼프:트럼프": 6,
+    "트럼프:관세": 3,
+    "트럼프:백악관": 1,
+    "금리/환율:금리인상": 1,
+    "금리/환율:연준": 3,
+    "증권:목표주가": 1,
+    "증권:골드만삭스": 1,
+    "증권:코스피": 1,
+    "증권:코스닥": 1,
+    "증권:나스닥": 2,
+    "국채금리:국채": 2,
+    "주식:수주": 1,
+    "주식:배당": 3
+  },
+  "kw_counts_reset": "2026-08-19T22:45:26.068683+00:00",
   "last_top10_sent": "2026-08-19T22:19:38.413588+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "KB證 “삼성전자, AI 조기 수익화 시간 도래⋯주주환원 재평가 촉매”",
+      "url": "https://www.etoday.co.kr/news/view/2616148",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스, 예상 웃돈 40조 자사주 매입…“주주에 긍정적”",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02673206645549288",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:메모리": {
+      "title": "구형 D램, 50% 뛴다…HBM 쏠림이 부른 메모리 역풍",
+      "url": "https://www.g-enews.com/view.php?ud=20260820070417862fbbec65dfb_1",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:HBM": {
+      "title": "구형 D램, 50% 뛴다…HBM 쏠림이 부른 메모리 역풍 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQck1Eb2RjX1dPS3NmY0RPSnNjSUVmYkxXVEYtQlFZZmVGcWlUZkZ1MXhhMHp1TWlJOUd4cjU3aHBWdDN1N0pvLUlRNUxVRDRvOGJpN2wtVHBfT0U0S3NBenpVaDBVQzhwQXBQMnhkTFZPUEdkY1o0VTJkaEFoZWZJdmxwR2V6Vms?oc=5",
+      "source": "글로벌이코노믹",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM"
+    },
+    "반도체:마이크론": {
+      "title": "13조 쏟는 마이크론 히로시마 팹, 평택·청주 독주 흔든다",
+      "url": "https://www.g-enews.com/view.php?ud=202608200716363482fbbec65dfb_1",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "마이크론"
+    },
+    "반도체:TSMC": {
+      "title": "인텔, AI 패키징 시장 존재감 확대… TSMC CoWoS 공급 부족이 기회 - 위클리포스트",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yWmxpT0xGTjBoN3lENlY2QjcwVHJ3U3g2ZUpmdmtORUdkcDRlSzlrRlVoWi1oaS1GSllGejB4d3ctNDVTRmFpQUw3eDZPMGJZNVF4cFp4RWdVN1pKNDNSUm9fYzN4QW93LVpJ?oc=5",
+      "source": "위클리포스트",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "TSMC"
+    },
+    "반도체:반도체": {
+      "title": "이상일 시장, \"정부가 안하면 우리가 먼저\"...반도체메가시티 조성 속도",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=141398",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "LS일렉트릭·전선, 佛 '시그레 2026' 동반 참가…유럽 차세대 전력망 시...",
+      "url": "https://view.asiae.co.kr/article/2026082007415718651",
+      "source": "",
+      "count": 2,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "AI인프라:전력망": {
+      "title": "'반쪽짜리' 반도체 전력망 시행령...국가 지원 기준 빠져",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694049",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력망"
+    },
+    "에너지:배터리": {
+      "title": "양양 차량용 배터리 수리업체 화재…4억원 피해",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2067607",
+      "source": "",
+      "count": 4,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "로봇:휴머노이드": {
+      "title": "[이 시각 세계] 중국 휴머노이드 유니트리, 상장 첫날 460% 급등",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845960_37012.html",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "트럼프:트럼프": {
+      "title": "비트코인 급등…美 바이백·트럼프 대책 파장[코인 모닝콜]",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02699446645549288",
+      "source": "",
+      "count": 6,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "7급공채 1차시험, 세무직 233명·관세직 249명 합격",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=276453",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "트럼프:백악관": {
+      "title": "트럼프, 백악관 보좌관 하이디 오버튼을 새 FDA국장에 임명",
+      "url": "https://www.newsis.com/view/NISX20260820_0003755100",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "백악관"
+    },
+    "금리/환율:금리인상": {
+      "title": "美 FOMC 의사록 \"다수 위원들, 물가 높으면 금리인상 필요성 시사\"",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143278",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "금리인상"
+    },
+    "금리/환율:연준": {
+      "title": "트럼프 \"美 경제 성공할수록 금리 내려야\"…파월 연준에 또 압박",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478816",
+      "source": "",
+      "count": 3,
+      "group": "금리/환율",
+      "keyword": "연준"
+    },
+    "증권:목표주가": {
+      "title": "10만1000원으로 낮춘 인텔리안테크 목표주가",
+      "url": "https://www.tokenpost.kr/news/market/393744",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "목표주가"
+    },
+    "증권:골드만삭스": {
+      "title": "골드만삭스 \"실적 발표 후 주목할 유망주 5선\"…AI·인프라 사이클 집중...",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608200245&t=NN",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "골드만삭스"
+    },
+    "증권:코스피": {
+      "title": "[마켓 프리뷰] 채권금리 불안에 코스피 '털썩'…환율 1300원대로",
+      "url": "https://biz.sbs.co.kr/article_hub/20000329603?division=NAVER",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "넥스트바이오메디컬, 2026년 코스닥 라이징스타 2년 연속 선정",
+      "url": "https://www.medigatenews.com/news/1459840400",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "증권:나스닥": {
+      "title": "美증시 나스닥100 '홀로 하락'...MSTR·테슬라 '껑충', AI주 '뚝'",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170135",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "나스닥"
+    },
+    "국채금리:국채": {
+      "title": "[3분증시] 뉴욕증시, 美 정부 국채 매입 발표에 반등",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260820074316Y1j",
+      "source": "",
+      "count": 2,
+      "group": "국채금리",
+      "keyword": "국채"
+    },
+    "주식:수주": {
+      "title": "'15조 수주' 전선업, 설비 키워 AI 특수 잡는다",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857826",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "수주"
+    },
+    "주식:배당": {
+      "title": "고배당 ETF 순자산 8조원대 회복했다",
+      "url": "https://www.tokenpost.kr/news/market/393750",
+      "source": "",
+      "count": 3,
+      "group": "주식",
+      "keyword": "배당"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "KB證 “삼성전자, AI 조기 수익화 시간 도래⋯주주환원 재평가 촉매”",
+        "url": "https://www.etoday.co.kr/news/view/2616148",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "'中고객사' 대량 수요...삼성전자, 첨단 파운드리 최대 15% 인상",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=599513",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스, 예상 웃돈 40조 자사주 매입…“주주에 긍정적”",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02673206645549288",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "구형 D램, 50% 뛴다…HBM 쏠림이 부른 메모리 역풍",
+        "url": "https://www.g-enews.com/view.php?ud=20260820070417862fbbec65dfb_1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:HBM": [
+      {
+        "title": "구형 D램, 50% 뛴다…HBM 쏠림이 부른 메모리 역풍 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQck1Eb2RjX1dPS3NmY0RPSnNjSUVmYkxXVEYtQlFZZmVGcWlUZkZ1MXhhMHp1TWlJOUd4cjU3aHBWdDN1N0pvLUlRNUxVRDRvOGJpN2wtVHBfT0U0S3NBenpVaDBVQzhwQXBQMnhkTFZPUEdkY1o0VTJkaEFoZWZJdmxwR2V6Vms?oc=5",
+        "source": "글로벌이코노믹",
+        "group": "반도체",
+        "keyword": "HBM"
+      }
+    ],
+    "반도체:마이크론": [
+      {
+        "title": "13조 쏟는 마이크론 히로시마 팹, 평택·청주 독주 흔든다",
+        "url": "https://www.g-enews.com/view.php?ud=202608200716363482fbbec65dfb_1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "마이크론"
+      }
+    ],
+    "반도체:TSMC": [
+      {
+        "title": "인텔, AI 패키징 시장 존재감 확대… TSMC CoWoS 공급 부족이 기회 - 위클리포스트",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yWmxpT0xGTjBoN3lENlY2QjcwVHJ3U3g2ZUpmdmtORUdkcDRlSzlrRlVoWi1oaS1GSllGejB4d3ctNDVTRmFpQUw3eDZPMGJZNVF4cFp4RWdVN1pKNDNSUm9fYzN4QW93LVpJ?oc=5",
+        "source": "위클리포스트",
+        "group": "반도체",
+        "keyword": "TSMC"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "이상일 시장, \"정부가 안하면 우리가 먼저\"...반도체메가시티 조성 속도",
+        "url": "https://www.tournews21.com/news/articleView.html?idxno=141398",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "LS일렉트릭·전선, 佛 '시그레 2026' 동반 참가…유럽 차세대 전력망 시...",
+        "url": "https://view.asiae.co.kr/article/2026082007415718651",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      },
+      {
+        "title": "칩 독점한 젠슨 황, 북유럽 전력 확보전에 뛰어들다",
+        "url": "https://www.g-enews.com/view.php?ud=202608200727401005fbbec65dfb_1",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "AI인프라:전력망": [
+      {
+        "title": "'반쪽짜리' 반도체 전력망 시행령...국가 지원 기준 빠져",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694049",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력망"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "양양 차량용 배터리 수리업체 화재…4억원 피해",
+        "url": "https://www.kado.net/news/articleView.html?idxno=2067607",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "양양 배터리 수리업체 화재로 약 4억 원 피해",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712852&plink=ORI&cooper=NAVER",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "[디깅노트] 산업통상부의 성급한 배터리 산업 오판",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670946",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "양양 차량용 배터리 수리업체서 불…4억원 피해",
+        "url": "https://www.yna.co.kr/view/AKR20260820014500062?input=1195m",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "[이 시각 세계] 중국 휴머노이드 유니트리, 상장 첫날 460% 급등",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845960_37012.html",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "비트코인 급등…美 바이백·트럼프 대책 파장[코인 모닝콜]",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02699446645549288",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"김정은, 57개 매우 강력한 핵무기 보유…연내 만날 것\"",
+        "url": "https://www.busan.com/view/busan/view.php?code=2026082007443579109",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "김여정 \"북미 소통 모르는 일\"…트럼프 회담 추진에 찬물",
+        "url": "https://news.jtbc.co.kr/article/NB12314164?influxDiv=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"북한, 핵무기 57개 보유…김정은과 연내 회담\"",
+        "url": "http://tbs.seoul.kr/news/newsView.do?typ_800=4&idx_800=3537955&seq_800=20530847",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “인플레 두려워 금리 올릴 필요 없어, 오히려 내려야”",
+        "url": "https://www.etoday.co.kr/news/view/2616145",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 연준에 금리 인하 압박…“인플레 너무 두려워해”[1일1트]",
+        "url": "https://biz.heraldcorp.com/article/10846023?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "7급공채 1차시험, 세무직 233명·관세직 249명 합격",
+        "url": "https://www.taxtimes.co.kr/news/article.html?no=276453",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "美, 캐나다산 철강 25%·車 15%로 관세인하 논의…막판 조율",
+        "url": "https://www.dt.co.kr/article/12079118?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "캐나다산 철강 25%·車 15%로 관세인하 논의…美와 막판 조율",
+        "url": "https://www.yna.co.kr/view/AKR20260820015800072?input=1195m",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "트럼프:백악관": [
+      {
+        "title": "트럼프, 백악관 보좌관 하이디 오버튼을 새 FDA국장에 임명",
+        "url": "https://www.newsis.com/view/NISX20260820_0003755100",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "백악관"
+      }
+    ],
+    "금리/환율:금리인상": [
+      {
+        "title": "美 FOMC 의사록 \"다수 위원들, 물가 높으면 금리인상 필요성 시사\"",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143278",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "금리인상"
+      }
+    ],
+    "금리/환율:연준": [
+      {
+        "title": "트럼프 \"美 경제 성공할수록 금리 내려야\"…파월 연준에 또 압박",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478816",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      },
+      {
+        "title": "\"빨리 내려라\" 트럼프, 연준에 금리 인하 재차 압박",
+        "url": "https://www.newspim.com/news/view/20260820000034",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      },
+      {
+        "title": "물가 안 꺾이면 금리 올린다…연준, 7월 회의서 '매파 경고'",
+        "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=63087",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "연준"
+      }
+    ],
+    "증권:목표주가": [
+      {
+        "title": "10만1000원으로 낮춘 인텔리안테크 목표주가",
+        "url": "https://www.tokenpost.kr/news/market/393744",
+        "source": "",
+        "group": "증권",
+        "keyword": "목표주가"
+      }
+    ],
+    "증권:골드만삭스": [
+      {
+        "title": "골드만삭스 \"실적 발표 후 주목할 유망주 5선\"…AI·인프라 사이클 집중...",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608200245&t=NN",
+        "source": "",
+        "group": "증권",
+        "keyword": "골드만삭스"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "[마켓 프리뷰] 채권금리 불안에 코스피 '털썩'…환율 1300원대로",
+        "url": "https://biz.sbs.co.kr/article_hub/20000329603?division=NAVER",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "넥스트바이오메디컬, 2026년 코스닥 라이징스타 2년 연속 선정",
+        "url": "https://www.medigatenews.com/news/1459840400",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "증권:나스닥": [
+      {
+        "title": "美증시 나스닥100 '홀로 하락'...MSTR·테슬라 '껑충', AI주 '뚝'",
+        "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170135",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      },
+      {
+        "title": "뉴욕증시, 국채금리 하락에 상승 다우 0.22%↑·나스닥 0.16%↑...국제유...",
+        "url": "https://www.public25.com/news/articleView.html?idxno=52986",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "[3분증시] 뉴욕증시, 美 정부 국채 매입 발표에 반등",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260820074316Y1j",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "19년 만의 국채금리 급등에 '구원투수'…뉴욕증시 반등",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5213537",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "'15조 수주' 전선업, 설비 키워 AI 특수 잡는다",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857826",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "고배당 ETF 순자산 8조원대 회복했다",
+        "url": "https://www.tokenpost.kr/news/market/393750",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      },
+      {
+        "title": "대신증권, '나만의 노벨 재단' 고배당 투자전략 세미나 진행",
+        "url": "http://www.bizwnews.com/news/articleView.html?idxno=143703",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      },
+      {
+        "title": "대신증권 \"롯데렌탈, 내년 배당 확대 전망…목표가 13%↑\"",
+        "url": "https://www.etoday.co.kr/news/view/2616144",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ]
+  }
 }
