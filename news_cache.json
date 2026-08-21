@@ -2306,6 +2306,126 @@
     },
     "a624ca03c77e": {
       "first_seen": "2026-08-21T08:55:00.294765+00:00"
+    },
+    "a7a68ee2f9db": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "12a6ed963a66": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "57aee37919a9": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "769adad193fc": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "868e2fb9769e": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "cd48b7c53687": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "76e61618ea15": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "56807086b764": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "f487032e8888": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "ba2acfe0c2d1": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "0fa230ad03f4": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "cf5bde050370": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "6b627d7ed483": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "07a09327ca3d": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "e7e06c15e7e9": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "0783adbd65dd": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "30950a4f1b3a": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "4fe68935d953": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "1df1e1f8c770": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "891386cb792e": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "00de30be248d": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "2217093ecdfd": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "3aff0aa5ac91": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "c27feb9ce77d": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "cb00c9c87917": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "be0a12a5c536": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "b57090d5be81": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "1a948d852e5a": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "694c2be461f9": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "c850075544b7": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "4351e9fa2c06": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "4344f656475d": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "dfdef927a6c2": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "69cd3c0614da": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "68c8ebbd6b6d": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "2185c9666bb9": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "0a8dfb373d7b": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "8291446e5385": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "79c6e27e18ba": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
+    },
+    "7af3afea39e0": {
+      "first_seen": "2026-08-21T09:30:27.300946+00:00"
     }
   },
   "news_counts": {
@@ -3366,9 +3486,512 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 7,
+    "반도체:SK하이닉스": 2,
+    "반도체:엔비디아": 1,
+    "반도체:반도체": 1,
+    "AI인프라:데이터센터": 1,
+    "AI인프라:전력망": 2,
+    "에너지:배터리": 1,
+    "에너지:원전": 1,
+    "에너지:태양광": 2,
+    "로봇:자율주행": 1,
+    "로봇:로봇": 3,
+    "트럼프:트럼프": 2,
+    "트럼프:백악관": 1,
+    "금리/환율:기준금리": 1,
+    "증권:코스피": 5,
+    "증권:코스닥": 2,
+    "국채금리:국채": 2,
+    "원자재:구리": 1,
+    "주식:수주": 1,
+    "주식:유상증자": 3
+  },
   "kw_counts_reset": "2026-08-20T23:00:42.478612+00:00",
   "last_top10_sent": "2026-08-21T08:55:05.491510+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "삼성전자, 주주환원 실망감에 애프터마켓 급락 전환...하이닉스보다 소...",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143392",
+      "source": "",
+      "count": 7,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "삼성전자, SK하이닉스 넘어선 주주환원 규모 '최대 110조'",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=308852",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아(NVDA) \"중국 AI칩 개발은 사실무근\"...월가 강세론은 '건재'",
+      "url": "http://coinreaders.com/254042",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:반도체": {
+      "title": "반도체 호황 '추가세수'로 미래대응기금…교육교부금 55년만에 개편",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000058621",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:데이터센터": {
+      "title": "아이에이 “모듈형 데이터센터, 소버린·피지컬 AI 시대 새 표준”",
+      "url": "https://www.etnews.com/20260821000279",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "AI인프라:전력망": {
+      "title": "'햇빛소득마을' 전력망 우선 접속한다",
+      "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406597",
+      "source": "",
+      "count": 2,
+      "group": "AI인프라",
+      "keyword": "전력망"
+    },
+    "에너지:배터리": {
+      "title": "삼성SDI, 삼성디스플레이 지분 4조 4500억에 매각… 배터리 사업 투자 확...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=260745",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "에너지:원전": {
+      "title": "한수원, 을지연습서 원전 비상 태세 점검…드론 침투 대비 방호 훈련",
+      "url": "https://www.news1.kr/economy/trend/6266012",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "원전"
+    },
+    "에너지:태양광": {
+      "title": "경기도기술학교, 새만금 태양광 발전시설 현장교육 실시",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=143995",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "로봇:자율주행": {
+      "title": "\"집 안의 자율주행\"..드리미 로봇청소기 속 숨은 기술은",
+      "url": "http://autotimes.co.kr/detail.php?number=688856&thread=27",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "자율주행"
+    },
+    "로봇:로봇": {
+      "title": "바디프랜드, AI 헬스케어 로봇 '733' 홈쇼핑에서 만난다",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=552629",
+      "source": "",
+      "count": 3,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "정동영 “트럼프 발 지각변동…북미대화, 동북아정세 재정립”",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642931&ref=A",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:백악관": {
+      "title": "트럼프 곁 지킨 금발의 '애착 담요' 나탈리 하프…백악관 총력 방어에 ...",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5213987",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "백악관"
+    },
+    "금리/환율:기준금리": {
+      "title": "다가오는 금통위… 기준금리 연속 인상할까",
+      "url": "https://www.sisaweek.com/news/articleView.html?idxno=237424",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "기준금리"
+    },
+    "증권:코스피": {
+      "title": "[26.8.21 증시 인싸잇] 삼성전자 주주환원 기대에 코스피 6900선 탈환… ...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=260744",
+      "source": "",
+      "count": 5,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "엘리스그룹, 코스닥 상장 첫발…증권신고서 제출",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=271512",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "국채금리:국채": {
+      "title": "비트코인(BTC)·금은 뛰었는데...아시아 증시, 美 국채금리에 '비명'",
+      "url": "http://coinreaders.com/254049",
+      "source": "",
+      "count": 2,
+      "group": "국채금리",
+      "keyword": "국채"
+    },
+    "원자재:구리": {
+      "title": "구리문화재단, 민선 9기 첫 이사회 개최",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608210196",
+      "source": "",
+      "count": 1,
+      "group": "원자재",
+      "keyword": "구리"
+    },
+    "주식:수주": {
+      "title": "두산에너빌리티, 오만 미스파 가스복합발전소 공사 수주",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202608211802166391f4ab64559d_12",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "수주"
+    },
+    "주식:유상증자": {
+      "title": "앱솔릭스, 4011억원 유상증자…글라스기판 상업화 자금 확보",
+      "url": "https://www.ddaily.co.kr/page/view/2026082117175358961",
+      "source": "",
+      "count": 3,
+      "group": "주식",
+      "keyword": "유상증자"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "삼성전자, 주주환원 실망감에 애프터마켓 급락 전환...하이닉스보다 소...",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143392",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자, '국내 최대 주주환원' 발표…올해만 90조~110조 규모",
+        "url": "https://www.nocutnews.co.kr/news/6566324?utm_source=naver&utm_medium=article&utm_campaign=20260821062757",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자 DX노조 서초사옥 집결…보상 격차 개선 요구",
+        "url": "https://www.ddaily.co.kr/page/view/2026082117144665451",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자, 주주환원 '새 역사'…반도체 초호황 과실 국민과 나눈다",
+        "url": "https://www.news1.kr/industry/general-industry/6266029",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "최대 110조... '작심' 삼성전자, 역대급 배당 나선다",
+        "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60400",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자, 최대 110조원 규모 주주환원 실시",
+        "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065604853241940",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "최대 110조 환원하는 삼성전자…자사주보다 '배당'에 무게",
+        "url": "https://www.mt.co.kr/industry/2026/08/21/2026082117430659590",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "삼성전자, SK하이닉스 넘어선 주주환원 규모 '최대 110조'",
+        "url": "https://www.fetv.co.kr/news/articleView.html?idxno=308852",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "삼성전자·SK하이닉스, 역대급 주주환원 경쟁…‘40조 소각’ vs ‘30조 ...",
+        "url": "http://www.inews24.com/view/1997265",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아(NVDA) \"중국 AI칩 개발은 사실무근\"...월가 강세론은 '건재'",
+        "url": "http://coinreaders.com/254042",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "반도체 호황 '추가세수'로 미래대응기금…교육교부금 55년만에 개편",
+        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000058621",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "아이에이 “모듈형 데이터센터, 소버린·피지컬 AI 시대 새 표준”",
+        "url": "https://www.etnews.com/20260821000279",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "AI인프라:전력망": [
+      {
+        "title": "'햇빛소득마을' 전력망 우선 접속한다",
+        "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406597",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력망"
+      },
+      {
+        "title": "RPS 폐지부터 계통 우선접속·민간 전력망까지...재생에너지 제도 '대수...",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=371516",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력망"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "삼성SDI, 삼성디스플레이 지분 4조 4500억에 매각… 배터리 사업 투자 확...",
+        "url": "https://www.mediawatch.kr/news/article.html?no=260745",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "에너지:원전": [
+      {
+        "title": "한수원, 을지연습서 원전 비상 태세 점검…드론 침투 대비 방호 훈련",
+        "url": "https://www.news1.kr/economy/trend/6266012",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "경기도기술학교, 새만금 태양광 발전시설 현장교육 실시",
+        "url": "http://www.bizwnews.com/news/articleView.html?idxno=143995",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      },
+      {
+        "title": "제8회 아름다운 태양광 사진 공모전 참가작 모집",
+        "url": "https://www.ekn.kr/web/view.php?key=20260821024065165",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "로봇:자율주행": [
+      {
+        "title": "\"집 안의 자율주행\"..드리미 로봇청소기 속 숨은 기술은",
+        "url": "http://autotimes.co.kr/detail.php?number=688856&thread=27",
+        "source": "",
+        "group": "로봇",
+        "keyword": "자율주행"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "바디프랜드, AI 헬스케어 로봇 '733' 홈쇼핑에서 만난다",
+        "url": "https://www.ngetnews.com/news/articleView.html?idxno=552629",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "인천시교육청, 시애틀서 항공우주 진로교류… 한글교육·로봇코딩·전문...",
+        "url": "http://www.lawissue.co.kr/view.php?ud=202608211540549572d94aa4ada6_12",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "내년 5월 세계 로봇 인재 서울로 집결 … 광운대, 로보페스트 월드 챔피...",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100257.html",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "정동영 “트럼프 발 지각변동…북미대화, 동북아정세 재정립”",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642931&ref=A",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 떠나도…보호무역은 계속된다[북스&]",
+        "url": "https://www.sedaily.com/article/20081997?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:백악관": [
+      {
+        "title": "트럼프 곁 지킨 금발의 '애착 담요' 나탈리 하프…백악관 총력 방어에 ...",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5213987",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "백악관"
+      }
+    ],
+    "금리/환율:기준금리": [
+      {
+        "title": "다가오는 금통위… 기준금리 연속 인상할까",
+        "url": "https://www.sisaweek.com/news/articleView.html?idxno=237424",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "기준금리"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "[26.8.21 증시 인싸잇] 삼성전자 주주환원 기대에 코스피 6900선 탈환… ...",
+        "url": "https://www.mediawatch.kr/news/article.html?no=260744",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "[마감시황] 美 금리 부담에도 '주주환원'이 방어...코스피 6900선 회복",
+        "url": "https://www.polinews.co.kr/news/articleView.html?idxno=740896",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "코스피 6900 회복…금리불안 밀어낸 삼전닉스, 환원 모멘텀 될까",
+        "url": "https://www.mt.co.kr/stock/2026/08/21/2026082116015977368",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "반도체 주주환원의 힘…코스피, 다시 7천선 코앞으로",
+        "url": "https://biz.sbs.co.kr/article_hub/20000330122?division=NAVER",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "‘삼성 군단’ 질주…코스피 시총 톱10 재편",
+        "url": "https://www.sedaily.com/article/20081990?ref=naver",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "엘리스그룹, 코스닥 상장 첫발…증권신고서 제출",
+        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=271512",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      },
+      {
+        "title": "엘리스그룹, 코스닥 상장 본격화",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858630",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "비트코인(BTC)·금은 뛰었는데...아시아 증시, 美 국채금리에 '비명'",
+        "url": "http://coinreaders.com/254049",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "美 국채금리 잡으려다 달러 약세?…금 5000불·비트코인 10만불 전망[오...",
+        "url": "https://www.mt.co.kr/world/2026/08/21/2026082117311191737",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ],
+    "원자재:구리": [
+      {
+        "title": "구리문화재단, 민선 9기 첫 이사회 개최",
+        "url": "https://www.sentv.co.kr/article/view/sentv202608210196",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "두산에너빌리티, 오만 미스파 가스복합발전소 공사 수주",
+        "url": "http://www.lawissue.co.kr/view.php?ud=202608211802166391f4ab64559d_12",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ],
+    "주식:유상증자": [
+      {
+        "title": "앱솔릭스, 4011억원 유상증자…글라스기판 상업화 자금 확보",
+        "url": "https://www.ddaily.co.kr/page/view/2026082117175358961",
+        "source": "",
+        "group": "주식",
+        "keyword": "유상증자"
+      },
+      {
+        "title": "'4천억 유상증자 단행'…앱솔릭스, 글라스기판 사업 본격 상업화 나선다",
+        "url": "https://www.cwn.kr/news/articleView.html?idxno=53957",
+        "source": "",
+        "group": "주식",
+        "keyword": "유상증자"
+      },
+      {
+        "title": "글라스기판 상업화에 4000억원...앱솔릭스, 유상증자 결정",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694711",
+        "source": "",
+        "group": "주식",
+        "keyword": "유상증자"
+      }
+    ]
+  }
 }
