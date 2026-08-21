@@ -1,80 +1,5 @@
 {
   "news_seen": {
-    "327b27939cd9": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "37ad0efaefd7": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "f5436548cbe7": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "09059267fcec": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "08b50b3c601e": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "65ad79baddfb": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "da0f6161ebc2": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "9b951405617e": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "64ea4750ef31": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "51466bb85b88": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "8b3002ef78a4": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "1379c754a523": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "ec22952453c5": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "ffad3bd444c4": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "2ce56aae41d7": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "af5995f5e59b": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "bfdcfee8331d": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "32d0d778a467": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "18ca5b5955f6": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "c04513a39fe0": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "743827cc31d2": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "aaea9d0b6e24": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "9b5209694f95": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "876f488b9880": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
-    "8ce03541b161": {
-      "first_seen": "2026-08-21T11:36:46.058180+00:00"
-    },
     "f14c00add43b": {
       "first_seen": "2026-08-21T11:58:32.937208+00:00"
     },
@@ -524,6 +449,48 @@
     },
     "1711d7707b48": {
       "first_seen": "2026-08-21T23:20:04.606003+00:00"
+    },
+    "c4548735e2bc": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "465475dd1333": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "1861be94272b": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "dacc31b3a353": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "c6bb33baed6d": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "59f9219ddc8c": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "0c3f661b38be": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "544940062617": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "e5652fee98d0": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "95c9f3f9be35": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "0314da818bab": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "eddca7832461": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "5141230c3b4d": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "1f79a06d7649": {
+      "first_seen": "2026-08-21T23:44:06.241928+00:00"
     }
   },
   "news_counts": {
@@ -1584,9 +1551,220 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:TSMC": 1,
+    "반도체:패키징": 1,
+    "반도체:반도체": 1,
+    "AI인프라:데이터센터": 1,
+    "에너지:원전": 1,
+    "로봇:휴머노이드": 1,
+    "로봇:로봇": 4,
+    "트럼프:트럼프": 1,
+    "금리/환율:기준금리": 1,
+    "국채금리:국채": 2
+  },
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
   "last_top10_sent": "2026-08-21T23:20:06.218085+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:TSMC": {
+      "title": "라피더스, 600mm 패널 패키징 착수… TSMC 독주 맞불 - 초이스스탁US",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HMjRBb1VGOHQxSzVZTzZ0YzczYXJwNDl5VWVqTG1jblJtelBzd2hjUEJLZ1hMWl8yQ1BJdW5fOXpNa0NENGdCRU5KX0lsNHRyejBFTGVXNWMySnd5T2d4YUNuN0plNDQ?oc=5",
+      "source": "초이스스탁US",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "TSMC"
+    },
+    "반도체:패키징": {
+      "title": "라피더스, 600mm 패널 패키징 착수… TSMC 독주 맞불",
+      "url": "https://www.g-enews.com/view.php?ud=202608220808587771fbbec65dfb_1",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "패키징"
+    },
+    "반도체:반도체": {
+      "title": "앤트로픽, 구글 출신 반도체 전문가 영입…자체 칩 개발 본격화",
+      "url": "https://www.yna.co.kr/view/AKR20260822016000091?input=1195m",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:데이터센터": {
+      "title": "앤트로픽, IPO 땐 기업가치 2조 달러 전망…AI·데이터센터 반발은 부담",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=760487",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "에너지:원전": {
+      "title": "현대건설, 차세대 원전 EPC 입지 넓힌다…테라파워 협력 '마중물'",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=423624",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "원전"
+    },
+    "로봇:휴머노이드": {
+      "title": "벽 들이받고 허리 두 동강...中 휴머노이드 로봇 훈련 영상 화제",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170285",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "로봇:로봇": {
+      "title": "'못 만들어 대박' 中애니 캐릭터 로봇 등장",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260822083939XPd",
+      "source": "",
+      "count": 4,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프, 밥상물가 부담에 결국 다진 소고기 초과관세 면제",
+      "url": "https://www.donga.com/news/Inter/article/all/20260822/134523216/1",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "금리/환율:기준금리": {
+      "title": "8월 금통위 동결 vs 인상 '팽팽'…기준금리 어디로",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93999",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "기준금리"
+    },
+    "국채금리:국채": {
+      "title": "국채선물, 美 국채 약세 속 혼조…10년물 21틱↑",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431324",
+      "source": "",
+      "count": 2,
+      "group": "국채금리",
+      "keyword": "국채"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:TSMC": [
+      {
+        "title": "라피더스, 600mm 패널 패키징 착수… TSMC 독주 맞불 - 초이스스탁US",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HMjRBb1VGOHQxSzVZTzZ0YzczYXJwNDl5VWVqTG1jblJtelBzd2hjUEJLZ1hMWl8yQ1BJdW5fOXpNa0NENGdCRU5KX0lsNHRyejBFTGVXNWMySnd5T2d4YUNuN0plNDQ?oc=5",
+        "source": "초이스스탁US",
+        "group": "반도체",
+        "keyword": "TSMC"
+      }
+    ],
+    "반도체:패키징": [
+      {
+        "title": "라피더스, 600mm 패널 패키징 착수… TSMC 독주 맞불",
+        "url": "https://www.g-enews.com/view.php?ud=202608220808587771fbbec65dfb_1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "앤트로픽, 구글 출신 반도체 전문가 영입…자체 칩 개발 본격화",
+        "url": "https://www.yna.co.kr/view/AKR20260822016000091?input=1195m",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "앤트로픽, IPO 땐 기업가치 2조 달러 전망…AI·데이터센터 반발은 부담",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=760487",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "에너지:원전": [
+      {
+        "title": "현대건설, 차세대 원전 EPC 입지 넓힌다…테라파워 협력 '마중물'",
+        "url": "http://www.economytalk.kr/news/articleView.html?idxno=423624",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "벽 들이받고 허리 두 동강...中 휴머노이드 로봇 훈련 영상 화제",
+        "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170285",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "'못 만들어 대박' 中애니 캐릭터 로봇 등장",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260822083939XPd",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "구미·경산·포항, 세계 로봇도시 된다…사업비 60억 투입",
+        "url": "https://www.newsis.com/view/NISX20260821_0003756944",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "'노는 로봇 가고 이제 일하는 로봇으로'...'태세 전환'",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=599947",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "AI/로봇 기반 R&D 자동화와 자율실험실(SDL) 구축 전략 세미나",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476128",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프, 밥상물가 부담에 결국 다진 소고기 초과관세 면제",
+        "url": "https://www.donga.com/news/Inter/article/all/20260822/134523216/1",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "금리/환율:기준금리": [
+      {
+        "title": "8월 금통위 동결 vs 인상 '팽팽'…기준금리 어디로",
+        "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93999",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "기준금리"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "국채선물, 美 국채 약세 속 혼조…10년물 21틱↑",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431324",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "27일 가계동향·국채 발행계획 한꺼번에 나온다",
+        "url": "https://www.tokenpost.kr/news/cryptocurrency/395433",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ]
+  }
 }
