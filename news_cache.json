@@ -1,59 +1,5 @@
 {
   "news_seen": {
-    "db68ebd3b1c6": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "821cea959413": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "42d072b951f9": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "fc4061d58ab5": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "b9b7ac7c520b": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "6bcbb4fd1ae1": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "fb3d5053ad71": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "e843e5cd4d8b": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "c35ab6af3390": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "0d54aba181e6": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "a4e37fac2921": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "7f06e2443d7e": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "2f602ffbc8c4": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "24ea0d241c27": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "238aead584be": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "d573d1411edc": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "0d3ea9bafc19": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
-    "66f102268d9f": {
-      "first_seen": "2026-08-22T00:02:07.468369+00:00"
-    },
     "1709319b7231": {
       "first_seen": "2026-08-22T01:47:24.195918+00:00"
     },
@@ -1139,6 +1085,36 @@
     },
     "cc7998a0138d": {
       "first_seen": "2026-08-22T11:55:49.389142+00:00"
+    },
+    "154d4741044a": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "6cd75231e272": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "4259cd7e8cb1": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "78bbd07c696b": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "8752a1d4fd58": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "edd6e2199225": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "51c56c844cdc": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "e9b4ba86729e": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "134f3e4707c1": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
+    },
+    "e3c76ab3f0df": {
+      "first_seen": "2026-08-22T12:25:45.000393+00:00"
     }
   },
   "news_counts": {
@@ -2199,287 +2175,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 2,
-    "로봇:로봇": 3,
-    "국채금리:국채": 1,
-    "반도체:SK하이닉스": 1,
-    "반도체:엔비디아": 1,
-    "반도체:GPU": 1,
-    "AI인프라:전력": 1,
-    "증권:리포트": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-22T11:37:44.675237+00:00",
-  "last_top10_sent": "2026-08-22T10:56:01.010945+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "\"월요일 국장 또 폭등?\"…삼성전자·SK하이닉스, 美금리·엔비디아에 주...",
-      "url": "https://www.ajunews.com/view/20260821171126525",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:반도체": {
-      "title": "서울반도체고 실습실 둘러보는 학부모",
-      "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512414",
-      "source": "",
-      "count": 3,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "로봇:휴머노이드": {
-      "title": "춤추던 로봇, 이젠 손기술 뽐낸다…진화하는 중국 휴머노이드",
-      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214108",
-      "source": "",
-      "count": 2,
-      "group": "로봇",
-      "keyword": "휴머노이드"
-    },
-    "트럼프:트럼프": {
-      "title": "7000곳 때려도 안 무너졌다…트럼프가 오판한 ‘이란의 힘’",
-      "url": "https://www.segye.com/newsView/20260822505410?OutUrl=naver",
-      "source": "",
-      "count": 3,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "금리/환율:기준금리": {
-      "title": "[김남현의 채권썰] 시장 충격은 기준금리 동결시 더 클 듯",
-      "url": "https://www.etoday.co.kr/news/view/2617053",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "기준금리"
-    },
-    "로봇:로봇": {
-      "title": "\"축구부터 콩 집기·병뚜껑 열기까지\"…베이징서 로봇운동회 개막",
-      "url": "https://www.yna.co.kr/view/AKR20260822045900083?input=1195m",
-      "source": "",
-      "count": 3,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "국채금리:국채": {
-      "title": "국회부터 거리까지 “이스라엘 국채 투자 철회”…국민연금·KIC 압박 확...",
-      "url": "https://newscham.net/articles/117098",
-      "source": "",
-      "count": 1,
-      "group": "국채금리",
-      "keyword": "국채"
-    },
-    "반도체:SK하이닉스": {
-      "title": "[발행인 칼럼] 삼성·SK하이닉스, 주주환원의 새 문법",
-      "url": "http://sateconomy.co.kr/news/view/1065613303410934",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:엔비디아": {
-      "title": "엔비디아, 중국 전용 AI칩 연내 출하설 부인",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/395663",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:GPU": {
-      "title": "CFTC, GPU 연산력 파생상품 상장 두고 60일 의견수렴…“컴퓨트는 디지털 석유” - 위키트리",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcFUwZjdVMVV6dmdkSzFxakFoblFrbEtUeDliNkZtcFJxTnNCNjNDalJEbjV0WDN1dU14QUF4U1p1OURsdEZYc0dQemhONmxEQWpySUNn?oc=5",
-      "source": "위키트리",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "GPU"
-    },
-    "AI인프라:전력": {
-      "title": "(FAPECA 2026) 태국, 건물 E 효율·전력망 현대화 추진…넷제로 이행 로드...",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=371525",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "증권:리포트": {
-      "title": "[리포트]충남 '교권보호관' 신설...무너진 교단 구할까",
-      "url": "https://tjmbc.co.kr/NewsArticle/858063",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "리포트"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "\"월요일 국장 또 폭등?\"…삼성전자·SK하이닉스, 美금리·엔비디아에 주...",
-        "url": "https://www.ajunews.com/view/20260821171126525",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "'SK하이닉스 40조 쐈는데'…삼성전자, 150조 역대급 주주환원 쏘나",
-        "url": "https://www.mediapen.com/news/view/1118236",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "역대급 110조원 주주환원에도…삼성전자 주가는 왜 하락했나",
-        "url": "http://weekly.chosun.com/news/articleView.html?idxno=54567",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "서울반도체고 실습실 둘러보는 학부모",
-        "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512414",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "서울반도체고등학교 입학설명회에 쏠린 관심",
-        "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512410",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "서울반도체고 내년 3월 개교",
-        "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512413",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "로봇:휴머노이드": [
-      {
-        "title": "춤추던 로봇, 이젠 손기술 뽐낸다…진화하는 중국 휴머노이드",
-        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214108",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      },
-      {
-        "title": "휴머노이드 몰려오는데… 기업 60%가 로봇 도입 '스톱' 외친 이유",
-        "url": "https://www.g-enews.com/view.php?ud=2026082219581745152bd56fbc3c_1",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "7000곳 때려도 안 무너졌다…트럼프가 오판한 ‘이란의 힘’",
-        "url": "https://www.segye.com/newsView/20260822505410?OutUrl=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈는 현재 미 영토…이란, 합의 원해\"",
-        "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534943",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 북미 대화 추진, 미국 내 정치 쟁점화…\"한미 훈련 축소 수습해...",
-        "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534946",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "금리/환율:기준금리": [
-      {
-        "title": "[김남현의 채권썰] 시장 충격은 기준금리 동결시 더 클 듯",
-        "url": "https://www.etoday.co.kr/news/view/2617053",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "기준금리"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "\"축구부터 콩 집기·병뚜껑 열기까지\"…베이징서 로봇운동회 개막",
-        "url": "https://www.yna.co.kr/view/AKR20260822045900083?input=1195m",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "널빤지가 2톤 SUV를 '번쩍'‥주차로봇, '문콕' 걱정 없이 척척!",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846584_37004.html",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "순찰하고 주차까지…아파트로 들어온 로봇",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716914&plink=ORI&cooper=NAVER",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "국채금리:국채": [
-      {
-        "title": "국회부터 거리까지 “이스라엘 국채 투자 철회”…국민연금·KIC 압박 확...",
-        "url": "https://newscham.net/articles/117098",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "[발행인 칼럼] 삼성·SK하이닉스, 주주환원의 새 문법",
-        "url": "http://sateconomy.co.kr/news/view/1065613303410934",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "엔비디아, 중국 전용 AI칩 연내 출하설 부인",
-        "url": "https://www.tokenpost.kr/news/cryptocurrency/395663",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:GPU": [
-      {
-        "title": "CFTC, GPU 연산력 파생상품 상장 두고 60일 의견수렴…“컴퓨트는 디지털 석유” - 위키트리",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcFUwZjdVMVV6dmdkSzFxakFoblFrbEtUeDliNkZtcFJxTnNCNjNDalJEbjV0WDN1dU14QUF4U1p1OURsdEZYc0dQemhONmxEQWpySUNn?oc=5",
-        "source": "위키트리",
-        "group": "반도체",
-        "keyword": "GPU"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "(FAPECA 2026) 태국, 건물 E 효율·전력망 현대화 추진…넷제로 이행 로드...",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=371525",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "증권:리포트": [
-      {
-        "title": "[리포트]충남 '교권보호관' 신설...무너진 교단 구할까",
-        "url": "https://tjmbc.co.kr/NewsArticle/858063",
-        "source": "",
-        "group": "증권",
-        "keyword": "리포트"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-22T12:25:46.560646+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
