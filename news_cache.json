@@ -689,6 +689,78 @@
     },
     "6891746729e0": {
       "first_seen": "2026-08-22T02:41:54.129175+00:00"
+    },
+    "ec82ddc15661": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "7c109dc580a8": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "e3157bdaf9eb": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "225f8f326035": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "c7ee7ed0f35a": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "17607f8ee4eb": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "7451c3d02f6c": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "d9f2045c41b5": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "3f3f9b758089": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "814eabb5c3c5": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "86d550a0193f": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "4608991c7933": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "a2a2397581cc": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "64253839390d": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "776be1f6fcb1": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "f7a183fa6177": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "f4ae33b2a81d": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "41369a0720db": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "913baf7025d0": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "f6dcdba71121": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "0b4180209be1": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "1ae7e52fce72": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "2389cb35438e": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "b0295f248a01": {
+      "first_seen": "2026-08-22T03:28:01.752685+00:00"
     }
   },
   "news_counts": {
@@ -1749,432 +1821,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 6,
-    "반도체:SK하이닉스": 2,
-    "반도체:엔비디아": 4,
-    "반도체:반도체": 2,
-    "로봇:로봇": 4,
-    "트럼프:트럼프": 7,
-    "금리/환율:기준금리": 3,
-    "금리/환율:연준": 1,
-    "증권:하향": 1,
-    "증권:코스닥": 3,
-    "원자재:구리": 2,
-    "원자재:알루미늄": 1,
-    "주식:수주": 1,
-    "주식:배당": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
-  "last_top10_sent": "2026-08-22T01:47:28.734693+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "돈보단 '같은 삼성전자'라는 존중…강남 거리에 퍼진 DX의 설움 [ER현장...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=748641",
-      "source": "",
-      "count": 6,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:SK하이닉스": {
-      "title": "최근 5거래일 SK하이닉스 주가 롤러코스터 이틀째 반등",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170181",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "SK하이닉스"
-    },
-    "반도체:엔비디아": {
-      "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… \"전력·부지부터...",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=214244",
-      "source": "",
-      "count": 4,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:반도체": {
-      "title": "한미반도체, 1300억 들여 8공장 확보…\"장비 쇼티지 대비\"",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=748644",
-      "source": "",
-      "count": 2,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "로봇:로봇": {
-      "title": "포트홀·순찰로봇·새빛봇까지…수원시, 생활행정 AI 전환 본격화",
-      "url": "https://www.etnews.com/20260822000022",
-      "source": "",
-      "count": 4,
-      "group": "로봇",
-      "keyword": "로봇"
-    },
-    "트럼프:트럼프": {
-      "title": "\"공화당 지면 나는 탄핵\"…지지율 33% 트럼프, 중간선거를 '정치 생존'으...",
-      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5892",
-      "source": "",
-      "count": 7,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "금리/환율:기준금리": {
-      "title": "다음주 한은 기준금리 결정…두 달 연속 인상하나",
-      "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905941",
-      "source": "",
-      "count": 3,
-      "group": "금리/환율",
-      "keyword": "기준금리"
-    },
-    "금리/환율:연준": {
-      "title": "\"연준의 불투명한 소통방식, 시장 '불협화음' 키울 것\"",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115779",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "연준"
-    },
-    "증권:하향": {
-      "title": "5거래일간 삼성중공업 주가 하향 곡선",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170198",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "하향"
-    },
-    "증권:코스닥": {
-      "title": "공모가 희비 갈린 니어스랩·해치텍…나란히 코스닥 상장",
-      "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905942",
-      "source": "",
-      "count": 3,
-      "group": "증권",
-      "keyword": "코스닥"
-    },
-    "원자재:구리": {
-      "title": "구리문화재단, 민선 9기 출범 후 첫 이사회 열고 문화예술 활성화 기반...",
-      "url": "https://www.kgnews.co.kr/news/article.html?no=908510",
-      "source": "",
-      "count": 2,
-      "group": "원자재",
-      "keyword": "구리"
-    },
-    "원자재:알루미늄": {
-      "title": "알루미늄 파이프로 30번 내리치고도…40대가 감옥 대신 풀려난 이유",
-      "url": "https://www.mk.co.kr/article/12133766",
-      "source": "",
-      "count": 1,
-      "group": "원자재",
-      "keyword": "알루미늄"
-    },
-    "주식:수주": {
-      "title": "[건설·부동산 브리핑] 해외 수주부터 재건축 수주전, 분양·채용까지 '...",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101799",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "수주"
-    },
-    "주식:배당": {
-      "title": "\"주주환원 흐름 이어간다\" KCC, '삼성물산 배당금' 받아 재배당 왜?",
-      "url": "https://www.newsis.com/view/NISX20260822_0003758372",
-      "source": "",
-      "count": 1,
-      "group": "주식",
-      "keyword": "배당"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "돈보단 '같은 삼성전자'라는 존중…강남 거리에 퍼진 DX의 설움 [ER현장...",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=748641",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "[주간 거래소 기관] 삼성전자우 SK텔레콤 삼양식품 이수페타시스 '폭풍...",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479546",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "8월 3주차 삼성전자우 주가 변동성 속 20만원대 안착",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170189",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "[주간 코스닥 기관] 삼성전자· 한미반도체 사고 삼성전기·SK하이닉스 ...",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479545",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자, 최대 110조원 주주환원 결정…\"회사 성장·주주가치 제고 선...",
-        "url": "https://www.newspost.kr/news/articleView.html?idxno=225115",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      },
-      {
-        "title": "삼성전자 주가 최근 5거래일간 변동성 확대 후 상승 마감",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170178",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:SK하이닉스": [
-      {
-        "title": "최근 5거래일 SK하이닉스 주가 롤러코스터 이틀째 반등",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170181",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      },
-      {
-        "title": "“비트코인보다 SK하이닉스” 해외 거래소에서 1등…한국서 다 떠난다 ...",
-        "url": "https://biz.heraldcorp.com/article/10848608?ref=naver",
-        "source": "",
-        "group": "반도체",
-        "keyword": "SK하이닉스"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… \"전력·부지부터...",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=214244",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "엔비디아 루빈 양산·배송 시작 보도",
-        "url": "https://www.tokenpost.kr/news/breaking/395484",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "“AI 빚 내가 보증설께”…엔비디아 통큰 약속에 서학개미 DRAM에 1천억 ...",
-        "url": "https://www.mk.co.kr/article/12133760",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      },
-      {
-        "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=214241",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "한미반도체, 1300억 들여 8공장 확보…\"장비 쇼티지 대비\"",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=748644",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      },
-      {
-        "title": "최근 5거래일 한미반도체 주가 변동폭 확대 하락 전환",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170203",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "로봇:로봇": [
-      {
-        "title": "포트홀·순찰로봇·새빛봇까지…수원시, 생활행정 AI 전환 본격화",
-        "url": "https://www.etnews.com/20260822000022",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "[주간 코스닥 기관] 실리콘투·HPSP 집중매수…로봇주는 대거 팔았다",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479544",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "백화점은 소포장 한우·맛집 협업…편의점은 금·로봇 앞세워 '명절 공...",
-        "url": "https://www.etoday.co.kr/news/view/2616965",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      },
-      {
-        "title": "[무엇이든 리뷰] 문앞까지 배달하는 '로봇'…아파트 배달 갈등 해법 될...",
-        "url": "https://www.etnews.com/20260821000145",
-        "source": "",
-        "group": "로봇",
-        "keyword": "로봇"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "\"공화당 지면 나는 탄핵\"…지지율 33% 트럼프, 중간선거를 '정치 생존'으...",
-        "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5892",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 또 “호르무즈 해협은 미국 영토” 주장",
-        "url": "https://www.khan.co.kr/article/202608221132001",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “호르무즈는 美 영토…이란, 합의 절실히 원해”",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260822010007264",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “11월 중간선거, 공화당 지면 난 탄핵”",
-        "url": "https://weekly.khan.co.kr/article/202608221130001",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “호르무즈는 美영토…이란, 합의 절실히 원해” 거듭 강조",
-        "url": "https://www.kukinews.com/article/view/kuk202608220003",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "[속보] 트럼프 \"호르무즈 해협, 지금은 미국 영토\"…이란 압박에 국제법...",
-        "url": "https://www.imaeil.com/page/view/2026082211221715600",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "“한미훈련까지 줄였는데 北은 냉담”…美민주 “트럼프, 김정은에 굴복...",
-        "url": "http://www.joseilbo.com/news/news_read.php?uid=574288&class=42&grp=",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "금리/환율:기준금리": [
-      {
-        "title": "다음주 한은 기준금리 결정…두 달 연속 인상하나",
-        "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905941",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "기준금리"
-      },
-      {
-        "title": "부동산·빚투에 가계빚 2020조…'백투백' 기준금리 셈법 복잡한 한은",
-        "url": "https://www.sidae.com/article/2026082210383934511",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "기준금리"
-      },
-      {
-        "title": "기준금리 또 오를까…한은 금통위·수정 경제전망 주목",
-        "url": "http://www.kjdaily.com/article.php?aid=1787364698684959227",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "기준금리"
-      }
-    ],
-    "금리/환율:연준": [
-      {
-        "title": "\"연준의 불투명한 소통방식, 시장 '불협화음' 키울 것\"",
-        "url": "https://www.businessplus.kr/news/articleView.html?idxno=115779",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "연준"
-      }
-    ],
-    "증권:하향": [
-      {
-        "title": "5거래일간 삼성중공업 주가 하향 곡선",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170198",
-        "source": "",
-        "group": "증권",
-        "keyword": "하향"
-      }
-    ],
-    "증권:코스닥": [
-      {
-        "title": "공모가 희비 갈린 니어스랩·해치텍…나란히 코스닥 상장",
-        "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905942",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스닥"
-      },
-      {
-        "title": "[이연주 직썰] 코스닥 상장폐지 요건 강화, '좀비기업 퇴출'이냐 '성장기...",
-        "url": "https://www.ziksir.com/news/articleView.html?idxno=143922",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스닥"
-      },
-      {
-        "title": "[주간 코스닥 외국인] 파마리서치 알테오젠 HPSP 티에스이 제주반도체 ...",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479543",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스닥"
-      }
-    ],
-    "원자재:구리": [
-      {
-        "title": "구리문화재단, 민선 9기 출범 후 첫 이사회 열고 문화예술 활성화 기반...",
-        "url": "https://www.kgnews.co.kr/news/article.html?no=908510",
-        "source": "",
-        "group": "원자재",
-        "keyword": "구리"
-      },
-      {
-        "title": "재개발 빈집 돌며 구리선 훔친 50대…징역형 집행유예",
-        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/22/2026082290018.html",
-        "source": "",
-        "group": "원자재",
-        "keyword": "구리"
-      }
-    ],
-    "원자재:알루미늄": [
-      {
-        "title": "알루미늄 파이프로 30번 내리치고도…40대가 감옥 대신 풀려난 이유",
-        "url": "https://www.mk.co.kr/article/12133766",
-        "source": "",
-        "group": "원자재",
-        "keyword": "알루미늄"
-      }
-    ],
-    "주식:수주": [
-      {
-        "title": "[건설·부동산 브리핑] 해외 수주부터 재건축 수주전, 분양·채용까지 '...",
-        "url": "http://www.dailypop.kr/news/articleView.html?idxno=101799",
-        "source": "",
-        "group": "주식",
-        "keyword": "수주"
-      }
-    ],
-    "주식:배당": [
-      {
-        "title": "\"주주환원 흐름 이어간다\" KCC, '삼성물산 배당금' 받아 재배당 왜?",
-        "url": "https://www.newsis.com/view/NISX20260822_0003758372",
-        "source": "",
-        "group": "주식",
-        "keyword": "배당"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-22T03:28:05.233012+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
