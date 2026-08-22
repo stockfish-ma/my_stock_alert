@@ -1205,6 +1205,33 @@
     },
     "2b0f425b1cde": {
       "first_seen": "2026-08-22T07:26:41.983371+00:00"
+    },
+    "896e90bf1998": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "a946f373b5d1": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "8e4430a7895e": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "5b9769689857": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "e3e7d2def64b": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "71db13103b5e": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "120dc04dc80b": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "316ae24f32ea": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "d3108aeacb90": {
+      "first_seen": "2026-08-22T07:54:08.676913+00:00"
     }
   },
   "news_counts": {
@@ -2268,8 +2295,12 @@
   "kw_counts": {
     "반도체:메모리": 4,
     "AI인프라:전력": 1,
-    "트럼프:트럼프": 3,
-    "트럼프:관세": 2
+    "트럼프:트럼프": 4,
+    "트럼프:관세": 6,
+    "반도체:삼성전자": 1,
+    "반도체:반도체": 1,
+    "금리/환율:기준금리": 1,
+    "증권:리포트": 1
   },
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
   "last_top10_sent": "2026-08-22T06:56:45.517520+00:00",
@@ -2294,7 +2325,7 @@
       "title": "호르무즈·제재·탄핵까지···트럼프의 '이란 승부수', 중간선거와 맞...",
       "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423242",
       "source": "",
-      "count": 3,
+      "count": 4,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2302,9 +2333,41 @@
       "title": "미·캐나다 무역협상 결렬…일부 캐나다 수입품 50% 관세(종합)",
       "url": "https://www.yna.co.kr/view/AKR20260822028351009?input=1195m",
       "source": "",
-      "count": 2,
+      "count": 6,
       "group": "트럼프",
       "keyword": "관세"
+    },
+    "반도체:삼성전자": {
+      "title": "삼성전자, 최대 주주환원 발표 이후 주가 '출렁'...정규장 전망은?",
+      "url": "https://www.ytn.co.kr/_ln/0102_202608221637447333",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:반도체": {
+      "title": "日 내년 예산요구 첫 130조엔 돌파 전망…AI·반도체·방위비 확대",
+      "url": "https://www.ajunews.com/view/20260822162003139",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "금리/환율:기준금리": {
+      "title": "[N위크] 기준금리 동결할까 인상할까…코스피 최고 7500 예측",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=206639",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "기준금리"
+    },
+    "증권:리포트": {
+      "title": "[현장리포트] KPGA 동아회원권그룹 오픈 3R, 악천후로 우천 순연...23일 ...",
+      "url": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375100",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "리포트"
     }
   },
   "kw_article_pool": {
@@ -2368,6 +2431,13 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "아리아나 그란데, 음원 무단 사용 트럼프 대통령 공개적 비난 [할리우드...",
+        "url": "https://www.newsen.com/news_view.php?uid=202608221646522410",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "트럼프:관세": [
@@ -2384,6 +2454,70 @@
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
+      },
+      {
+        "title": "미국, 캐나다산 200억달러에 50% 관세…무역협상 결렬(종합)",
+        "url": "https://view.asiae.co.kr/article/2026082216494420471",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "미국, 무역협상 결렬에 50% 관세 발효 캐나다 ‘달러 대 달러’ 보복 예...",
+        "url": "https://vop.co.kr/A00001696322.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "미·캐나다 무역협상 결렬…일부 캐나다 수입품 50% 관세",
+        "url": "https://www.tfmedia.co.kr/news/article.html?no=206643",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "美·캐나다 협상 최종 결렬…‘50% 관세’ 현실화",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546457",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "반도체:삼성전자": [
+      {
+        "title": "삼성전자, 최대 주주환원 발표 이후 주가 '출렁'...정규장 전망은?",
+        "url": "https://www.ytn.co.kr/_ln/0102_202608221637447333",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "日 내년 예산요구 첫 130조엔 돌파 전망…AI·반도체·방위비 확대",
+        "url": "https://www.ajunews.com/view/20260822162003139",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "금리/환율:기준금리": [
+      {
+        "title": "[N위크] 기준금리 동결할까 인상할까…코스피 최고 7500 예측",
+        "url": "https://www.tfmedia.co.kr/news/article.html?no=206639",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "기준금리"
+      }
+    ],
+    "증권:리포트": [
+      {
+        "title": "[현장리포트] KPGA 동아회원권그룹 오픈 3R, 악천후로 우천 순연...23일 ...",
+        "url": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375100",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
       }
     ]
   }
