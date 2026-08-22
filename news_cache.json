@@ -1295,6 +1295,24 @@
     },
     "08618f12e897": {
       "first_seen": "2026-08-22T08:53:14.652770+00:00"
+    },
+    "a39d26ce08de": {
+      "first_seen": "2026-08-22T09:21:06.902580+00:00"
+    },
+    "06b3016c00d1": {
+      "first_seen": "2026-08-22T09:21:06.902580+00:00"
+    },
+    "e9fa5b2b2356": {
+      "first_seen": "2026-08-22T09:21:06.902580+00:00"
+    },
+    "0191a04b5cdd": {
+      "first_seen": "2026-08-22T09:21:06.902580+00:00"
+    },
+    "7d42fe57b0b6": {
+      "first_seen": "2026-08-22T09:21:06.902580+00:00"
+    },
+    "a57b71ae1502": {
+      "first_seen": "2026-08-22T09:21:06.902580+00:00"
     }
   },
   "news_counts": {
@@ -2360,8 +2378,12 @@
     "반도체:반도체": 1,
     "에너지:배터리": 1,
     "에너지:풍력": 1,
-    "트럼프:트럼프": 1,
-    "트럼프:관세": 2
+    "트럼프:트럼프": 2,
+    "트럼프:관세": 3,
+    "로봇:로봇": 1,
+    "트럼프:백악관": 1,
+    "증권:JP모건": 1,
+    "국채금리:국채": 1
   },
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
   "last_top10_sent": "2026-08-22T08:21:18.755579+00:00",
@@ -2402,7 +2424,7 @@
       "title": "美법원, 트럼프 75개국 비자 발급 거부에 제동…\"법 위배\"",
       "url": "https://www.edaily.co.kr/News/Read?newsId=02450166645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2410,9 +2432,41 @@
       "title": "미·캐나다 무역협상 결렬…일부 캐나다 수입품 50% 관세",
       "url": "https://www.ngonews.kr/news/articleView.html?idxno=236064",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "트럼프",
       "keyword": "관세"
+    },
+    "로봇:로봇": {
+      "title": "우크라이나, 전쟁 로봇 기술 나토군 교육",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713256",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:백악관": {
+      "title": "美연방법원, 75개국 이민 비자 발급 중단 제동…백악관 침묵",
+      "url": "https://www.newsis.com/view/NISX20260822_0003758516",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "백악관"
+    },
+    "증권:JP모건": {
+      "title": "JP모건, BofA 출신 M&A 전문가 영입…북미 기술업 강화",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721283",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "JP모건"
+    },
+    "국채금리:국채": {
+      "title": "\"대가 치를 수도\"…美 재무부 국채 개입에 월가 경고",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608220372&t=NN",
+      "source": "",
+      "count": 1,
+      "group": "국채금리",
+      "keyword": "국채"
     }
   },
   "kw_article_pool": {
@@ -2459,6 +2513,13 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 이란 외교 여지 두고 공습 재개 경고",
+        "url": "https://www.tokenpost.kr/news/breaking/395631",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "트럼프:관세": [
@@ -2475,6 +2536,49 @@
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
+      },
+      {
+        "title": "미·캐나다 무역협상 결국 결렬 … 캐나다산 일부 수입품에 50% 관세",
+        "url": "https://www.newdaily.co.kr/site/data/html/2026/08/22/2026082200049.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "우크라이나, 전쟁 로봇 기술 나토군 교육",
+        "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713256",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:백악관": [
+      {
+        "title": "美연방법원, 75개국 이민 비자 발급 중단 제동…백악관 침묵",
+        "url": "https://www.newsis.com/view/NISX20260822_0003758516",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "백악관"
+      }
+    ],
+    "증권:JP모건": [
+      {
+        "title": "JP모건, BofA 출신 M&A 전문가 영입…북미 기술업 강화",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721283",
+        "source": "",
+        "group": "증권",
+        "keyword": "JP모건"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "\"대가 치를 수도\"…美 재무부 국채 개입에 월가 경고",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608220372&t=NN",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
       }
     ]
   }
