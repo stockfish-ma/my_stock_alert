@@ -1,71 +1,5 @@
 {
   "news_seen": {
-    "f14c00add43b": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "eb8932c63f81": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "0b52e0853d6d": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "6d8fad7fd05d": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "7498045e96f8": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "649f784f137a": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "9df2aa6dc935": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "4f5a5441fa6e": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "9cf62b34a47b": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "cf3dd9bccc07": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "43b7bfded7d0": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "b669dec1526b": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "82997ebb4537": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "9d5542d7d020": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "253a6df086c2": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "622672705c89": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "1d3910cdedff": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "892e9be4c2b8": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "fbe95a4f633f": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "e251920d30ea": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "111f6cae6068": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
-    "3880db982962": {
-      "first_seen": "2026-08-21T11:58:32.937208+00:00"
-    },
     "0a682e44779f": {
       "first_seen": "2026-08-21T12:44:31.266281+00:00"
     },
@@ -491,6 +425,60 @@
     },
     "1f79a06d7649": {
       "first_seen": "2026-08-21T23:44:06.241928+00:00"
+    },
+    "db68ebd3b1c6": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "821cea959413": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "42d072b951f9": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "fc4061d58ab5": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "b9b7ac7c520b": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "6bcbb4fd1ae1": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "fb3d5053ad71": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "e843e5cd4d8b": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "c35ab6af3390": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "0d54aba181e6": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "a4e37fac2921": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "7f06e2443d7e": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "2f602ffbc8c4": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "24ea0d241c27": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "238aead584be": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "d573d1411edc": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "0d3ea9bafc19": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
+    },
+    "66f102268d9f": {
+      "first_seen": "2026-08-22T00:02:07.468369+00:00"
     }
   },
   "news_counts": {
@@ -1552,16 +1540,23 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:TSMC": 1,
+    "반도체:TSMC": 2,
     "반도체:패키징": 1,
-    "반도체:반도체": 1,
+    "반도체:반도체": 2,
     "AI인프라:데이터센터": 1,
     "에너지:원전": 1,
     "로봇:휴머노이드": 1,
-    "로봇:로봇": 4,
-    "트럼프:트럼프": 1,
+    "로봇:로봇": 5,
+    "트럼프:트럼프": 5,
     "금리/환율:기준금리": 1,
-    "국채금리:국채": 2
+    "국채금리:국채": 3,
+    "반도체:삼성전자": 3,
+    "반도체:엔비디아": 1,
+    "반도체:GPU": 1,
+    "에너지:배터리": 1,
+    "에너지:LNG": 1,
+    "증권:코스닥": 2,
+    "원자재:구리": 1
   },
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
   "last_top10_sent": "2026-08-21T23:20:06.218085+00:00",
@@ -1570,7 +1565,7 @@
       "title": "라피더스, 600mm 패널 패키징 착수… TSMC 독주 맞불 - 초이스스탁US",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HMjRBb1VGOHQxSzVZTzZ0YzczYXJwNDl5VWVqTG1jblJtelBzd2hjUEJLZ1hMWl8yQ1BJdW5fOXpNa0NENGdCRU5KX0lsNHRyejBFTGVXNWMySnd5T2d4YUNuN0plNDQ?oc=5",
       "source": "초이스스탁US",
-      "count": 1,
+      "count": 2,
       "group": "반도체",
       "keyword": "TSMC"
     },
@@ -1586,7 +1581,7 @@
       "title": "앤트로픽, 구글 출신 반도체 전문가 영입…자체 칩 개발 본격화",
       "url": "https://www.yna.co.kr/view/AKR20260822016000091?input=1195m",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "반도체",
       "keyword": "반도체"
     },
@@ -1618,7 +1613,7 @@
       "title": "'못 만들어 대박' 中애니 캐릭터 로봇 등장",
       "url": "http://www.yonhapnewstv.co.kr/news/MYH20260822083939XPd",
       "source": "",
-      "count": 4,
+      "count": 5,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -1626,7 +1621,7 @@
       "title": "트럼프, 밥상물가 부담에 결국 다진 소고기 초과관세 면제",
       "url": "https://www.donga.com/news/Inter/article/all/20260822/134523216/1",
       "source": "",
-      "count": 1,
+      "count": 5,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -1642,9 +1637,65 @@
       "title": "국채선물, 美 국채 약세 속 혼조…10년물 21틱↑",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431324",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "국채금리",
       "keyword": "국채"
+    },
+    "반도체:삼성전자": {
+      "title": "삼성전자, 올 상반기 TV 출하량 1위 수성…미니 LED TV 약진",
+      "url": "https://zdnet.co.kr/view/?no=20260821233749",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아·애플 등에 업은 마이크론 … 韓 HBM 주도권 비상",
+      "url": "http://www.newskr.kr/news/articleView.html?idxno=105784",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:GPU": {
+      "title": "젠슨 황 서명 두 번 담긴 블랙웰 GPU, 경매서 5만7450달러 낙찰 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwUVJOZTJSVXNOT2U2ak9ianBXaU5Dc1lNMHFhSkYwQXoxUEtQS0Nqc1NXcVpwQVJZTFRuTjJmcUl0UVFhMWpKdmxXeGEwZnpMcUxRS1Rxdzk1VHBQOFh2X2U3R0lrdUtybjBzQXpsY0JMRGc?oc=5",
+      "source": "디지털투데이",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "GPU"
+    },
+    "에너지:배터리": {
+      "title": "\"성빈이 덕분에 버텼다\" 동반 포텐 터진 2021년 롯데 톱픽 배터리, 이제...",
+      "url": "https://www.sportschosun.com/baseball/2026-08-22/202608220100129170008244",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "에너지:LNG": {
+      "title": "LNG선 되찾겠다는 일본…한국에 기술 협력 손짓 - bntnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82bHBISGFmbWNaMGpjUHdrQVZJRV9kei11ZlF4QTJyY3lKRjg5Y1p1LTlJMWFjaTAyRnRINHFsNmF0eWpkX3NMTlpmVXlzLTNmakRRaUQ2SGNEelpoU2ZmdVdUS0E?oc=5",
+      "source": "bntnews.co.kr",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "LNG"
+    },
+    "증권:코스닥": {
+      "title": "[IPO챗] 공모가 희비 갈린 니어스랩·해치텍, 코스닥 입성",
+      "url": "https://www.yna.co.kr/view/AKR20260821045200008?input=1195m",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "원자재:구리": {
+      "title": "구리문화재단, 제6차 이사회 개최 '추경예산·정관 정비 등 10건' 심의",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671362",
+      "source": "",
+      "count": 1,
+      "group": "원자재",
+      "keyword": "구리"
     }
   },
   "kw_article_pool": {
@@ -1653,6 +1704,13 @@
         "title": "라피더스, 600mm 패널 패키징 착수… TSMC 독주 맞불 - 초이스스탁US",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HMjRBb1VGOHQxSzVZTzZ0YzczYXJwNDl5VWVqTG1jblJtelBzd2hjUEJLZ1hMWl8yQ1BJdW5fOXpNa0NENGdCRU5KX0lsNHRyejBFTGVXNWMySnd5T2d4YUNuN0plNDQ?oc=5",
         "source": "초이스스탁US",
+        "group": "반도체",
+        "keyword": "TSMC"
+      },
+      {
+        "title": "라피더스, 600mm 패널 패키징 착수… TSMC 독주 맞불 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmRjWUFqeXlybW0wVFlXRjN4TEpCcTR1X3BQaGp1NjlzYkI0d3FneUMzbVk4QlpqMmN2UEhMV3FFV2dDbDFrUFNOMGptNU1ZQ3pteXI3eHlQX1MzTk1vbG1tTFEzZFlXSUVOeGFzajNuUUI5Z1VpbzJreXZNNjZSNVoxME1ubzZW?oc=5",
+        "source": "글로벌이코노믹",
         "group": "반도체",
         "keyword": "TSMC"
       }
@@ -1670,6 +1728,13 @@
       {
         "title": "앤트로픽, 구글 출신 반도체 전문가 영입…자체 칩 개발 본격화",
         "url": "https://www.yna.co.kr/view/AKR20260822016000091?input=1195m",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "반도체 초호황…韓 성장률 전망치도 줄상향[위클리 이슈]",
+        "url": "https://magazine.hankyung.com/business/article/202608202494b",
         "source": "",
         "group": "반도체",
         "keyword": "반도체"
@@ -1730,12 +1795,47 @@
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
+      },
+      {
+        "title": "[DX브리핑] \"로봇 도입 계획 있지만 관리체계 없다\"",
+        "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423210",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
       }
     ],
     "트럼프:트럼프": [
       {
         "title": "트럼프, 밥상물가 부담에 결국 다진 소고기 초과관세 면제",
         "url": "https://www.donga.com/news/Inter/article/all/20260822/134523216/1",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "북미회담 '급발진' 트럼프에 美정치권도 비판",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260822085622qZL",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프의 북미 대화 추진, 미국 내 정치 쟁점화...\"한미 훈련 축소 수습...",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608220846005359",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "‘2030년엔 우주선 1000회 발사’…트럼프, 우주 수송 각서에 서명",
+        "url": "https://www.sedaily.com/article/20082028?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "美 민주, 트럼프發 북미회담 재개 공세 강화…척 슈머, 김정은에 굴복 ...",
+        "url": "http://www.fnnews.com/news/202608220841408073",
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
@@ -1764,6 +1864,97 @@
         "source": "",
         "group": "국채금리",
         "keyword": "국채"
+      },
+      {
+        "title": "10년 국채선물 21틱 상승, 3년물은 보합",
+        "url": "https://www.tokenpost.kr/news/cryptocurrency/395438",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ],
+    "반도체:삼성전자": [
+      {
+        "title": "삼성전자, 올 상반기 TV 출하량 1위 수성…미니 LED TV 약진",
+        "url": "https://zdnet.co.kr/view/?no=20260821233749",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자 DX노조 2000명 거리로…‘1인 1000주’ 요구, 12조원 논란",
+        "url": "https://www.kbmaeil.com/article/20260822500049",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자 DX 노조 거리로...\"경영실패 책임져라\"",
+        "url": "https://www.ytn.co.kr/_ln/0102_202608220845512423",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아·애플 등에 업은 마이크론 … 韓 HBM 주도권 비상",
+        "url": "http://www.newskr.kr/news/articleView.html?idxno=105784",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:GPU": [
+      {
+        "title": "젠슨 황 서명 두 번 담긴 블랙웰 GPU, 경매서 5만7450달러 낙찰 - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwUVJOZTJSVXNOT2U2ak9ianBXaU5Dc1lNMHFhSkYwQXoxUEtQS0Nqc1NXcVpwQVJZTFRuTjJmcUl0UVFhMWpKdmxXeGEwZnpMcUxRS1Rxdzk1VHBQOFh2X2U3R0lrdUtybjBzQXpsY0JMRGc?oc=5",
+        "source": "디지털투데이",
+        "group": "반도체",
+        "keyword": "GPU"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "\"성빈이 덕분에 버텼다\" 동반 포텐 터진 2021년 롯데 톱픽 배터리, 이제...",
+        "url": "https://www.sportschosun.com/baseball/2026-08-22/202608220100129170008244",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "에너지:LNG": [
+      {
+        "title": "LNG선 되찾겠다는 일본…한국에 기술 협력 손짓 - bntnews.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82bHBISGFmbWNaMGpjUHdrQVZJRV9kei11ZlF4QTJyY3lKRjg5Y1p1LTlJMWFjaTAyRnRINHFsNmF0eWpkX3NMTlpmVXlzLTNmakRRaUQ2SGNEelpoU2ZmdVdUS0E?oc=5",
+        "source": "bntnews.co.kr",
+        "group": "에너지",
+        "keyword": "LNG"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "[IPO챗] 공모가 희비 갈린 니어스랩·해치텍, 코스닥 입성",
+        "url": "https://www.yna.co.kr/view/AKR20260821045200008?input=1195m",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      },
+      {
+        "title": "성우하이텍, 상반기 영업익 1196억…코스닥 10위",
+        "url": "https://sateconomy.co.kr/news/view/1065569719838015",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "원자재:구리": [
+      {
+        "title": "구리문화재단, 제6차 이사회 개최 '추경예산·정관 정비 등 10건' 심의",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671362",
+        "source": "",
+        "group": "원자재",
+        "keyword": "구리"
       }
     ]
   }
