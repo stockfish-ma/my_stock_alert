@@ -1232,6 +1232,48 @@
     },
     "d3108aeacb90": {
       "first_seen": "2026-08-22T07:54:08.676913+00:00"
+    },
+    "ca91d9e515bf": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "eb60b98b9fa4": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "ad16bef62047": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "2de97e1cd830": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "331fe4fd9953": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "cb7cfa15c07f": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "0c11c9582a2a": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "db45fbebde86": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "dc36bbd4e0a0": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "4172ee78fc61": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "57231bb541c3": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "19f454985313": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "21b611e2d992": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
+    },
+    "70b04a84d09e": {
+      "first_seen": "2026-08-22T08:21:17.057397+00:00"
     }
   },
   "news_counts": {
@@ -2292,233 +2334,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:메모리": 4,
-    "AI인프라:전력": 1,
-    "트럼프:트럼프": 4,
-    "트럼프:관세": 6,
-    "반도체:삼성전자": 1,
-    "반도체:반도체": 1,
-    "금리/환율:기준금리": 1,
-    "증권:리포트": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
-  "last_top10_sent": "2026-08-22T06:56:45.517520+00:00",
-  "kw_articles": {
-    "반도체:메모리": {
-      "title": "와이씨, 내년이 더 무섭다…메모리 투자 확대에 실적 '퀀텀점프' 기대",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479605",
-      "source": "",
-      "count": 4,
-      "group": "반도체",
-      "keyword": "메모리"
-    },
-    "AI인프라:전력": {
-      "title": "[PTM2026] 대만관광청, PATA 트래블마트서 아태지역 관광객 유치 '전력'",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671484",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "전력"
-    },
-    "트럼프:트럼프": {
-      "title": "호르무즈·제재·탄핵까지···트럼프의 '이란 승부수', 중간선거와 맞...",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423242",
-      "source": "",
-      "count": 4,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:관세": {
-      "title": "미·캐나다 무역협상 결렬…일부 캐나다 수입품 50% 관세(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260822028351009?input=1195m",
-      "source": "",
-      "count": 6,
-      "group": "트럼프",
-      "keyword": "관세"
-    },
-    "반도체:삼성전자": {
-      "title": "삼성전자, 최대 주주환원 발표 이후 주가 '출렁'...정규장 전망은?",
-      "url": "https://www.ytn.co.kr/_ln/0102_202608221637447333",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:반도체": {
-      "title": "日 내년 예산요구 첫 130조엔 돌파 전망…AI·반도체·방위비 확대",
-      "url": "https://www.ajunews.com/view/20260822162003139",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "금리/환율:기준금리": {
-      "title": "[N위크] 기준금리 동결할까 인상할까…코스피 최고 7500 예측",
-      "url": "https://www.tfmedia.co.kr/news/article.html?no=206639",
-      "source": "",
-      "count": 1,
-      "group": "금리/환율",
-      "keyword": "기준금리"
-    },
-    "증권:리포트": {
-      "title": "[현장리포트] KPGA 동아회원권그룹 오픈 3R, 악천후로 우천 순연...23일 ...",
-      "url": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375100",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "리포트"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:메모리": [
-      {
-        "title": "와이씨, 내년이 더 무섭다…메모리 투자 확대에 실적 '퀀텀점프' 기대",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479605",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "中 메모리 CXMT 이어 낸드 회사 YMTC도 IPO '속도'",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431331",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "메모리 비용 급증에…아마존, 주요 하드웨어 제품 가격 '기습 인상'",
-        "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53688",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      },
-      {
-        "title": "광주 이어 일본?… 곳곳에서 한국 메모리 ‘팹’을 탐낸다 [반도체 투자...",
-        "url": "https://www.segye.com/newsView/20260821508096?OutUrl=naver",
-        "source": "",
-        "group": "반도체",
-        "keyword": "메모리"
-      }
-    ],
-    "AI인프라:전력": [
-      {
-        "title": "[PTM2026] 대만관광청, PATA 트래블마트서 아태지역 관광객 유치 '전력'",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671484",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "전력"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "호르무즈·제재·탄핵까지···트럼프의 '이란 승부수', 중간선거와 맞...",
-        "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423242",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프, 호르무즈 미국 영토 주장 다시 꺼냈다",
-        "url": "https://www.tokenpost.kr/news/cryptocurrency/395600",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 “호르무즈 해협은 미국 영토”… 이란 압박 수위 높여",
-        "url": "https://www.segye.com/newsView/20260822504585?OutUrl=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "아리아나 그란데, 음원 무단 사용 트럼프 대통령 공개적 비난 [할리우드...",
-        "url": "https://www.newsen.com/news_view.php?uid=202608221646522410",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:관세": [
-      {
-        "title": "미·캐나다 무역협상 결렬…일부 캐나다 수입품 50% 관세(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20260822028351009?input=1195m",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "미, 캐나다에 50% 관세 부과...무역협상 결렬",
-        "url": "http://www.4th.kr/news/articleView.html?idxno=2116727",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "미국, 캐나다산 200억달러에 50% 관세…무역협상 결렬(종합)",
-        "url": "https://view.asiae.co.kr/article/2026082216494420471",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "미국, 무역협상 결렬에 50% 관세 발효 캐나다 ‘달러 대 달러’ 보복 예...",
-        "url": "https://vop.co.kr/A00001696322.html",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "미·캐나다 무역협상 결렬…일부 캐나다 수입품 50% 관세",
-        "url": "https://www.tfmedia.co.kr/news/article.html?no=206643",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "美·캐나다 협상 최종 결렬…‘50% 관세’ 현실화",
-        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546457",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      }
-    ],
-    "반도체:삼성전자": [
-      {
-        "title": "삼성전자, 최대 주주환원 발표 이후 주가 '출렁'...정규장 전망은?",
-        "url": "https://www.ytn.co.kr/_ln/0102_202608221637447333",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "日 내년 예산요구 첫 130조엔 돌파 전망…AI·반도체·방위비 확대",
-        "url": "https://www.ajunews.com/view/20260822162003139",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "금리/환율:기준금리": [
-      {
-        "title": "[N위크] 기준금리 동결할까 인상할까…코스피 최고 7500 예측",
-        "url": "https://www.tfmedia.co.kr/news/article.html?no=206639",
-        "source": "",
-        "group": "금리/환율",
-        "keyword": "기준금리"
-      }
-    ],
-    "증권:리포트": [
-      {
-        "title": "[현장리포트] KPGA 동아회원권그룹 오픈 3R, 악천후로 우천 순연...23일 ...",
-        "url": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375100",
-        "source": "",
-        "group": "증권",
-        "keyword": "리포트"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-22T08:21:18.755579+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
