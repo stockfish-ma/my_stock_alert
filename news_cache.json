@@ -1,47 +1,5 @@
 {
   "news_seen": {
-    "c4548735e2bc": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "465475dd1333": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "1861be94272b": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "dacc31b3a353": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "c6bb33baed6d": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "59f9219ddc8c": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "0c3f661b38be": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "544940062617": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "e5652fee98d0": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "95c9f3f9be35": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "0314da818bab": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "eddca7832461": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "5141230c3b4d": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
-    "1f79a06d7649": {
-      "first_seen": "2026-08-21T23:44:06.241928+00:00"
-    },
     "db68ebd3b1c6": {
       "first_seen": "2026-08-22T00:02:07.468369+00:00"
     },
@@ -1163,6 +1121,24 @@
     },
     "f736144b578c": {
       "first_seen": "2026-08-22T11:40:29.163671+00:00"
+    },
+    "1f04e248ccaa": {
+      "first_seen": "2026-08-22T11:55:49.389142+00:00"
+    },
+    "c7ae347c0acb": {
+      "first_seen": "2026-08-22T11:55:49.389142+00:00"
+    },
+    "75285f7ab899": {
+      "first_seen": "2026-08-22T11:55:49.389142+00:00"
+    },
+    "122c1d06de51": {
+      "first_seen": "2026-08-22T11:55:49.389142+00:00"
+    },
+    "8f9c9dd1b37e": {
+      "first_seen": "2026-08-22T11:55:49.389142+00:00"
+    },
+    "cc7998a0138d": {
+      "first_seen": "2026-08-22T11:55:49.389142+00:00"
     }
   },
   "news_counts": {
@@ -2225,8 +2201,13 @@
   },
   "kw_counts": {
     "반도체:삼성전자": 2,
-    "로봇:로봇": 2,
-    "국채금리:국채": 1
+    "로봇:로봇": 3,
+    "국채금리:국채": 1,
+    "반도체:SK하이닉스": 1,
+    "반도체:엔비디아": 1,
+    "반도체:GPU": 1,
+    "AI인프라:전력": 1,
+    "증권:리포트": 1
   },
   "kw_counts_reset": "2026-08-22T11:37:44.675237+00:00",
   "last_top10_sent": "2026-08-22T10:56:01.010945+00:00",
@@ -2275,7 +2256,7 @@
       "title": "\"축구부터 콩 집기·병뚜껑 열기까지\"…베이징서 로봇운동회 개막",
       "url": "https://www.yna.co.kr/view/AKR20260822045900083?input=1195m",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -2286,6 +2267,46 @@
       "count": 1,
       "group": "국채금리",
       "keyword": "국채"
+    },
+    "반도체:SK하이닉스": {
+      "title": "[발행인 칼럼] 삼성·SK하이닉스, 주주환원의 새 문법",
+      "url": "http://sateconomy.co.kr/news/view/1065613303410934",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아, 중국 전용 AI칩 연내 출하설 부인",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/395663",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:GPU": {
+      "title": "CFTC, GPU 연산력 파생상품 상장 두고 60일 의견수렴…“컴퓨트는 디지털 석유” - 위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcFUwZjdVMVV6dmdkSzFxakFoblFrbEtUeDliNkZtcFJxTnNCNjNDalJEbjV0WDN1dU14QUF4U1p1OURsdEZYc0dQemhONmxEQWpySUNn?oc=5",
+      "source": "위키트리",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "GPU"
+    },
+    "AI인프라:전력": {
+      "title": "(FAPECA 2026) 태국, 건물 E 효율·전력망 현대화 추진…넷제로 이행 로드...",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=371525",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "증권:리포트": {
+      "title": "[리포트]충남 '교권보호관' 신설...무너진 교단 구할까",
+      "url": "https://tjmbc.co.kr/NewsArticle/858063",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "리포트"
     }
   },
   "kw_article_pool": {
@@ -2397,6 +2418,13 @@
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
+      },
+      {
+        "title": "순찰하고 주차까지…아파트로 들어온 로봇",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716914&plink=ORI&cooper=NAVER",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
       }
     ],
     "국채금리:국채": [
@@ -2406,6 +2434,51 @@
         "source": "",
         "group": "국채금리",
         "keyword": "국채"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "[발행인 칼럼] 삼성·SK하이닉스, 주주환원의 새 문법",
+        "url": "http://sateconomy.co.kr/news/view/1065613303410934",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아, 중국 전용 AI칩 연내 출하설 부인",
+        "url": "https://www.tokenpost.kr/news/cryptocurrency/395663",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:GPU": [
+      {
+        "title": "CFTC, GPU 연산력 파생상품 상장 두고 60일 의견수렴…“컴퓨트는 디지털 석유” - 위키트리",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcFUwZjdVMVV6dmdkSzFxakFoblFrbEtUeDliNkZtcFJxTnNCNjNDalJEbjV0WDN1dU14QUF4U1p1OURsdEZYc0dQemhONmxEQWpySUNn?oc=5",
+        "source": "위키트리",
+        "group": "반도체",
+        "keyword": "GPU"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "(FAPECA 2026) 태국, 건물 E 효율·전력망 현대화 추진…넷제로 이행 로드...",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=371525",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "증권:리포트": [
+      {
+        "title": "[리포트]충남 '교권보호관' 신설...무너진 교단 구할까",
+        "url": "https://tjmbc.co.kr/NewsArticle/858063",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
       }
     ]
   }
