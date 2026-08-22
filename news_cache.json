@@ -971,6 +971,60 @@
     },
     "7474ca826b67": {
       "first_seen": "2026-08-22T05:12:16.185743+00:00"
+    },
+    "0f739074ec03": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "6be7a4c2a315": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "8aa7c7138418": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "ddec11a559a6": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "eeeb730e2f3f": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "fc818b12dc11": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "fe6bb60afe20": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "29bd1f0a8748": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "6a2ec8cc2408": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "ed8f60888d9e": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "156a6a875e8c": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "68f6aa5f29bc": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "f5eb82535367": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "be72a66d1b69": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "34b0391498f9": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "f78c5cef09e4": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "c4e7e3f0ccf0": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "25f839520b1f": {
+      "first_seen": "2026-08-22T05:45:30.285781+00:00"
     }
   },
   "news_counts": {
@@ -2031,291 +2085,9 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:엔비디아": 1,
-    "반도체:반도체": 1,
-    "AI인프라:데이터센터": 1,
-    "로봇:휴머노이드": 1,
-    "트럼프:트럼프": 3,
-    "트럼프:관세": 8,
-    "증권:골드만삭스": 1,
-    "증권:코스피": 1,
-    "증권:s&p500": 1,
-    "국채금리:국채": 1,
-    "주식:M&A": 1
-  },
+  "kw_counts": {},
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
-  "last_top10_sent": "2026-08-22T04:45:02.712070+00:00",
-  "kw_articles": {
-    "반도체:삼성전자": {
-      "title": "[Biz&Law] 삼성전자, 美 '갤럭시 에어 제스처' 특허소송 종결…6년 분쟁...",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726640",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "삼성전자"
-    },
-    "반도체:엔비디아": {
-      "title": "엔비디아 또 호실적 예상…한국도 수혜주 있다는데[주末머니]",
-      "url": "https://view.asiae.co.kr/article/2026082016110270134",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "엔비디아"
-    },
-    "반도체:반도체": {
-      "title": "전남광주시 첫 조직개편…'반도체·AI·균형발전'에 행정력 집중",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000058681",
-      "source": "",
-      "count": 1,
-      "group": "반도체",
-      "keyword": "반도체"
-    },
-    "AI인프라:데이터센터": {
-      "title": "데이터센터 투자 확산에 정치권 반발도 커져....AI 버블 위험 신호?",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694801",
-      "source": "",
-      "count": 1,
-      "group": "AI인프라",
-      "keyword": "데이터센터"
-    },
-    "로봇:휴머노이드": {
-      "title": "세계 휴머노이드 로봇 시장 '중국 천하'...애지봇·유니트리·갈봇 등 '...",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878566",
-      "source": "",
-      "count": 1,
-      "group": "로봇",
-      "keyword": "휴머노이드"
-    },
-    "트럼프:트럼프": {
-      "title": "美 트럼프 또 \"호르무즈는 미국 영토\"…이란엔 \"합의 원하는지도 모르겠...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541913",
-      "source": "",
-      "count": 3,
-      "group": "트럼프",
-      "keyword": "트럼프"
-    },
-    "트럼프:관세": {
-      "title": "캐나다, 미국과 무역협상 결렬에 '동일 관세로 맞대응'",
-      "url": "https://www.bbc.com/korean/articles/czrj5531350o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "",
-      "count": 8,
-      "group": "트럼프",
-      "keyword": "관세"
-    },
-    "증권:골드만삭스": {
-      "title": "골드만삭스, XRP ETF 다시 담았나…8650만달러 분산 투자설에 기관 수요...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600210",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "골드만삭스"
-    },
-    "증권:코스피": {
-      "title": "엔캐리 청산 공포 다시 고개…코스피·코스닥 폭락 재현될까",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02089366645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "source": "",
-      "count": 1,
-      "group": "증권",
-      "keyword": "코스피"
-    },
-    "증권:s&p500": {
-      "title": "[ETF 머니플로우-8월 3주] 미래에셋자산운용, TIGER S&P500 2주 연속 순매수 1위 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mMDVxU1hGckRxNVVKdzdDb0M3Qlp2UWVKX185aFgtaDVBRWZtSGxKT0dGb05ZaUdUMTRwd1g2dzZVd0dVVDVPYzZ5NEZTZkdsT1M1cXBWbGRDOV9qcFRkc0hpN3c2VTZIbjVVbXNqLXo?oc=5",
-      "source": "신아일보",
-      "count": 1,
-      "group": "증권",
-      "keyword": "s&p500"
-    },
-    "국채금리:국채": {
-      "title": "美 국채금리 눌렀더니 달러 흔들…금·비트코인 '화폐가치 희석' 베팅 부...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721280",
-      "source": "",
-      "count": 1,
-      "group": "국채금리",
-      "keyword": "국채"
-    },
-    "주식:M&A": {
-      "title": "“승계 넘어 신사업까지”…중기 M&A 지원망 확대하는 기보 - 서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0OFA0TFQ1ZEFkdUs2VWVUUmdobUFfMDlXaDVQc2R3UEJMRGFsMk1vUFFEdzZuSk9sN3dVbzBLd2RFQmlVQmtQWlMtREY5NXJfdVE?oc=5",
-      "source": "서울경제",
-      "count": 1,
-      "group": "주식",
-      "keyword": "M&A"
-    }
-  },
-  "kw_article_pool": {
-    "반도체:삼성전자": [
-      {
-        "title": "[Biz&Law] 삼성전자, 美 '갤럭시 에어 제스처' 특허소송 종결…6년 분쟁...",
-        "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726640",
-        "source": "",
-        "group": "반도체",
-        "keyword": "삼성전자"
-      }
-    ],
-    "반도체:엔비디아": [
-      {
-        "title": "엔비디아 또 호실적 예상…한국도 수혜주 있다는데[주末머니]",
-        "url": "https://view.asiae.co.kr/article/2026082016110270134",
-        "source": "",
-        "group": "반도체",
-        "keyword": "엔비디아"
-      }
-    ],
-    "반도체:반도체": [
-      {
-        "title": "전남광주시 첫 조직개편…'반도체·AI·균형발전'에 행정력 집중",
-        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000058681",
-        "source": "",
-        "group": "반도체",
-        "keyword": "반도체"
-      }
-    ],
-    "AI인프라:데이터센터": [
-      {
-        "title": "데이터센터 투자 확산에 정치권 반발도 커져....AI 버블 위험 신호?",
-        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694801",
-        "source": "",
-        "group": "AI인프라",
-        "keyword": "데이터센터"
-      }
-    ],
-    "로봇:휴머노이드": [
-      {
-        "title": "세계 휴머노이드 로봇 시장 '중국 천하'...애지봇·유니트리·갈봇 등 '...",
-        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878566",
-        "source": "",
-        "group": "로봇",
-        "keyword": "휴머노이드"
-      }
-    ],
-    "트럼프:트럼프": [
-      {
-        "title": "美 트럼프 또 \"호르무즈는 미국 영토\"…이란엔 \"합의 원하는지도 모르겠...",
-        "url": "https://www.joongangenews.com/news/articleView.html?idxno=541913",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 \"호르무즈는 미국 영토\"... 이란 \"파괴적 대응\"",
-        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261047&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      },
-      {
-        "title": "트럼프 토큰, 3.4달러 잠시 돌파했다",
-        "url": "https://www.tokenpost.kr/news/breaking/395547",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "트럼프"
-      }
-    ],
-    "트럼프:관세": [
-      {
-        "title": "캐나다, 미국과 무역협상 결렬에 '동일 관세로 맞대응'",
-        "url": "https://www.bbc.com/korean/articles/czrj5531350o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "미·캐나다 무역협상 결렬… 일부 캐나다산 제품에 50% 관세 발효",
-        "url": "https://www.viva100.com/article/20260822500154",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "美·캐나다 무역협상 막판 결렬, 50% 관세 발효… 캐나다 “같은 규모로...",
-        "url": "https://www.chosun.com/international/us/2026/08/22/AYI65LGRHZHBBNZEJZUNXUHA2U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "미-캐나다 무역협상 결렬…“달러 대 달러” 관세전쟁 눈앞",
-        "url": "https://www.hani.co.kr/arti/international/america/1274134.html",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "美, 캐나다산 제품에 50% 추가 관세…\"최종 협상 결렬\"",
-        "url": "https://www.newsis.com/view/NISX20260822_0003758424",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "美·캐나다 무역협상 결렬…50% 관세 발효",
-        "url": "https://www.sedaily.com/article/20082111?ref=naver",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "미국·캐나다 막판 무역협상 실패···캐나다산 50% 관세 현실화",
-        "url": "https://www.khan.co.kr/article/202608221354001",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      },
-      {
-        "title": "미국·캐나다 무역협상 결렬…캐나다산 50% 관세 현실화",
-        "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905969",
-        "source": "",
-        "group": "트럼프",
-        "keyword": "관세"
-      }
-    ],
-    "증권:골드만삭스": [
-      {
-        "title": "골드만삭스, XRP ETF 다시 담았나…8650만달러 분산 투자설에 기관 수요...",
-        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600210",
-        "source": "",
-        "group": "증권",
-        "keyword": "골드만삭스"
-      }
-    ],
-    "증권:코스피": [
-      {
-        "title": "엔캐리 청산 공포 다시 고개…코스피·코스닥 폭락 재현될까",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=02089366645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-        "source": "",
-        "group": "증권",
-        "keyword": "코스피"
-      }
-    ],
-    "증권:s&p500": [
-      {
-        "title": "[ETF 머니플로우-8월 3주] 미래에셋자산운용, TIGER S&P500 2주 연속 순매수 1위 - 신아일보",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mMDVxU1hGckRxNVVKdzdDb0M3Qlp2UWVKX185aFgtaDVBRWZtSGxKT0dGb05ZaUdUMTRwd1g2dzZVd0dVVDVPYzZ5NEZTZkdsT1M1cXBWbGRDOV9qcFRkc0hpN3c2VTZIbjVVbXNqLXo?oc=5",
-        "source": "신아일보",
-        "group": "증권",
-        "keyword": "s&p500"
-      }
-    ],
-    "국채금리:국채": [
-      {
-        "title": "美 국채금리 눌렀더니 달러 흔들…금·비트코인 '화폐가치 희석' 베팅 부...",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721280",
-        "source": "",
-        "group": "국채금리",
-        "keyword": "국채"
-      }
-    ],
-    "주식:M&A": [
-      {
-        "title": "“승계 넘어 신사업까지”…중기 M&A 지원망 확대하는 기보 - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0OFA0TFQ1ZEFkdUs2VWVUUmdobUFfMDlXaDVQc2R3UEJMRGFsMk1vUFFEdzZuSk9sN3dVbzBLd2RFQmlVQmtQWlMtREY5NXJfdVE?oc=5",
-        "source": "서울경제",
-        "group": "주식",
-        "keyword": "M&A"
-      }
-    ]
-  }
+  "last_top10_sent": "2026-08-22T05:45:32.173902+00:00",
+  "kw_articles": {},
+  "kw_article_pool": {}
 }
