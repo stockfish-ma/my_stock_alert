@@ -1,41 +1,5 @@
 {
   "news_seen": {
-    "6ab8ad9875ba": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "6cd516271175": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "0d52bf94b544": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "4f0196f039ee": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "72516b0fc24d": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "bb95b8ec225b": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "cfa2d82b5b2c": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "261abc1b0a2f": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "a715aee5466b": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "a4837d73be81": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "4c1270db781f": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
-    "6384bdc328ff": {
-      "first_seen": "2026-08-21T22:57:18.689996+00:00"
-    },
     "cb4d99943276": {
       "first_seen": "2026-08-21T23:20:04.606003+00:00"
     },
@@ -1211,6 +1175,36 @@
     },
     "cad9c970d0c6": {
       "first_seen": "2026-08-22T10:55:59.262600+00:00"
+    },
+    "9ccb2f26f17d": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "a3fbe5866252": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "3b8f3109b11e": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "0aeb750e142d": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "46e4d6ae506c": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "ab3764f66d8f": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "22d15da0c78a": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "587ada1c5ee3": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "16f566c0990f": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
+    },
+    "4e5c87e8a82b": {
+      "first_seen": "2026-08-22T11:15:40.488764+00:00"
     }
   },
   "news_counts": {
@@ -2271,9 +2265,137 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "반도체:반도체": 3,
+    "로봇:휴머노이드": 2,
+    "트럼프:트럼프": 3,
+    "금리/환율:기준금리": 1
+  },
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
   "last_top10_sent": "2026-08-22T10:56:01.010945+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "\"월요일 국장 또 폭등?\"…삼성전자·SK하이닉스, 美금리·엔비디아에 주...",
+      "url": "https://www.ajunews.com/view/20260821171126525",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:반도체": {
+      "title": "서울반도체고 실습실 둘러보는 학부모",
+      "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512414",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "로봇:휴머노이드": {
+      "title": "춤추던 로봇, 이젠 손기술 뽐낸다…진화하는 중국 휴머노이드",
+      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214108",
+      "source": "",
+      "count": 2,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "트럼프:트럼프": {
+      "title": "7000곳 때려도 안 무너졌다…트럼프가 오판한 ‘이란의 힘’",
+      "url": "https://www.segye.com/newsView/20260822505410?OutUrl=naver",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "금리/환율:기준금리": {
+      "title": "[김남현의 채권썰] 시장 충격은 기준금리 동결시 더 클 듯",
+      "url": "https://www.etoday.co.kr/news/view/2617053",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "기준금리"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "\"월요일 국장 또 폭등?\"…삼성전자·SK하이닉스, 美금리·엔비디아에 주...",
+        "url": "https://www.ajunews.com/view/20260821171126525",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "서울반도체고 실습실 둘러보는 학부모",
+        "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512414",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "서울반도체고등학교 입학설명회에 쏠린 관심",
+        "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512410",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "서울반도체고 내년 3월 개교",
+        "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512413",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "춤추던 로봇, 이젠 손기술 뽐낸다…진화하는 중국 휴머노이드",
+        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214108",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      },
+      {
+        "title": "휴머노이드 몰려오는데… 기업 60%가 로봇 도입 '스톱' 외친 이유",
+        "url": "https://www.g-enews.com/view.php?ud=2026082219581745152bd56fbc3c_1",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "7000곳 때려도 안 무너졌다…트럼프가 오판한 ‘이란의 힘’",
+        "url": "https://www.segye.com/newsView/20260822505410?OutUrl=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"호르무즈는 현재 미 영토…이란, 합의 원해\"",
+        "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534943",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 북미 대화 추진, 미국 내 정치 쟁점화…\"한미 훈련 축소 수습해...",
+        "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534946",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "금리/환율:기준금리": [
+      {
+        "title": "[김남현의 채권썰] 시장 충격은 기준금리 동결시 더 클 듯",
+        "url": "https://www.etoday.co.kr/news/view/2617053",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "기준금리"
+      }
+    ]
+  }
 }
