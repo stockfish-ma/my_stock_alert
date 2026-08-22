@@ -761,6 +761,84 @@
     },
     "b0295f248a01": {
       "first_seen": "2026-08-22T03:28:01.752685+00:00"
+    },
+    "7d58cb75cffa": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "6d093988eba9": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "6da4b283d74b": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "31698c0165ad": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "07a19f64c252": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "73a25d0d2808": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "0628b366bbb1": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "9c6d86529d4e": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "9aa61045ca6b": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "360724087e90": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "a4392bc7f491": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "5c17f2745b9d": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "b15b9381852e": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "40f55237ba0f": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "f0b778cc78a0": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "e29c06771d7a": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "0b81102a3b93": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "a64246c016e3": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "629175426033": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "6f72150e7fd3": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "7412924111a6": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "7e7d775f183f": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "2ed75701fb47": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "1371bcb4134a": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "0a75e91414ee": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
+    },
+    "6aef3022913f": {
+      "first_seen": "2026-08-22T04:05:54.964464+00:00"
     }
   },
   "news_counts": {
@@ -1821,9 +1899,348 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "반도체:SK하이닉스": 1,
+    "반도체:메모리": 1,
+    "반도체:냉각": 1,
+    "반도체:반도체": 1,
+    "AI인프라:전력": 1,
+    "AI인프라:데이터센터": 1,
+    "에너지:원전": 1,
+    "로봇:로봇": 3,
+    "트럼프:트럼프": 5,
+    "트럼프:관세": 7,
+    "트럼프:백악관": 1,
+    "증권:상향": 1,
+    "증권:코스피": 1
+  },
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
   "last_top10_sent": "2026-08-22T03:28:05.233012+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "삼성전자, 사상 최대 주주환원에도 장 마감 후 거래 하락",
+      "url": "https://www.ytn.co.kr/_ln/0102_202608221256550393",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "‘전남광주통합특별시 SK하이닉스로 1번길’…삼전닉스 ‘명예도로명’...",
+      "url": "https://www.sedaily.com/article/20082110?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:메모리": {
+      "title": "“큰손들 AI 메모리株 떠난다”…‘150조 승부수’ 삼성·하이닉스 괜찮...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260822028435246",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:냉각": {
+      "title": "\"AI 인프라 절반 이상이 액체냉각\"…삼성·LG, 시장 선점 잰걸음",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1397938",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "냉각"
+    },
+    "반도체:반도체": {
+      "title": "최근 5거래일 제주반도체 주가 등락 반복",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541891",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "\"투자자 넘어 사업자로\"…SK그룹, 'AI 풀스택' 전력 동맹 가속 [K-SMR 전성...",
+      "url": "https://www.newsis.com/view/NISX20260820_0003756402",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "AI인프라:데이터센터": {
+      "title": "HD현대, 조선 넘어 AI 데이터센터까지…미래산업 포트폴리오 확장",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=671505",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "에너지:원전": {
+      "title": "(사)소비자기후행동, \"재생에너지 100GW 확대는 환영…화석연료·원전 총...",
+      "url": "https://www.lifein.news/news/articleView.html?idxno=20383",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "원전"
+    },
+    "로봇:로봇": {
+      "title": "대소변 처리부터 마사지까지…초고령사회 ‘로봇 간병인’이 온다",
+      "url": "https://www.donga.com/news/Health/article/all/20260821/134497098/2",
+      "source": "",
+      "count": 3,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프가 올린 그 김정은 사진, 누가 만들었을까 [청계천 옆 사진관]",
+      "url": "https://www.donga.com/news/Inter/article/all/20260822/134523104/1",
+      "source": "",
+      "count": 5,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "[속보] 미·캐나다 협상 결렬…캐나다산 제품 50%관세 현실화",
+      "url": "https://biz.heraldcorp.com/article/10848710?ref=naver",
+      "source": "",
+      "count": 7,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "트럼프:백악관": {
+      "title": "미 연방법원, ‘75개국 이민 비자 중단’ 제동…백악관 침묵",
+      "url": "https://www.hani.co.kr/arti/international/america/1274132.html",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "백악관"
+    },
+    "증권:상향": {
+      "title": "서울 소방시설 신고포상금 연 최대 300만 원으로 상향된다…1건 당 5만 ...",
+      "url": "https://www.wikitree.co.kr/articles/1152980",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:코스피": {
+      "title": "\"코스피, 쏠려도 너무 쏠렸다?\"…'삼전닉스' 쏠림에 변동성 경고",
+      "url": "http://www.fnnews.com/news/202608221149132420",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스피"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "삼성전자, 사상 최대 주주환원에도 장 마감 후 거래 하락",
+        "url": "https://www.ytn.co.kr/_ln/0102_202608221256550393",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "‘전남광주통합특별시 SK하이닉스로 1번길’…삼전닉스 ‘명예도로명’...",
+        "url": "https://www.sedaily.com/article/20082110?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "“큰손들 AI 메모리株 떠난다”…‘150조 승부수’ 삼성·하이닉스 괜찮...",
+        "url": "https://www.ekn.kr/web/view.php?key=20260822028435246",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:냉각": [
+      {
+        "title": "\"AI 인프라 절반 이상이 액체냉각\"…삼성·LG, 시장 선점 잰걸음",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1397938",
+        "source": "",
+        "group": "반도체",
+        "keyword": "냉각"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "최근 5거래일 제주반도체 주가 등락 반복",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=541891",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "\"투자자 넘어 사업자로\"…SK그룹, 'AI 풀스택' 전력 동맹 가속 [K-SMR 전성...",
+        "url": "https://www.newsis.com/view/NISX20260820_0003756402",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "HD현대, 조선 넘어 AI 데이터센터까지…미래산업 포트폴리오 확장",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=671505",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "에너지:원전": [
+      {
+        "title": "(사)소비자기후행동, \"재생에너지 100GW 확대는 환영…화석연료·원전 총...",
+        "url": "https://www.lifein.news/news/articleView.html?idxno=20383",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "대소변 처리부터 마사지까지…초고령사회 ‘로봇 간병인’이 온다",
+        "url": "https://www.donga.com/news/Health/article/all/20260821/134497098/2",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "[르포] 2026 WRC가보니 <下> , 초등생 로봇 설계·코딩 열공, WRC는 '첨단...",
+        "url": "https://www.newspim.com/news/view/20260822000060",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "8월 3주차 휴림로봇 주가 6630원 마감 지속된 하락 흐름",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=541893",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프가 올린 그 김정은 사진, 누가 만들었을까 [청계천 옆 사진관]",
+        "url": "https://www.donga.com/news/Inter/article/all/20260822/134523104/1",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 대화 손짓 속 미사일엔 함구…'건설' 띄우기 [데일리 북한]",
+        "url": "https://www.news1.kr/nk/economy/6266281",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “호르무즈는 미국 영토” vs 이란 대통령 “우위 시 종전해야”",
+        "url": "https://www.m-economynews.com/news/article.html?no=70017",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 코인, 장기 하락 추세선 넘어섰나…2.20달러가 첫 분기점",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600209",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 전 측근 논객·하원의원 맹폭…\"IQ 낮은 멍청이·패배자\"",
+        "url": "https://www.news1.kr/world/usa-canada/6266296",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "[속보] 미·캐나다 협상 결렬…캐나다산 제품 50%관세 현실화",
+        "url": "https://biz.heraldcorp.com/article/10848710?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "[속보] 美·캐나다 협상 결렬…캐나다산 제품 50% 관세 현실화",
+        "url": "https://www.hankyung.com/article/2026082260547",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "[속보] 미·캐나다 협상 결렬…캐나다산 제품 관세 50% 현실화",
+        "url": "https://biz.sbs.co.kr/article_hub/20000330171?division=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "미국, 캐나다산 일부 상품 50% 추가관세 발효 임박",
+        "url": "https://www.tokenpost.kr/news/breaking/395530",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "[속보]美 캐나다산 제품에 50% 추가 관세 부과 발효",
+        "url": "https://www.newsis.com/view/NISX20260822_0003758406",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "캐나다, 대미 50% 보복관세 맞대응 검토",
+        "url": "https://www.tokenpost.kr/news/breaking/395526",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "[속보] 미·캐나다 협상 결렬…캐나다산 제품 50% 관세 현실화",
+        "url": "https://www.yna.co.kr/view/AKR20260822028000009?input=1195m",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "트럼프:백악관": [
+      {
+        "title": "미 연방법원, ‘75개국 이민 비자 중단’ 제동…백악관 침묵",
+        "url": "https://www.hani.co.kr/arti/international/america/1274132.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "백악관"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "서울 소방시설 신고포상금 연 최대 300만 원으로 상향된다…1건 당 5만 ...",
+        "url": "https://www.wikitree.co.kr/articles/1152980",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "\"코스피, 쏠려도 너무 쏠렸다?\"…'삼전닉스' 쏠림에 변동성 경고",
+        "url": "http://www.fnnews.com/news/202608221149132420",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ]
+  }
 }
