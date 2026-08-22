@@ -1349,6 +1349,18 @@
     },
     "45572eb8c4af": {
       "first_seen": "2026-08-22T09:47:43.099647+00:00"
+    },
+    "3b88337277d7": {
+      "first_seen": "2026-08-22T10:02:40.827747+00:00"
+    },
+    "9962441262bb": {
+      "first_seen": "2026-08-22T10:02:40.827747+00:00"
+    },
+    "d2a3b1b0dd6e": {
+      "first_seen": "2026-08-22T10:02:40.827747+00:00"
+    },
+    "cbe14c059e07": {
+      "first_seen": "2026-08-22T10:02:40.827747+00:00"
     }
   },
   "news_counts": {
@@ -2409,9 +2421,62 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "에너지:배터리": 2,
+    "트럼프:트럼프": 2
+  },
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
   "last_top10_sent": "2026-08-22T09:47:44.602112+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "에너지:배터리": {
+      "title": "일본 「배터리·전원산업전략」 개정의 주요 내용 및 시사점",
+      "url": "http://www.ifs.or.kr/bbs/board.php?bo_table=research&wr_id=11369",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "트럼프:트럼프": {
+      "title": "오피셜 트럼프(TRUMP) 하루 새 47% 폭등…로빈후드 출시설 사실일까?",
+      "url": "http://coinreaders.com/254264",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    }
+  },
+  "kw_article_pool": {
+    "에너지:배터리": [
+      {
+        "title": "일본 「배터리·전원산업전략」 개정의 주요 내용 및 시사점",
+        "url": "http://www.ifs.or.kr/bbs/board.php?bo_table=research&wr_id=11369",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "[사진]위기에 땀 닦는 KIA 올러-김태군 배터리",
+        "url": "http://www.osen.co.kr/article/G1112861899",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "오피셜 트럼프(TRUMP) 하루 새 47% 폭등…로빈후드 출시설 사실일까?",
+        "url": "http://coinreaders.com/254264",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 향해 \"김정은에 굴복\" 민주당 맹공…중간선거 쟁점",
+        "url": "https://news.jtbc.co.kr/article/NB12314566?influxDiv=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ]
+  }
 }
