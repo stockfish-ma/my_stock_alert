@@ -1025,6 +1025,57 @@
     },
     "25f839520b1f": {
       "first_seen": "2026-08-22T05:45:30.285781+00:00"
+    },
+    "cff0a85f4b4b": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "9a43a7bd44b3": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "0144dd891f77": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "bd5e4738729e": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "065ae7122be6": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "f75b454d793e": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "6b8b69819a08": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "99adc564a6d1": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "582fc0b88c88": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "fba138500d1b": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "d7db4f059e22": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "76e66ccd919c": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "3a62c2ebf4fc": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "0a228dd37ac0": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "34530ea77a7a": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "e4499dd3a9c2": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
+    },
+    "065d98ba7cd6": {
+      "first_seen": "2026-08-22T06:02:52.673793+00:00"
     }
   },
   "news_counts": {
@@ -2085,9 +2136,219 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:엔비디아": 1,
+    "AI인프라:데이터센터": 1,
+    "로봇:로봇": 1,
+    "트럼프:트럼프": 6,
+    "트럼프:관세": 3,
+    "증권:코스닥": 1,
+    "주식:배당": 3,
+    "주식:신고가": 1
+  },
   "kw_counts_reset": "2026-08-21T23:18:52.508987+00:00",
   "last_top10_sent": "2026-08-22T05:45:32.173902+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:엔비디아": {
+      "title": "MS, 엔비디아 차세대 ‘베라 루빈’ 첫 양산 공급받아…세대교체 속도",
+      "url": "http://www.joseilbo.com/news/news_read.php?uid=574291&class=78&grp=",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "AI인프라:데이터센터": {
+      "title": "아이에이, AI용 모듈형 데이터센터 ‘네오큐브’ 공개…OCP 규격 개정 제...",
+      "url": "https://www.ddaily.co.kr/page/view/2026082117342611605",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "로봇:로봇": {
+      "title": "\"3초만 보여주면 척척\"…보고 바로 익히는 로봇 나왔다",
+      "url": "https://zdnet.co.kr/view/?no=20260822070812",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "미-캐나다, 무역협상 결렬…트럼프 신규 관세 50% 부과 현실화",
+      "url": "https://www.kukinews.com/article/view/kuk202608220006",
+      "source": "",
+      "count": 6,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "美·캐나다 무역협상 끝내 결렬…50% 관세에 캐나다도 '맞대응'",
+      "url": "https://view.asiae.co.kr/article/2026082214564916410",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "증권:코스닥": {
+      "title": "니어스랩·해치텍 코스닥 출격…엇갈린 공모 성적표",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721281",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "주식:배당": {
+      "title": "DB손해보험, 손해율 하락에 배당 확대 기대… '새 밸류업' 시동",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479590",
+      "source": "",
+      "count": 3,
+      "group": "주식",
+      "keyword": "배당"
+    },
+    "주식:신고가": {
+      "title": "“100억 압구정 아파트, 이젠 85억이라는데 찾아보니 신고가?”강남 집...",
+      "url": "https://biz.heraldcorp.com/article/10848465?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "신고가"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:엔비디아": [
+      {
+        "title": "MS, 엔비디아 차세대 ‘베라 루빈’ 첫 양산 공급받아…세대교체 속도",
+        "url": "http://www.joseilbo.com/news/news_read.php?uid=574291&class=78&grp=",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "아이에이, AI용 모듈형 데이터센터 ‘네오큐브’ 공개…OCP 규격 개정 제...",
+        "url": "https://www.ddaily.co.kr/page/view/2026082117342611605",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "\"3초만 보여주면 척척\"…보고 바로 익히는 로봇 나왔다",
+        "url": "https://zdnet.co.kr/view/?no=20260822070812",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "미-캐나다, 무역협상 결렬…트럼프 신규 관세 50% 부과 현실화",
+        "url": "https://www.kukinews.com/article/view/kuk202608220006",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "미·캐나다 무역협상 결렬…트럼프 신규 관세 현실화",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716794&plink=ORI&cooper=NAVER",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"호르무즈 해협은 미국 영토\"…또다시 '美 통제권' 주장",
+        "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285994",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"이란, 합의 절실히 원해…호르무즈 美 영토\"(종합)",
+        "url": "https://www.newsis.com/view/NISX20260822_0003758446",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프, 또 \"호르무즈는 미국 땅\"…이란에 합의 압박",
+        "url": "http://www.inews24.com/view/1997321",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "\"호르무즈는 美 영토\"…트럼프, 제3국 겨눈 '경제적 D데이'로 이란 압박",
+        "url": "https://www.sisajournal.com/news/articleView.html?idxno=384454",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "美·캐나다 무역협상 끝내 결렬…50% 관세에 캐나다도 '맞대응'",
+        "url": "https://view.asiae.co.kr/article/2026082214564916410",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "美·캐나다, 무역협상 결렬…50% 관세 발효",
+        "url": "https://news.tf.co.kr/read/world/2356807.htm",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "美·캐나다 무역협상 끝내 결렬…캐나다산 제품에 50% 추가 관세",
+        "url": "https://www.joongang.co.kr/article/25455319",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "니어스랩·해치텍 코스닥 출격…엇갈린 공모 성적표",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721281",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "DB손해보험, 손해율 하락에 배당 확대 기대… '새 밸류업' 시동",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479590",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      },
+      {
+        "title": "영원무역, 하반기 실적까지 좋다…저평가에 배당 매력까지",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479589",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      },
+      {
+        "title": "\"주가 이미 많이 빠졌다\"... 한세실업, 배당 매력 커졌다",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479586",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ],
+    "주식:신고가": [
+      {
+        "title": "“100억 압구정 아파트, 이젠 85억이라는데 찾아보니 신고가?”강남 집...",
+        "url": "https://biz.heraldcorp.com/article/10848465?ref=naver",
+        "source": "",
+        "group": "주식",
+        "keyword": "신고가"
+      }
+    ]
+  }
 }
