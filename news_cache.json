@@ -1814,6 +1814,114 @@
     },
     "b5f5b50fb931": {
       "first_seen": "2026-08-23T09:14:23.593249+00:00"
+    },
+    "67328344c047": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "c0157c428b0a": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "b10bbade1d97": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "d543c7b8dade": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "b97256563fe3": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "32f533fb7c64": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "e044fbff2512": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "a4cf6544c9e8": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "f2d7cbabce3a": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "7c8f9e49a544": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "3242df1ce140": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "87991738b3b4": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "af172f642182": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "d18247d74fcb": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "a3342dde018f": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "d2cde13877bd": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "00fcc590c005": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "24dc3d6ca576": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "483d7a683ffc": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "71a9e906fcce": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "7b7a61015103": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "386fe7278d62": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "66a9b094a9af": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "3c68acf3777d": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "1746240d4936": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "c413ff1bf360": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "a7fe3ed93e98": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "f2f925d97b99": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "2cd6c98815b2": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "82d7fb0e2c59": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "cff4cec34f3c": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "2a7bd76bd71c": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "7a2bee09427b": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "03605b39c876": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "6d0bafc8360f": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
+    },
+    "0dbdddbe275f": {
+      "first_seen": "2026-08-23T09:46:19.792210+00:00"
     }
   },
   "news_counts": {
@@ -2875,24 +2983,34 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:메모리": 2,
-    "반도체:엔비디아": 2,
+    "반도체:메모리": 3,
+    "반도체:엔비디아": 5,
     "반도체:TSMC": 1,
-    "반도체:패키징": 2,
+    "반도체:패키징": 3,
     "반도체:반도체": 2,
-    "AI인프라:데이터센터": 1,
+    "AI인프라:데이터센터": 2,
     "AI인프라:전력망": 1,
     "에너지:배터리": 1,
     "에너지:원전": 1,
     "에너지:LNG": 1,
-    "로봇:휴머노이드": 2,
-    "로봇:로봇": 3,
-    "트럼프:트럼프": 3,
-    "트럼프:관세": 3,
+    "로봇:휴머노이드": 3,
+    "로봇:로봇": 10,
+    "트럼프:트럼프": 7,
+    "트럼프:관세": 5,
     "금리/환율:연준": 2,
     "금리/환율:PCE": 1,
     "증권:상향": 1,
-    "국채금리:국채": 1
+    "국채금리:국채": 4,
+    "반도체:삼성전자": 1,
+    "반도체:SK하이닉스": 3,
+    "반도체:HBM": 1,
+    "반도체:NVIDIA": 1,
+    "AI인프라:전력": 1,
+    "금리/환율:금리인상": 1,
+    "증권:코스닥": 2,
+    "주식:수주": 1,
+    "주식:배당": 1,
+    "주식:자사주": 1
   },
   "kw_counts_reset": "2026-08-22T23:45:01.802247+00:00",
   "last_top10_sent": "2026-08-23T08:51:23.298677+00:00",
@@ -2901,7 +3019,7 @@
       "title": "엔비디아, 메모리값 상승에 AI서버 가격 15% 인상 예고",
       "url": "https://www.donga.com/news/Economy/article/all/20260823/134525712/1",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "반도체",
       "keyword": "메모리"
     },
@@ -2909,7 +3027,7 @@
       "title": "\"애플 밀어내고 1위 탈환\"… 엔비디아, S&P 500 최대 보유 종목 등극",
       "url": "http://coinreaders.com/254331",
       "source": "",
-      "count": 2,
+      "count": 5,
       "group": "반도체",
       "keyword": "엔비디아"
     },
@@ -2925,7 +3043,7 @@
       "title": "TSMC 넘을 게임체인저…패키징 기술 판 바꾼다[압축전환 대한민국]",
       "url": "https://www.sedaily.com/article/20082283?ref=naver",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "반도체",
       "keyword": "패키징"
     },
@@ -2941,7 +3059,7 @@
       "title": "인천 AI 데이터센터, 사전 주민협의체 구성 제도화 시급…곳곳 주민 반...",
       "url": "https://www.kyeonggi.com/article/20260823580289",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "AI인프라",
       "keyword": "데이터센터"
     },
@@ -2981,15 +3099,15 @@
       "title": "\"국산 이미지센서 기술로 車 이어 휴머노이드·드론 공략\" [C리즈]",
       "url": "http://www.fnnews.com/news/202608231811352014",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "로봇",
       "keyword": "휴머노이드"
     },
     "로봇:로봇": {
-      "title": "'제조업에서 AI 중심으로'…전북자치도, 피지컬 AI·로봇산업 거점지역...",
-      "url": "http://www.domin.co.kr/news/articleView.html?idxno=1565993",
+      "title": "로봇운동회에서 준비 중인 로봇탁구 경기",
+      "url": "https://www.newsis.com/view/NISI20260823_0002218925",
       "source": "",
-      "count": 3,
+      "count": 10,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -2997,7 +3115,7 @@
       "title": "트럼프 “美경제 르네상스, 내가 해냈다”…“이란전? 100번도 다시”",
       "url": "https://www.seoul.co.kr/news/international/2026/08/23/20260823500086?wlog_tag3=naver",
       "source": "",
-      "count": 3,
+      "count": 7,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -3005,7 +3123,7 @@
       "title": "美 50% 관세 폭탄 맞은 캐나다 “관세 전쟁 해보자”",
       "url": "https://www.busan.com/view/busan/view.php?code=2026082318072815833",
       "source": "",
-      "count": 3,
+      "count": 5,
       "group": "트럼프",
       "keyword": "관세"
     },
@@ -3037,9 +3155,89 @@
       "title": "[금융 라운지] 보험사가 '美 국채금리 급등'을 반기는 까닭",
       "url": "https://www.mk.co.kr/article/12134236",
       "source": "",
-      "count": 1,
+      "count": 4,
       "group": "국채금리",
       "keyword": "국채"
+    },
+    "반도체:삼성전자": {
+      "title": "[EBN 오늘 (23일) 이슈 종합]삼성전자 누적 특허 30만건 눈앞, 투자자 손...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721325",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스, 연속 강세로 170만원선…새주 흐름은?",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600489",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:HBM": {
+      "title": "총성 울린 유리기판 경쟁…\"HBM 수성도 패키징에 달려 [압축전환 대한민국] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50SGFIdm1CazJOSEhHQkZYM2ZNQ3ptbXY3YXR0WFd5UlFDVHRvcEVMSllyUE9BMzE2V0l0ZlZDb2duUVBnUTQ3QUlJLTBfU3ZxRnpV?oc=5",
+      "source": "네이트",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "HBM"
+    },
+    "반도체:NVIDIA": {
+      "title": "Nvidia meets Korea's would-be challenger Rebellions as AI chip lines blur - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaY0FiZ0JvWHBGc1RrUDZfbmlHaTZ6ajJDMEdraXQxc0pzMHlDeUg1Y1NYcDdjdmNqRHF2YXdWaTc4UFRXU015M0k0UDY4Q2NRSjY4ckducjlPMDM2anU2cQ?oc=5",
+      "source": "네이트",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "NVIDIA"
+    },
+    "AI인프라:전력": {
+      "title": "[자막뉴스] 골프장에서 카트 탄 트럼프 향해 전력 질주하더니…\"제 삶의...",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717625&plink=ORI&cooper=NAVER",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "금리/환율:금리인상": {
+      "title": "\"금리인상 쉴 이유 있나\" vs \"7월 인상효과 확인이 먼저\"",
+      "url": "http://www.fnnews.com/news/202608231822393309",
+      "source": "",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "금리인상"
+    },
+    "증권:코스닥": {
+      "title": "무너지는 코넥스…올 코스닥행 0건",
+      "url": "https://www.hankyung.com/article/2026082371691",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "주식:수주": {
+      "title": "이익 급증·역대급 수주에도…웃지 못하는 건설사들",
+      "url": "https://www.sedaily.com/article/20082315?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "수주"
+    },
+    "주식:배당": {
+      "title": "ACE 고배당주PLUS커버드콜액티브 순매수 1천억 돌파",
+      "url": "http://www.fnnews.com/news/202608231821048961",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
+    },
+    "주식:자사주": {
+      "title": "한샘, 자사주 35%가 사라진다… 주당 가치 재평가 기대",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479762",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "자사주"
     }
   },
   "kw_article_pool": {
@@ -3057,6 +3255,13 @@
         "source": "",
         "group": "반도체",
         "keyword": "메모리"
+      },
+      {
+        "title": "삼성 차량용 메모리, 구글 웨이모 차세대 자율주행차에 들어간다",
+        "url": "http://www.fnnews.com/news/202608231833429861",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
       }
     ],
     "반도체:엔비디아": [
@@ -3070,6 +3275,27 @@
       {
         "title": "엔비디아, AI시스템 가격 15% 인상",
         "url": "https://www.mk.co.kr/article/12134216",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "엔비디아, 내년 AI 서버 ‘가격 인상’ 예고",
+        "url": "https://www.asiatime.co.kr/article/20260823500080",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "엔비디아 실적 발표·잭슨홀 미팅에 주목 [주간 증시 전망]",
+        "url": "http://www.fnnews.com/news/202608231819014099",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "애플·퀄컴 이어…엔비디아도 AI 칩 가격 15％ 인상 예고",
+        "url": "https://www.hankyung.com/article/202608237206i",
         "source": "",
         "group": "반도체",
         "keyword": "엔비디아"
@@ -3098,6 +3324,13 @@
         "source": "",
         "group": "반도체",
         "keyword": "패키징"
+      },
+      {
+        "title": "총성 울린 유리기판 경쟁…“HBM 수성도 패키징에 달려 [압축전환 대한...",
+        "url": "https://www.sedaily.com/article/20082313?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
       }
     ],
     "반도체:반도체": [
@@ -3120,6 +3353,13 @@
       {
         "title": "인천 AI 데이터센터, 사전 주민협의체 구성 제도화 시급…곳곳 주민 반...",
         "url": "https://www.kyeonggi.com/article/20260823580289",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      },
+      {
+        "title": "AI 투자 늘자…美데이터센터 채권 금리 年 7%로 급등",
+        "url": "https://www.hankyung.com/article/2026082371451",
         "source": "",
         "group": "AI인프라",
         "keyword": "데이터센터"
@@ -3175,6 +3415,13 @@
         "source": "",
         "group": "로봇",
         "keyword": "휴머노이드"
+      },
+      {
+        "title": "100m 9.39초…中 휴머노이드, 인간 기록 앞섰다",
+        "url": "https://www.hankyung.com/article/2026082371101",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
       }
     ],
     "로봇:로봇": [
@@ -3195,6 +3442,55 @@
       {
         "title": "[단독]인텔, 한국AI·로봇산업협회 회원사 된다 [로보 인사이트]",
         "url": "https://www.sedaily.com/article/20082293?ref=naver",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "로봇운동회에서 전자레인지에 음식을 넣는 로봇",
+        "url": "https://www.newsis.com/view/NISI20260823_0002218930",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "로봇운동회에서 전자레인지에 음식 넣고 있는 로봇",
+        "url": "https://www.newsis.com/view/NISI20260823_0002218928",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "로봇탁구에서 서브 중인 참가 로봇",
+        "url": "https://www.newsis.com/view/NISI20260823_0002218927",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "로봇운동회에서 준비 중인 로봇탁구 경기",
+        "url": "https://www.newsis.com/view/NISI20260823_0002218925",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "로봇운동회에서 준비 중인 로봇탁구 경기",
+        "url": "https://www.newsis.com/view/NISI20260823_0002218924",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "로봇운동회 실생활 종목에서 물건 정리 중인 로봇",
+        "url": "https://www.newsis.com/view/NISI20260823_0002218923",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "김규석 국제기능올림픽대회 한국위원회 운영위원장 \"AI·로봇 시대…숙...",
+        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330169",
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
@@ -3221,6 +3517,34 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "[일요와이드] 조급한 트럼프, 북한은 침묵?…한반도 정세 요동",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260823183835RAd",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프에 편지 쓴 ‘인간 스프린터’ 누구길래",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546558",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 ‘북핵 묵인’ 우려에…한국은 북·미 협상 시 어떻게 관여해야...",
+        "url": "https://www.khan.co.kr/article/202608231835001",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"캐나다, 미국의 주 아니면서도 혜택 누리려 해\"",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6846687_36925.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "트럼프:관세": [
@@ -3241,6 +3565,20 @@
       {
         "title": "美·캐나다 무역협상 결렬…\"관세 전쟁, 양측 모두 치명타\"",
         "url": "https://www.hankyung.com/article/2026082371421",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "캐나다, 美 관세에 \"전쟁이다\" 맞불",
+        "url": "http://www.fnnews.com/news/202608231826008085",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "트럼프 \"州도 아니면서 혜택만\"…캐나다에 50% 관세 폭탄",
+        "url": "https://www.the-today.com/news/articleView.html?idxno=88820",
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
@@ -3287,6 +3625,138 @@
         "source": "",
         "group": "국채금리",
         "keyword": "국채"
+      },
+      {
+        "title": "2012년 남유럽 재정위기 땐 국채금리 급등, 은행 부실로 전이",
+        "url": "https://www.hankyung.com/article/2026082371231",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "금리, 이달 연속 인상하나…국채금리 급등에 신중론도",
+        "url": "https://www.sedaily.com/article/20082324?ref=naver",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "국채 보관·파이낸싱 한 계좌로 처리한다",
+        "url": "https://www.busan.com/view/busan/view.php?code=2026082318143392423",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ],
+    "반도체:삼성전자": [
+      {
+        "title": "[EBN 오늘 (23일) 이슈 종합]삼성전자 누적 특허 30만건 눈앞, 투자자 손...",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721325",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스, 연속 강세로 170만원선…새주 흐름은?",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600489",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "[기자수첩] N% 성과급 '셀프보완' SK하이닉스, 체인저 역할론 커진다",
+        "url": "https://www.newsis.com/view/NISX20260819_0003753845",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "SK하이닉스 성과급 체계 변경, 이번주 분수령",
+        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1095260",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:HBM": [
+      {
+        "title": "총성 울린 유리기판 경쟁…\"HBM 수성도 패키징에 달려 [압축전환 대한민국] - 네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50SGFIdm1CazJOSEhHQkZYM2ZNQ3ptbXY3YXR0WFd5UlFDVHRvcEVMSllyUE9BMzE2V0l0ZlZDb2duUVBnUTQ3QUlJLTBfU3ZxRnpV?oc=5",
+        "source": "네이트",
+        "group": "반도체",
+        "keyword": "HBM"
+      }
+    ],
+    "반도체:NVIDIA": [
+      {
+        "title": "Nvidia meets Korea's would-be challenger Rebellions as AI chip lines blur - 네이트",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaY0FiZ0JvWHBGc1RrUDZfbmlHaTZ6ajJDMEdraXQxc0pzMHlDeUg1Y1NYcDdjdmNqRHF2YXdWaTc4UFRXU015M0k0UDY4Q2NRSjY4ckducjlPMDM2anU2cQ?oc=5",
+        "source": "네이트",
+        "group": "반도체",
+        "keyword": "NVIDIA"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "[자막뉴스] 골프장에서 카트 탄 트럼프 향해 전력 질주하더니…\"제 삶의...",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717625&plink=ORI&cooper=NAVER",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "금리/환율:금리인상": [
+      {
+        "title": "\"금리인상 쉴 이유 있나\" vs \"7월 인상효과 확인이 먼저\"",
+        "url": "http://www.fnnews.com/news/202608231822393309",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "금리인상"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "무너지는 코넥스…올 코스닥행 0건",
+        "url": "https://www.hankyung.com/article/2026082371691",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      },
+      {
+        "title": "활력 잃은 코넥스…코스닥 이전상장 올 0건",
+        "url": "http://www.fnnews.com/news/202608231821010054",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "이익 급증·역대급 수주에도…웃지 못하는 건설사들",
+        "url": "https://www.sedaily.com/article/20082315?ref=naver",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "ACE 고배당주PLUS커버드콜액티브 순매수 1천억 돌파",
+        "url": "http://www.fnnews.com/news/202608231821048961",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ],
+    "주식:자사주": [
+      {
+        "title": "한샘, 자사주 35%가 사라진다… 주당 가치 재평가 기대",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479762",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
       }
     ]
   }
