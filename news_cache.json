@@ -1,185 +1,5 @@
 {
   "news_seen": {
-    "44ec69e6dc53": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "91dfb9887d22": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "977df0eef4d0": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "5948f0f2d8a8": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "aa02456801a5": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "f8ab735d8bec": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "500ed895ba95": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "deaa15adb6d7": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "f57e3f95100a": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "ef187e5d2baa": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "e2f2c697bf44": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "82852efd6957": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "70f7728398ea": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "d7b4b92b2b62": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "179f9ea039ec": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "38b03356ceb3": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "816e7d477a4f": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "2eeafed083ae": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "baa0077404b3": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "165e99592aba": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "b59168ac50fc": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "8cc8457fafd4": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "040d67842e2b": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "ba116776ff77": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "4eff7f8264ec": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "fce10c2d3c25": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "6d2e6644a13b": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "c7c67450fe3c": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "06901f205217": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "0cd78b0ede13": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "22d10daf4e3d": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "236fc52e5f0f": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "e4d698af0d1c": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "7927e7e2c760": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "36d092f2fd17": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "e5a80918a8f4": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "71e30f4d4982": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "89e731e35c96": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "39e0158178a8": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "25fead9a84ae": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "441ffe7de2e3": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "0ac71c054122": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "7855e0095441": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "e46173fa9f61": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "71cbf6f9e6e3": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "e8f68d32087a": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "d39e39e1a7ab": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "827f9c264012": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "b4820b06dd0f": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "d3bfb6a6333b": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "b7675978a61e": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "cda2642e33bd": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "293d2564b253": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "abb453c6a048": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "79d434f0311b": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "327547ddb1cd": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "7ad6c9b8a9ef": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "e226b761c9d4": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "4b545dd782f9": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
-    "673ce33ee7bd": {
-      "first_seen": "2026-08-22T22:15:39.551765+00:00"
-    },
     "e5bd520177b8": {
       "first_seen": "2026-08-22T22:42:00.381862+00:00"
     },
@@ -1946,6 +1766,72 @@
     },
     "22c09923ded4": {
       "first_seen": "2026-08-23T10:02:47.034693+00:00"
+    },
+    "b414d6e0a142": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "a304a9da886e": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "b1a96961cb3b": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "3637e72eaf04": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "9d8ff8812f43": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "37a2ce87bc00": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "005596f2c68a": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "d49aa38793dd": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "e363a40986f2": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "abfef89efe7d": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "87c60b9304bd": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "4de77bc36600": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "7fed703e0d69": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "a34ba436cc67": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "8c042fec8292": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "67b7234625ba": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "e9cca88ffa7d": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "4abdfb43fe09": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "62e3f3503349": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "052d547e6133": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "0d4cd63ada21": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "e2165186f911": {
+      "first_seen": "2026-08-23T10:36:27.916868+00:00"
     }
   },
   "news_counts": {
@@ -3006,9 +2892,320 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:삼성전자": 1,
+    "반도체:엔비디아": 1,
+    "반도체:마이크론": 1,
+    "반도체:TSMC": 1,
+    "반도체:반도체": 1,
+    "AI인프라:전력": 2,
+    "AI인프라:데이터센터": 1,
+    "로봇:로봇": 2,
+    "트럼프:트럼프": 5,
+    "트럼프:관세": 2,
+    "트럼프:백악관": 1,
+    "금리/환율:PCE": 1,
+    "증권:상향": 1,
+    "국채금리:국채": 2
+  },
   "kw_counts_reset": "2026-08-22T23:45:01.802247+00:00",
   "last_top10_sent": "2026-08-23T10:02:50.476000+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:삼성전자": {
+      "title": "잉여현금 50% 약속 지킨 삼성전자… 15조원 임직원 자사주 매입 병행",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3136278",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "삼성전자"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아도 15% 인상…극한 칩플레이션 덮친다",
+      "url": "https://www.dt.co.kr/article/12079676?ref=naver",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:마이크론": {
+      "title": "[사설] 마이크론 14조 R&D 승부수, '초격차'로 더 앞서가야",
+      "url": "http://www.fnnews.com/news/202608231909205084",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "마이크론"
+    },
+    "반도체:TSMC": {
+      "title": "“韓이 먼저 상용화했는데” ...첨단패키징 PLP 기술, 대만 TSMC에 종속되나 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01dnNoU3FtQml2cnVkQU4xMl9OT2lQcjJZTVkydVFsOGdMNi1Sd3dPUDV4Q0tPTGpvcW53MFV3WDZ5bWp2MW1hb2pqbVlpdw?oc=5",
+      "source": "전자신문",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "TSMC"
+    },
+    "반도체:반도체": {
+      "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
+      "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260824.22010006314",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "트럼프 골프 카트 뒤 전력 질주한 ‘애착 담요’ 보좌관… “제 삶의 수...",
+      "url": "https://www.mk.co.kr/article/12134266",
+      "source": "",
+      "count": 2,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "AI인프라:데이터센터": {
+      "title": "JB금융그룹 공동 데이터센터 전주에 들어선다",
+      "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1049993",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "로봇:로봇": {
+      "title": "신기록 세우고·어이없이 부서지고 ‘극과 극’ 로봇",
+      "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546578",
+      "source": "",
+      "count": 2,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "트럼프 \"캐나다, 미국 주 아니면서 혜택만 원해\"",
+      "url": "https://www.nocutnews.co.kr/news/6566580?utm_source=naver&utm_medium=article&utm_campaign=20260823073424",
+      "source": "",
+      "count": 5,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "트럼프 50% 관세폭탄에… 캐나다 총리“전쟁이다”",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000005316&cp=nv",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "트럼프:백악관": {
+      "title": "백악관 앞 시속 300km 질주…미술관 진동 보호 조치",
+      "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546576",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "백악관"
+    },
+    "금리/환율:PCE": {
+      "title": "26일 美 PCE 물가지표… 27일 엔비디아 실적발표 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aMmhaQVJQbDZiZjJmS1FMZkpVRlhoSFY0dUswaG1QcllaMVhyYTdmWEZCZTZJY3RlUUp6MVR1OXZ3dE1mY0xWTXBqYkFDSTREaXc?oc=5",
+      "source": "매일경제 마켓",
+      "count": 1,
+      "group": "금리/환율",
+      "keyword": "PCE"
+    },
+    "증권:상향": {
+      "title": "해남 규모 3.1 지진…위기경보 ‘주의’ 상향",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643677&ref=A",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "국채금리:국채": {
+      "title": "재정적자 메꾸려다 고금리 역풍…美국채 '안전자산 프리미엄' 흔들",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02358326645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "source": "",
+      "count": 2,
+      "group": "국채금리",
+      "keyword": "국채"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:삼성전자": [
+      {
+        "title": "잉여현금 50% 약속 지킨 삼성전자… 15조원 임직원 자사주 매입 병행",
+        "url": "http://www.ttlnews.com/news/articleView.html?idxno=3136278",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아도 15% 인상…극한 칩플레이션 덮친다",
+        "url": "https://www.dt.co.kr/article/12079676?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:마이크론": [
+      {
+        "title": "[사설] 마이크론 14조 R&D 승부수, '초격차'로 더 앞서가야",
+        "url": "http://www.fnnews.com/news/202608231909205084",
+        "source": "",
+        "group": "반도체",
+        "keyword": "마이크론"
+      }
+    ],
+    "반도체:TSMC": [
+      {
+        "title": "“韓이 먼저 상용화했는데” ...첨단패키징 PLP 기술, 대만 TSMC에 종속되나 - 전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01dnNoU3FtQml2cnVkQU4xMl9OT2lQcjJZTVkydVFsOGdMNi1Sd3dPUDV4Q0tPTGpvcW53MFV3WDZ5bWp2MW1hb2pqbVlpdw?oc=5",
+        "source": "전자신문",
+        "group": "반도체",
+        "keyword": "TSMC"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
+        "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260824.22010006314",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "트럼프 골프 카트 뒤 전력 질주한 ‘애착 담요’ 보좌관… “제 삶의 수...",
+        "url": "https://www.mk.co.kr/article/12134266",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      },
+      {
+        "title": "전력망 포화에 ‘계절별 송전용량’ 도입… 기존망 활용 높인다",
+        "url": "https://m.skyedaily.com/news_view.html?ID=310281",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "JB금융그룹 공동 데이터센터 전주에 들어선다",
+        "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1049993",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "신기록 세우고·어이없이 부서지고 ‘극과 극’ 로봇",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546578",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "中 로봇올림픽…1년 만에 매서운 진화",
+        "url": "https://www.sedaily.com/article/20082343?ref=naver",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "트럼프 \"캐나다, 미국 주 아니면서 혜택만 원해\"",
+        "url": "https://www.nocutnews.co.kr/news/6566580?utm_source=naver&utm_medium=article&utm_campaign=20260823073424",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 \"캐나다, 미국 州도 아니면서\"...협상 결렬 후 맹비난",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230141&t=NN",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "캐나다, 트럼프 관세에 ‘맞불’… 카니 “美와 전쟁 중”",
+        "url": "https://www.segye.com/newsView/20260823508240?OutUrl=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "‘코리아 패싱’ 넘어 ‘퍼니싱’ 경고음...‘트럼프-김정은 담판’ 앞...",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02348486645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 “캐나다, 미국의 주 혜택 원하면서...” 또 조롱성 메시지",
+        "url": "https://vop.co.kr/A00001696331.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "트럼프 50% 관세폭탄에… 캐나다 총리“전쟁이다”",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000005316&cp=nv",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "미국 관세 부과에 캐나다 보복관세 예고…무역갈등 격화",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643679&ref=A",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "트럼프:백악관": [
+      {
+        "title": "백악관 앞 시속 300km 질주…미술관 진동 보호 조치",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546576",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "백악관"
+      }
+    ],
+    "금리/환율:PCE": [
+      {
+        "title": "26일 美 PCE 물가지표… 27일 엔비디아 실적발표 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aMmhaQVJQbDZiZjJmS1FMZkpVRlhoSFY0dUswaG1QcllaMVhyYTdmWEZCZTZJY3RlUUp6MVR1OXZ3dE1mY0xWTXBqYkFDSTREaXc?oc=5",
+        "source": "매일경제 마켓",
+        "group": "금리/환율",
+        "keyword": "PCE"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "해남 규모 3.1 지진…위기경보 ‘주의’ 상향",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643677&ref=A",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "재정적자 메꾸려다 고금리 역풍…美국채 '안전자산 프리미엄' 흔들",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02358326645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "美 국채 흔들리자 비트코인 급등…두 달 만에 다시 1억 원 돌파",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/23/2026082390101.html",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ]
+  }
 }
