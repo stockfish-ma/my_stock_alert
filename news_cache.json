@@ -962,6 +962,108 @@
     },
     "b154aecb495c": {
       "first_seen": "2026-08-23T04:20:49.421220+00:00"
+    },
+    "96727b31b4a8": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "5bc9c2907bb0": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "39d9c4c2f5aa": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "5e1b7fd369fc": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "be96efdd33cd": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "4c1551b2902d": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "71cf781a5d75": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "ffc651d8012a": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "1943ed940bdf": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "01332e7d87a4": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "e5426688d255": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "bb25395c03c4": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "d8c9f41dfb29": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "428c17ed9ba9": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "438da5ad5d21": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "7b2b8d68fa9e": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "a893ec18315b": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "872037db5b3a": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "23d646a2515c": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "f9ea80287801": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "0694b471e19d": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "259d276154f1": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "453d47eee5bf": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "be5925208f79": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "70331956a3e2": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "7b1a6dddec20": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "578785fdcd65": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "d85ae9ed2c9d": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "9936ca007ab2": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "d9a4ac42af24": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "5f96372fa0a5": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "8353790b7dce": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "c016d9542d45": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
+    },
+    "798bf04e8418": {
+      "first_seen": "2026-08-23T04:56:39.396306+00:00"
     }
   },
   "news_counts": {
@@ -2022,9 +2124,459 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:SK하이닉스": 1,
+    "반도체:메모리": 3,
+    "반도체:엔비디아": 2,
+    "반도체:반도체": 1,
+    "AI인프라:전력": 1,
+    "AI인프라:데이터센터": 1,
+    "에너지:배터리": 2,
+    "에너지:원전": 2,
+    "에너지:태양광": 1,
+    "로봇:휴머노이드": 1,
+    "로봇:로봇": 1,
+    "트럼프:트럼프": 4,
+    "트럼프:관세": 3,
+    "금리/환율:기준금리": 2,
+    "증권:상향": 1,
+    "증권:코스피": 2,
+    "증권:코스닥": 2,
+    "주식:수주": 2,
+    "주식:자사주": 2
+  },
   "kw_counts_reset": "2026-08-22T23:45:01.802247+00:00",
   "last_top10_sent": "2026-08-23T04:20:52.495936+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:SK하이닉스": {
+      "title": "삼성 110조의 '빈칸'…SK하이닉스 40조 소각이 던진 숙제 [fn마켓워치]",
+      "url": "http://www.fnnews.com/news/202608231329238216",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:메모리": {
+      "title": "엔비디아, 메모리 칩 부족에 AI 서버 15% 가격 인상...내년부터",
+      "url": "http://www.fnnews.com/news/202608231257529510",
+      "source": "",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "반도체:엔비디아": {
+      "title": "AI 서버값 '고공행진'...엔비디아, 고객사에 가격 15% 인상 예고",
+      "url": "https://www.ytn.co.kr/_ln/0104_202608231347164497",
+      "source": "",
+      "count": 2,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:반도체": {
+      "title": "전북대학교 배학열 교수팀, 우주 방사선에 따른 강유전체 AI 반도체 성능...",
+      "url": "https://www.lecturernews.com/news/articleView.html?idxno=209176",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "라이언 웨더스 ‘전력을 다해 던져보자’ [MK포토]",
+      "url": "https://www.mk.co.kr/article/12133997",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "AI인프라:데이터센터": {
+      "title": "지속가능한 AI 데이터센터, 어떻게?",
+      "url": "https://news.cpbc.co.kr/article/1175213?division=NAVER",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "데이터센터"
+    },
+    "에너지:배터리": {
+      "title": "K배터리 특허 9만건 넘었다… LG엔솔만 6만건",
+      "url": "https://m.skyedaily.com/news_view.html?ID=310271",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "에너지:원전": {
+      "title": "철수했던 러시아 인력, 이란 부셰르 원전으로 다시 돌아간다",
+      "url": "https://www.news1.kr/world/europe/6266676",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "원전"
+    },
+    "에너지:태양광": {
+      "title": "만호제강, 태양광 재생에너지 사업 추가",
+      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49916",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "로봇:휴머노이드": {
+      "title": "우사인 볼트 뛰어넘은 中휴머노이드 로봇…100m 9.39초 주파",
+      "url": "https://www.donga.com/news/Inter/article/all/20260823/134525014/2",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "로봇:로봇": {
+      "title": "DN오토모티브, 공작기계 사상 최대 실적…우주·방산·로봇 수주 확대",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479709",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "[일요와이드] 트럼프 \"北, 요청에 응답\"…훈련축소 여진 계속",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260823135330yMc",
+      "source": "",
+      "count": 4,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "캐나다 \"미국으로부터 공격받았다\" 관세전쟁 돌입 예고",
+      "url": "https://www.mt.co.kr/world/2026/08/23/2026082313275834175",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "금리/환율:기준금리": {
+      "title": "기준금리 인상? 인하?…트럼프·美연준 '동상이몽'",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260823133954GtW",
+      "source": "",
+      "count": 2,
+      "group": "금리/환율",
+      "keyword": "기준금리"
+    },
+    "증권:상향": {
+      "title": "정부, 해남 지진 반복에 위기경보 '주의'로 상향",
+      "url": "https://www.newspim.com/news/view/20260823000089",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:코스피": {
+      "title": "코스피 회전율 연중 최저…최근 반등에도 투심 냉랭",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260823134722x7w",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "[IPO 워치] 엘리스그룹, 코스닥 도전…최대 2011억 조달",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=671570",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "주식:수주": {
+      "title": "피에이치에이, 미국 신규 수주·생산 확대…향후 몇 년 성장 기대",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479719",
+      "source": "",
+      "count": 2,
+      "group": "주식",
+      "keyword": "수주"
+    },
+    "주식:자사주": {
+      "title": "'성과급 60% 자사주로'…SK하이닉스 잠정합의안, 이번 주 노조 투표",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5214161",
+      "source": "",
+      "count": 2,
+      "group": "주식",
+      "keyword": "자사주"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:SK하이닉스": [
+      {
+        "title": "삼성 110조의 '빈칸'…SK하이닉스 40조 소각이 던진 숙제 [fn마켓워치]",
+        "url": "http://www.fnnews.com/news/202608231329238216",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "엔비디아, 메모리 칩 부족에 AI 서버 15% 가격 인상...내년부터",
+        "url": "http://www.fnnews.com/news/202608231257529510",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      },
+      {
+        "title": "‘갑 중의 갑’ 엔비디아도 못 버틴 메모리값…AI 서버 가격 15% 이상 올...",
+        "url": "https://biz.heraldcorp.com/article/10849063?ref=naver",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      },
+      {
+        "title": "삼전닉스가 꽉 쥔 메모리 주도권…엔비디아도 결국",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230084&t=NN",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "AI 서버값 '고공행진'...엔비디아, 고객사에 가격 15% 인상 예고",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608231347164497",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "메모리값 급등에 엔비디아도 백기-AI 서버 가격 15% 이상 인상",
+        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87637",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "전북대학교 배학열 교수팀, 우주 방사선에 따른 강유전체 AI 반도체 성능...",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=209176",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "라이언 웨더스 ‘전력을 다해 던져보자’ [MK포토]",
+        "url": "https://www.mk.co.kr/article/12133997",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "AI인프라:데이터센터": [
+      {
+        "title": "지속가능한 AI 데이터센터, 어떻게?",
+        "url": "https://news.cpbc.co.kr/article/1175213?division=NAVER",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "K배터리 특허 9만건 넘었다… LG엔솔만 6만건",
+        "url": "https://m.skyedaily.com/news_view.html?ID=310271",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "정부, 미래폐자원 순환이용 기준 손질…폐배터리부터 풍력설비까지",
+        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49913",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "에너지:원전": [
+      {
+        "title": "철수했던 러시아 인력, 이란 부셰르 원전으로 다시 돌아간다",
+        "url": "https://www.news1.kr/world/europe/6266676",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      },
+      {
+        "title": "대창솔루션, 佛 아라벨 솔루션과 826억 규모 원전 특수강 공급계약",
+        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49912",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "만호제강, 태양광 재생에너지 사업 추가",
+        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49916",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "우사인 볼트 뛰어넘은 中휴머노이드 로봇…100m 9.39초 주파",
+        "url": "https://www.donga.com/news/Inter/article/all/20260823/134525014/2",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "DN오토모티브, 공작기계 사상 최대 실적…우주·방산·로봇 수주 확대",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479709",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "[일요와이드] 트럼프 \"北, 요청에 응답\"…훈련축소 여진 계속",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260823135330yMc",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 투자 계좌, 6월 한 달 동안 1천 건 넘는 주식 거래",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5214165",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "\"훈련 축소 일시적이길\"…트럼프 '北 손짓' 여진",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260823135018GoY",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "미 민주, 중간선거 승리땐 트럼프 부패의혹 대대적 조사 준비…“탄핵은...",
+        "url": "https://www.hani.co.kr/arti/international/america/1274169.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "캐나다 \"미국으로부터 공격받았다\" 관세전쟁 돌입 예고",
+        "url": "https://www.mt.co.kr/world/2026/08/23/2026082313275834175",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "동맹국서 하루아침에 '관세전쟁'으로 … 캐나다, 美 50% 관세에 '달러 대...",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/23/2026082300036.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "“자동화로 생산성 20%↑”…씨싸이트, 관세 파고 넘어 수익성 회복 시...",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=01584246645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "금리/환율:기준금리": [
+      {
+        "title": "기준금리 인상? 인하?…트럼프·美연준 '동상이몽'",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260823133954GtW",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "기준금리"
+      },
+      {
+        "title": "한은 기준금리 증권가 전망…“2회 연속 인상” 우세 “이번엔 동결” ...",
+        "url": "https://www.khan.co.kr/article/202608231337001",
+        "source": "",
+        "group": "금리/환율",
+        "keyword": "기준금리"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "정부, 해남 지진 반복에 위기경보 '주의'로 상향",
+        "url": "https://www.newspim.com/news/view/20260823000089",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "코스피 회전율 연중 최저…최근 반등에도 투심 냉랭",
+        "url": "http://www.yonhapnewstv.co.kr/news/MYH20260823134722x7w",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "삼전닉스 반등에도 투심은 '냉랭'…코스피 회전율 연중 최저",
+        "url": "https://www.imaeil.com/page/view/2026082312481994289",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "[IPO 워치] 엘리스그룹, 코스닥 도전…최대 2011억 조달",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=671570",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      },
+      {
+        "title": "한국거래소, 해치텍 25일 코스닥 거래 개시",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479708",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "피에이치에이, 미국 신규 수주·생산 확대…향후 몇 년 성장 기대",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479719",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      },
+      {
+        "title": "인도 웰스펀, 美 공장서 18억 달러 강관 수주…사상 최대",
+        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49926",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ],
+    "주식:자사주": [
+      {
+        "title": "'성과급 60% 자사주로'…SK하이닉스 잠정합의안, 이번 주 노조 투표",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5214161",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      },
+      {
+        "title": "SK하이닉스 임단협 이번 주 표결, 성과급 60% 자사주 지급 놓고 찬반 엇...",
+        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87638",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      }
+    ]
+  }
 }
