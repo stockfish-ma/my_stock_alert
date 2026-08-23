@@ -1,50 +1,5 @@
 {
   "news_seen": {
-    "e5bd520177b8": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "dc89f2e9d449": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "10f4902e8b36": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "2d4582f52742": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "925c2fb7dc06": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "763cb6487d0b": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "81205208c6cf": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "233ae357e85a": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "fdccb498ddca": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "3f7460d1478a": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "820d151737f3": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "991911f52182": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "0d3939e12391": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "0fc35e8b678c": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
-    "7f67397217f2": {
-      "first_seen": "2026-08-22T22:42:00.381862+00:00"
-    },
     "a2fa32877405": {
       "first_seen": "2026-08-22T23:01:32.979537+00:00"
     },
@@ -1832,6 +1787,36 @@
     },
     "e2165186f911": {
       "first_seen": "2026-08-23T10:36:27.916868+00:00"
+    },
+    "11e6b14b5431": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "c4c4d53613e6": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "fbdaf2303652": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "8e4e9bd86ce2": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "2b76c0a4bc7e": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "16fca1ef7243": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "147aa9c12d99": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "fc5ef033dfed": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "3d5225ea570c": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
+    },
+    "15bca2deeabe": {
+      "first_seen": "2026-08-23T10:56:09.430627+00:00"
     }
   },
   "news_counts": {
@@ -2897,16 +2882,19 @@
     "반도체:엔비디아": 1,
     "반도체:마이크론": 1,
     "반도체:TSMC": 1,
-    "반도체:반도체": 1,
+    "반도체:반도체": 3,
     "AI인프라:전력": 2,
     "AI인프라:데이터센터": 1,
-    "로봇:로봇": 2,
-    "트럼프:트럼프": 5,
-    "트럼프:관세": 2,
+    "로봇:로봇": 4,
+    "트럼프:트럼프": 6,
+    "트럼프:관세": 3,
     "트럼프:백악관": 1,
     "금리/환율:PCE": 1,
     "증권:상향": 1,
-    "국채금리:국채": 2
+    "국채금리:국채": 2,
+    "반도체:SK하이닉스": 1,
+    "로봇:휴머노이드": 2,
+    "주식:배당": 1
   },
   "kw_counts_reset": "2026-08-22T23:45:01.802247+00:00",
   "last_top10_sent": "2026-08-23T10:02:50.476000+00:00",
@@ -2947,7 +2935,7 @@
       "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
       "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260824.22010006314",
       "source": "",
-      "count": 1,
+      "count": 3,
       "group": "반도체",
       "keyword": "반도체"
     },
@@ -2971,7 +2959,7 @@
       "title": "신기록 세우고·어이없이 부서지고 ‘극과 극’ 로봇",
       "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546578",
       "source": "",
-      "count": 2,
+      "count": 4,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -2979,7 +2967,7 @@
       "title": "트럼프 \"캐나다, 미국 주 아니면서 혜택만 원해\"",
       "url": "https://www.nocutnews.co.kr/news/6566580?utm_source=naver&utm_medium=article&utm_campaign=20260823073424",
       "source": "",
-      "count": 5,
+      "count": 6,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2987,7 +2975,7 @@
       "title": "트럼프 50% 관세폭탄에… 캐나다 총리“전쟁이다”",
       "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000005316&cp=nv",
       "source": "",
-      "count": 2,
+      "count": 3,
       "group": "트럼프",
       "keyword": "관세"
     },
@@ -3022,6 +3010,30 @@
       "count": 2,
       "group": "국채금리",
       "keyword": "국채"
+    },
+    "반도체:SK하이닉스": {
+      "title": "[TVis] 지예은, SK하이닉스 들어갔나…주식 수익률 -47% 고백 “하지 말...",
+      "url": "https://isplus.com/article/view/isp202608230092",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "로봇:휴머노이드": {
+      "title": "중국 휴머노이드 '올해 10만 대' 양산 전망…현장 투입은 아직 숙제",
+      "url": "https://platum.kr/archives/293064",
+      "source": "",
+      "count": 2,
+      "group": "로봇",
+      "keyword": "휴머노이드"
+    },
+    "주식:배당": {
+      "title": "한화자산운용 '한화 고배당주플러스랩', 변동장서 두각",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=144011",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
     }
   },
   "kw_article_pool": {
@@ -3068,6 +3080,20 @@
         "source": "",
         "group": "반도체",
         "keyword": "반도체"
+      },
+      {
+        "title": "반도체·석유제품 동시 부진… 인천 수출 증가세 0.3% 둔화",
+        "url": "https://www.kyeongin.com/article/1769471",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "반도체 반등에도 개미들 '관망'…코스피 주식 회전율 연중 '최저'",
+        "url": "https://www.g-enews.com/view.php?ud=20260823193258520923c501012_1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
       }
     ],
     "AI인프라:전력": [
@@ -3109,6 +3135,20 @@
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
+      },
+      {
+        "title": "제자리서 2.88m 훌쩍… 인간 앞지른 ‘로봇굴기’",
+        "url": "https://www.segye.com/newsView/20260823508239?OutUrl=naver",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "\"우사인 볼트보다 빠르다니\"…100m 9초39에 달린 中 로봇",
+        "url": "https://www.dailian.co.kr/news/view/1681239/?sc=Naver",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
       }
     ],
     "트럼프:트럼프": [
@@ -3146,6 +3186,13 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "레이싱카 워싱턴 질주… 또 ‘트럼프 정치쇼’",
+        "url": "https://www.segye.com/newsView/20260823508238?OutUrl=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "트럼프:관세": [
@@ -3159,6 +3206,13 @@
       {
         "title": "미국 관세 부과에 캐나다 보복관세 예고…무역갈등 격화",
         "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643679&ref=A",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "경제 타격에도…결국 터진 美·캐나다 관세전쟁",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02361606645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
@@ -3205,6 +3259,40 @@
         "source": "",
         "group": "국채금리",
         "keyword": "국채"
+      }
+    ],
+    "반도체:SK하이닉스": [
+      {
+        "title": "[TVis] 지예은, SK하이닉스 들어갔나…주식 수익률 -47% 고백 “하지 말...",
+        "url": "https://isplus.com/article/view/isp202608230092",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "로봇:휴머노이드": [
+      {
+        "title": "중국 휴머노이드 '올해 10만 대' 양산 전망…현장 투입은 아직 숙제",
+        "url": "https://platum.kr/archives/293064",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      },
+      {
+        "title": "달리고 넘고 몸싸움…인간 못지않은 中 휴머노이드",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02391126645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "로봇",
+        "keyword": "휴머노이드"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "한화자산운용 '한화 고배당주플러스랩', 변동장서 두각",
+        "url": "http://www.bizwnews.com/news/articleView.html?idxno=144011",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
       }
     ]
   }
