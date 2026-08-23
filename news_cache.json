@@ -1,62 +1,5 @@
 {
   "news_seen": {
-    "3930f9cefb43": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "869c059b4b7f": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "a9df2fb6801d": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "b3390baa7ad2": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "8d75634fd78d": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "d5b0975212c3": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "47a22c9526e4": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "baed0773ebee": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "43c683963335": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "eb99cafce708": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "a248c711c3e9": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "7c8616ae7fa8": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "8fbcc5930dcc": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "f604bedf5752": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "96498f2dcbce": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "cb12e3dc8526": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "81022565f3b0": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "1f528a805c36": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
-    "929ea70873be": {
-      "first_seen": "2026-08-22T23:46:09.547105+00:00"
-    },
     "99389816a7cc": {
       "first_seen": "2026-08-23T00:00:01.191751+00:00"
     },
@@ -1772,6 +1715,33 @@
     },
     "fe2495686efa": {
       "first_seen": "2026-08-23T11:38:59.304646+00:00"
+    },
+    "180050aa8d9a": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
+    },
+    "bbf87a241037": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
+    },
+    "d54afecdced3": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
+    },
+    "4a56238a378e": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
+    },
+    "f1d0a7dbe328": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
+    },
+    "9e4c7935586f": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
+    },
+    "663c340ebbb9": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
+    },
+    "2e346ea31825": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
+    },
+    "f3366b89e819": {
+      "first_seen": "2026-08-23T11:55:51.445521+00:00"
     }
   },
   "news_counts": {
@@ -2833,18 +2803,15 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:삼성전자": 1,
-    "반도체:엔비디아": 1,
-    "반도체:NVIDIA": 1,
-    "반도체:반도체": 3,
-    "에너지:배터리": 1,
-    "로봇:로봇": 5,
-    "트럼프:트럼프": 1,
-    "국채금리:국채": 1,
-    "주식:수주": 1,
-    "주식:신고가": 1
+    "반도체:메모리": 1,
+    "에너지:원전": 1,
+    "에너지:풍력": 1,
+    "로봇:로봇": 1,
+    "트럼프:트럼프": 2,
+    "트럼프:관세": 2,
+    "증권:리포트": 1
   },
-  "kw_counts_reset": "2026-08-22T23:45:01.802247+00:00",
+  "kw_counts_reset": "2026-08-23T11:54:38.096531+00:00",
   "last_top10_sent": "2026-08-23T11:15:53.550406+00:00",
   "kw_articles": {
     "반도체:삼성전자": {
@@ -2891,7 +2858,7 @@
       "title": "中 커피 로봇, 기네스 기록 세워…1시간 동안 202잔 제조",
       "url": "https://www.irobotnews.com/news/articleView.html?idxno=48044",
       "source": "",
-      "count": 5,
+      "count": 1,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -2899,7 +2866,7 @@
       "title": "트럼프는 한반도에 득이 될까 [세계의 창]",
       "url": "https://www.hani.co.kr/arti/opinion/column/1274242.html",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2926,6 +2893,46 @@
       "count": 1,
       "group": "주식",
       "keyword": "신고가"
+    },
+    "반도체:메모리": {
+      "title": "[미디어포커스] 엔비디아, AI 서버 가격 15% 인상 예고… 메모리 품귀가...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=557307",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "에너지:원전": {
+      "title": "원안위, 정기검사 마친 새울원전 1호기 재가동 허용",
+      "url": "http://www.ujeil.com/news/articleView.html?idxno=390765",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "원전"
+    },
+    "에너지:풍력": {
+      "title": "재활용 골치 싹!…나무로 만든 풍력발전기 날개",
+      "url": "https://www.khan.co.kr/article/202608232040015",
+      "source": "",
+      "count": 1,
+      "group": "에너지",
+      "keyword": "풍력"
+    },
+    "트럼프:관세": {
+      "title": "포항상의, 대구 한의대서 '찾아가는 관세 전문가 상담'",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=718251",
+      "source": "",
+      "count": 2,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "증권:리포트": {
+      "title": "[리포트]AI로 '제2 오송 참사' 막는다",
+      "url": "https://tjmbc.co.kr/NewsArticle/858112",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "리포트"
     }
   },
   "kw_article_pool": {
@@ -3023,12 +3030,33 @@
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
+      },
+      {
+        "title": "'9.39초' 볼트보다 빠르다…중국 로봇 또 다른 도전은",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717652&plink=ORI&cooper=NAVER",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
       }
     ],
     "트럼프:트럼프": [
       {
         "title": "트럼프는 한반도에 득이 될까 [세계의 창]",
         "url": "https://www.hani.co.kr/arti/opinion/column/1274242.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "캐나다에 50% 관세 매긴 트럼프…카니 “미국이 공격, 전쟁 중”",
+        "url": "https://www.khan.co.kr/article/202608232048015",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "트럼프 ‘대화’ 네타냐후 ‘확전’…선거 코앞 ‘상반된’ 정치적 행보",
+        "url": "https://www.khan.co.kr/article/202608232048025",
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
@@ -3059,6 +3087,58 @@
         "source": "",
         "group": "주식",
         "keyword": "신고가"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "[미디어포커스] 엔비디아, AI 서버 가격 15% 인상 예고… 메모리 품귀가...",
+        "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=557307",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "에너지:원전": [
+      {
+        "title": "원안위, 정기검사 마친 새울원전 1호기 재가동 허용",
+        "url": "http://www.ujeil.com/news/articleView.html?idxno=390765",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      }
+    ],
+    "에너지:풍력": [
+      {
+        "title": "재활용 골치 싹!…나무로 만든 풍력발전기 날개",
+        "url": "https://www.khan.co.kr/article/202608232040015",
+        "source": "",
+        "group": "에너지",
+        "keyword": "풍력"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "포항상의, 대구 한의대서 '찾아가는 관세 전문가 상담'",
+        "url": "https://www.hidomin.com/news/articleView.html?idxno=718251",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "사실상 '전쟁'‥미·캐나다 관세충돌 격화",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846709_37004.html",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "증권:리포트": [
+      {
+        "title": "[리포트]AI로 '제2 오송 참사' 막는다",
+        "url": "https://tjmbc.co.kr/NewsArticle/858112",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
       }
     ]
   }
