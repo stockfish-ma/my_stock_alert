@@ -1,32 +1,5 @@
 {
   "news_seen": {
-    "180050aa8d9a": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
-    "bbf87a241037": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
-    "d54afecdced3": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
-    "4a56238a378e": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
-    "f1d0a7dbe328": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
-    "9e4c7935586f": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
-    "663c340ebbb9": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
-    "2e346ea31825": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
-    "f3366b89e819": {
-      "first_seen": "2026-08-23T11:55:51.445521+00:00"
-    },
     "88636c25dbef": {
       "first_seen": "2026-08-23T12:26:04.824250+00:00"
     },
@@ -797,6 +770,147 @@
     },
     "f4af71d5a133": {
       "first_seen": "2026-08-23T23:45:38.560348+00:00"
+    },
+    "ef956b9e7a4a": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "b179c21ce543": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "806be9da6704": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "67f5fb2d521e": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "f08dcf64f0eb": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "5d00ccebafbb": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "6e3b2f48011c": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "fccc04bb0097": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "ceed60b5ec9e": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "8cdc63c4d348": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "95028a4d2c45": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "153dc8e5c4b6": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "c7a2137de4e2": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "f35a113cde41": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "bed9391124d2": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "000b40e19ff8": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "82d1abdc62e0": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "57fe651660b9": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "c8d4852ee46b": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "d572736f0307": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "65c1fe2a1c4f": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "ed1732b67791": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "eb833a04e957": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "a0956b14d013": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "4cede45e23fb": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "0d12269652f4": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "2c06e3d955e3": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "853ecf865e4c": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "cd54305f4335": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "3dd57764d1ae": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "7ade74b96aa1": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "57af45b823b4": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "a28ab849259e": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "c0aaab2a1a70": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "fafc0c9548f1": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "3dba6fd7013b": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "e368c589d713": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "910c907cc281": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "e39fd06e5a07": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "6c50dc8965ce": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "e3814a4d2320": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "0c4272a0e0e5": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "e227958cf43d": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "60c9a6fd2c22": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "8f95e0f967c7": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "ae38aa98b6fd": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
+    },
+    "d37aaba0db64": {
+      "first_seen": "2026-08-24T00:00:03.032935+00:00"
     }
   },
   "news_counts": {
@@ -1858,42 +1972,37 @@
     "5월이라더니또아니었네SK두산": "★"
   },
   "kw_counts": {
-    "반도체:삼성전자": 3,
+    "반도체:삼성전자": 6,
     "반도체:SK하이닉스": 2,
-    "반도체:엔비디아": 1,
-    "반도체:반도체": 3,
-    "AI인프라:전력": 1,
-    "AI인프라:데이터센터": 4,
+    "반도체:메모리": 1,
+    "반도체:엔비디아": 4,
+    "AI인프라:데이터센터": 2,
+    "AI인프라:전력망": 1,
     "에너지:ESS": 2,
     "에너지:배터리": 2,
-    "에너지:원전": 1,
-    "에너지:LNG": 2,
-    "로봇:휴머노이드": 1,
-    "로봇:자율주행": 3,
-    "로봇:로봇": 1,
-    "트럼프:트럼프": 3,
-    "트럼프:관세": 2,
-    "금리/환율:PCE": 1,
-    "증권:하향": 4,
-    "증권:리포트": 2,
-    "증권:애널리스트": 2,
-    "증권:코스피": 5,
-    "증권:나스닥": 1,
-    "국채금리:국채": 2,
-    "원자재:구리": 1,
-    "주식:수주": 2,
-    "주식:배당": 1,
-    "주식:자사주": 2,
-    "주식:신고가": 1
+    "에너지:태양광": 2,
+    "에너지:SMR": 2,
+    "로봇:자율주행": 1,
+    "로봇:로봇": 2,
+    "트럼프:트럼프": 4,
+    "트럼프:관세": 1,
+    "트럼프:백악관": 1,
+    "증권:상향": 1,
+    "증권:하향": 1,
+    "증권:리포트": 4,
+    "증권:애널리스트": 1,
+    "증권:코스피": 1,
+    "국채금리:국채": 4,
+    "주식:수주": 2
   },
-  "kw_counts_reset": "2026-08-23T11:54:38.096531+00:00",
+  "kw_counts_reset": "2026-08-23T23:59:02.452406+00:00",
   "last_top10_sent": "2026-08-23T23:27:42.658103+00:00",
   "kw_articles": {
     "반도체:삼성전자": {
       "title": "퀄컴 넘은 삼성전자 '엑시노스 2700'…S27 탑재 확대 기대",
       "url": "http://www.inews24.com/view/1997432",
       "source": "",
-      "count": 3,
+      "count": 6,
       "group": "반도체",
       "keyword": "삼성전자"
     },
@@ -1909,7 +2018,7 @@
       "title": "다이나믹솔루션, 엔비디아와 BCI 로봇손 협력 논의",
       "url": "https://www.tokenpost.kr/news/cryptocurrency/396196",
       "source": "",
-      "count": 1,
+      "count": 4,
       "group": "반도체",
       "keyword": "엔비디아"
     },
@@ -1933,7 +2042,7 @@
       "title": "NH證 \"GS건설, 데이터센터 사업 본격화…목표주가 27.3%↑\"",
       "url": "https://www.ajunews.com/view/20260824084013544",
       "source": "",
-      "count": 4,
+      "count": 2,
       "group": "AI인프라",
       "keyword": "데이터센터"
     },
@@ -1981,7 +2090,7 @@
       "title": "쏘카, 자율주행 데이터로 승부수 던졌다",
       "url": "https://www.econovill.com/news/articleView.html?idxno=748686",
       "source": "",
-      "count": 3,
+      "count": 1,
       "group": "로봇",
       "keyword": "자율주행"
     },
@@ -1989,7 +2098,7 @@
       "title": "경북도, K-로봇 공급망 구축 TF 가동…5년간 4862억 원 투입",
       "url": "https://www.nocutnews.co.kr/news/6566614?utm_source=naver&utm_medium=article&utm_campaign=20260824083931",
       "source": "",
-      "count": 1,
+      "count": 2,
       "group": "로봇",
       "keyword": "로봇"
     },
@@ -1997,7 +2106,7 @@
       "title": "'친 트럼프' 폭스뉴스도 트럼프 북미대화 비관",
       "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1535013",
       "source": "",
-      "count": 3,
+      "count": 4,
       "group": "트럼프",
       "keyword": "트럼프"
     },
@@ -2005,7 +2114,7 @@
       "title": "미 보수단체, 생활비 낮출 '10대 개혁안' 제시…트럼프 관세정책에는 반...",
       "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=391132",
       "source": "",
-      "count": 2,
+      "count": 1,
       "group": "트럼프",
       "keyword": "관세"
     },
@@ -2021,7 +2130,7 @@
       "title": "키움證 \"카카오, 복합적 변수 고려해야…목표가 하향\"",
       "url": "https://www.ajunews.com/view/20260824083855540",
       "source": "",
-      "count": 4,
+      "count": 1,
       "group": "증권",
       "keyword": "하향"
     },
@@ -2029,7 +2138,7 @@
       "title": "[모닝 리포트] 알테오젠, mRNA 암 백신 시대에 키트루다SC 가치 부각",
       "url": "https://www.newspim.com/news/view/20260824000054",
       "source": "",
-      "count": 2,
+      "count": 4,
       "group": "증권",
       "keyword": "리포트"
     },
@@ -2037,7 +2146,7 @@
       "title": "북미서 존재감 키우는 HD현대일렉트릭…황제주 등극 기대감[애널리스트...",
       "url": "https://www.newsway.co.kr/news/view?ud=2026082408133247682",
       "source": "",
-      "count": 2,
+      "count": 1,
       "group": "증권",
       "keyword": "애널리스트"
     },
@@ -2045,7 +2154,7 @@
       "title": "6912.95 회복한 코스피, 반도체 환원 시험대",
       "url": "https://www.tokenpost.kr/news/market/396197",
       "source": "",
-      "count": 5,
+      "count": 1,
       "group": "증권",
       "keyword": "코스피"
     },
@@ -2061,7 +2170,7 @@
       "title": "비트코인, 美 국채 바이백에 다시 1억원… “약세장 끝났다” 전망도 제...",
       "url": "https://biz.chosun.com/stock/finance/2026/08/24/EQSKIIQHEZF2FJKMWNYKTHIXQ4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "source": "",
-      "count": 2,
+      "count": 4,
       "group": "국채금리",
       "keyword": "국채"
     },
@@ -2104,6 +2213,54 @@
       "count": 1,
       "group": "주식",
       "keyword": "신고가"
+    },
+    "반도체:메모리": {
+      "title": "[미르의 글로벌 레이더] “메모리 대란이 삼성에 기회”…스마트폰 최악...",
+      "url": "https://www.mediapen.com/news/view/1118313",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "메모리"
+    },
+    "AI인프라:전력망": {
+      "title": "SK증권 \"효성중공업, 美 전력망에 AI 수요까지…수주 가시성 확대\"",
+      "url": "https://www.etoday.co.kr/news/view/2617252",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력망"
+    },
+    "에너지:태양광": {
+      "title": "삼표그룹, 서울국제정원박람회 '삼표 정원'에 친환경 태양광 야간조명 ...",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=116713",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "태양광"
+    },
+    "에너지:SMR": {
+      "title": "AI 전력난 구원투수로 뜬 SMR…원전이 ‘공장’으로 간다 [7대 첨단기술 투자지도] - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nd0VMZThZcUx5eFdVVWZJYWpkV1dnMU9aX1c4akVfQkdSWXRuWDBCR3NuRnZXU2hGMkZ1aTdDQ01GWHRseGpMLXNnbWdzWF9OX0FtT3VCNS14dmxYbUhRbmFoTy1VeWdhRlQ1Ng?oc=5",
+      "source": "한경매거진&북",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "SMR"
+    },
+    "트럼프:백악관": {
+      "title": "레빗 백악관 대변인, 사임 후 트럼프 자금모금 슈퍼팩 근무",
+      "url": "https://www.ytn.co.kr/_ln/0104_202608240851253063",
+      "source": "",
+      "count": 1,
+      "group": "트럼프",
+      "keyword": "백악관"
+    },
+    "증권:상향": {
+      "title": "\"삼성물산, 예상 주당배당금 8550원…목표가 55만원으로 상향\"-SK",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02200886645550600&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "상향"
     }
   },
   "kw_article_pool": {
@@ -2128,6 +2285,48 @@
         "source": "",
         "group": "반도체",
         "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자 '갤럭시 버즈4 프로', 'EISA 어워드'서 최고 제품 선정",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721343",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자, 히트펌프 국내 생산…연 10만대 전량 공급",
+        "url": "https://theviewers.co.kr/View.aspx?No=4196099",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자, 'EHS 히트펌프 보일러' 국내 생산 시작",
+        "url": "https://www.gasnews.com/news/articleView.html?idxno=126462",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자, 히트펌프 보일러 9월부터 생산 시작…광주서 연 10만대",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=671583",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "한국투자신탁운용, 삼성전자·SK하이닉스에 채권 섞은 ETF 출시",
+        "url": "http://www.srtimes.kr/news/articleView.html?idxno=210648",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
+      },
+      {
+        "title": "삼성전자 '갤럭시 버즈4 프로', EISA 어워드서 '최고제품' 선정",
+        "url": "https://zdnet.co.kr/view/?no=20260824084529",
+        "source": "",
+        "group": "반도체",
+        "keyword": "삼성전자"
       }
     ],
     "반도체:SK하이닉스": [
@@ -2144,12 +2343,54 @@
         "source": "",
         "group": "반도체",
         "keyword": "SK하이닉스"
+      },
+      {
+        "title": "SK하이닉스·KT&G·KCC, 하반기 신입 채용 돌입",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=760760",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      },
+      {
+        "title": "대기업 하반기 채용 시작…SK하이닉스·KT&G 등 신입 모집",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1405010",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
       }
     ],
     "반도체:엔비디아": [
       {
         "title": "다이나믹솔루션, 엔비디아와 BCI 로봇손 협력 논의",
         "url": "https://www.tokenpost.kr/news/cryptocurrency/396196",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "다이나믹솔루션, 엔비디아와 'BCI' 협력하나…젠슨 황 장녀 베이징서 깜...",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=671579",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "\"엔비디아 데이터센터 매출 107% 증가 컨센서스\"",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431398",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "엔비디아 호실적 내놓나...연내 시총 6조달러 선점?",
+        "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170328",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "엔비디아 호실적이면 반도체주 다시 뛸까…이번주 ‘시험대’",
+        "url": "https://www.chosun.com/economy/stock-finance/2026/08/24/O4LFRCUPIRHSTEZIGJV35UJ3HA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
         "source": "",
         "group": "반도체",
         "keyword": "엔비디아"
@@ -2215,6 +2456,20 @@
         "source": "",
         "group": "AI인프라",
         "keyword": "데이터센터"
+      },
+      {
+        "title": "파두, OCP코리아 테크데이서 AI데이터센터 전략 공개",
+        "url": "https://www.dt.co.kr/article/12079700?ref=naver",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
+      },
+      {
+        "title": "파두, 'OCP 코리아 테크 데이'서 AI 데이터센터 특화 비전 공개",
+        "url": "http://www.srtimes.kr/news/articleView.html?idxno=210643",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "데이터센터"
       }
     ],
     "에너지:ESS": [
@@ -2231,6 +2486,20 @@
         "source": "버핏연구소",
         "group": "에너지",
         "keyword": "ESS"
+      },
+      {
+        "title": "삼성SDI, 실탄 준비 완료…북미 추가 ESS 증설 가능성 구체화-DB By 인포스탁데일리 - Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CZXVhY3NBM3ZMSUE2R2lHYVAxbTA0WGVkXzVtZzF2dDhNQ0hTa01ySmlPTXVQOE51Ti1PcmpCeVB4NXFleTdnSkNYd2hmLVB2VXdYb1JJalJVQzNhMFViVlFUeWZIelZFTG5ONXZkME4?oc=5",
+        "source": "Investing.com",
+        "group": "에너지",
+        "keyword": "ESS"
+      },
+      {
+        "title": "신영證 \"삼성SDI, SDC 지분 매각으로 ESS 확장 기반 마련…투자의견 '매수' 유지\" - 네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03YXNXQTBENWRCUnBNelNMTXZQUksyWER3aWh3QnF1S3NxSHRENUtzdGo1QjFGWDJIV3lJc2h6Z3F1R094V0h3NlI0c1V0a3l6cXFV?oc=5",
+        "source": "네이트",
+        "group": "에너지",
+        "keyword": "ESS"
       }
     ],
     "에너지:배터리": [
@@ -2244,6 +2513,20 @@
       {
         "title": "서울교통공사, 이상 보조배터리 지하철 휴대 자제 당부",
         "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479840",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "3차원 디지털 트윈으로 전기차 '급속충전 배터리 수명' 잡는다",
+        "url": "https://www.news1.kr/local/daejeon-chungnam/6267024",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "KAIST, 급속 충전시 배터리 수명↓ 원인 규명...새로운 전극 설계 전략도...",
+        "url": "https://www.etnews.com/20260824000015",
         "source": "",
         "group": "에너지",
         "keyword": "배터리"
@@ -2304,12 +2587,33 @@
         "source": "",
         "group": "로봇",
         "keyword": "자율주행"
+      },
+      {
+        "title": "쏘카·에이펙스, '자율주행 데이터 사업' 본격 추진",
+        "url": "https://news.mtn.co.kr/news-detail/2026082408505810488",
+        "source": "",
+        "group": "로봇",
+        "keyword": "자율주행"
       }
     ],
     "로봇:로봇": [
       {
         "title": "경북도, K-로봇 공급망 구축 TF 가동…5년간 4862억 원 투입",
         "url": "https://www.nocutnews.co.kr/news/6566614?utm_source=naver&utm_medium=article&utm_campaign=20260824083931",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "경북도, 로봇산업 공급망 T/F 출범…5년간 4862억원 투입",
+        "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053948",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "로봇이 집 짓는 시대, 집값 하락은 시간문제",
+        "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=362077",
         "source": "",
         "group": "로봇",
         "keyword": "로봇"
@@ -2336,6 +2640,34 @@
         "source": "",
         "group": "트럼프",
         "keyword": "트럼프"
+      },
+      {
+        "title": "10㎏ 찐 트럼프, 경호보다 비만 해결이 먼저…또 거론된 건강이상설",
+        "url": "https://www.sidae.com/article/2026082408445983250",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "전용 리무진으로 명예 주행하는 트럼프 대통령 내외",
+        "url": "https://www.newsis.com/view/NISI20260824_0002219109",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "레이싱카, 워싱턴 한복판서 질주…트럼프 ‘건국 250주년’ 피날레",
+        "url": "https://www.etoday.co.kr/news/view/2617256",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "'프리덤 250 그랑프리' 출발 깃발 흔드는 트럼프",
+        "url": "https://www.newsis.com/view/NISI20260824_0002219107",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
       }
     ],
     "트럼프:관세": [
@@ -2349,6 +2681,13 @@
       {
         "title": "캐나다 카니 \"미국과 무역전쟁 중\"…트럼프 50% 관세에 '맞불' 예고",
         "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=391122",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "멕시코, 대미 무역협상 관련 “車·철강 관세, 캐나다와 비슷한 수준의...",
+        "url": "https://www.theguru.co.kr/news/article.html?no=106150",
         "source": "",
         "group": "트럼프",
         "keyword": "관세"
@@ -2391,6 +2730,13 @@
         "source": "",
         "group": "증권",
         "keyword": "하향"
+      },
+      {
+        "title": "카카오 목표가 4만5000원까지 하향 조정",
+        "url": "https://www.tokenpost.kr/news/market/396205",
+        "source": "",
+        "group": "증권",
+        "keyword": "하향"
       }
     ],
     "증권:리포트": [
@@ -2407,6 +2753,34 @@
         "source": "",
         "group": "증권",
         "keyword": "리포트"
+      },
+      {
+        "title": "[모닝 리포트] \"메모리 다음은 ABF\"…삼성전기, 기판 공급난에 점유율 확...",
+        "url": "https://www.newspim.com/news/view/20260824000104",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
+      },
+      {
+        "title": "[키-리포트] NH \"코스맥스, 국내외 실적 회복 본격화…하반기 성장세 지...",
+        "url": "http://www.newsdream.kr/news/articleView.html?idxno=116699",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
+      },
+      {
+        "title": "[모닝 리포트] \"효성중공업, 美 송전 강점에 AI 데이터센터 고객 확대\"",
+        "url": "https://www.newspim.com/news/view/20260824000070",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
+      },
+      {
+        "title": "[모닝 리포트] 아우토크립트, 로열티 154% 급증에 BEP 근접",
+        "url": "https://www.newspim.com/news/view/20260824000066",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
       }
     ],
     "증권:애널리스트": [
@@ -2420,6 +2794,13 @@
       {
         "title": "카카오 인적분할에 얼어붙은 투심…목표가 최대 36% '뚝'[애널리스트의...",
         "url": "https://www.newsway.co.kr/news/view?ud=2026082408280783066",
+        "source": "",
+        "group": "증권",
+        "keyword": "애널리스트"
+      },
+      {
+        "title": "K9으로 미국 뚫은 한화에어로스페이스…\"최대 246만원 간다\"[애널리스트...",
+        "url": "https://www.newsway.co.kr/news/view?ud=2026082408410261842",
         "source": "",
         "group": "증권",
         "keyword": "애널리스트"
@@ -2460,6 +2841,13 @@
         "source": "",
         "group": "증권",
         "keyword": "코스피"
+      },
+      {
+        "title": "[금융핫이슈] 삼전닉스가 끌어올린 '코스피 착시'…최대 150조원 주주환...",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=126222",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
       }
     ],
     "증권:나스닥": [
@@ -2485,6 +2873,34 @@
         "source": "",
         "group": "국채금리",
         "keyword": "국채"
+      },
+      {
+        "title": "뉴욕증시, 국채금리 부담에도 반등...다우 0.98% 상승",
+        "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47208",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "미국 빚 5경 5000조원 돌파…국채 금리가 발작했다",
+        "url": "https://zdnet.co.kr/view/?no=20260824085051",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "美국채금리 발작에도 솟아난 하락장 방어주…CBOE·크로거 등 주목",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431397",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "[오늘의 비트코인] 美국채 불안에 상승세 지속…7만7000달러 돌파",
+        "url": "https://news.dealsitetv.com/articles/175068",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
       }
     ],
     "원자재:구리": [
@@ -2507,6 +2923,20 @@
       {
         "title": "HD현대일렉트릭, 美 수요 폭발에 증설·수주 '상향'..SK증권 \"주가 조정...",
         "url": "https://kpenews.com/View.aspx?No=4196072",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      },
+      {
+        "title": "엠앤씨솔루션, 차세대 소해함 핵심장비 국산화…82억원 규모 수주",
+        "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316444",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      },
+      {
+        "title": "비아이매트릭스, 금융·유통 대기업에 AI 솔루션 수주",
+        "url": "https://www.newspim.com/news/view/20260824000131",
         "source": "",
         "group": "주식",
         "keyword": "수주"
@@ -2544,6 +2974,74 @@
         "source": "",
         "group": "주식",
         "keyword": "신고가"
+      }
+    ],
+    "반도체:메모리": [
+      {
+        "title": "[미르의 글로벌 레이더] “메모리 대란이 삼성에 기회”…스마트폰 최악...",
+        "url": "https://www.mediapen.com/news/view/1118313",
+        "source": "",
+        "group": "반도체",
+        "keyword": "메모리"
+      }
+    ],
+    "AI인프라:전력망": [
+      {
+        "title": "SK증권 \"효성중공업, 美 전력망에 AI 수요까지…수주 가시성 확대\"",
+        "url": "https://www.etoday.co.kr/news/view/2617252",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력망"
+      }
+    ],
+    "에너지:태양광": [
+      {
+        "title": "삼표그룹, 서울국제정원박람회 '삼표 정원'에 친환경 태양광 야간조명 ...",
+        "url": "http://www.newsdream.kr/news/articleView.html?idxno=116713",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      },
+      {
+        "title": "삼표그룹, 서울숲 '삼표 정원'에 야간조명…태양광 활용",
+        "url": "https://www.g-enews.com/view.php?ud=202608240854088493112616b072_1",
+        "source": "",
+        "group": "에너지",
+        "keyword": "태양광"
+      }
+    ],
+    "에너지:SMR": [
+      {
+        "title": "AI 전력난 구원투수로 뜬 SMR…원전이 ‘공장’으로 간다 [7대 첨단기술 투자지도] - 한경매거진&북",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nd0VMZThZcUx5eFdVVWZJYWpkV1dnMU9aX1c4akVfQkdSWXRuWDBCR3NuRnZXU2hGMkZ1aTdDQ01GWHRseGpMLXNnbWdzWF9OX0FtT3VCNS14dmxYbUhRbmFoTy1VeWdhRlQ1Ng?oc=5",
+        "source": "한경매거진&북",
+        "group": "에너지",
+        "keyword": "SMR"
+      },
+      {
+        "title": "SMR 상용화 앞당긴다…IAEA 핵연료 시험 최적화 착수 - 에너지안전신문",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HOWo1NEpIZlFjWUR5YXd4NURibl9CVVJhdUVGRkFTTUtEVHo0QU5iYmpuMTZub0N0dlV5ajR5TlFIZnRLWnpjY2pVenJqNzV1bGswdmZRV0UwOFZnNEhHSGlEd1g?oc=5",
+        "source": "에너지안전신문",
+        "group": "에너지",
+        "keyword": "SMR"
+      }
+    ],
+    "트럼프:백악관": [
+      {
+        "title": "레빗 백악관 대변인, 사임 후 트럼프 자금모금 슈퍼팩 근무",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608240851253063",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "백악관"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "\"삼성물산, 예상 주당배당금 8550원…목표가 55만원으로 상향\"-SK",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02200886645550600&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
       }
     ]
   }
