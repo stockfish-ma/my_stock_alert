@@ -1,95 +1,5 @@
 {
   "news_seen": {
-    "b0afbe46255c": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "cc3e6dc83f96": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "75ebab26282c": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "3475dd5a4f78": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "ed9ff076a289": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "1a986b2a9ced": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "a959583e7447": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "e85dd4307aae": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "1a155965054f": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "6bcf643991df": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "f4f45b055f55": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "fe2b014a0caf": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "21d93d73a057": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "ab32944877b2": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "daa04d30fc77": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "d2ab2dfb22c4": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "cfdc257361e3": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "51311a3655e4": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "963046530d37": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "825266689824": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "800079c590d1": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "9de64a37c2c8": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "d96b6a03ffa1": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "19ca2c3d6651": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "2c5d3e83011d": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "70a7d9195590": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "86649c3c346d": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "f3e433abde08": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "04ad88708b5e": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
-    "c65bd5f76305": {
-      "first_seen": "2026-08-25T11:54:43.974742+00:00"
-    },
     "0838bb4a6ed5": {
       "first_seen": "2026-08-25T12:35:10.675836+00:00"
     },
@@ -689,6 +599,210 @@
     },
     "4c6507f2cca7": {
       "first_seen": "2026-08-25T23:44:23.267111+00:00"
+    },
+    "743801438e60": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "011fd1fdd7f7": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "5e10eeccbdb2": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "b32bb83a9ef5": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "c116dd72d414": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "e5f6e33ba1c4": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "e5af403c0c10": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "32d32705b092": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "a5841da800db": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "dc65b6240dde": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "71daf6853157": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "37f6e2ff45f3": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "28addd4dd0a6": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "2c05f04b57dc": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "9b08f1f992f8": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "e31459b20ae3": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "b71928c6522b": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "22b99e08bb7f": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "0e908b0194c7": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "5fd61ef53cff": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "4a371c9fa2b6": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "84737429b606": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "2983a9bf3131": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "fd1017dad30a": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "2b064cac686b": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "547d256ff3a0": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "9da6c7271713": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "a86ab675e64f": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "4a0f9c25620c": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "c8154b8afb7f": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "ac98dc18a873": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "fc5cf36d1ce8": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "8ffcad33a466": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "f2d85cc840e5": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "7fcf0d559109": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "2cdcc93a9a5c": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "86e1518f2628": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "9e92d1784571": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "b68ed0cabab4": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "110630e720f3": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "2942c8ae81eb": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "b1c0909a28f5": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "ee1f7ec7b251": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "a7018cea0c9d": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "40c4471b2b8c": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "f7b71d0e7c72": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "8c885e275b78": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "1693a2d29350": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "3f82418d0c51": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "077136551e2a": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "07098318106a": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "121363c748ae": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "549e35f03e31": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "7e1ec4b8ab37": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "43223bf15e01": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "5128de07d1b2": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "3949acf3a341": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "fe812407d7e7": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "32b769251078": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "bdea73dc5c4d": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "79357d8b2a3e": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "a3df498d73f5": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "a6c91dcf936a": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "096b4385d787": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "03ae30bcdb5b": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "00f64c39053e": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "8214b5a8c9ab": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
+    },
+    "6f1f7e781ec5": {
+      "first_seen": "2026-08-26T00:02:14.227774+00:00"
     }
   },
   "news_counts": {
@@ -1749,9 +1863,785 @@
     "광산구평생학습거리공연으로시민": "★",
     "5월이라더니또아니었네SK두산": "★"
   },
-  "kw_counts": {},
+  "kw_counts": {
+    "반도체:SK하이닉스": 1,
+    "반도체:엔비디아": 5,
+    "반도체:HBM": 3,
+    "반도체:마이크론": 1,
+    "반도체:패키징": 6,
+    "반도체:반도체": 4,
+    "AI인프라:전력": 1,
+    "AI인프라:HVDC": 5,
+    "에너지:배터리": 2,
+    "에너지:원전": 7,
+    "로봇:피지컬AI": 1,
+    "로봇:로봇": 3,
+    "트럼프:트럼프": 3,
+    "트럼프:관세": 3,
+    "증권:상향": 2,
+    "증권:하향": 1,
+    "증권:리포트": 2,
+    "증권:JP모건": 1,
+    "증권:코스피": 2,
+    "증권:코스닥": 3,
+    "증권:나스닥": 2,
+    "국채금리:국채": 2,
+    "주식:수주": 2,
+    "주식:배당": 1,
+    "주식:자사주": 3,
+    "주식:신고가": 1,
+    "주식:실적발표": 1
+  },
   "kw_counts_reset": "2026-08-25T22:28:20.167758+00:00",
   "last_top10_sent": "2026-08-25T23:44:29.606191+00:00",
-  "kw_articles": {},
-  "kw_article_pool": {}
+  "kw_articles": {
+    "반도체:SK하이닉스": {
+      "title": "SK하이닉스 임단협 엇갈린 표결…전임직 25표 차 부결·사무직은 가결",
+      "url": "https://www.ekn.kr/web/view.php?key=20260826027346609",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "SK하이닉스"
+    },
+    "반도체:엔비디아": {
+      "title": "엔비디아, 젯슨 오린 나노 2 로보틱스 컴퓨터 공개 ··· 엔트리급 엣지...",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=214012",
+      "source": "",
+      "count": 5,
+      "group": "반도체",
+      "keyword": "엔비디아"
+    },
+    "반도체:HBM": {
+      "title": "PLUS 글로벌HBM반도체, 해외주식형 ETF 수익률 ‘4관왕’ - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43ZTdpVWp0Z29GelVINVFvRzNEWEh5VGRMVW9nNUoyeDdDTDhUUjZ1Rk5YZ0cxTWJ2UndyRjh6VlJNTVI4d3l1aXdBYVQ3T3hjbnlXbndnc2x2dWFfVTRWQzkxUmNUdzNiUVQ3eGdYU2VWYzg?oc=5",
+      "source": "마켓인",
+      "count": 3,
+      "group": "반도체",
+      "keyword": "HBM"
+    },
+    "반도체:마이크론": {
+      "title": "마이크론·샌디스크보다 낫다…웨스턴디지털, 3년 160%↑ 전망",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431802",
+      "source": "",
+      "count": 1,
+      "group": "반도체",
+      "keyword": "마이크론"
+    },
+    "반도체:패키징": {
+      "title": "LG화학, AI 반도체 소재 공략…대만서 첨단 패키징 솔루션 공개",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116854",
+      "source": "",
+      "count": 6,
+      "group": "반도체",
+      "keyword": "패키징"
+    },
+    "반도체:반도체": {
+      "title": "\"코스피, 美 금리 하락·반도체 반등에 상승 전망\"<키움證>",
+      "url": "https://www.news2day.co.kr/article/20260826500019",
+      "source": "",
+      "count": 4,
+      "group": "반도체",
+      "keyword": "반도체"
+    },
+    "AI인프라:전력": {
+      "title": "\"中 데이터센터 전력사용량, 2030년 되면 한국 전체 소비량 넘어서\"",
+      "url": "https://www.theguru.co.kr/news/article.html?no=106256",
+      "source": "",
+      "count": 1,
+      "group": "AI인프라",
+      "keyword": "전력"
+    },
+    "AI인프라:HVDC": {
+      "title": "LS일렉트릭·GE버노바, HVDC 합작사 설립…'에너지 고속도로' 공략 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUktMa0RPb0wxVEN0RmpqNEgwSDVOTk5RbFg2azBlM29Gc1dqVHhWWDVuTEJ5TDAyaFFuSGxWaXRxb0NjM2hFV2wyeElQZGM3SFZBUGRR?oc=5",
+      "source": "지디넷코리아",
+      "count": 5,
+      "group": "AI인프라",
+      "keyword": "HVDC"
+    },
+    "에너지:배터리": {
+      "title": "엠오티, 46파이 원통형 배터리 조립 장비 첫 출하…\"차세대 라인 진입\"",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=280254",
+      "source": "",
+      "count": 2,
+      "group": "에너지",
+      "keyword": "배터리"
+    },
+    "에너지:원전": {
+      "title": "“11월까지 원전 모멘텀 이어져”…NH證, 두산에너빌리티 목표가 13만30...",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/08/26/U74YT5Q52FGI5AQMWTPR4FL7V4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "source": "",
+      "count": 7,
+      "group": "에너지",
+      "keyword": "원전"
+    },
+    "로봇:피지컬AI": {
+      "title": "\"3대 메가프로젝트 뒷받침\"…기보·우리은행, 피지컬AI에 9750억 협약보증",
+      "url": "https://www.news1.kr/industry/sb-founded/6269477",
+      "source": "",
+      "count": 1,
+      "group": "로봇",
+      "keyword": "피지컬AI"
+    },
+    "로봇:로봇": {
+      "title": "LG전자, 하반기 신입채용…로봇·HVAC 등 미래사업 인재 확보",
+      "url": "https://www.dt.co.kr/article/12080244?ref=naver",
+      "source": "",
+      "count": 3,
+      "group": "로봇",
+      "keyword": "로봇"
+    },
+    "트럼프:트럼프": {
+      "title": "\"협상 대신 보복을 택한 국가는 중국과 캐나다 뿐\"..뿔난 트럼프, 아전인...",
+      "url": "https://www.hankyung.com/article/202608262569i",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "트럼프"
+    },
+    "트럼프:관세": {
+      "title": "[이슈체크] 美·加 관세전쟁, 화장품에도 파장…K뷰티에 변수되나",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=206733",
+      "source": "",
+      "count": 3,
+      "group": "트럼프",
+      "keyword": "관세"
+    },
+    "증권:상향": {
+      "title": "양주시, 추석 앞두고 양주사랑상품권 인센티브 10%로 상향",
+      "url": "https://www.munhwa.com/article/11612073?ref=naver",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "상향"
+    },
+    "증권:하향": {
+      "title": "송도 랜드마크 타워 높이 하향…'국내 2위' 결국 무산",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=225704",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "하향"
+    },
+    "증권:리포트": {
+      "title": "[모닝 리포트] \"한화, 재상장 후 저평가 구간\"",
+      "url": "https://www.newspim.com/news/view/20260826000133",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "리포트"
+    },
+    "증권:JP모건": {
+      "title": "JP모건 \"스페이스X(SPCX), 75% 더 뛴다\"...목표주가 '240달러'",
+      "url": "http://coinreaders.com/254838",
+      "source": "",
+      "count": 1,
+      "group": "증권",
+      "keyword": "JP모건"
+    },
+    "증권:코스피": {
+      "title": "코스피 4거래일째 기타법인 1조원대 매수세…정체는",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431793",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "코스피"
+    },
+    "증권:코스닥": {
+      "title": "어피닛, 코스닥 상장예비심사 청구…IPO 절차 착수",
+      "url": "https://view.asiae.co.kr/article/2026082608581746274",
+      "source": "",
+      "count": 3,
+      "group": "증권",
+      "keyword": "코스닥"
+    },
+    "증권:나스닥": {
+      "title": "중동 긴장 완화에 반도체 반등... 나스닥 0.66%↑ [뉴욕증시]",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1406009",
+      "source": "",
+      "count": 2,
+      "group": "증권",
+      "keyword": "나스닥"
+    },
+    "국채금리:국채": {
+      "title": "뉴욕증시 3대 지수 일제히 상승…반도체주 강세·국채금리 하락",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608260007",
+      "source": "",
+      "count": 2,
+      "group": "국채금리",
+      "keyword": "국채"
+    },
+    "주식:수주": {
+      "title": "케이조선, 중형 석유화학제품운반선 6척 수주…5100억 규모",
+      "url": "https://www.fnnews.com/news/202608260857245004",
+      "source": "",
+      "count": 2,
+      "group": "주식",
+      "keyword": "수주"
+    },
+    "주식:배당": {
+      "title": "한국투자신탁운용, 인컴ETF모으기월배당펀드 첫 월분배",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480543",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "배당"
+    },
+    "주식:자사주": {
+      "title": "디에스엠, 김종석 대표 자사주 9950주 장내매수…\"매출 목표 600억 상향...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02751926645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "source": "",
+      "count": 3,
+      "group": "주식",
+      "keyword": "자사주"
+    },
+    "주식:신고가": {
+      "title": "서초구 '메이플자이' 41평, 11억 오른 78억원에 거래 [일일 신고가]",
+      "url": "https://www.fntimes.com/html/view.php?ud=202608260842145361048b718333_18",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "신고가"
+    },
+    "주식:실적발표": {
+      "title": "엔비디아, 26일 2분기 실적발표...중국·루빈·HBM 계획 주목",
+      "url": "http://www.inews24.com/view/1998269",
+      "source": "",
+      "count": 1,
+      "group": "주식",
+      "keyword": "실적발표"
+    }
+  },
+  "kw_article_pool": {
+    "반도체:SK하이닉스": [
+      {
+        "title": "SK하이닉스 임단협 엇갈린 표결…전임직 25표 차 부결·사무직은 가결",
+        "url": "https://www.ekn.kr/web/view.php?key=20260826027346609",
+        "source": "",
+        "group": "반도체",
+        "keyword": "SK하이닉스"
+      }
+    ],
+    "반도체:엔비디아": [
+      {
+        "title": "엔비디아, 젯슨 오린 나노 2 로보틱스 컴퓨터 공개 ··· 엔트리급 엣지...",
+        "url": "https://www.datanet.co.kr/news/articleView.html?idxno=214012",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "실적보다 더 중요한 4가지…엔비디아, 운명의 실적 발표",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5214881",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "[리포트] AIT-E, 엔비디아 파트너 WWT와 맞손···100% 액체냉각 '실증센...",
+        "url": "http://www.paxetv.com/news/articleView.html?idxno=280251",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "인도 데이터센터 회사, 엔비디아 루빈 GPU 9000개 발주",
+        "url": "https://zdnet.co.kr/view/?no=20260826085104",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      },
+      {
+        "title": "오픈AI, 자체 개발 추론칩 첫 성능 공개...엔비디아에 도전장?",
+        "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170454",
+        "source": "",
+        "group": "반도체",
+        "keyword": "엔비디아"
+      }
+    ],
+    "반도체:HBM": [
+      {
+        "title": "PLUS 글로벌HBM반도체, 해외주식형 ETF 수익률 ‘4관왕’ - 마켓인",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43ZTdpVWp0Z29GelVINVFvRzNEWEh5VGRMVW9nNUoyeDdDTDhUUjZ1Rk5YZ0cxTWJ2UndyRjh6VlJNTVI4d3l1aXdBYVQ3T3hjbnlXbndnc2x2dWFfVTRWQzkxUmNUdzNiUVQ3eGdYU2VWYzg?oc=5",
+        "source": "마켓인",
+        "group": "반도체",
+        "keyword": "HBM"
+      },
+      {
+        "title": "한화운용, PLUS 글로벌HBM반도체 해외주식형 수익률 1위 - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQkt6Y0dWVlRNd21HYzFYVW5FRTJteHhDU21wejJZQ2ZCaHhNOGJJWkkybHp1cEVsTy1qU09yWXFNeHpucEs3ekx0U1JhRHFNNUR3MnZFVXVRcjJxOVRJdg?oc=5",
+        "source": "아시아경제",
+        "group": "반도체",
+        "keyword": "HBM"
+      },
+      {
+        "title": "한화자산운용, 'PLUS 글로벌HBM반도체' 누적 수익률 4관왕 - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zNTB6b1lPTS1JamYyVExrTjgzMzRpbEQ1SUg5UUw2ekdNa0I2N2U5OTI3VUxRVUtsVnhaVnBwVGJEYmVjUmxiZ0dFQWN0ME43SktjSVM4MERUSFVB?oc=5",
+        "source": "뉴스핌",
+        "group": "반도체",
+        "keyword": "HBM"
+      }
+    ],
+    "반도체:마이크론": [
+      {
+        "title": "마이크론·샌디스크보다 낫다…웨스턴디지털, 3년 160%↑ 전망",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431802",
+        "source": "",
+        "group": "반도체",
+        "keyword": "마이크론"
+      }
+    ],
+    "반도체:패키징": [
+      {
+        "title": "LG화학, AI 반도체 소재 공략…대만서 첨단 패키징 솔루션 공개",
+        "url": "http://www.4th.kr/news/articleView.html?idxno=2116854",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      },
+      {
+        "title": "LG화학, '세미콘 타이완' 참가…AI 반도체 패키징 소재 공략",
+        "url": "https://www.ziksir.com/news/articleView.html?idxno=144287",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      },
+      {
+        "title": "LG화학, 아시아 최대 반도체 전시회 출격…글로벌 패키징 고객사 확보 ...",
+        "url": "http://www.newsdream.kr/news/articleView.html?idxno=116885",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      },
+      {
+        "title": "LG화학, 대만 반도체 전시회 참가…첨단 패키징 소재 선봬",
+        "url": "https://www.yna.co.kr/view/AKR20260826029300003?input=1195m",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      },
+      {
+        "title": "LG화학, ‘세미콘 타이완 2026’ 참가…AI 반도체 패키징 소재 시장 공략",
+        "url": "https://sports.donga.com/economy/article/all/20260826/134544942/1",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      },
+      {
+        "title": "LG화학, AI 반도체용 첨단 패키징 솔루션 공개",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02755206645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "반도체",
+        "keyword": "패키징"
+      }
+    ],
+    "반도체:반도체": [
+      {
+        "title": "\"코스피, 美 금리 하락·반도체 반등에 상승 전망\"<키움證>",
+        "url": "https://www.news2day.co.kr/article/20260826500019",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "한화운용 ‘PLUS 글로벌HBM반도체’, 해외주식형 수익률 4관왕",
+        "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570600447661",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "“코스닥, 지수보다 종목…반도체·바이오·로봇 주목”<미래에셋證>",
+        "url": "https://www.news2day.co.kr/article/20260826500021",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      },
+      {
+        "title": "LG화학, 亞 최대 반도체 전시회 세미콘 타이완 참가…\"전자소재 사업 확...",
+        "url": "https://www.newsis.com/view/NISX20260826_0003762678",
+        "source": "",
+        "group": "반도체",
+        "keyword": "반도체"
+      }
+    ],
+    "AI인프라:전력": [
+      {
+        "title": "\"中 데이터센터 전력사용량, 2030년 되면 한국 전체 소비량 넘어서\"",
+        "url": "https://www.theguru.co.kr/news/article.html?no=106256",
+        "source": "",
+        "group": "AI인프라",
+        "keyword": "전력"
+      }
+    ],
+    "AI인프라:HVDC": [
+      {
+        "title": "LS일렉트릭·GE버노바, HVDC 합작사 설립…'에너지 고속도로' 공략 - 지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUktMa0RPb0wxVEN0RmpqNEgwSDVOTk5RbFg2azBlM29Gc1dqVHhWWDVuTEJ5TDAyaFFuSGxWaXRxb0NjM2hFV2wyeElQZGM3SFZBUGRR?oc=5",
+        "source": "지디넷코리아",
+        "group": "AI인프라",
+        "keyword": "HVDC"
+      },
+      {
+        "title": "LS일렉트릭, GE버노바와 전압형 HVDC 합작법인 설립 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUWpWUjdNT0ZySldLckV0cm14SjltT0VqTEktakx2bHBrdDZhWmhZUHhwdXplM3lCWUUtNjRXS2tVTVRJdzRDX0swekRHQ0FldUdKTVZpLTV6YTBUT0I2RmxrZXlZZjdoZ0ZqQ2l0UFhoX2cxTlkzY1B4U2hDb2IzTjdTS2lxQQ?oc=5",
+        "source": "글로벌이코노믹",
+        "group": "AI인프라",
+        "keyword": "HVDC"
+      },
+      {
+        "title": "LS일렉트릭, GE버노바와 전압형 HVDC 합작법인 설립 - edaily.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmh1eVVISGdIb182Rkw0WVJyOElhNXV0cmF0NVEwQjlrcmpJTlhhMkxnTXFXWWU0eWVJTzhwVXhIaFltMWJsTGFwQWlFVmJoQU1SeEdnQTNnMWl2M2gwSko2NmMzVHVZV3hRWVo5MVlDdm1nVHVzOFRWTkpUX3FjYg?oc=5",
+        "source": "edaily.co.kr",
+        "group": "AI인프라",
+        "keyword": "HVDC"
+      },
+      {
+        "title": "LS일렉트릭, GE버노바와 HVDC 합작법인 설립 - 한스경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YV1V4aFR2MTZ4M2MwbHBDQWhTWURoX3h0QlZOLW85Q1p6TC16cUZJU1JZUkNlMFQ1b04wSEJfLVZYRlZ2RFF6aWIxVjEzWUZhUjZFNzJfdXFwM2JGNzBwOE1IajJZMGFCQjFBZ9IBb0FVX3lxTE5XTVBDUDZfN0wtemRtQ25TWDhRLU81RG1xdTBiclp0VEpneU84SlJrSkVUbnRVWENlMW05V1hXZksxZ091VzlodEVrX2g2MGFITDNwaGVvYmZOc21ZU3d5Z0RXaGVUek41Q0tyX1Zvaw?oc=5",
+        "source": "한스경제",
+        "group": "AI인프라",
+        "keyword": "HVDC"
+      },
+      {
+        "title": "LS일렉트릭, GE버노바와 손잡고 전압형 HVDC 합작법인 세운다 - 스페셜타임스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GdnNxTzRuNDRJa1lpNGJoZVpTd21XdWFKdFB1emFXSXVlVG1rckQ5WGtrYy16Yllod2ptUldsVlR1QVhLQlhOV1hObE5XV3JRUHJZazdOZUVoRGloVWp1a1djMGhYY3ctR0trbUpwcnBDcVE?oc=5",
+        "source": "스페셜타임스",
+        "group": "AI인프라",
+        "keyword": "HVDC"
+      }
+    ],
+    "에너지:배터리": [
+      {
+        "title": "엠오티, 46파이 원통형 배터리 조립 장비 첫 출하…\"차세대 라인 진입\"",
+        "url": "http://www.paxetv.com/news/articleView.html?idxno=280254",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      },
+      {
+        "title": "엠오티, 46파이 배터리 조립장비 출하",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859581",
+        "source": "",
+        "group": "에너지",
+        "keyword": "배터리"
+      }
+    ],
+    "에너지:원전": [
+      {
+        "title": "“11월까지 원전 모멘텀 이어져”…NH證, 두산에너빌리티 목표가 13만30...",
+        "url": "https://biz.chosun.com/stock/stock_general/2026/08/26/U74YT5Q52FGI5AQMWTPR4FL7V4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      },
+      {
+        "title": "새울원전 1호기, 55일간 정비 마치고 100% 정상 가동",
+        "url": "https://view.asiae.co.kr/article/2026082608581442279",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      },
+      {
+        "title": "기장군-한수원, 고리원전 현안 해법 논의",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1399233",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      },
+      {
+        "title": "\"두산에너빌리티, 美 중간선거까지 원전 모멘텀…목표가 13.3만원\"",
+        "url": "https://www.mt.co.kr/stock/2026/08/26/2026082608541366589",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      },
+      {
+        "title": "[모닝 리포트] \"두산에너빌리티, 美 중간선거 전 원전 모멘텀 지속\"",
+        "url": "https://www.newspim.com/news/view/20260826000094",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      },
+      {
+        "title": "\"삼성물산, 하이테크·원전·배당까지…가장 안정적인 픽\"-한화證",
+        "url": "https://www.fnnews.com/news/202608260844013108",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      },
+      {
+        "title": "영덕의 백년대계 이끌 '새 원전 이름' 찾는다... 전 군민 아이디어 집결",
+        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878824",
+        "source": "",
+        "group": "에너지",
+        "keyword": "원전"
+      }
+    ],
+    "로봇:피지컬AI": [
+      {
+        "title": "\"3대 메가프로젝트 뒷받침\"…기보·우리은행, 피지컬AI에 9750억 협약보증",
+        "url": "https://www.news1.kr/industry/sb-founded/6269477",
+        "source": "",
+        "group": "로봇",
+        "keyword": "피지컬AI"
+      }
+    ],
+    "로봇:로봇": [
+      {
+        "title": "LG전자, 하반기 신입채용…로봇·HVAC 등 미래사업 인재 확보",
+        "url": "https://www.dt.co.kr/article/12080244?ref=naver",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "SK인텔릭스 웰니스 로봇 '나무엑스', IR52 장영실상 수상",
+        "url": "https://www.ddaily.co.kr/page/view/2026082608474653190",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      },
+      {
+        "title": "SK인텔릭스 웰니스 로봇 ‘나무엑스’, IR52 장영실상 수상",
+        "url": "https://biz.chosun.com/industry/business-venture/2026/08/26/6EKU4SVRUFE3RCLOVC3ZYJCU4Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "",
+        "group": "로봇",
+        "keyword": "로봇"
+      }
+    ],
+    "트럼프:트럼프": [
+      {
+        "title": "\"협상 대신 보복을 택한 국가는 중국과 캐나다 뿐\"..뿔난 트럼프, 아전인...",
+        "url": "https://www.hankyung.com/article/202608262569i",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "김정은, 당 정치국 확대회의 주재…트럼프 '러브콜'엔 무반응",
+        "url": "https://www.mt.co.kr/politics/2026/08/26/2026082608415868648",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      },
+      {
+        "title": "캐나다, 보복관세로 트럼프 선거 패배 노리나…공화당 유력후보 지역 생...",
+        "url": "https://www.dt.co.kr/article/12080243?ref=naver",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "트럼프"
+      }
+    ],
+    "트럼프:관세": [
+      {
+        "title": "[이슈체크] 美·加 관세전쟁, 화장품에도 파장…K뷰티에 변수되나",
+        "url": "https://www.tfmedia.co.kr/news/article.html?no=206733",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "재경부, 태국산 무계목 동관에 최대 8.41% AD 관세 부과",
+        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49981",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      },
+      {
+        "title": "\"관세에는 관세로 맞불\"...캐나다, 美에 200억달러 보복관세",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=542728",
+        "source": "",
+        "group": "트럼프",
+        "keyword": "관세"
+      }
+    ],
+    "증권:상향": [
+      {
+        "title": "양주시, 추석 앞두고 양주사랑상품권 인센티브 10%로 상향",
+        "url": "https://www.munhwa.com/article/11612073?ref=naver",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      },
+      {
+        "title": "\"은퇴 후 소득 끊겼는데 교통비마저\"…지하철 무임승차 연령 70세 상향에...",
+        "url": "https://view.asiae.co.kr/article/2026082608522585022",
+        "source": "",
+        "group": "증권",
+        "keyword": "상향"
+      }
+    ],
+    "증권:하향": [
+      {
+        "title": "송도 랜드마크 타워 높이 하향…'국내 2위' 결국 무산",
+        "url": "https://www.youthdaily.co.kr/news/article.html?no=225704",
+        "source": "",
+        "group": "증권",
+        "keyword": "하향"
+      }
+    ],
+    "증권:리포트": [
+      {
+        "title": "[모닝 리포트] \"한화, 재상장 후 저평가 구간\"",
+        "url": "https://www.newspim.com/news/view/20260826000133",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
+      },
+      {
+        "title": "[모닝 리포트] 한국단자, 상반기 수익성 주춤…\"2027년 회복, 목표가 9만...",
+        "url": "https://www.newspim.com/news/view/20260826000122",
+        "source": "",
+        "group": "증권",
+        "keyword": "리포트"
+      }
+    ],
+    "증권:JP모건": [
+      {
+        "title": "JP모건 \"스페이스X(SPCX), 75% 더 뛴다\"...목표주가 '240달러'",
+        "url": "http://coinreaders.com/254838",
+        "source": "",
+        "group": "증권",
+        "keyword": "JP모건"
+      }
+    ],
+    "증권:코스피": [
+      {
+        "title": "코스피 4거래일째 기타법인 1조원대 매수세…정체는",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431793",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      },
+      {
+        "title": "코스피 반등에 갈린 외신…\"레버리지 과열 해소\" vs \"여전히 높은 변동...",
+        "url": "https://www.raonnews.com/news/article.html?no=60572",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스피"
+      }
+    ],
+    "증권:코스닥": [
+      {
+        "title": "어피닛, 코스닥 상장예비심사 청구…IPO 절차 착수",
+        "url": "https://view.asiae.co.kr/article/2026082608581746274",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      },
+      {
+        "title": "핀테크 기업 어피닛, 코스닥 상장예비심사 청구…IPO 절차 착수",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02761766645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      },
+      {
+        "title": "‘인도 핀테크’ 어피닛, 코스닥 상장 나선다…상반기 영업익 79%↑",
+        "url": "https://www.hankyung.com/article/202608262979i",
+        "source": "",
+        "group": "증권",
+        "keyword": "코스닥"
+      }
+    ],
+    "증권:나스닥": [
+      {
+        "title": "중동 긴장 완화에 반도체 반등... 나스닥 0.66%↑ [뉴욕증시]",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1406009",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      },
+      {
+        "title": "뉴욕증시, 美 국채 금리 하락·반도체주 반등에 '상승'…나스닥 0.66% ↑",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690065.html",
+        "source": "",
+        "group": "증권",
+        "keyword": "나스닥"
+      }
+    ],
+    "국채금리:국채": [
+      {
+        "title": "뉴욕증시 3대 지수 일제히 상승…반도체주 강세·국채금리 하락",
+        "url": "https://www.sentv.co.kr/article/view/sentv202608260007",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      },
+      {
+        "title": "뉴욕증시, 반도체주 반등·국채금리 하락에 일제히 상승",
+        "url": "https://biz.sbs.co.kr/article_hub/20000330776?division=NAVER",
+        "source": "",
+        "group": "국채금리",
+        "keyword": "국채"
+      }
+    ],
+    "주식:수주": [
+      {
+        "title": "케이조선, 중형 석유화학제품운반선 6척 수주…5100억 규모",
+        "url": "https://www.fnnews.com/news/202608260857245004",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      },
+      {
+        "title": "스카이월드와이드, LG유플러스 NRAP 고도화 수주",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02771606645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "주식",
+        "keyword": "수주"
+      }
+    ],
+    "주식:배당": [
+      {
+        "title": "한국투자신탁운용, 인컴ETF모으기월배당펀드 첫 월분배",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480543",
+        "source": "",
+        "group": "주식",
+        "keyword": "배당"
+      }
+    ],
+    "주식:자사주": [
+      {
+        "title": "디에스엠, 김종석 대표 자사주 9950주 장내매수…\"매출 목표 600억 상향...",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02751926645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      },
+      {
+        "title": "디에스엠, 연매출 600억 상향… 대표이사 자사주 약 1만주 장내매수",
+        "url": "https://www.newspim.com/news/view/20260826000153",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      },
+      {
+        "title": "HD한국조선해양, 계열사 순현금 7.7조… \"자사주 매입 유인 커져\"",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=348425",
+        "source": "",
+        "group": "주식",
+        "keyword": "자사주"
+      }
+    ],
+    "주식:신고가": [
+      {
+        "title": "서초구 '메이플자이' 41평, 11억 오른 78억원에 거래 [일일 신고가]",
+        "url": "https://www.fntimes.com/html/view.php?ud=202608260842145361048b718333_18",
+        "source": "",
+        "group": "주식",
+        "keyword": "신고가"
+      }
+    ],
+    "주식:실적발표": [
+      {
+        "title": "엔비디아, 26일 2분기 실적발표...중국·루빈·HBM 계획 주목",
+        "url": "http://www.inews24.com/view/1998269",
+        "source": "",
+        "group": "주식",
+        "keyword": "실적발표"
+      }
+    ]
+  }
 }
